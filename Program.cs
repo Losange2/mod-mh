@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Text.Json;
 using System.Text.Json.Nodes;
@@ -793,17 +793,17 @@ class Program
             {"Mizutsune violet", 594}, {"Magnamalo", 89}, {"Bishaten", 90},
             {"Aknosom", 91}, {"Tetranadon", 92}, {"Somnacanth", 93},
             {"Rakna-Kadaki", 94}, {"Almudron", 95}, {"Ibushi", 96},
-            {"Goss Harag", 97}, {"Grand Izuchi", 98}, {"Narwa", 99},
+            {"Goss Harag", 97}, {"Grand Izuchi", 98},
             {"Anjanath", 100}, {"Pukei-Pukei", 102}, {"Kulu-Ya-Ku", 107},
             {"Jyuratodus", 108}, {"Tobi-Kadachi", 109}, {"Bazelgeuse", 118},
             {"Velkhana", 124}, {"Toadversary", 131}, {"Malzeno", 132},
-            {"Lunagaron", 133}, {"Garangolm", 134}, {"Gaismagorm", 135},
+            {"Lunagaron", 133}, {"Garangolm", 134},
             {"Espinas", 136}, {"Espinas de feu", 392}, {"Bishaten sanguin", 346},
             {"Somnacanth aurore", 349}, {"Rakna-Kadaki de feu", 350},
             {"Almudron magma", 351}, {"Rathian d'or", 513},
             {"Rathalos d'argent", 514}, {"Nargacuga lucent", 549},
             {"Rajang orage", 1303}, {"Valstrax écarlate", 1366},
-            {"Magnamalo enragé", 1369}, {"Narwa the Allmother", 1379},
+            {"Magnamalo enragé", 1369},
             {"Bazelgeuse vulcan", 1398}, {"Malzeno primordial", 1412},
             {"Apex Rathian", 1793}, {"Apex Rathalos", 1794},
             {"Apex Diablos", 1799}, {"Apex Zinogre", 1849},
@@ -1182,7 +1182,7 @@ class Program
             {60140, (21240, 640, 1440)},
             {60141, (18000, 360, 1330)},
             {60142, (14040, 290, 1000)},
-            {60143, (3600, 80, 260)},
+            {60143, (3600, 80, 260)}, 
             {60144, (0, 0, 1160)},
             {60145, (18000, 360, 1130)},
             {60146, (23040, 1500, 1400)},
