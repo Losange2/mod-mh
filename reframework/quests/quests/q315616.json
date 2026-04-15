@@ -1,0 +1,350 @@
+{
+  "QuestID": 315616,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u6012\u6D9B\u306E\u7406\u4E0D\u5C3D",
+        "Client": "\u30CB\u30D2\u30EB\u306A\u30D0\u30FC\u30C6\u30F3\u30C0\u30FC",
+        "Description": "\u7406\u4E0D\u5C3D\u306B\u6012\u3089\u308C\u308B\u3053\u3068\u3063\u3066\u3042\u308B\u3088\r\n\u306A\u3002\u3060\u3051\u3069\u305D\u308C\u304C\u4EBA\u9593\u304B\u3089\u306A\u3089\u3001\r\n\u7121\u8996\u3057\u3066\u3084\u308C\u3070\u3044\u3044\u3002\u3060\u3051\u3069\u3001\r\n\u30E9\u30FC\u30B8\u30E3\u30F3\u304B\u3089\u306A\u3089\u8A71\u306F\u5225\u3060\u3002\r\n\u62E0\u70B9\u3060\u3063\u3066\u3076\u3063\u58CA\u3055\u308C\u3061\u307E\u3046\u3002\r\n\u983C\u3080\u305C\u3002\u3068\u3063\u3066\u304A\u304D\u306E\uFF11\u676F\u3001\r\n\u304A\u3054\u3089\u305B\u3066\u3082\u3089\u3046\u304B\u3089\u3088\u3002",
+        "Target": "\u6FC0\u6602\u3057\u305F\u30E9\u30FC\u30B8\u30E3\u30F3\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Unreasonable Rage",
+        "Client": "Fatalistic Barkeep",
+        "Description": "We all get burned from time to\r\ntime... And if it\u0027s someone you\r\nlove doing it, you can just turn\r\nthe other cheek. But we\u0027re talkin\u0027\r\nabout a Rajang here. And if you\r\ndon\u0027t do something about it, all\r\nour cheeks are gonna get burned!",
+        "Target": "Hunt a Furious Rajang",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Rage non justifi\u00E9e",
+        "Client": "Tavernier fataliste",
+        "Description": "\u00C7a arrive \u00E0 tout le monde de\r\nse faire mal de temps \u00E0 autre,\r\npas vrai ? Et si on nous fait\r\nmal, on passe outre, mais avec\r\nun Rajang, c\u0027est une autre\r\nhistoire. Il va tous nous\r\nd\u00E9truire si tu nous aides pas !",
+        "Target": "Chasser un Rajang orage",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Furia irragionevole",
+        "Client": "Gestore di bar fatalista",
+        "Description": "Ogni tanto a tutti capita di\r\nvenire scottati ingiustamente,\r\nno? Se \u00E8 una persona a farlo,\r\nsi pu\u00F2 lasciar perdere, ma se\r\n\u00E8 un Rajang, allora \u00E8 tutta\r\nun\u0027altra storia. L\u0027intera base\r\nverr\u00E0 distrutta! Devi aiutarci!",
+        "Target": "Caccia un Rajang furioso",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Ungeb\u00FChrliche Rage",
+        "Client": "Fatalistischer Barkeeper",
+        "Description": "Wir alle erleiden gelegentlich\r\nunfaire Niederlagen, oder?\r\nUnd manchmal kann man dar\u00FCber\r\nhinwegsehen. Aber hier haben\r\nwir es mit einem Rajang zu tun!\r\nWir m\u00FCssen was unternehmen,\r\nsonst macht er uns die H\u00F6lle hei\u00DF!",
+        "Target": "Erjage einen Zornigen Rajang.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Locura desmedida",
+        "Client": "Camarero pesimista",
+        "Description": "Todos terminamos un poco quemados\r\nde vez en cuando, \u00BFno? Y si es por\r\nculpa de un ser querido, se puede\r\nperdonar... \u00A1pero en este caso es\r\nun Rajang! \u00A1Como no nos ayudes,\r\nno nos perdonar\u00E1 ni la vida!",
+        "Target": "Caza un Rajang Rabioso",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041D\u0435\u0441\u043F\u0440\u0430\u0432\u0435\u0434\u043B\u0438\u0432\u044B\u0439 \u0433\u043D\u0435\u0432",
+        "Client": "\u0422\u0440\u0430\u043A\u0442\u0438\u0440\u0449\u0438\u043A-\u0444\u0430\u0442\u0430\u043B\u0438\u0441\u0442",
+        "Description": "\u041F\u043E\u0440\u043E\u0439 \u0432\u0441\u0435 \u043C\u044B \u043F\u043E\u043F\u0430\u0434\u0430\u0435\u043C \u043F\u043E\u0434\r\n\u0433\u043E\u0440\u044F\u0447\u0443\u044E \u0440\u0443\u043A\u0443, \u043F\u0440\u0430\u0432\u0434\u0430? \u0415\u0441\u043B\u0438 \u044D\u0442\u043E\r\n\u0434\u0435\u043B\u0430\u0435\u0442 \u0447\u0435\u043B\u043E\u0432\u0435\u043A, \u043F\u0440\u043E\u0441\u0442\u043E\r\n\u043F\u043E\u0434\u0441\u0442\u0430\u0432\u044C \u0434\u0440\u0443\u0433\u0443\u044E \u0449\u0435\u043A\u0443. \u041D\u043E \u0441\r\n\u0420\u0430\u044F\u043D\u0433\u043E\u043C \u0442\u0430\u043A\u043E\u0439 \u043D\u043E\u043C\u0435\u0440 \u043D\u0435\r\n\u043F\u0440\u043E\u0439\u0434\u0435\u0442. \u041E\u043D \u0443\u043D\u0438\u0447\u0442\u043E\u0436\u0438\u0442 \u0432\u0441\u044E\r\n\u0431\u0430\u0437\u0443! \u0422\u044B \u003CLSNR {\u0434\u043E\u043B\u0436\u0435\u043D} {\u0434\u043E\u043B\u0436\u043D\u0430}\u003E \u043F\u043E\u043C\u043E\u0447\u044C!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0412\u0437\u0431\u0435\u0448\u0435\u043D\u043D\u043E\u0433\u043E \u0420\u0430\u044F\u043D\u0433\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Niedorzeczna w\u015Bciek\u0142o\u015B\u0107",
+        "Client": "Fatalistyczny barman",
+        "Description": "Ka\u017Cdy czasem niesprawiedliwe\r\njest grillowany, co nie?\r\nJe\u015Bli robi to cz\u0142owiek,\r\nmo\u017Cna nadstawi\u0107 drugi policzek.\r\nAle Rajang to zupe\u0142nie inna\r\nhistoria. Zniszczy ca\u0142\u0105 baz\u0119!\r\nMusisz nam pom\u00F3c!",
+        "Target": "Upoluj W\u015Bciek\u0142ego Rajanga",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "F\u00FAria Irracional",
+        "Client": "Gar\u00E7om Fatalista",
+        "Description": "Todo mundo fica meio chamuscado\r\ninjustamente de vez em quando,\r\nn\u00E9? E se \u00E9 uma pessoa fazendo\r\nisso, d\u00E1 pra dar a outra face.\r\nMas se \u00E9 um Rajang, \u00E9 outra\r\nhist\u00F3ria. A base toda ser\u00E1\r\ndestru\u00EDda! Voc\u00EA tem que ajudar!",
+        "Target": "Cace um Rajang Furioso",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uBD88\uD569\uB9AC\uD55C \uBD84\uB178",
+        "Client": "\uD5C8\uBB34\uC8FC\uC758 \uBC14\uD150\uB354",
+        "Description": "\uBD88\uD569\uB9AC\uD558\uAC8C \uD63C\uB0A0 \uB54C\uAC00 \uC788\uC9C0.\r\n\uC778\uAC04\uC774 \uADF8\uB7F0 \uAC70\uB77C\uBA74 \uBB34\uC2DC\uD558\uBA74\r\n\uADF8\uB9CC\uC774\uC9C0\uB9CC \uADF8\uAC8C\r\n\uB77C\uC794\uC774\uB77C\uBA74 \uC598\uAE30\uAC00 \uB2EC\uB77C\uC9C0\uC9C0.\r\n\uAC70\uC810\uAE4C\uC9C0 \uD30C\uAD34\uB420\uC9C0\uB3C4 \uBAB0\uB77C.\r\n\uBD80\uD0C1\uD55C\uB2E4. \uC544\uAEF4 \uB454 \uC220\uC744 \uD55C \uC794\r\n\uB098\uB220 \uC904\uAC8C.",
+        "Target": "\uACA9\uC559 \uB77C\uC794 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6012\u6FE4\u7684\u7121\u7406\u53D6\u9B27",
+        "Client": "\u51B7\u9177\u7684\u8ABF\u9152\u5E2B",
+        "Description": "\u66FE\u7D93\u6709\u4EBA\u7121\u7406\u5730\u9077\u6012\u65BC\u6211\uFF0C\r\n\u4E0D\u904E\u4EBA\u985E\u7684\u8A71\u53EA\u8981\u7121\u8996\u5C31\u597D\u3002\r\n\u4F46\u82E5\u60F9\u5230\u91D1\u7345\u5B50\u53EF\u5C31\u5B8C\u5168\u4E0D\u540C\u4E86\u3002\r\n\u6574\u500B\u64DA\u9EDE\u53EF\u80FD\u90FD\u6703\u88AB\u7260\u9023\u6839\u62D4\u8D77\u3002\r\n\u9019\u4EF6\u4E8B\u9EBB\u7169\u4F60\u8655\u7406\u4E86\uFF0C\u4E8B\u6210\u5F8C\r\n\u6211\u6703\u4EE5\u4E00\u676F\u73CD\u85CF\u7684\u7F8E\u9152\u62DB\u5F85\u4F60\u3002",
+        "Target": "\u72E9\u73751\u982D\u6FC0\u6602\u91D1\u7345\u5B50",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6012\u6D9B\u822C\u7684\u86EE\u4E0D\u8BB2\u7406",
+        "Client": "\u51B7\u9177\u7684\u9152\u4FDD",
+        "Description": "\u6709\u65F6\u4F1A\u56E0\u86EE\u4E0D\u8BB2\u7406\u7684\u4E3E\u52A8\u751F\u6C14\u5427\u3002\r\n\u5982\u679C\u5BF9\u65B9\u662F\u4EBA\u7C7B\uFF0C\u5F53\u6CA1\u770B\u5230\u5C31\u884C\uFF0C\r\n\u4F46\u662F\u91D1\u72EE\u5B50\u5C31\u53E6\u5F53\u522B\u8BBA\u4E86\u3002\u5B83\u8FDE\u636E\r\n\u70B9\u90FD\u4F1A\u7834\u574F\u3002\u9EBB\u70E6\u4F60\u4E86\u3002\u6211\u4F1A\u628A\u538B\r\n\u7BB1\u5E95\u7684\u597D\u9152\u62FF\u51FA\u6765\uFF0C\u8BF7\u4F60\u559D\u4E00\u676F\u3002",
+        "Target": "\u72E9\u730E1\u5934\u6FC0\u6602\u91D1\u72EE\u5B50",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u063A\u0636\u0628 \u063A\u064A\u0631 \u0627\u0644\u0645\u0646\u0637\u0642\u064A",
+        "Client": "\u0646\u0627\u062F\u0644 \u0627\u0644\u0623\u0642\u062F\u0627\u0631",
+        "Description": "\u0643\u0646\u0651\u064E\u0627 \u0646\u064F\u062D\u0631\u0642 \u0638\u0644\u0645\u064B\u0627\r\n\u0645\u0646 \u0648\u0642\u062A \u0644\u0622\u062E\u0631\u060C \u0623\u0644\u064A\u0633 \u0643\u0630\u0644\u0643\u061F\r\n\u0648\u0625\u0630\u0627 \u0643\u0627\u0646 \u0634\u062E\u0635 \u0645\u0627 \u0647\u0648 \u0627\u0644\u0645\u0633\u0626\u0648\u0644 \u0639\u0646 \u0630\u0644\u0643\u060C\r\n\u0641\u0643\u0644 \u0645\u0627 \u064A\u0645\u0643\u0646\u0643 \u0641\u0639\u0644\u0647 \u0641\u0642\u0637 \u0647\u0648 \u062A\u0642\u0628\u0651\u064F\u0644 \u0627\u0644\u0623\u0645\u0631.\r\n\u0644\u0643\u0646 \u0631\u0627\u062C\u0627\u0646\u062C \u0642\u0635\u0629 \u0623\u062E\u0631\u0649.\r\n\u0633\u064A\u062A\u0645 \u062A\u062F\u0645\u064A\u0631 \u0627\u0644\u0642\u0627\u0639\u062F\u0629 \u0628\u0623\u0643\u0645\u0644\u0647\u0627!\r\n\u0639\u0644\u064A\u0643 \u0623\u0646 \u062A\u0642\u062F\u0651\u0650\u0645 \u064A\u062F \u0627\u0644\u0639\u0648\u0646!",
+        "Target": "\u0627\u0635\u0637\u062F \u0631\u0627\u062C\u0627\u0646\u062C \u063A\u0627\u0636\u0628",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 5,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      22,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      89,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 89,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1369,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 132,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 514,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 32,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 350,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 32760,
+      "Points": 660,
+      "HRP": 1800
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      22,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 20,
+      "HealthTable": 132,
+      "AttackTable": 132,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

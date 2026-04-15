@@ -1,0 +1,350 @@
+{
+  "QuestID": 60107,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u6CE5\u306E\u7FC1\u3068\u30DD\u30C3\u30D7\u30AB\u30EB\u30C1\u30E3\u30FC",
+        "Client": "\u52A0\u5DE5\u5C4B\u306E\u30CF\u30E2\u30F3",
+        "Description": "\u4EA4\u6613\u7A93\u53E3\u306E\u30ED\u30F3\u30C7\u30A3\u30FC\u30CD\u304C\u3001\r\n\u7570\u56FD\u306E\u82E5\u8005\u306B\u6D41\u884C\u306E\u8863\u670D\u3092\u898B\u305B\u3066\r\n\u304F\u308C\u305F\u306E\u3060\u304C\u2026\u9762\u5996\u306A\u3001\u771F\u3063\u9ED2\u306E\r\n\u30B9\u30C6\u30C6\u30B3\u3067\u306A\u3002\u3075\u3045\u3080\u3001\u5B9F\u7528\u6027\u306F\r\n\u308F\u304B\u3089\u3093\u304C\u8010\u4E45\u529B\u306F\u3042\u308A\u305D\u3046\u3060\u3002\r\n\u3053\u306E\u4F9D\u983C\u3092\u9054\u6210\u3067\u304D\u308C\u3070\u3001\u751F\u7523\u306B\r\n\u5FC5\u8981\u306A\u7D20\u6750\u3092\u8B72\u3063\u3066\u3084\u308D\u3046\u3002",
+        "Target": "\u30AA\u30ED\u30DF\u30C9\u30ED\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Almudron: Fashion Victim",
+        "Client": "Hamon the Blacksmith",
+        "Description": "Rondine showed me a pair of\r\ntight pants from some far-off\r\ncountry. I don\u0027t know fashion,\r\nbut I know a pair of sturdy\r\npants when I see \u0027em! Complete\r\nmy request, and I\u0027ll give you\r\nthe materials to forge \u0027em.",
+        "Target": "Hunt an Almudron",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Almudron, victime de la mode",
+        "Client": "Hamon le forgeron",
+        "Description": "Rondine m\u0027a montr\u00E9 un dr\u00F4le de\r\npantalon d\u0027un pays \u00E9tranger.\r\nJ\u0027y connais rien \u00E0 la mode,\r\nmais ce pantalon, c\u0027\u00E9tait du\r\nsolide ! Occupe-toi de ma\r\nrequ\u00EAte et je te donnerai le\r\nmat\u00E9riel pour le forger.",
+        "Target": "Chasser un Almudron",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Almudron, vittima della moda",
+        "Client": "Hamon il fabbro",
+        "Description": "Rondine mi ha mostrato un paio\r\ndi pantaloni molto attillati da\r\nuna terra lontana. Non me ne\r\nintendo di moda, ma so\r\nriconoscere dei pantaloni\r\nresistenti! Aiutami e ti dar\u00F2\r\ni materiali per crearli.",
+        "Target": "Caccia un Almudron",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Almudron: Modeopfer",
+        "Client": "Hamon der Schmied",
+        "Description": "Rondine hat mir eine Hose aus\r\neinem fernen Land gezeigt. Von\r\nMode hab ich keine Ahnung,\r\naber die Hose sah echt robust\r\naus! Erf\u00FClle meine Bitte, dann\r\ngebe ich dir die Materialien\r\nf\u00FCr die Hose.",
+        "Target": "Erjage einen Almudron.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Almudron, v\u00EDctima de la moda",
+        "Client": "Hamon el herrero",
+        "Description": "Rondine me ha ense\u00F1ado unos\r\npantalones ce\u00F1idos de un pa\u00EDs\r\nlejano. No s\u00E9 de moda, \u00A1pero\r\ns\u00E9 reconocer unos pantalones\r\nresistentes! Si completas mi\r\npetici\u00F3n, te doy lo necesario\r\npara que los puedas forjar.",
+        "Target": "Caza un Almudron",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0410\u043B\u043C\u0443\u0434\u0440\u043E\u043D: \u0436\u0435\u0440\u0442\u0432\u0430 \u043C\u043E\u0434\u044B",
+        "Client": "\u041A\u0443\u0437\u043D\u0435\u0446 \u0425\u0430\u043C\u043E\u043D",
+        "Description": "\u0420\u043E\u043D\u0434\u0438\u043D\u0430 \u043F\u043E\u043A\u0430\u0437\u0430\u043B\u0430 \u043C\u043D\u0435 \u043F\u0430\u0440\u0443\r\n\u043E\u0431\u043B\u0435\u0433\u0430\u044E\u0449\u0438\u0445 \u0448\u0442\u0430\u043D\u043E\u0432 \u0438\u0437 \u0434\u0430\u043B\u0435\u043A\u0438\u0445\r\n\u0441\u0442\u0440\u0430\u043D. \u041D\u0435 \u0440\u0430\u0437\u0431\u0438\u0440\u0430\u044E\u0441\u044C \u0432 \u043C\u043E\u0434\u0435,\r\n\u043D\u043E \u0441\u0440\u0430\u0437\u0443 \u043F\u043E\u043D\u044F\u043B, \u0447\u0442\u043E \u043E\u043D\u0438\r\n\u043F\u0440\u043E\u0447\u043D\u044B\u0435! \u0412\u044B\u043F\u043E\u043B\u043D\u0438 \u043C\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u2014\r\n\u0438 \u044F \u0434\u0430\u043C \u0442\u0435\u0431\u0435 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B, \u0447\u0442\u043E\u0431\u044B\r\n\u0438\u0445 \u0432\u044B\u043A\u043E\u0432\u0430\u0442\u044C.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0410\u043B\u043C\u0443\u0434\u0440\u043E\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Almudron, ofiara mody",
+        "Client": "Kowal Hamon",
+        "Description": "Rondine pokaza\u0142a mi par\u0119\r\nw\u0105skich spodni z dalekich\r\nstron. Nie znam si\u0119 na modzie,\r\nale wiem, co to solidne\r\nspodnie! Uko\u0144cz moje zlecenie,\r\na dam ci materia\u0142 na wykucie\r\nczego\u015B takiego.",
+        "Target": "Upoluj Almudrona",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Almudron: V\u00EDtima da Moda",
+        "Client": "Hamon, o ferreiro",
+        "Description": "Rondine me mostrou um par de\r\ncal\u00E7as justas de um pa\u00EDs\r\ndistante. Eu n\u00E3o entendo de\r\nmoda, mas conhe\u00E7o uma boa cal\u00E7a\r\nquando vejo! Complete meu\r\npedido e vou te dar materiais\r\npra fabric\u00E1-la.",
+        "Target": "Cace um Almudron",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC9C4\uD759 \uB178\uC778\uACFC \uB300\uC911\uBB38\uD654",
+        "Client": "\uAC00\uACF5\uC810\uC758 \uD558\uBAAC",
+        "Description": "\uAD50\uC5ED\uCC3D\uAD6C\uC758 \uB860\uB514\uB124\uAC00\r\n\uC774\uAD6D\uC758 \uC80A\uC740\uC774\uB4E4 \uC0AC\uC774\uC5D0 \uC720\uD589\uD558\uB294 \uC637\uC744\r\n\uBCF4\uC5EC\uC92C\uB2E4\uB9CC\u2026 \uAE30\uAD34\uD558\uAC8C \uC0DD\uAE34\r\n\uC0C8\uAE4C\uB9CC \uCE60\uBD80\uBC14\uC9C0\uC600\uB2E4. \uC2E4\uC6A9\uC131\uC740\r\n\uBAB0\uB77C\uB3C4 \uB0B4\uAD6C\uB825\uC740 \uC88B\uC544 \uBCF4\uC600\uC9C0.\r\n\uC774 \uC758\uB8B0\uB97C \uB2EC\uC131\uD558\uBA74 \uC0DD\uC0B0\uC5D0\r\n\uD544\uC694\uD55C \uC18C\uC7AC\uB97C \uB098\uB220 \uC8FC\uACA0\uB124.",
+        "Target": "\uC624\uB85C\uBBF8\uB3C4\uB85C 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6CE5\u7FC1\u8207\u6D41\u884C\u6587\u5316",
+        "Client": "\u52A0\u5DE5\u5E97\u5200\u7D0B",
+        "Description": "\u4EA4\u6613\u7A97\u53E3\u9686\u8482\u5C3C\u8B93\u8001\u592B\u770B\u4E86\r\n\u5728\u7570\u570B\u5E74\u8F15\u4EBA\u4E4B\u9593\u6D41\u884C\u7684\u670D\u88DD\u2026\u2026\r\n\u662F\u7A2E\u5947\u7279\u7684\u7D14\u9ED1\u4E03\u5206\u8932\u3002\r\n\u96D6\u7136\u8001\u592B\u4E0D\u78BA\u5B9A\u5B83\u7684\u5BE6\u7528\u6027\u5982\u4F55\uFF0C\r\n\u4F46\u770B\u8D77\u4F86\u61C9\u8A72\u633A\u8010\u7A7F\u7684\u3002\r\n\u53EA\u8981\u4F60\u9054\u6210\u9019\u500B\u59D4\u8A17\uFF0C\r\n\u6211\u5C31\u628A\u751F\u7522\u6240\u9700\u7684\u7D20\u6750\u7D66\u4F60\u3002",
+        "Target": "\u72E9\u73751\u982D\u6CE5\u7FC1\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6CE5\u7FC1\u4E0E\u6D41\u884C\u6587\u5316",
+        "Client": "\u52A0\u5DE5\u5546\u5200\u7EB9",
+        "Description": "\u4EA4\u6613\u7A97\u53E3\u7F57\u5FB7\u5A1C\u7ED9\u8001\u592B\u770B\u4E86\r\n\u5916\u56FD\u5E74\u8F7B\u4EBA\u4E4B\u95F4\u6D41\u884C\u7684\u670D\u9970\u2026\u2026\r\n\u662F\u6761\u5947\u602A\u7684\u9ED1\u8272\u4F11\u95F2\u88E4\u3002\r\n\u5514\uFF0C\u867D\u4E0D\u77E5\u662F\u5426\u5177\u5907\u5B9E\u7528\u6027\uFF0C\r\n\u4F46\u90A3\u88E4\u5B50\u4F3C\u4E4E\u76F8\u5F53\u7ED3\u5B9E\u5462\u3002\r\n\u82E5\u4F60\u80FD\u5B8C\u6210\u8FD9\u4E2A\u59D4\u6258\uFF0C\r\n\u8001\u592B\u5C31\u7ED9\u4F60\u751F\u4EA7\u5B83\u6240\u9700\u7684\u7D20\u6750\u3002",
+        "Target": "\u72E9\u730E1\u5934\u6CE5\u7FC1\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0623\u0644\u0645\u0648\u062F\u0631\u0648\u0646: \u0636\u062D\u064A\u0629 \u0627\u0644\u0645\u0648\u0636\u0629",
+        "Client": "\u0627\u0644\u062D\u062F\u0627\u062F \u0647\u0627\u0645\u0648\u0646",
+        "Description": "\u0623\u0631\u062A\u0646\u064A \u0631\u0648\u0646\u062F\u0627\u064A\u0646 \u0632\u0648\u062C\u064B\u0627 \u0645\u0646 \u0627\u0644\u0628\u0646\u0627\u0637\u064A\u0644\r\n\u0627\u0644\u0636\u064A\u0642\u0629 \u062C\u0644\u0628\u062A\u0647\u0645\u0627 \u0645\u0639\u0647\u0627 \u0645\u0646 \u0628\u0639\u0636\r\n\u0627\u0644\u0628\u0644\u0627\u062F \u0627\u0644\u0628\u0639\u064A\u062F\u0629. \u0644\u0633\u062A\r\n\u062E\u0628\u064A\u0631\u064B\u0627 \u0628\u0627\u0644\u0623\u0632\u064A\u0627\u0621\u060C \u0644\u0643\u0646\u0646\u064A \u0623\u0639\u0631\u0641\r\n\u0627\u0644\u0628\u0646\u0627\u0637\u064A\u0644 \u0627\u0644\u0645\u062A\u064A\u0646\u0629 \u0628\u0645\u062C\u0631\u062F\r\n\u0631\u0624\u064A\u062A\u0647\u0627! \u0623\u0643\u0645\u0644 \u0637\u0644\u0628\u064A\u060C \u0648\u0633\u0623\u0645\u0646\u062D\u0643\r\n\u0627\u0644\u0645\u0648\u0627\u062F \u0627\u0644\u0644\u0627\u0632\u0645\u0629 \u0644\u0635\u0646\u0627\u0639\u062A\u0647\u0627.",
+        "Target": "\u0635\u064A\u062F \u0623\u0644\u0645\u0648\u062F\u0631\u0648\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      8,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      131,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 131,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 14040,
+      "Points": 290,
+      "HRP": 1000
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      112,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 105,
+      "AttackTable": 87,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

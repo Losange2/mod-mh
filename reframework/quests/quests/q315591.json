@@ -1,0 +1,350 @@
+{
+  "QuestID": 315591,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u30AD\u30E5\u30EA\u30A2\u96C6\u7D50",
+        "Client": "\u738B\u56FD\u9A0E\u58EB\u30D5\u30A3\u30AA\u30EC\u2015\u30CD",
+        "Description": "\u57CE\u585E\u9AD8\u5730\u306B\u30AD\u30E5\u30EA\u30A2\u304C\u96C6\u7D50\u3057\u305F\r\n\u5F71\u97FF\u3067\u3001\u30EB\u30CA\u30AC\u30ED\u30F3\u306E\u69D8\u5B50\u304C\r\n\u304A\u304B\u3057\u3044\u305D\u3046\u3060\u3002\u8CB4\u6BBF\u306F\u30E4\u30C4\u3092\r\n\u72E9\u731F\u3057\u3001\u73FE\u5730\u306E\u5B89\u5168\u3092\u78BA\u4FDD\u3057\u3066\r\n\u307B\u3057\u3044\u3002\u79C1\u3082\u5225\u52D5\u968A\u3068\u5171\u306B\u8ABF\u67FB\u3092\r\n\u9032\u3081\u308B\u3002\u2026\u2026\u300C\u6DF1\u6DF5\u306E\u60AA\u9B54\u300D\u304B\u3002\r\n\u6CB9\u65AD\u305B\u305A\u306B\u3044\u304F\u305E\u3002",
+        "Target": "\u30EB\u30CA\u30AC\u30ED\u30F3\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Gathering of the Qurio",
+        "Client": "Dame Fiorayne",
+        "Description": "Our mission is to investigate the\r\nQurio gatherin\u0027 in the Citadel. We\r\nmust first hunt the Lunagaron to\r\nensure that the area is secure.\r\nHmph... Archdemon of the Abyss?\r\nLet\u0027s focus on the mission and\r\nsave the bedtime stories for later.",
+        "Target": "Hunt a Lunagaron",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Rassemblement de Qurio",
+        "Client": "Dame Fiorayne",
+        "Description": "La mission consiste \u00E0 enqu\u00EAter\r\nsur les Qurio rassembl\u00E9s \u00E0 la\r\nCitadelle. \u00C9limine le Lunagaron\r\net assure-toi qu\u0027il n\u0027y a\r\nplus de danger.\r\nL\u0027Archid\u00E9mon des Abysses ?\r\nOn l\u0027oublie pour le moment.",
+        "Target": "Chasser un Lunagaron",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Il raduno dei Qurio",
+        "Client": "Dama Fiorayne",
+        "Description": "Devi indagare sul raduno dei\r\nQurio alla cittadella. Caccia\r\nil Lunagaron e assicurati che\r\nl\u0027area sia sicura. L\u0027arcidemone\r\ndegli abissi? Lasciamolo stare\r\nper ora e cerchiamo di evitare\r\ni pericoli.",
+        "Target": "Caccia un Lunagaron",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Sammeln der Qurio",
+        "Client": "Fiorayne",
+        "Description": "Unsere Aufgabe ist es, die Qurio\r\nzu untersuchen, die sich in der\r\nZitadelle versammeln. Zuerst\r\nm\u00FCssen wir den Lunagaron jagen,\r\num das Gebiet zu sichern. Hm...\r\nErzd\u00E4mon aus der Tiefe? Konzen-\r\ntrieren wir uns auf die Mission!",
+        "Target": "Erjage einen Lunagaron.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "La reuni\u00F3n de los Qurio",
+        "Client": "Fiorayne",
+        "Description": "Esta misi\u00F3n es para investigar\r\nel c\u00FAmulo de Qurio en el Basti\u00F3n.\r\nPrimero caza al Lunagaron para\r\ndespejar la zona.\r\n\u00BFEl archidemonio del abismo?\r\nPor ahora, olvida esas historias\r\ny c\u00E9ntrate en la misi\u00F3n.",
+        "Target": "Caza un Lunagaron",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0421\u043B\u0435\u0442 \u041A\u0443\u0440\u0438\u043E",
+        "Client": "\u0420\u044B\u0446\u0430\u0440\u044C \u0424\u0438\u043E\u0440\u0430\u0439\u043D\u0430",
+        "Description": "\u042D\u0442\u043E \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u0430 \u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0435\r\n\u041A\u0443\u0440\u0438\u043E, \u0441\u043E\u0431\u0440\u0430\u0432\u0448\u0438\u0445\u0441\u044F \u0432 \u0426\u0438\u0442\u0430\u0434\u0435\u043B\u0438.\r\n\u0423\u0431\u0435\u0439 \u041B\u0443\u043D\u0430\u0433\u0430\u0440\u043E\u043D\u0430, \u0447\u0442\u043E\u0431\u044B \u043E\u0431\u0435\u0441\u043F\u0435-\r\n\u0447\u0438\u0442\u044C \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C \u043C\u0435\u0441\u0442\u043D\u043E\u0441\u0442\u0438.\r\n\u0410\u0440\u0445\u0438\u0434\u0435\u043C\u043E\u043D \u0438\u0437 \u0411\u0435\u0437\u0434\u043D\u044B? \u0414\u0430\u0432\u0430\u0439\r\n\u043F\u043E\u043A\u0430 \u043E \u043D\u0435\u043C \u0437\u0430\u0431\u0443\u0434\u0435\u043C \u0438 \u0437\u0430\u0439\u043C\u0435\u043C\u0441\u044F\r\n\u043D\u0430\u0441\u0443\u0449\u043D\u043E\u0439 \u043F\u0440\u043E\u0431\u043B\u0435\u043C\u043E\u0439.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u041B\u0443\u043D\u0430\u0433\u0430\u0440\u043E\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Gromada Qurio",
+        "Client": "Naukowiec Bahari",
+        "Description": "W tej misji nale\u017Cy zbada\u0107\r\ngromad\u0119 Qurio w Cytadeli.\r\nUpoluj Lunagarona i zabezpiecz\r\nteren. Arcydemon Otch\u0142ani? Nie,\r\nzapomnij o tym i skup si\u0119\r\nna prze\u017Cyciu.",
+        "Target": "Upoluj Lunagarona",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Reuni\u00E3o de Qurio",
+        "Client": "Bahari, o Cientista",
+        "Description": "V\u00E1 investigar os Qurio que se\r\nre\u00FAnem no Forte. Cace o\r\nLunagaron e limpe a \u00E1rea. O\r\nArquidem\u00F4nio do Abismo? Vamos\r\nesquecer isso e cuidar\r\nda nossa seguran\u00E7a primeiro.",
+        "Target": "Cace um Lunagaron",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD050\uB9AC\uC544 \uC9D1\uACB0",
+        "Client": "\uC655\uAD6D\uAE30\uC0AC \uD53C\uC624\uB808\uB124",
+        "Description": "\uC694\uC0C8\uACE0\uC6D0\uC5D0 \uD050\uB9AC\uC544\uAC00 \uBAA8\uC778\r\n\uC601\uD5A5\uC73C\uB85C \uB8E8\uB098\uAC00\uB860\uC758 \uC0C1\uD0DC\uAC00\r\n\uC774\uC0C1\uD558\uB2E4\uACE0 \uD55C\uB2E4. \uADC0\uACF5\uC740\r\n\uB140\uC11D\uC744 \uC0AC\uB0E5\uD574\uC11C \uD604\uC9C0 \uC548\uC804\uC744\r\n\uD655\uBCF4\uD574 \uC918. \uB098\uB3C4 \uBCC4\uB3D9\uB300\uC640 \uD568\uAED8\r\n\uC870\uC0AC\uB97C \uC9C4\uD589\uD558\uC9C0.\u300C\uC2EC\uC5F0\uC758 \uC545\uB9C8\u300D\uB77C.\r\n\uBC29\uC2EC\uD558\uC9C0 \uC54A\uB294 \uAC8C \uC88B\uACA0\uC5B4.\r\n",
+        "Target": "\uB8E8\uB098\uAC00\uB860 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u96C6\u7D50\u7684\u566C\u751F\u87F2",
+        "Client": "\u738B\u570B\u9A0E\u58EB\u83F2\u6B50\u8389\u5C3C",
+        "Description": "\u566C\u751F\u87F2\u96C6\u7D50\u65BC\u57CE\u585E\u9AD8\u5730\uFF0C\r\n\u4EE4\u51B0\u72FC\u9F8D\u6709\u4E9B\u4E0D\u5C0B\u5E38\u3002\r\n\u5E0C\u671B\u4F60\u80FD\u72E9\u7375\u51B0\u72FC\u9F8D\uFF0C\r\n\u78BA\u4FDD\u8A72\u5730\u7684\u5B89\u5168\u3002\u6211\u4E5F\u6703\r\n\u548C\u5206\u968A\u4E00\u8D77\u8ABF\u67E5\u3002\r\n\u2026\u2026\u6703\u662F\u300C\u6DF1\u6DF5\u60E1\u9B54\u300D\u55CE\uFF1F\r\n\u8A18\u5F97\u52D9\u5FC5\u614E\u91CD\u884C\u52D5\u3002",
+        "Target": "\u72E9\u73751\u982D\u51B0\u72FC\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u556E\u751F\u866B\u6C47\u96C6",
+        "Client": "\u738B\u56FD\u9A91\u58EB\u83F2\u5965\u83B1\u5A1C",
+        "Description": "\u556E\u751F\u866B\u90FD\u6C47\u96C6\u5728\u57CE\u585E\u9AD8\u5730\uFF0C\u53D7\u5176\u5F71\r\n\u54CD\uFF0C\u51B0\u72FC\u9F99\u7684\u6A21\u6837\u6709\u70B9\u602A\u3002\u8BF7\u4F60\u53BB\r\n\u72E9\u730E\u5B83\uFF0C\u4FDD\u969C\u90A3\u91CC\u7684\u5B89\u5168\u3002\u6211\u4E5F\u4F1A\r\n\u548C\u5176\u4ED6\u90E8\u961F\u4E00\u540C\u8FDB\u884C\u8C03\u67E5\u2026\u2026\r\n\u201C\u6DF1\u6E0A\u6076\u9B54\u201D\u5417\u2026\u2026\u5207\u8BB0\u614E\u91CD\u884C\u4E8B\u3002",
+        "Target": "\u72E9\u730E1\u5934\u51B0\u72FC\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u062A\u062C\u0645\u0639 \u0627\u0644\u0643\u0648\u0631\u064A\u0648",
+        "Client": "\u0627\u0644\u0633\u064A\u062F\u0629 \u0641\u064A\u0648\u0631\u0627\u064A\u0646",
+        "Description": "\u062A\u062A\u0645\u062B\u0644 \u0647\u0630\u0647 \u0627\u0644\u0645\u0647\u0645\u0629 \u0641\u064A \u0627\u0644\u062A\u062D\u0642\u064A\u0642\r\n\u0641\u064A \u062A\u062C\u0645\u0639 \u0627\u0644\u0643\u0648\u0631\u064A\u0648\r\n\u0641\u064A \u0627\u0644\u0642\u0644\u0639\u0629. \u0627\u0635\u0637\u062F \u0644\u0648\u0646\u0627\u062C\u0627\u0631\u0648\u0646\u060C\r\n\u0648\u062A\u0623\u0643\u062F \u0645\u0646 \u0623\u0646 \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0622\u0645\u0646\u0629\r\n...\u0623\u0631\u0634\u062F\u064A\u0645\u0648\u0646 \u0627\u0644\u0647\u0627\u0648\u064A\u0629\u061F\r\n\u0644\u0646\u0646\u0633\u064E \u0630\u0644\u0643 \u0648\u0646\u0631\u0643\u0632 \u0639\u0644\u0649\r\n\u0627\u0644\u0628\u0642\u0627\u0621 \u0622\u0645\u0646\u064A\u0646.",
+        "Target": "\u0627\u0635\u0637\u062F \u0644\u0648\u0646\u0627\u062C\u0627\u0631\u0648\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 2,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      20,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      62,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 62,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 7,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 24,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1366,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1366,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 23400,
+      "Points": 470,
+      "HRP": 1180
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      19,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 12,
+      "HealthTable": 128,
+      "AttackTable": 130,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

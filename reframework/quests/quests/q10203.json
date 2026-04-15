@@ -1,0 +1,350 @@
+{
+  "QuestID": 10203,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u4E38\u5451\u307F\u529B\u58EB",
+        "Client": "\u96C6\u4F1A\u6240\u306E\u53D7\u4ED8\u5B22\u30DF\u30CE\u30C8",
+        "Description": "\u30B4\u30B3\u30AF\u69D8\u304C\u52D8\u9055\u3044\u3092\u3055\u308C\u3066\u3044\u3066\u3001\r\n\u72E9\u731F\u3057\u3066\u3044\u305F\u3060\u304F\u30E2\u30F3\u30B9\u30BF\u30FC\u304C\r\n\u6CB3\u7AE5\u86D9\u30E8\u30C4\u30DF\u30EF\u30C9\u30A6\u3060\u3068\u8A00\u3044\u3060\u3057\r\n\u306B\u304F\u304F\u306A\u3063\u3066\u3057\u307E\u3044\u307E\u3057\u305F\u2026\u3002\r\n\u3086\u3048\u306B\u3001\u3053\u306E\u4F9D\u983C\u66F8\u306F\u308F\u305F\u304F\u3057\u304C\r\n\u3053\u3063\u305D\u308A\u7528\u610F\u3057\u305F\u6B21\u7B2C\u3002\u305D\u308C\u3067\u306F\r\n\u72E9\u731F\u3092\u304A\u9858\u3044\u3044\u305F\u3057\u307E\u3059\u3002",
+        "Target": "\u30E8\u30C4\u30DF\u30EF\u30C9\u30A6\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Dead Ringer",
+        "Client": "Minoto the Hub Maiden",
+        "Description": "Me and my big mouth... I saw\r\na picture of a Tetranadon and\r\nblurted out \u0022It looks exactly\r\nlike Master Hojo!\u0022 He overheard\r\nme and now he thinks I was\r\ntalking about a Mizutsune! If he\r\nfinds out the truth, he\u0027ll croak!",
+        "Target": "Hunt a Tetranadon",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Portrait crach\u00E9",
+        "Client": "Minoto la r\u00E9ceptionniste",
+        "Description": "D\u00E9cid\u00E9ment, je devrais apprendre \u00E0\r\nme taire... J\u0027ai vu une photo de\r\nTetranadon et j\u0027ai pas pu m\u0027emp\u00EAcher\r\nde crier que \u00E7a ressemblait \u00E0 Ma\u00EEtre\r\nHojo ! Il m\u0027a entendu, mais il croit\r\nque je parlais d\u0027un Mizutsune ! Il\r\ndoit jamais apprendre la v\u00E9rit\u00E9 !",
+        "Target": "Chasser un Tetranadon",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "A caccia del sosia",
+        "Client": "Minoto la receptionist",
+        "Description": "Io e la mia boccaccia...\r\nHo visto l\u0027immagine di un\r\nTetranadon. D\u0027impulso ho detto\r\nche sembra il capo Hojo. Lui\r\nha sentito e ora pensa che mi\r\nriferissi a un Mizutsune. Se\r\nscopre la verit\u00E0, \u00E8 la fine!",
+        "Target": "Caccia un Tetranadon",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Doppelg\u00E4nger",
+        "Client": "Minoto das St\u00E4tten-M\u00E4del",
+        "Description": "Ich und mein gro\u00DFes Mundwerk...\r\nIch habe ein Bild von einem\r\nTetranadon gesehen und gesagt:\r\n\u0022Sieht aus wie Meister Hojo!\u0022 Er\r\nhat mich geh\u00F6rt und denkt, ich\r\nh\u00E4tte einen Mizutsune gemeint!\r\nWenn er das rausfindet... oje.",
+        "Target": "Erjage einen Tetranadon.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Dos gotas de agua",
+        "Client": "Minoto de la recepci\u00F3n",
+        "Description": "Yo y mi bocaza... Vi una foto\r\nde un Tetranadon y se me\r\nescap\u00F3 decir que se parec\u00EDa\r\nal maestro Hojo, con la mala\r\nsuerte de que lo escuch\u00F3 y\r\npens\u00F3 que me refer\u00EDa a un\r\nMizutsune. Como se entere...",
+        "Target": "Caza un Tetranadon",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041A\u0430\u043A \u0434\u0432\u0435 \u043A\u0430\u043F\u043B\u0438 \u0432\u043E\u0434\u044B",
+        "Client": "\u0420\u0430\u0437\u0434\u0430\u0442\u0447\u0438\u0446\u0430 \u0437\u0430\u0434\u0430\u043D\u0438\u0439 \u041C\u0438\u043D\u043E\u0442\u043E",
+        "Description": "\u041D\u0430\u0434\u043E \u0436 \u0431\u044B\u043B\u043E \u0442\u0430\u043A\u043E\u0435 \u0441\u0431\u043E\u043B\u0442\u043D\u0443\u0442\u044C...\r\n\u042F \u0443\u0432\u0438\u0434\u0435\u043B \u043F\u043E\u0440\u0442\u0440\u0435\u0442 \u0422\u0435\u0442\u0440\u0430\u043D\u0430\u0434\u043E\u043D\u0430\r\n\u0438 \u0441\u043A\u0430\u0437\u0430\u043B, \u0447\u0442\u043E \u043E\u043D \u2014 \u0442\u043E\u0447\u044C-\u0432-\u0442\u043E\u0447\u044C\r\n\u041C\u0430\u0441\u0442\u0435\u0440 \u0425\u043E\u0434\u0437\u0451. \u0410 \u043C\u0430\u0441\u0442\u0435\u0440 \u0443\u0441\u043B\u044B\u0448\u0430\u043B\r\n\u0438 \u0434\u0443\u043C\u0430\u0435\u0442, \u0447\u0442\u043E \u044F \u0433\u043E\u0432\u043E\u0440\u0438\u043B\r\n\u043E \u041C\u0438\u0434\u0437\u0443\u0446\u0443\u043D\u044D! \u0420\u0430\u0441\u0441\u0435\u0440\u0434\u0438\u0442\u0441\u044F \u0432\u0435\u0434\u044C,\r\n\u0435\u0441\u043B\u0438 \u043F\u0440\u0430\u0432\u0434\u0443 \u0443\u0437\u043D\u0430\u0435\u0442.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0422\u0435\u0442\u0440\u0430\u043D\u0430\u0434\u043E\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Martwy impostor",
+        "Client": "Szefowa Centrum Minoto",
+        "Description": "Ta moja niewyparzona g\u0119ba...\r\nZobaczy\u0142am zdj\u0119cie Tetranadona\r\ni paln\u0119\u0142am: \u201EWygl\u0105da zupe\u0142nie\r\njak Mistrz Hojo!\u201D. Us\u0142ysza\u0142 to\r\ni teraz my\u015Bli, \u017Ce m\u00F3wi\u0142am o\r\nMizutsune! Je\u015Bli zakumka...\r\nyyy... zakuma, b\u0119dzie fatalnie!",
+        "Target": "Upoluj Tetranadona",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "S\u00F3sia",
+        "Client": "Minoto, a dama da AdE",
+        "Description": "Eu e minha boca grande... Eu vi\r\na foto de um Tetranadon e deixei\r\nescapar \u0022Ele \u00E9 a cara do Mestre\r\nHojo!\u0022. Ele me ouviu e agora acha\r\nque eu tava falando de um Mizutsune!\r\nSe ele descobrir a verdade, vai\r\npular at\u00E9 o teto de raiva!",
+        "Target": "Cace um Tetranadon",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC9D1\uC5B4\uC0BC\uD0A4\uB294 \uCC9C\uD558\uC7A5\uC0AC",
+        "Client": "\uC9D1\uD68C\uC18C \uC811\uC218\uC6D0 \uBBF8\uB178\uD1A0",
+        "Description": "\uACE0\uCF54\uCFE0 \uB2D8\uC774 \uCC29\uAC01\uC744 \uD558\uC154\uC11C\r\n\uC0AC\uB0E5\uD574\uC57C \uB420 \uBAAC\uC2A4\uD130\uAC00 \uD558\uB3D9\uC640\r\n\uC694\uCE20\uBBF8\uC640\uB450\uB77C\uACE0 \uB9D0\uD558\uAE30 \uC870\uAE08\r\n\uC5B4\uB824\uC6CC\uC84C\uC5B4\uC694\u2026\r\n\uC5B4\uCA54 \uC218 \uC5C6\uC774 \uC774 \uC758\uB8B0\uC11C\uB294\r\n\uC81C\uAC00 \uBAB0\uB798 \uC900\uBE44\uD588\uC5B4\uC694.\r\n\uADF8\uB7EC\uBA74 \uC0AC\uB0E5\uC744 \uBD80\uD0C1\uB4DC\uB9B4\uAC8C\uC694.",
+        "Target": "\uC694\uCE20\uBBF8\uC640\uB450 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u56EB\u5707\u541E\u7269\u7684\u76F8\u64B2\u529B\u58EB",
+        "Client": "\u96C6\u6703\u6240\u63A5\u5F85\u54E1\u6C34\u85DD",
+        "Description": "\u56E0\u70BA\u98A8\u767B\u5927\u4EBA\u8AA4\u6703\u4E86\uFF0C\r\n\u6240\u4EE5\u6211\u4E0D\u597D\u610F\u601D\u76F4\u8AAA\u2026\u2026\r\n\u8981\u8ACB\u60A8\u72E9\u7375\u7684\u9B54\u7269\r\n\u5176\u5BE6\u662F\u6CB3\u7AE5\u86D9\u3002\r\n\u9019\u662F\u6211\u5077\u5077\u6E96\u5099\u7684\u59D4\u8A17\u66F8\u3002\r\n\u90A3\u9EBC\uFF0C\u72E9\u7375\u5C31\u6709\u52DE\u60A8\u4E86\u3002",
+        "Target": "\u72E9\u73751\u982D\u6CB3\u7AE5\u86D9",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u9CB8\u541E\u529B\u58EB",
+        "Client": "\u96C6\u4F1A\u6240\u63A5\u5F85\u5458\u6C34\u82B8",
+        "Description": "\u5C81\u4E30\u7A14\u5927\u4EBA\u8BEF\u4F1A\u4E86\uFF0C\r\n\u8FD9\u6837\u5B50\u6211\u5C31\u4E0D\u592A\u597D\u8BF4\u51FA\r\n\u8981\u72E9\u730E\u7684\u602A\u7269\u662F\u6CB3\u7AE5\u86D9\u4E86\u2026\u2026\r\n\u56E0\u6B64\uFF0C\u6211\u5077\u5077\u51C6\u5907\u4E86\r\n\u8FD9\u4EFD\u59D4\u6258\u4E66\u3002\r\n\u90A3\u5C31\u9EBB\u70E6\u60A8\u53BB\u72E9\u730E\u4E86\u3002",
+        "Target": "\u72E9\u730E1\u5934\u6CB3\u7AE5\u86D9",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0634\u0628\u064A\u0647 \u0627\u0644\u0645\u0645\u064A\u062A",
+        "Client": "\u0645\u064A\u0646\u0648\u062A\u0648 \u0641\u062A\u0627\u0629 \u0627\u0644\u0645\u0631\u0643\u0632",
+        "Description": "\u0623\u0646\u0627 \u0648\u0641\u0645\u064A \u0627\u0644\u062B\u0631\u062B\u0627\u0631... \u0631\u0623\u064A\u062A\r\n\u0635\u0648\u0631\u0629 \u0644\u062A\u064A\u062A\u0631\u0627\u0646\u0627\u062F\u0648\u0646 \u0648\u0642\u0644\u062A\r\n\u0022\u0625\u0646\u0647 \u064A\u0634\u0628\u0647 \u0627\u0644\u0633\u064A\u062F \u0647\u0648\u062C\u0648\r\n\u0628\u0627\u0644\u0636\u0628\u0637!\u0022 \u0644\u0642\u062F \u0633\u0645\u0639\u0646\u064A \u0648\u0647\u0648 \u064A\u0639\u062A\u0642\u062F\r\n\u0627\u0644\u0622\u0646 \u0623\u0646\u0646\u064A \u0643\u0646\u062A \u0623\u062A\u062D\u062F\u062B \u0639\u0646\r\n\u0645\u064A\u0632\u0648\u062A\u0633\u0648\u0646\u064A! \u0625\u0630\u0627 \u0627\u0643\u062A\u0634\u0641\r\n\u0627\u0644\u062D\u0642\u064A\u0642\u0629\u060C \u0641\u0633\u0648\u0641 \u064A\u062A\u0634\u0627\u0621\u0645!",
+        "Target": "\u0635\u064A\u062F \u062A\u064A\u062A\u0631\u0627\u0646\u0627\u062F\u0648\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      131,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 131,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 3960,
+      "Points": 80,
+      "HRP": 260
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      112,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 71,
+      "AttackTable": 52,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

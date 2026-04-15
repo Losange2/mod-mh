@@ -1,0 +1,350 @@
+{
+  "QuestID": 10104,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u5510\u5098\u306E\u5996\u602A",
+        "Client": "\u602A\u3057\u3052\u306A\u8001\u5A66\u4EBA",
+        "Description": "\u304A\u306C\u3057\u3001\u30A2\u30B1\u30CE\u30B7\u30EB\u30E0\u3092\u898B\u305F\u3053\u3068\r\n\u306F\u3042\u308B\u304B\u3048\u2026\uFF1F\u3000\u305D\u3084\u3064\u306F\u307E\u308B\u3067\r\n\u4E00\u3064\u76EE\u306E\u5098\u306E\u3088\u3046\u306A\u30D0\u30B1\u30E2\u30CE\u306E\u59FF\r\n\u3092\u3057\u3066\u304A\u308B\u3068\u805E\u304F\u3002\r\n\u3072\u3072\u3063\u2026\u6050\u308D\u3057\u3044\u304B\u3048\uFF1F\r\n\u30CF\u30F3\u30BF\u30FC\u3067\u3042\u308B\u306A\u3089\u6311\u307E\u306D\u3070\u306E\u3002\r\n\u3055\u3042\u3001\u72E9\u308A\u306B\u884C\u304F\u306E\u3058\u3083\u2026\u3002",
+        "Target": "\u30A2\u30B1\u30CE\u30B7\u30EB\u30E0\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Shady Monster",
+        "Client": "Creepy Old Lady",
+        "Description": "SAy tHeRe, hUNter~ eVEr sEeN\r\nA mOnSTeR tHAt hOPs oN One\r\nlEg? i hAvE...aND i\u0027Ve nEveR bEen\r\ntHe sAMe sINcE\u2014Hahaha! *hack*\r\nThose old ghost stories don\u0027t scare\r\nme none. HOW ABOUT YOU!?",
+        "Target": "Hunt an Aknosom",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "L\u0027unijambiste",
+        "Client": "Effrayante vieille dame",
+        "Description": "AvEZ-vOuS d\u00C9j\u00C0 vU uN MoNsTrE \u00C0\r\ncLoChE-piEdS ? MoI OuI, eT \u00E7A\r\nmE hAnTe dEpUis... MOUAHAHA *tousse*\r\nAhem... Ces histoires de fant\u00F4mes,\r\nc\u0027est bidon. T\u0027y crois toi ?",
+        "Target": "Chasser un Aknosom",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Mostro ombroso",
+        "Client": "Anziana inquietante",
+        "Description": "Di\u0027 uN po\u0027, hAi mAI viSTo un\r\nmOsTro che saLTa su uNa zaMPa?\r\nIo s\u00EC e da alloRa \u00E8 caMbiaTo\r\ntuTTo. AHahah! Io non mi\r\nfaccio spaventare da quelle\r\nstorie di fantasmi! E TU?",
+        "Target": "Caccia un Aknosom",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Zwielichtiges Monster",
+        "Client": "Unheimliche alte Dame",
+        "Description": "SAg mAl, hASt dU Je eiN mOnSTeR\r\ngEseHeN, DasS aUf eINeM BeIn\r\nh\u00DCPft? iCh sCHon... sEiTDeM bIN\r\nicH NicHt mEhR diE AltE-- Hahaha!\r\nDiese alten Geistergeschichten\r\nmachen mir \u00FCberhaupt keine Angst.\r\nWIE IST ES MIT DIR?!",
+        "Target": "Erjage einen Aknosom.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Monstruo sospechoso",
+        "Client": "Anciana espeluznante",
+        "Description": "DIMe, \u00BFaLGuNA vEZ HAs vIStO Un\r\nmONsTRUo qUe sAlTE SObrE uNa\r\npIERnA? \u00A1Yo S\u00CD, y nO HE vUEltO\r\nA SEr lA MISmA PErSoNA dESde\r\neNTonCEs! \u00A1JA, ja, Ja! NO mE\r\naSUStaN lAS hISToRIas DE\r\nFANtaSmAS, \u00BFY a TI?",
+        "Target": "Caza un Aknosom",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0422\u0435\u043C\u043D\u044B\u0439 \u043C\u043E\u043D\u0441\u0442\u0440",
+        "Client": "\u0416\u0443\u0442\u043A\u043E\u0432\u0430\u0442\u0430\u044F \u0441\u0442\u0430\u0440\u0443\u0448\u043A\u0430",
+        "Description": "\u041F\u043E\u0421\u043B\u0423\u0448\u0410\u0439, \u0410 \u0442\u042B \u0437\u041D\u0430\u0415\u0448\u042C \u043C\u041E\u043D\u0421\u0442\u0420\u0430,\r\n\u041A\u043E\u0422\u043E\u0420\u044B\u0419 \u0441\u041A\u0430\u0427\u0435\u0422 \u043D\u0410 \u043E\u0414\u043D\u041E\u0439 \u041D\u043E\u0433\u0435?\r\n\u042F \u0437\u041D\u0430\u042E! \u0421 \u0442\u0415\u0445 \u041F\u043E\u0420-\u0442\u041E\r\n\u044F \u0422\u0430\u041A\u043E\u0419 \u2014 \u0445\u0430-\u0445\u0430-\u0445\u0430!\u0022 *\u043A\u0445\u043C*\r\n\u042F \u044D\u0442\u0438\u0445 \u0441\u0442\u0430\u0440\u044B\u0445 \u0441\u043A\u0430\u0437\u043E\u043A \u043F\u0440\u043E\r\n\u043F\u0440\u0438\u0432\u0438\u0434\u0435\u043D\u0438\u044F \u043D\u0435 \u0431\u043E\u044E\u0441\u044C. \u0410 \u0422\u042B?!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0410\u043A\u043D\u043E\u0441\u043E\u043C\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Potw\u00F3r cienia",
+        "Client": "Upiorna starsza pani",
+        "Description": "S\u0141uChAj... ZnASz ty AKnoSOmY,\r\ncO na JeDNej nodZe SkACz\u0104? O,\r\nja jE pozNA\u0142aM i oD tEGo cZaSu\r\nnIc Nie jESt tAkIe sAmO, ha, ha,\r\nha! Hek... Te stare historie\r\no duchach w og\u00F3le mnie nie\r\nprzera\u017Caj\u0105. A CIEBIE?!",
+        "Target": "Upoluj Aknosoma",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Monstro \u00E0 sombra",
+        "Client": "Senhora esquisita",
+        "Description": "DiGa l\u00C1, \u003CLSNR {cA\u00E7AdOr} {cA\u00E7AdOrA}\u003E! vOc\u00CA J\u00E1 vIu uM\r\nMoNsTrO QuE PuLa nUmA PeRnA S\u00F3?\r\nEu j\u00C1... e eU NuNcA MaIs fUi a mEsMa\r\ndEsDe eNt\u00C3o... HaHaHa! Ptu! aQuElAs\r\nvElHaS HiSt\u00D3rIaS De fAnTaSmAs n\u00C3o mE\r\nAsSuStAm nEm uM PoUcO. E VOC\u00CA?!",
+        "Target": "Cace um Aknosom",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC9C0\uC6B0\uC0B0 \uC694\uAD34",
+        "Client": "\uC218\uC0C1\uD55C \uB178\uC778",
+        "Description": "\uC790\uB124\uB294 \uC544\uCF00\uB178\uC2DC\uB984\uC744 \uBCF8 \uC801\uC774\r\n\uC788\uB294\uAC00\u2026? \uB140\uC11D\uC740 \uC6B0\uC0B0\uC5D0 \uB208\uC774\r\n\uB2EC\uB9B0 \uAC83\uCC98\uB7FC \uC0DD\uACBC\uB2E4\uACE0 \uD558\uB354\uAD70.\r\n\uD788\uD788\uD788\u2026 \uD639\uC2DC \uBB34\uC11C\uC6B4 \uAC74\uAC00?\r\n\uD5CC\uD130\uB77C\uBA74 \uD56D\uC0C1 \uC774\uB7F0 \uC77C\uC5D0\r\n\uB3C4\uC804\uD574\uC57C \uD558\uB294 \uBC95\uC77C\uC138.\r\n\uBE68\uB9AC \uC0AC\uB0E5\uD558\uB7EC \uAC00\uAC8C\uB098\u2026",
+        "Target": "\uC544\uCF00\uB178\uC2DC\uB984 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7D19\u5098\u5996\u602A",
+        "Client": "\u53EF\u7591\u7684\u8001\u5A66\u4EBA",
+        "Description": "\u6211\u554F\u4F60\uFF0C\r\n\u4F60\u898B\u904E\u5098\u9CE5\u55CE\u2026\u2026\uFF1F\r\n\u807D\u8AAA\u90A3\u50A2\u4F19\u9577\u5F97\u5C31\u50CF\r\n\u53EA\u6709\u55AE\u773C\u7684\u7D19\u5098\u5996\u602A\u554A\u3002\r\n\u563B\u563B\u2026\u2026\u4F60\u6015\u4E86\u55CE\uFF1F\r\n\u8EAB\u70BA\u7375\u4EBA\uFF0C\u5FC5\u9808\u52C7\u65BC\u6311\u6230\u3002\r\n\u5FEB\u554A\uFF0C\u53BB\u72E9\u7375\u7260\u5427\u2026\u2026",
+        "Target": "\u72E9\u73751\u982D\u5098\u9CE5",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u5510\u4F1E\u5996\u602A",
+        "Client": "\u53EF\u7591\u7684\u8001\u5987\u4EBA",
+        "Description": "\u4F60\u6709\u89C1\u8FC7\u4F1E\u9E1F\u5417\u2026\u2026\uFF1F\r\n\u8001\u8EAB\u542C\u8BF4\u5B83\u957F\u5F97\u5C31\u50CF\u662F\r\n\u72EC\u773C\u7684\u4F1E\u5996\u602A\u4E00\u822C\u3002\r\n\u563F\u563F\u2026\u2026\u4F60\u6015\u4E86\u5417\uFF1F\r\n\u65E2\u7136\u4F60\u662F\u730E\u4EBA\uFF0C\r\n\u81EA\u7136\u5C31\u5F97\u6311\u6218\u770B\u770B\u3002\r\n\u53BB\u72E9\u730E\u5B83\u5427\u2026\u2026",
+        "Target": "\u72E9\u730E1\u5934\u4F1E\u9E1F",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0648\u062D\u0634 \u0645\u0631\u064A\u0628",
+        "Client": "\u0633\u064A\u062F\u0629 \u0645\u064F\u0633\u0646\u0629 \u0645\u062E\u064A\u0641\u0629",
+        "Description": "\u003CLSNR {\u0642\u0644\u060C \u0623\u064A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F} {\u0642\u0648\u0644\u064A\u060C \u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F\u0629}\u003E~ \u0647\u0644 \u0633\u0628\u0642\r\n\u0623\u0646 \u003CLSNR {\u0631\u0623\u064A\u062A} {\u0631\u0623\u064A\u062A\u0650}\u003E \u0648\u062D\u0634\u064B\u0627 \u064A\u0642\u0641\u0632 \u0639\u0644\u0649 \u0631\u062C\u0644\r\n\u0648\u0627\u062D\u062F\u0629\u061F \u0644\u0642\u062F \u0631\u0623\u064A\u062A\u0647... \u0648\u0644\u0645 \u0623\u0639\u064F\u062F\r\n\u0625\u0644\u0649 \u0637\u0628\u064A\u0639\u062A\u064A \u0645\u0646\u0630 \u062D\u062F\u062B \u0630\u0644\u0643...\u0647\u0627\u0647\u0627\u0647\u0627!\r\n*\u0633\u0639\u0627\u0644* \u0644\u0627 \u062A\u062E\u064A\u0641\u0646\u064A \u0642\u0635\u0635 \u0627\u0644\u0623\u0634\u0628\u0627\u062D\r\n\u0627\u0644\u0642\u062F\u064A\u0645\u0629 \u062A\u0644\u0643. \u0645\u0627\u0630\u0627 \u003CLSNR {\u0639\u0646\u0643} {\u0639\u0646\u0643\u0650}\u003E!\u061F",
+        "Target": "\u0635\u064A\u062F \u0623\u0643\u0646\u0648\u0633\u0648\u0645",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 3,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      37,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 37,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 93,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1366,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1369,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 3240,
+      "Points": 70,
+      "HRP": 240
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      10,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 26,
+      "HealthTable": 64,
+      "AttackTable": 42,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 64,
+        "AttackTable": 42,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 64,
+        "AttackTable": 42,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 64,
+        "AttackTable": 42,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 64,
+        "AttackTable": 42,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 64,
+        "AttackTable": 42,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 64,
+        "AttackTable": 42,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 64,
+        "AttackTable": 42,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

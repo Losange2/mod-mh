@@ -1,0 +1,350 @@
+{
+  "QuestID": 10414,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u4F1A\u5F97\u305B\u3088\uFF01\u3000\u7247\u624B\u5263\u306E\u578B",
+        "Client": "\u30A6\u30C4\u30B7\u6559\u5B98",
+        "Description": "\u3084\u3042\u3001\u6211\u304C\u611B\u5F1F\u5B50\u3088\uFF01\r\n\u5927\u304D\u306A\u30C8\u30B5\u30AB\u3067\u5668\u7528\u306A\u653B\u6483\u3092\r\n\u4ED5\u639B\u3051\u3066\u304F\u308B\u003CCOL RED\u003E\u30A2\u30B1\u30CE\u30B7\u30EB\u30E0\u003C/COL\u003E\u3002\r\n\u30E4\u30C4\u306E\u653B\u6483\u3092\u3001\u3088\u308A\u67D4\u8EDF\u306B\u5BFE\u5FDC\r\n\u3057\u3066\u307F\u305B\u3066\u304F\u308C\uFF01\u3000\u305D\u3046\u3059\u308C\u3070\r\n\u7247\u624B\u5263\u3067\u3088\u308A\u5668\u7528\u306B\u7ACB\u3061\u56DE\u308B\r\n\u65B0\u3057\u3044\u6280\u304C\u8EAB\u306B\u3064\u304F\u306F\u305A\u3060\uFF01",
+        "Target": "\u30A2\u30B1\u30CE\u30B7\u30EB\u30E0\uFF11\u982D\u306E\u6355\u7372",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\u3001\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7\r\n\u6355\u7372\u5BFE\u8C61\u306E\u8A0E\u4F10"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Study the Sword \u0026 Shield",
+        "Client": "Master Utsushi",
+        "Description": "Alright, Ace, lesson time!\r\nAn \u003CCOL RED\u003EAknosom\u003C/COL\u003E makes clever use\r\nof its big crest to fight, right?\r\nUnderstand how to maneuver\r\naround these kinds of attacks\r\nand you\u0027ll learn the very\r\nessence of the sword \u0026 shield!",
+        "Target": "Capture an Aknosom",
+        "Fail": "Reward hits 0, time expires,\r\nor capture target slain"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Le\u00E7on \u00C9p\u00E9e et bouclier",
+        "Client": "Utsushi le ma\u00EEtre",
+        "Description": "Bon, je t\u0027explique ! Les \u003CCOL RED\u003EAknosom\u003C/COL\u003E\r\nutilisent leur cr\u00EAte pour se\r\nbattre... Si tu arrives \u00E0 t\u0027adapter\r\n\u00E0 ce genre d\u0027attaques, tu\r\nparviendras \u00E0 ma\u00EEtriser l\u0027\u00E9p\u00E9e\r\net le bouclier !",
+        "Target": "Capturer un Aknosom",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9\r\nCible tu\u00E9e"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Padroneggia spada e scudo",
+        "Client": "Maestro Utsushi",
+        "Description": "OK, \u00E8 ora di imparare:\r\nl\u0027\u003CCOL RED\u003EAknosom\u003C/COL\u003E usa la sua cresta\r\ncon astuzia per combattere,\r\ngiusto? Impara a evitare\r\nquesto tipo di attacchi e\r\nscoprirai l\u0027essenza della\r\nspada e dello scudo.",
+        "Target": "Cattura un Aknosom",
+        "Fail": "Premio a zero, tempo scaduto\r\no mostro da catturare ucciso"
+      },
+      {
+        "Language": "GER",
+        "Name": "Studium von Schwert \u0026 Schild",
+        "Client": "Meister Utsushi",
+        "Description": "Okay, Ass, aufgepasst! Ein\r\n\u003CCOL RED\u003EAknosom\u003C/COL\u003E nutzt seinen gro\u00DFen\r\nKamm zum K\u00E4mpfen, richtig?\r\nVerstehe, wie du um diese An-\r\ngriffe herum man\u00F6vrierst, dann\r\nerfasst du das wahre Wesen von\r\nSchwert \u0026 Schild!",
+        "Target": "Fange einen Aknosom.",
+        "Fail": "Belohnung auf 0, Zeit l\u00E4uft ab\r\noder Fangziel erlegt."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Estudia espada y escudo",
+        "Client": "Maestro Utsushi",
+        "Description": "Hacha, \u00A1hora de aprender!\r\nEl \u003CCOL RED\u003EAknosom\u003C/COL\u003E usa su crestaza\r\npara luchar, \u00BFverdad? Afina tu\r\nhabilidad para moverte as\u00ED \u00A1y\r\naprender\u00E1s un par de cosas\r\nacerca de la espada y escudo!",
+        "Target": "Captura un Aknosom",
+        "Fail": "La recompensa cae a 0, agotas\r\nel tiempo o el objetivo muere."
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0412\u043B\u0430\u0434\u0435\u043D\u0438\u0435 \u043C\u0435\u0447\u043E\u043C \u0438 \u0449\u0438\u0442\u043E\u043C",
+        "Client": "\u041C\u0430\u0441\u0442\u0435\u0440 \u0423\u0446\u0443\u0441\u0438",
+        "Description": "\u041D\u0443 \u0447\u0442\u043E, \u0430\u0441, \u043F\u043E\u0440\u0430 \u0443\u0447\u0438\u0442\u044C\u0441\u044F!\r\n\u003CCOL RED\u003E\u0410\u043A\u043D\u043E\u0441\u043E\u043C\u003C/COL\u003E  \u0430\u0442\u0430\u043A\u0443\u0435\u0442 \u0432 \u0431\u043E\u044E\r\n\u0433\u0440\u0435\u0431\u043D\u0435\u043C, \u0442\u0430\u043A? \u041D\u0430\u0442\u0440\u0435\u043D\u0438\u0440\u0443\u0439\u0441\u044F\r\n\u043E\u0431\u0445\u043E\u0434\u0438\u0442\u044C \u044D\u0442\u0438 \u0430\u0442\u0430\u043A\u0438 \u2014 \u043F\u043E\u0437\u043D\u0430\u0435\u0448\u044C\r\n\u0441\u0430\u043C\u0443 \u0441\u0443\u0442\u044C \u043C\u0435\u0447\u0430 \u0438 \u0449\u0438\u0442\u0430!",
+        "Target": "\u041F\u043E\u0439\u043C\u0430\u0442\u044C \u0410\u043A\u043D\u043E\u0441\u043E\u043C\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0,\r\n\u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F, \u0443\u043C\u0438\u0440\u0430\u0435\u0442 \u0446\u0435\u043B\u044C"
+      },
+      {
+        "Language": "POL",
+        "Name": "\u0106wicz miecz i tarcz\u0119",
+        "Client": "Mistrz Utsushi",
+        "Description": "Dobra, czas na nauk\u0119! \u003CCOL RED\u003EAknosom\u003C/COL\u003E\r\nsprytnie wykorzystuje sw\u00F3j\r\ngrzebie\u0144 do walki, tak?\r\nPodszkol si\u0119 w manewrowaniu\r\nwok\u00F3\u0142 takich atak\u00F3w, a\r\nnauczysz si\u0119 najwa\u017Cniejszego\r\no mieczu i tarczy!",
+        "Target": "Z\u0142ap Aknosoma",
+        "Fail": "Nagroda = 0 lub koniec\r\nczasu, lub z\u0142apany cel ginie"
+      },
+      {
+        "Language": "POR",
+        "Name": "Estude a espada e o escudo",
+        "Client": "Mestre Utsushi",
+        "Description": "Beleza, Craque, hora da aula!\r\nO \u003CCOL RED\u003EAknosom\u003C/COL\u003E usa a crista enorme\r\npra lutar, certo? Entenda como\r\nmanobrar em torno desse tipo\r\nde ataque, e voc\u00EA vai aprender\r\na ess\u00EAncia da espada e escudo!",
+        "Target": "Capture um Aknosom",
+        "Fail": "Rec. chega a 0, tempo expira\r\nou alvo de captura \u00E9 morto"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD130\uB4DD\uD558\uB77C! \uD55C\uC190\uAC80\uC758 \uAE30\uC220",
+        "Client": "\uC6B0\uCE20\uC2DC \uAD50\uAD00",
+        "Description": "\uC790, \uB098\uC758 \uC560\uC81C\uC790\uC5EC!\r\n\uCEE4\uB2E4\uB780 \uBCCF\uC73C\uB85C \uC2E0\uAE30\uD55C \uACF5\uACA9\uC744\r\n\uD558\uB294 \u003CCOL RED\u003E\uC544\uCF00\uB178\uC2DC\uB984\u003C/COL\u003E. \uB140\uC11D\uC758 \uACF5\uACA9\uC5D0\r\n\uC720\uC5F0\uD558\uAC8C \uB300\uC751\uD574 \uBD10\uB77C!\r\n\uADF8\uB807\uAC8C \uD558\uBA74 \uD55C\uC190\uAC80\uC744 \uBCF4\uB2E4\r\n\uC798 \uB2E4\uB8F0 \uC218 \uC788\uB294 \uC0C8\uB85C\uC6B4 \uAE30\uC220\uC744\r\n\uBC30\uC6B0\uAC8C \uB420 \uAC70\uB2E4!",
+        "Target": "\uC544\uCF00\uB178\uC2DC\uB984 1\uB9C8\uB9AC \uD3EC\uD68D",
+        "Fail": "\uBCF4\uC218\uAE08 0, \uC2DC\uAC04 \uCD08\uACFC\r\n\uD3EC\uD68D \uB300\uC0C1 \uD1A0\uBC8C"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7D30\u5FC3\u9818\u6703\uFF01\u55AE\u624B\u528D\u7684\u62DB\u5F0F",
+        "Client": "\u502A\u6CF0\u6559\u5B98",
+        "Description": "\u55E8\uFF0C\u6211\u7684\u611B\u5F92\u554A\uFF01\r\n\u003CCOL RED\u003E\u5098\u9CE5\u003C/COL\u003E\u6703\u5229\u7528\u982D\u51A0\r\n\u5C55\u958B\u9748\u6D3B\u7684\u653B\u52E2\u3002\r\n\u4F60\u8A66\u8A66\u770B\u7528\u66F4\u9748\u5DE7\u7684\u62DB\u5F0F\r\n\u4F86\u56E0\u61C9\u90A3\u50A2\u4F19\u7684\u653B\u64CA\u5427\uFF01\r\n\u9019\u6A23\u4E00\u4F86\uFF0C\u4F60\u61C9\u8A72\u5C31\u80FD\u5B78\u6703\u66F4\u5DE7\u5999\r\n\u904B\u7528\u55AE\u624B\u528D\u7684\u5D84\u65B0\u62DB\u5F0F\uFF01",
+        "Target": "\u6355\u73721\u982D\u5098\u9CE5",
+        "Fail": "\u5831\u916C\u91D10\u3001\u6642\u9593\u7D50\u675F\r\n\u8A0E\u4F10\u6355\u7372\u5C0D\u8C61"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u638C\u63E1\u5427\uFF01\u5355\u624B\u5251\u4E4B\u578B",
+        "Client": "\u502A\u6CF0\u6559\u5B98",
+        "Description": "\u563F\uFF0C\u6211\u7684\u7231\u5F92\u554A\uFF01\r\n\u003CCOL RED\u003E\u4F1E\u9E1F\u003C/COL\u003E\u4F1A\u5229\u7528\u5DE8\u5927\u5934\u51A0\r\n\u53D1\u52A8\u7075\u654F\u7684\u653B\u51FB\u3002\r\n\u8BF7\u4F60\u7528\u66F4\u4E3A\u7075\u6D3B\u7684\u65B9\u5F0F\u5E94\u5BF9\r\n\u90A3\u5BB6\u4F19\u7684\u653B\u51FB\uFF01\u90A3\u6837\u7684\u8BDD\uFF0C\r\n\u5E94\u8BE5\u5C31\u80FD\u591F\u638C\u63E1\u5168\u65B0\u62DB\u5F0F\uFF0C\r\n\u4F7F\u7528\u5355\u624B\u5251\u65F6\u4F1A\u66F4\u52A0\u7075\u5DE7\uFF01",
+        "Target": "\u6355\u83B71\u5934\u4F1E\u9E1F",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\u3001\u65F6\u95F4\u8017\u5C3D\uFF0C\r\n\u6216\u8BA8\u4F10\u4E86\u6355\u83B7\u76EE\u6807"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u062F\u0631\u0627\u0633\u0629 \u0627\u0644\u0633\u064A\u0641 \u0648\u0627\u0644\u062A\u0631\u0633",
+        "Client": "\u0627\u0644\u0633\u064A\u062F \u0623\u0648\u062A\u0633\u0648\u0634\u064A",
+        "Description": "\u062D\u0633\u0646\u064B\u0627 \u003CLSNR {\u0623\u064A\u0647\u0627 \u0627\u0644\u0628\u0627\u0631\u0639} {\u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0628\u0627\u0631\u0639\u0629}\u003E\u060C\r\n\u062D\u0627\u0646 \u0648\u0642\u062A \u0627\u0644\u062F\u0631\u0633! \u064A\u0633\u062A\u062E\u062F\u0645 \u003CCOL RED\u003E\u0623\u0643\u0646\u0648\u0633\u0648\u0645\u003C/COL\u003E \u0639\u064F\u0631\u0641\u0647\r\n\u0627\u0644\u0643\u0628\u064A\u0631 \u0644\u0644\u0642\u062A\u0627\u0644\u060C\r\n\u0635\u062D\u064A\u062D\u061F \u003CLSNR {\u0627\u0641\u0647\u0645} {\u0627\u0641\u0647\u0645\u064A}\u003E \u0643\u064A\u0641\u064A\u0629\r\n\u0645\u0631\u0627\u0648\u063A\u0629 \u0647\u0630\u0647 \u0627\u0644\u0623\u0646\u0648\u0627\u0639 \u0645\u0646 \u0627\u0644\u0647\u062C\u0645\u0627\u062A\r\n\u0644\u062A\u0639\u0644\u0645 \u062C\u0648\u0647\u0631 \u0627\u0644\u0633\u064A\u0641\r\n\u0648\u0627\u0644\u062A\u0631\u0633!",
+        "Target": "\u0625\u0645\u0633\u0627\u0643 \u0623\u0643\u0646\u0648\u0633\u0648\u0645",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u062A\u0647\u064A\r\n\u0627\u0644\u0648\u0642\u062A\u060C \u0623\u0648 \u0625\u0645\u0633\u0627\u0643 \u0647\u062F\u0641 \u0627\u0644\u0642\u062A\u0644"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 13,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      134,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 134,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 25,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 27,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 392,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 118,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1366,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 5760,
+      "Points": 120,
+      "HRP": 400
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      60,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 1,
+      "HealthTable": 97,
+      "AttackTable": 79,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

@@ -1,0 +1,350 @@
+{
+  "QuestID": 315214,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u7D14\u767D\u306E\u30D5\u30EB\u30D5\u30EB\u30D5\u30EB\u30FC\u30C4",
+        "Client": "\u679C\u5B9F\u7814\u7A76\u5BB6",
+        "Description": "\u300C\u30D5\u30EB\u30D5\u30EB\u30D5\u30EB\u30FC\u30C4\u300D\u306A\u308B\u679C\u5B9F\u3092\r\n\u3054\u5B58\u3058\uFF1F\u3000\u30D5\u30EB\u30D5\u30EB\u306E\u751F\u606F\u3059\u308B\r\n\u6975\u5BD2\u306E\u5730\u306B\u7A00\u306B\u306A\u308B\u7D14\u767D\u306E\u5B9F\u3067\u2026\r\n\u898B\u305F\u76EE\u304C\u30D5\u30EB\u30D5\u30EB\u306B\u305D\u3063\u304F\u308A\u3002\r\n\u305D\u308C\u304C\u4ECA\u307E\u3055\u306B\u5B9F\u3063\u3066\u3044\u308B\u306E\uFF01\u3000\r\n\u30D5\u30EB\u30D5\u30EB\u30D5\u30EB\u30FC\u30C4\u306F\u79C1\u304C\u63A1\u53D6\u3059\u308B\r\n\u304B\u3089\u3001\u30D5\u30EB\u30D5\u30EB\u9054\u306F\u304A\u9858\u3044\u306D\u3002",
+        "Target": "\u30D5\u30EB\u30D5\u30EB\uFF12\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "In Pursuit of the Khezuit",
+        "Client": "Fruit Researcher",
+        "Description": "Have you heard of Khezuits?\r\nWhite fruit rarely found in\r\narctic regions where Khezu\r\nlive. It even looks like one!\r\nWouldn\u0027t you know it, one\u0027s\r\njust about to ripen! I\u0027ll grab\r\nthe fruit, you handle the Khezu.",
+        "Target": "Hunt 2 Khezu",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "\u00C0 la poursuite du Khezuit",
+        "Client": "Chercheur sur les fruits",
+        "Description": "Tu connais les Khezuits ?\r\nCe sont des fruits blancs rares\r\nque l\u0027on trouve dans les r\u00E9gions\r\narctiques des Khezu.\r\nEt ils leur ressemblent ! L\u0027un\r\nd\u0027eux est sur le point de m\u00FBrir.\r\nJe prends le fruit, toi le Khezu.",
+        "Target": "Chasser 2 Khezu",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "In cerca del khezutto",
+        "Client": "Ricercatore della frutta",
+        "Description": "Hai mai sentito parlare del\r\nkhezutto? Un frutto bianco che\r\nsi trova raramente nelle regioni\r\nartiche dove vive il Khezu.\r\nGuarda, ce n\u0027\u00E8 uno! Ed \u00E8 quasi\r\nmaturo. Io prendo il frutto e\r\ntu ti occupi del Khezu.",
+        "Target": "Caccia 2 Khezu",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Jagd nach der Khezuit",
+        "Client": "Fruchtforscher",
+        "Description": "Kennst du Khezuits? Es ist\r\neine wei\u00DFe Frucht, die selten\r\nin arktischen Regionen zu finden\r\nist, wo Khezu leben. Sie sieht\r\nsogar wie einer aus! Es soll\r\ngerade eine heranreifen! Ich hol\r\nsie, du \u00FCbernimmst die Khezu.",
+        "Target": "Erjage zwei Khezu.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "\u00A1A las ricas khezufrutas!",
+        "Client": "Experta en fruta",
+        "Description": "\u00BFConoces las khezufrutas?\r\nSon unas frutas blancas que\r\na veces se encuentran en el\r\nh\u00E1bitat \u00E1rtico de los Khezu.\r\n\u00A1Resulta que hay una a punto\r\nde madurar! Voy a por ella,\r\ny t\u00FA oc\u00FApate de los Khezu.",
+        "Target": "Caza 2 Khezu",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0412 \u043F\u043E\u0433\u043E\u043D\u0435 \u0437\u0430 \u041A\u0435\u0437\u0443\u043A\u0442\u043E\u043C",
+        "Client": "\u0418\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u0444\u0440\u0443\u043A\u0442\u043E\u0432",
+        "Description": "\u0422\u044B \u0437\u043D\u0430\u0435\u0448\u044C \u043E \u041A\u0435\u0437\u0443\u043A\u0442\u0430\u0445? \u0420\u0435\u0434\u043A\u0438\u0435\r\n\u0431\u0435\u043B\u044B\u0435 \u0444\u0440\u0443\u043A\u0442\u044B \u0438\u0437 \u0430\u0440\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0445\r\n\u0440\u0435\u0433\u0438\u043E\u043D\u043E\u0432, \u0433\u0434\u0435 \u0436\u0438\u0432\u0443\u0442 \u041A\u0435\u0437\u0443.\r\n\u041E\u043D\u0438 \u0434\u0430\u0436\u0435 \u0432\u0438\u0437\u0443\u0430\u043B\u044C\u043D\u043E \u043F\u043E\u0445\u043E\u0436\u0438!\r\n\u0418 \u043E\u0434\u0438\u043D \u0442\u0430\u043A\u043E\u0439 \u0444\u0440\u0443\u043A\u0442 \u043A\u0430\u043A \u0440\u0430\u0437\r\n\u043F\u043E\u0447\u0442\u0438 \u0441\u043E\u0437\u0440\u0435\u043B! \u042F \u0437\u0430\u0439\u043C\u0443\u0441\u044C\r\n\u0444\u0440\u0443\u043A\u0442\u043E\u043C, \u0430 \u0442\u044B \u2014 \u041A\u0435\u0437\u0443.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C 2 \u041A\u0435\u0437\u0443",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "W po\u015Bcigu za khezuitem",
+        "Client": "Badacz owoc\u00F3w",
+        "Description": "Wiesz co\u015B o khezuitach?\r\nTo bia\u0142e owoce z arktycznych\r\nkrain, gdzie \u017Cyj\u0105 Khezu. Nawet\r\ns\u0105 do nich podobne! Wiem, \u017Ce\r\njeden jest dojrza\u0142y! Zerw\u0119 go,\r\na ty zajmij si\u0119 Khezu.",
+        "Target": "Upoluj 2 Khezu",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Em Busca da Khezu\u00EDta",
+        "Client": "Pesquisador de Frutas",
+        "Description": "Voc\u00EA conhece os Khezu\u00EDtas?\r\nFrutos brancos e raros das\r\nregi\u00F5es \u00E1rticas onde vivem\r\nos Khezus. Eles at\u00E9 se pare-\r\ncem! Olha s\u00F3, tem um quase\r\namadurecendo! Eu pego a\r\nfruta, voc\u00EA cuida do Khezu.",
+        "Target": "Cace 2 Khezus",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC21C\uBC31\uC758 \uD478\uB8E8\uD478\uB8E8 \uD504\uB8E8\uD2B8",
+        "Client": "\uC5F4\uB9E4 \uC5F0\uAD6C\uAC00",
+        "Description": "\u300C\uD478\uB8E8\uD478\uB8E8 \uD504\uB8E8\uD2B8\u300D\uB77C\uB294 \uC5F4\uB9E4\uB97C\r\n\uC54C\uC544? \uD478\uB8E8\uD478\uB8E8\uAC00 \uC0AC\uB294 \uADF9\uD55C\uC758\r\n\uB545\uC5D0 \uB4DC\uBB3C\uAC8C \uB098\uB294 \uC21C\uBC31\uC758 \uC5F4\uB9E4\u2026\r\n\uD478\uB8E8\uD478\uB8E8\uC640 \uB611 \uB2EE\uC740 \uBAA8\uC2B5\uC774\uC9C0.\r\n\uADF8\uAC8C \uB4DC\uB514\uC5B4 \uC5F4\uB9E4\uB97C \uB9FA\uC5C8\uC5B4!\r\n\uD478\uB8E8\uD478\uB8E8 \uD504\uB8E8\uD2B8\uB294 \uB0B4\uAC00 \uCC44\uCDE8\uD560\r\n\uD14C\uB2C8, \uD478\uB8E8\uD478\uB8E8 \uBB34\uB9AC\uB97C \uBD80\uD0C1\uD574.",
+        "Target": "\uD478\uB8E8\uD478\uB8E8 2\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7D14\u767D\u7684\u5947\u602A\u9F8D\u679C\u5BE6",
+        "Client": "\u679C\u5BE6\u7814\u7A76\u5BB6",
+        "Description": "\u4F60\u53EF\u77E5\u4E16\u4E0A\u6709\u7A2E\u300C\u5947\u602A\u9F8D\u679C\u5BE6\u300D\uFF1F\r\n\u90A3\u662F\u7A2E\u7F55\u898B\u7684\u7D14\u767D\u679C\u5BE6\uFF0C\u53EA\u751F\u9577\u5728\r\n\u5947\u602A\u9F8D\u68F2\u606F\u7684\u6975\u5BD2\u4E4B\u5730\u2026\u2026\r\n\u800C\u4E14\u5916\u89C0\u548C\u5947\u602A\u9F8D\u4E00\u6A21\u4E00\u6A23\u3002\r\n\u800C\u5982\u4ECA\u6B63\u662F\u5B83\u7D50\u5BE6\u7684\u6642\u5019\uFF01\r\n\u6211\u6703\u8CA0\u8CAC\u53BB\u63A1\u96C6\u5947\u602A\u9F8D\u679C\u5BE6\uFF0C\r\n\u81F3\u65BC\u90A3\u4E9B\u5947\u602A\u9F8D\u5C31\u4EA4\u7D66\u4F60\u8655\u7406\u4E86\u3002",
+        "Target": "\u72E9\u73752\u982D\u5947\u602A\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7EAF\u767D\u7684\u5947\u602A\u9F99\u679C",
+        "Client": "\u679C\u5B9E\u7814\u7A76\u5BB6",
+        "Description": "\u4F60\u77E5\u4E0D\u77E5\u9053\u4E00\u79CD\u53EB\u201C\u5947\u602A\u9F99\u679C\u201D\u7684\r\n\u679C\u5B50\uFF1F\u90A3\u662F\u79CD\u7F55\u89C1\u7684\u7EAF\u767D\u8272\u679C\u5B9E\uFF0C\r\n\u957F\u5728\u5947\u602A\u9F99\u6816\u606F\u7684\u6781\u5BD2\u5730\u533A\u2026\u2026\u770B\r\n\u8D77\u6765\u5C31\u548C\u5947\u602A\u9F99\u4E00\u6A21\u4E00\u6837\u3002\u73B0\u5728\u5C31\r\n\u662F\u5B83\u6210\u719F\u7684\u65F6\u671F\uFF01\u6211\u4F1A\u53BB\u91C7\u96C6\u5947\u602A\r\n\u9F99\u679C\uFF0C\u5947\u602A\u9F99\u5C31\u9EBB\u70E6\u4F60\u4E86\u3002",
+        "Target": "\u72E9\u730E2\u5934\u5947\u602A\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0633\u0639\u064A\u064B\u0627 \u0648\u0631\u0627\u0621 \u062E\u064A\u0632\u0648\u064A\u062A",
+        "Client": "\u0628\u0627\u062D\u062B \u0639\u0646 \u0627\u0644\u0641\u0648\u0627\u0643\u0647",
+        "Description": "\u0647\u0644 \u0633\u0645\u0639\u062A \u0639\u0646 \u062E\u064A\u0632\u0648\u064A\u062A\u061F\r\n\u0625\u0646\u0647\u0627 \u0641\u0627\u0643\u0647\u0629 \u0628\u064A\u0636\u0627\u0621 \u0646\u0627\u062F\u0631\u064B\u0627 \u0645\u0627 \u062A\u062A\u0648\u0627\u062C\u062F\r\n\u0641\u064A \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0642\u0637\u0628 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u060C \u062D\u064A\u062B \u064A\u0639\u064A\u0634 \u062E\u064A\u0632\u0648.\r\n\u062D\u062A\u0649 \u0625\u0646\u0647\u0627 \u062A\u0634\u0628\u0647\u0647!\r\n\u0625\u0630\u0627 \u0643\u0646\u062A \u0644\u0627 \u062A\u0639\u0631\u0641\u0647\u0627\u060C \u0641\u0625\u0646 \u0625\u062D\u062F\u0627\u0647\u0627 \u0639\u0644\u0649 \u0648\u0634\u0643\r\n\u0627\u0644\u0646\u0636\u0648\u062C! \u0633\u0623\u0642\u0637\u0641 \u0627\u0644\u0641\u0627\u0643\u0647\u0629\u060C\r\n\u0648\u062A\u0639\u0627\u0645\u0644 \u0623\u0646\u062A \u0645\u0639 \u062E\u064A\u0632\u0648.",
+        "Target": "\u0627\u0635\u0637\u062F 2 \u0645\u0646 \u062E\u064A\u0632\u0648",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 2,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      44,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 44,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 27,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1366,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 24,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 118,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 29160,
+      "Points": 590,
+      "HRP": 920
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      12,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 5,
+      "HealthTable": 118,
+      "AttackTable": 124,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

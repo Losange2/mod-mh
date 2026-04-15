@@ -1,0 +1,350 @@
+{
+  "QuestID": 10740,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u96FB\u5149\u96F7\u8F5F\u3001\u30CC\u30B7\u30FB\u30B8\u30F3\u30AA\u30A6\u30AC",
+        "Client": "\u9699\u306E\u7121\u3044\u30CF\u30F3\u30BF\u30FC",
+        "Description": "\u3053\u306E\u4F9D\u983C\u3092\u898B\u3066\u3044\u308B\u8005\u306A\u3089\u3070\u3001\r\n\u3082\u3046\u76F8\u5F53\u306A\u8155\u524D\u306E\u6301\u3061\u4E3B\u3060\u308D\u3046\u3002\r\n\u3057\u304B\u3057\uFF01\u3000\u30CF\u30F3\u30BF\u30FC\u305F\u308B\u3082\u306E\uFF01\r\n\u5E38\u306B\u6CB9\u65AD\u3059\u308B\u3053\u3068\u306A\u304B\u308C\uFF01\u3000\u3060\u3002\r\n\u3061\u3087\u3046\u3069\u826F\u3044\u3068\u3053\u308D\u306B\u3001\u30CC\u30B7\u304C\r\n\u73FE\u308C\u3066\u3044\u308B\u3002\u3055\u3042\u3001\u3084\u3064\u3092\u5012\u3057\u3066\r\n\u305D\u306E\u5F37\u3055\u3092\u78BA\u304B\u306A\u3082\u306E\u306B\u3057\u3088\u3046\uFF01",
+        "Target": "\u30CC\u30B7\u30FB\u30B8\u30F3\u30AA\u30A6\u30AC\uFF11\u982D\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "The Voltaic Apex Zinogre",
+        "Client": "Vigilant Hunter",
+        "Description": "I was out on patrol in the Ruins, when\r\nsuddenly, lightning struck all around\r\nme. I thought perhaps I had angered\r\nthe gods enshrined there. But it wasn\u0027t\r\nany god, it was worse. It was a Zinogre.\r\nBut this was no ordinary Zinogre. Tread\r\ncarefully out there, Hunter.",
+        "Target": "Hunt an Apex Zinogre",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Zinogre sup\u00E9rieur volta\u00EFque",
+        "Client": "Chasseuse vigilante",
+        "Description": "J\u0027\u00E9tais en patrouille au Temple,\r\nquand la foudre s\u0027est mise \u00E0 tomber\r\nautour de moi. Je me suis dit que\r\nj\u0027avais peut-\u00EAtre \u00E9veill\u00E9 la col\u00E8re\r\ndes dieux qui y r\u00E9sident, mais\r\nc\u0027\u00E9tait bien pire : un Zinogre, et\r\nloin d\u0027\u00EAtre ordinaire en plus !",
+        "Target": "Chasser un Zinogre sup\u00E9rieur",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Lo Zinogre Apex elettrico",
+        "Client": "Cacciatrice vigile",
+        "Description": "Ero di pattuglia alle Rovine,\r\nquando all\u0027improvviso ho visto\r\nfulmini dappertutto. Temevo di\r\naver fatto infuriare gli dei:\r\npeggio! Era uno Zinogre e non\r\nuno normale. Fai attenzione!",
+        "Target": "Caccia uno Zinogre Apex",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Der geladene Apex-Zinogre",
+        "Client": "Wachsame J\u00E4gerin",
+        "Description": "Ich war auf Patrouille in den Ruinen,\r\nals pl\u00F6tzlich um mich her \u00FCberall Blitze\r\neinschlugen. Ich dachte, ich h\u00E4tte viel-\r\nleicht die dort verehrten G\u00F6tter erz\u00FCrnt.\r\nAber es war schlimmer als ein Gott. Es\r\nwar ein Zinogre. Aber das war kein\r\ngew\u00F6hnlicher Zinogre. Sei vorsichtig.",
+        "Target": "Erjage einen Apex-Zinogre.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "El electrizante Zinogre Apex",
+        "Client": "Cazador atento",
+        "Description": "Estaba de patrulla por el\r\ntemplo cuando cay\u00F3 un rayo.\r\nAl principio pens\u00E9 que hab\u00EDa\r\nhecho enfadar a los dioses que\r\nhay all\u00ED, pero qu\u00E9 va, peor,\r\n\u00A1era un Zinogre, y no uno\r\ncualquiera! Ten cuidado.",
+        "Target": "Caza un Zinogre Apex",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0413\u0430\u043B\u044C\u0432\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0432\u044B\u0441\u0448\u0438\u0439 \u0417\u0438\u043D\u043E\u0433\u0440",
+        "Client": "\u0411\u0434\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u043E\u0445\u043E\u0442\u043D\u0438\u0446\u0430",
+        "Description": "\u042F \u0431\u044B\u043B \u0432 \u043F\u0430\u0442\u0440\u0443\u043B\u0435 \u0432 \u0420\u0443\u0438\u043D\u0430\u0445, \u043A\u0430\u043A\r\n\u0432\u0434\u0440\u0443\u0433 \u0432\u043E\u043A\u0440\u0443\u0433 \u043C\u0435\u043D\u044F \u0437\u0430\u0431\u0438\u043B\u0438\r\n\u043C\u043E\u043B\u043D\u0438\u0438. \u042F \u0443\u0436 \u043F\u043E\u0434\u0443\u043C\u0430\u043B, \u0447\u0442\u043E\r\n\u0440\u0430\u0437\u0433\u043D\u0435\u0432\u0430\u043B \u0442\u0430\u043C\u043E\u0448\u043D\u0438\u0445 \u0431\u043E\u0433\u043E\u0432.\r\n\u041D\u043E \u044D\u0442\u043E \u0431\u044B\u043B \u043D\u0435 \u0431\u043E\u0433 \u2014 \u0445\u0443\u0436\u0435!\r\n\u042D\u0442\u043E \u0431\u044B\u043B \u0417\u0438\u043D\u043E\u0433\u0440. \u041F\u0440\u0438\u0447\u0435\u043C \u043D\u0435\r\n\u043E\u0431\u044B\u0447\u043D\u044B\u0439 \u0417\u0438\u043D\u043E\u0433\u0440. \u0411\u0435\u0440\u0435\u0433\u0438 \u0441\u0435\u0431\u044F.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0432\u044B\u0441\u0448\u0435\u0433\u043E \u0417\u0438\u043D\u043E\u0433\u0440\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Naelektryzowany Apeks Zinogr",
+        "Client": "Czujna \u0142owczyni",
+        "Description": "Patrolowa\u0142am Ruiny, gdy nagle tu\u017C\r\nprzy mnie uderzy\u0142a b\u0142yskawica.\r\nPomy\u015Bla\u0142am, \u017Ce mo\u017Ce rozgniewa\u0142am\r\nmieszkaj\u0105cych tam bog\u00F3w. Ale to\r\nnie bogowie. Gorzej. To by\u0142 Zinogr.\r\nI to nie taki zwyk\u0142y. Zachowaj\r\nostro\u017Cno\u015B\u0107, gdy tam b\u0119dziesz.",
+        "Target": "Upoluj Apeksa Zinogra",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "O Zinogre Alfa voltaico",
+        "Client": "Ca\u00E7ador vigilante",
+        "Description": "Eu tava patrulhando as Ru\u00EDnas\r\nquando, de repente, um raio caiu\r\nperto de mim. Achei que eu tivesse\r\nirritado os deuses dali. Mas n\u00E3o\r\nera deus nenhum, era pior: era um\r\nZinogre. Mas n\u00E3o era um Zinogre\r\ncomum. V\u00E1 com cuidado, \u003CLSNR {Ca\u00E7ador} {Ca\u00E7adora}\u003E.",
+        "Target": "Cace um Zinogre Alfa",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC9C8\uD48D\uC2E0\uB8B0, \uC8FC\uC778 \uC9C4\uC624\uC6B0\uAC70",
+        "Client": "\uBE48\uD2C8 \uC5C6\uB294 \uD5CC\uD130",
+        "Description": "\uC774 \uC758\uB8B0\uB97C \uBCFC \uC0AC\uB78C\uC774\uB77C\uBA74\r\n\uC0C1\uB2F9\uD55C \uC2E4\uB825\uC744 \uAC00\uC84C\uACA0\uC9C0.\r\n\uD558\uC9C0\uB9CC! \uD5CC\uD130\uB77C\uBA74!\r\n\uBC29\uC2EC\uC740 \uAE08\uBB3C\uC778 \uBC95!\r\n\uB9C8\uCE68 \uC8FC\uC778\uC774 \uB098\uD0C0\uB0AC\uB2E4\uACE0 \uD55C\uB2E4.\r\n\uC790, \uB140\uC11D\uC744 \uC4F0\uB7EC\uB728\uB9AC\uACE0\r\n\uB124 \uC2E4\uB825\uC744 \uC99D\uBA85\uD558\uB77C!",
+        "Target": "\uC8FC\uC778 \uC9C4\uC624\uC6B0\uAC70 1\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u96FB\u9583\u96F7\u9CF4\u7684\u9996\u9818\u96F7\u72FC\u9F8D",
+        "Client": "\u7121\u61C8\u53EF\u64CA\u7684\u7375\u4EBA",
+        "Description": "\u6B63\u5728\u770B\u9019\u4EFD\u59D4\u8A17\u7684\u4EBA\uFF0C\r\n\u60F3\u5FC5\u662F\u6709\u8457\u76F8\u7576\u8EAB\u624B\u7684\u7375\u4EBA\u3002\r\n\u4E0D\u904E\uFF01\u8EAB\u70BA\u7375\u4EBA\uFF0C\r\n\u6642\u6642\u523B\u523B\u90FD\u4E0D\u80FD\u5927\u610F\uFF01\r\n\u73FE\u5728\u6B63\u597D\u6709\u9996\u9818\u73FE\u8EAB\uFF0C\r\n\u53BB\u5427\uFF0C\u6253\u5012\u90A3\u50A2\u4F19\uFF0C\r\n\u8B93\u4F60\u7684\u5BE6\u529B\u66F4\u52A0\u7A69\u56FA\uFF01",
+        "Target": "\u8A0E\u4F101\u982D\u9996\u9818\u96F7\u72FC\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7535\u5149\u96F7\u9E23\uFF0C\u9738\u4E3B\u30FB\u96F7\u72FC\u9F99",
+        "Client": "\u6BEB\u65E0\u7834\u7EFD\u7684\u730E\u4EBA",
+        "Description": "\u65E2\u7136\u662F\u770B\u5230\u8FD9\u4EFD\u59D4\u6258\u7684\u4EBA\uFF0C\r\n\u90A3\u8EAB\u624B\u4E00\u5B9A\u76F8\u5F53\u9AD8\u5F3A\u5427\u3002\r\n\u4F46\u662F\uFF01\u8EAB\u4E3A\u730E\u4EBA\uFF01\r\n\u5207\u4E0D\u53EF\u9EBB\u75F9\u5927\u610F\uFF01\uFF01\r\n\u6B63\u597D\u9738\u4E3B\u51FA\u73B0\u4E86\u3002\r\n\u6765\uFF0C\u6253\u5012\u5B83\uFF0C\r\n\u5C55\u73B0\u4F60\u7684\u5F3A\u5927\u5427\uFF01",
+        "Target": "\u8BA8\u4F101\u5934\u9738\u4E3B\u30FB\u96F7\u72FC\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0632\u064A\u0646\u062C\u0631 \u0627\u0644\u0639\u0644\u0648\u064A \u0627\u0644\u0636\u0648\u0626\u064A",
+        "Client": "\u0635\u064A\u0651\u0627\u062F \u064A\u0642\u0638",
+        "Description": "\u0643\u0646\u062A \u0641\u064A \u062F\u0648\u0631\u064A\u0629 \u0641\u064A \u0627\u0644\u0623\u0637\u0644\u0627\u0644\u060C\r\n\u0648\u0641\u062C\u0623\u0629\u060C \u0636\u0631\u0628 \u0627\u0644\u0628\u0631\u0642 \u0643\u0644\r\n\u0645\u0643\u0627\u0646 \u062D\u0648\u0644\u064A. \u0631\u0628\u0645\u0627 \u0623\u063A\u0636\u0628\u062A \u0627\u0644\u0623\u0633\u064A\u0627\u062F\r\n\u0647\u0646\u0627\u0643. \u0644\u0643\u0646\u0647 \u0644\u0645 \u064A\u0643\u0646 \u0623\u064A \u0633\u064A\u062F\u060C \u0644\u0642\u062F\r\n\u0643\u0627\u0646 \u0623\u0633\u0648\u0623. \u0644\u0642\u062F \u0643\u0627\u0646 \u0632\u064A\u0646\u062C\u0631. \u0644\u0643\u0646\u0647\r\n\u0644\u0645 \u064A\u0643\u0646 \u0632\u064A\u0646\u062C\u0631 \u0639\u0627\u062F\u064A\u064B\u0627. \u003CLSNR {\u062A\u062D\u0631\u0643} {\u062A\u062D\u0631\u0643\u064A}\u003E\r\n\u0628\u062D\u0630\u0631 \u0647\u0646\u0627\u0643 \u003CLSNR {\u0623\u064A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F} {\u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F\u0629}\u003E.",
+        "Target": "\u0635\u064A\u062F \u0632\u064A\u0646\u062C\u0631 \u0639\u0644\u0648\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 12,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      8,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      25,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 25,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 90,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 47,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 118,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1351,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 21240,
+      "Points": 1500,
+      "HRP": 1800
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      7,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 31,
+      "HealthTable": 105,
+      "AttackTable": 87,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

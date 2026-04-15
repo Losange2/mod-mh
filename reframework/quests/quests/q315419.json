@@ -1,0 +1,350 @@
+{
+  "QuestID": 315419,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u7D76\u5BFE\u5F37\u8005",
+        "Client": "\u5BD2\u51B7\u5730\u306E\u6551\u52A9\u90E8\u968A",
+        "Description": "\u8ABF\u67FB\u968A\u54E1\u6570\u540D\u304C\u5C71\u4E2D\u3067\u8EAB\u52D5\u304D\u304C\u3068\r\n\u308C\u306A\u304F\u306A\u3063\u305F\u3068\u6551\u52A9\u8981\u8ACB\u304C\u3042\u3063\r\n\u305F\u3002\u3069\u3046\u3084\u3089\u8F5F\u7ADC\u304C\u66B4\u308C\u3066\u304A\u308A\u3001\r\n\u4E0B\u5C71\u304C\u96E3\u3057\u3044\u72B6\u6CC1\u306E\u3088\u3046\u3060\u3002\r\n\u6211\u3005\u3060\u3051\u3067\u8F5F\u7ADC\u3092\u304B\u3044\u304F\u3050\u308A\r\n\u6551\u52A9\u3092\u3059\u308B\u306E\u306F\u96E3\u3057\u3044\u3002\r\n\u983C\u3080\uFF01\u3000\u8F5F\u7ADC\u3092\u72E9\u731F\u3057\u3066\u304F\u308C\uFF01",
+        "Target": "\u30C6\u30A3\u30AC\u30EC\u30C3\u30AF\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Absolute Power",
+        "Client": "Arctic Rescue Team",
+        "Description": "We received an S.O.S. from\r\nseveral research team members\r\nstuck up in the mountains. A\r\nTigrex is on the prowl, keeping\r\nthem from coming down. There\u0027s\r\nno way we can rescue them until\r\nthat thing\u0027s been dealt with!",
+        "Target": "Hunt a Tigrex",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Pouvoir absolu",
+        "Client": "Secouristes en arctique",
+        "Description": "On a re\u00E7u un S.O.S. d\u0027une\r\n\u00E9quipe de recherche coinc\u00E9e dans\r\nles montagnes. Un Tigrex les\r\nbloque, ils ne peuvent pas\r\nredescendre. On a besoin de toi.\r\n\u00C9limine le Tigrex, s\u0027il te pla\u00EEt !",
+        "Target": "Chasser un Tigrex",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Potere assoluto",
+        "Client": "Squadra di soccorso artico",
+        "Description": "Abbiamo ricevuto una richiesta\r\ndi aiuto da membri della squadra\r\ndi ricerca bloccati tra le\r\nmontagne. C\u0027\u00E8 un Tigrex fuori\r\ncontrollo che non consente loro\r\ndi tornare indietro. Da soli non\r\nce la faranno. Caccia il Tigrex!",
+        "Target": "Caccia un Tigrex",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Absolute Macht",
+        "Client": "Arktisches Rettungsteam",
+        "Description": "Wir haben einen S.O.S.-Ruf von\r\nmehreren Forschungsteam-\r\nMitgliedern erhalten, die in den\r\nBergen feststecken. Ein Tigrex\r\nist in der Gegend unterwegs\r\nund h\u00E4lt sie auf. Erledige ihn,\r\ndamit wir sie retten k\u00F6nnen.",
+        "Target": "Erjage einen Tigrex.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Poder absoluto",
+        "Client": "Equipo de rescate \u00E1rtico",
+        "Description": "Hemos recibido una llamada de\r\nauxilio de unos investigadores\r\natrapados en las monta\u00F1as. Hay\r\nun peligroso Tigrex que no les\r\ndeja bajar. \u00A1Nosotros solos no\r\npodemos rescatarlos, hasta que\r\nalguien se ocupe del monstruo!",
+        "Target": "Caza un Tigrex",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0410\u0431\u0441\u043E\u043B\u044E\u0442\u043D\u0430\u044F \u0441\u0438\u043B\u0430",
+        "Client": "\u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0435 \u0441\u043F\u0430\u0441\u0430\u0442\u0435\u043B\u0438",
+        "Description": "\u041C\u044B \u043F\u043E\u043B\u0443\u0447\u0438\u043B\u0438 \u0441\u0438\u0433\u043D\u0430\u043B S.O.S. \u043E\u0442\r\n\u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u0438\u0445 \u0447\u043B\u0435\u043D\u043E\u0432 \u044D\u043A\u043E-\u0433\u0440\u0443\u043F\u043F\u044B,\r\n\u0437\u0430\u0441\u0442\u0440\u044F\u0432\u0448\u0438\u0445 \u0432 \u0433\u043E\u0440\u0430\u0445. \u0422\u0430\u043C \u0431\u0443\u0448\u0443\u0435\u0442\r\n\u0422\u0438\u0433\u0440\u0435\u043A\u0441, \u0438 \u043E\u043D\u0438 \u043D\u0435 \u043C\u043E\u0433\u0443\u0442\r\n\u0441\u043F\u0443\u0441\u0442\u0438\u0442\u044C\u0441\u044F. \u0421\u0430\u043C\u0438 \u043C\u044B \u0441 \u043D\u0438\u043C\r\n\u0441\u043F\u0440\u0430\u0432\u0438\u0442\u044C\u0441\u044F \u043D\u0435 \u0441\u0443\u043C\u0435\u0435\u043C. \u041F\u0440\u043E\u0448\u0443,\r\n\u0438\u0437\u0431\u0430\u0432\u044C\u0441\u044F \u043E\u0442 \u0422\u0438\u0433\u0440\u0435\u043A\u0441\u0430!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0422\u0438\u0433\u0440\u0435\u043A\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "W\u0142adza absolutna",
+        "Client": "Arktyczna ekipa ratunkowa",
+        "Description": "Otrzymali\u015Bmy SOS od kilku\r\ncz\u0142onk\u00F3w ekipy badawczej w\r\ng\u00F3rach. Szaleje tam Tigrex i\r\nnie pozwala im zej\u015B\u0107. B\u0119dzie\r\nnam trudno go omin\u0105\u0107.\r\nProsz\u0119, upoluj go!",
+        "Target": "Upoluj Tigrexa",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Poder Absoluto",
+        "Client": "Equipe de Resgate \u00C1rtico",
+        "Description": "Recebemos um SOS de v\u00E1rios\r\nmembros da equipe de pesquisa\r\npresos na montanha. Tem um\r\nTigrex \u00E0 solta, impedindo a\r\ndescida. N\u00E3o v\u00E3o conseguir\r\nsozinhos. Por favor,\r\ncace o Tigrex!",
+        "Target": "Cace um Tigrex",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC808\uB300\uAC15\uC790",
+        "Client": "\uD55C\uB7AD\uC9C0 \uAD6C\uC870\uB300\uC6D0",
+        "Description": "\uC870\uC0AC\uB300\uC6D0 \uBA87 \uBA85\uC774 \uC0B0\uC18D\uC5D0\uC11C \uAF3C\uC9DD\r\n\uBABB \uD558\uACE0 \uC788\uB2E4\uB294 \uAD6C\uC870 \uC694\uCCAD\uC774\r\n\uB4E4\uC5B4\uC654\uC5B4. \uAD49\uB8E1\uC774 \uB0A0\uB6F0\uACE0 \uC788\uC5B4 \r\n\uD558\uC0B0\uC774 \uC5B4\uB824\uC6B4 \uC0C1\uD669\uC774\uB77C\uACE0 \uD574. \r\n\uC6B0\uB9AC\uB07C\uB9AC \uAD49\uB8E1\uC744 \uD53C\uD574 \r\n\uAD6C\uC870\uD558\uB7EC \uAC00\uB294 \uAC74 \uC5B4\uB824\uC6CC.\r\n\uBD80\uD0C1\uD574! \uAD49\uB8E1\uC744 \uC0AC\uB0E5\uD574 \uC918!",
+        "Target": "\uD2F0\uAC00\uB809\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7D55\u5C0D\u5F37\u8005",
+        "Client": "\u5BD2\u51B7\u5730\u5340\u7684\u6551\u52A9\u90E8\u968A",
+        "Description": "\u6211\u5011\u6536\u5230\u4E00\u5247\u6551\u63F4\u8ACB\u6C42\uFF0C\r\n\u8AAA\u6709\u6578\u540D\u8ABF\u67E5\u968A\u54E1\u5728\u5C71\u4E2D\u52D5\u5F48\u4E0D\u5F97\u3002\r\n\u770B\u6A23\u5B50\u662F\u8F5F\u9F8D\u5728\u8086\u8650\uFF0C\r\n\u5C0E\u81F4\u4ED6\u5011\u96E3\u4EE5\u4E0B\u5C71\u3002\r\n\u5149\u6191\u6211\u5011\uFF0C\u5BE6\u5728\u7121\u6CD5\r\n\u7E5E\u904E\u8F5F\u9F8D\u5C55\u958B\u6551\u63F4\u3002\r\n\u62DC\u8A17\uFF0C\u8ACB\u4F60\u53BB\u72E9\u7375\u8F5F\u9F8D\u5427\uFF01",
+        "Target": "\u72E9\u73751\u982D\u8F5F\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7EDD\u5BF9\u5F3A\u8005",
+        "Client": "\u5BD2\u51B7\u5730\u5E26\u7684\u6551\u63F4\u961F",
+        "Description": "\u6211\u4EEC\u6536\u5230\u6551\u63F4\u8BF7\u6C42\uFF0C\u6709\u51E0\u540D\u8C03\u67E5\u961F\r\n\u5458\u88AB\u56F0\u5728\u4E86\u5C71\u91CC\u3002\u4F3C\u4E4E\u6709\u8F70\u9F99\u5728\u4F5C\r\n\u4E71\uFF0C\u4E0D\u4FBF\u4E0B\u5C71\u3002\u53EA\u9760\u6211\u4EEC\uFF0C\u5F88\u96BE\u4ECE\r\n\u8F70\u9F99\u773C\u76AE\u5E95\u4E0B\u6551\u4EBA\u3002\u9EBB\u70E6\u4F60\u4E86\uFF0C\u8BF7\r\n\u72E9\u730E\u8F70\u9F99\u5427\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u8F70\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0645\u0637\u0644\u0642\u0629",
+        "Client": "\u0641\u0631\u064A\u0642 \u0625\u0646\u0642\u0627\u0630 \u0627\u0644\u0642\u0637\u0628 \u0627\u0644\u0634\u0645\u0627\u0644\u064A",
+        "Description": "\u062A\u0644\u0642\u064A\u0646\u0627 \u0627\u0633\u062A\u063A\u0627\u062B\u0629 \u0645\u0646\r\n\u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0623\u0639\u0636\u0627\u0621 \u0641\u0631\u064A\u0642 \u0627\u0644\u0628\u062D\u062B\r\n\u0627\u0644\u0639\u0627\u0644\u0642\u064A\u0646 \u0641\u064A \u0627\u0644\u062C\u0628\u0627\u0644.\r\n\u062A\u062C\u0631\u064A\u0643\u0633 \u064A\u0639\u064A\u062B \u0641\u0633\u0627\u062F\u064B\u0627\u060C \u0648\u064A\u0645\u0646\u0639\u0647\u0645\r\n\u0645\u0646 \u0627\u0644\u0647\u0628\u0648\u0637. \u0633\u064A\u0643\u0648\u0646 \u0645\u0646 \u0627\u0644\u0635\u0639\u0628\r\n\u0627\u0644\u0642\u0636\u0627\u0621 \u0639\u0644\u064A\u0647 \u0628\u0645\u0641\u0631\u062F\u0646\u0627.\r\n\u0645\u0646 \u0641\u0636\u0644\u0643\u060C \u0627\u0635\u0637\u062F \u0627\u0644\u062A\u062C\u0631\u064A\u0643\u0633!",
+        "Target": "\u0635\u064A\u062F \u062A\u062C\u0631\u064A\u0643\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      514,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 514,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1369,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 81,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 19,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 107,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1412,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 21600,
+      "Points": 440,
+      "HRP": 1120
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      42,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 47,
+      "HealthTable": 124,
+      "AttackTable": 128,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

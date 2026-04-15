@@ -1,0 +1,350 @@
+{
+  "QuestID": 10305,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u98DB\u96FB\u3001\u5730\u3092\u8DF3\u306D\u308B",
+        "Client": "\u77ED\u6C17\u306A\u30CF\u30F3\u30BF\u30FC",
+        "Description": "\u3042\uFF5E\u3053\u3063\u3074\u3069\u304F\u3084\u3089\u308C\u3061\u307E\u3063\u305F\uFF01\r\n\u3042\u306E\u30C8\u30D3\u30AB\u30AC\u30C1\u3063\u3066\u30E2\u30F3\u30B9\u30BF\u30FC\u3001\r\n\u3068\u3093\u3067\u3082\u306A\u3044\u8EAB\u8EFD\u3055\u3067\u3001\u3053\u3063\u3061\u3092\r\n\u7FFB\u5F04\u3059\u308B\u52D5\u304D\u3092\u3057\u3066\u6765\u308B\u3093\u3060\u3088\u3002\r\n\u52D5\u304D\u3084\u5730\u5F62\u306E\u5148\u8AAD\u307F\u304C\u82E6\u624B\u306A\r\n\u3042\u305F\u3057\u306B\u306F\u7121\u7406\u3060\u306D\u3002\u60AA\u3044\u3051\u3069\r\n\u8AB0\u304B\u4EE3\u308F\u308A\u306B\u72E9\u731F\u3092\u983C\u3080\u3088\u3002",
+        "Target": "\u30C8\u30D3\u30AB\u30AC\u30C1\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Zigzagging Zapper",
+        "Client": "Impatient Hunter",
+        "Description": "Blargh! I was trying to hunt a stupid\r\nTobi-Kadachi but the squirrely monster\r\njust wouldn\u0027t stay still! When I finally got\r\nan opening to strike, it scurried off and\r\nhid in a tree! Is it gonna come down\r\nanytime soon? You know what? I\u0027m\r\noutta here! I don\u0027t got all day for this!",
+        "Target": "Hunt a Tobi-Kadachi",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Rapide comme l\u0027\u00E9clair",
+        "Client": "Chasseuse impatiente",
+        "Description": "Arg ! Je chassais un fichu\r\nTobi-Kadachi, mais ce monstre a\r\nla bougeotte ! J\u0027allais l\u0027avoir,\r\nquand il est parti se planquer dans\r\nun arbre ! Et maintenant m\u00F4ssieur\r\nveut plus descendre... Oh, et puis\r\nj\u0027en ai ma claque, je me tire !",
+        "Target": "Chasser un Tobi-Kadachi",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Il furfante sfuggente",
+        "Client": "Cacciatrice impaziente",
+        "Description": "Volevo cacciare uno stupido\r\nTobi-Kadachi, ma non sta mai\r\nfermo! Quando stavo per\r\ncolpirlo, \u00E8 scappato e si \u00E8\r\nnascosto su un albero. Chiss\u00E0\r\nquando scender\u00E0... Beh, non ho\r\ntutto il giorno! Me ne vado!",
+        "Target": "Caccia un Tobi-Kadachi",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Im Zickzack auf Zack",
+        "Client": "Ungeduldige J\u00E4gerin",
+        "Description": "Argh! Ich hab versucht, einen bl\u00F6den\r\nTobi-Kadachi zu jagen, aber der Wusel\r\nhat einfach nicht stillgehalten! Gerade\r\nwollte ich zuschlagen, da ist er davon-\r\ngehuscht und hat sich auf \u0027nem Baum\r\nversteckt! Ach, was soll\u0027s, ich bin raus!\r\nKann ja nicht ewig hier warten!",
+        "Target": "Erjage einen Tobi-Kadachi.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "El wyvern saltar\u00EDn",
+        "Client": "Cazadora impaciente",
+        "Description": "Pues s\u00ED que he mordido el\r\npolvo. Ese Tobi-Kadachi es un\r\ndiablo escurridizo; hace\r\nfintas y ataca de forma\r\nimpredecible... \u00A1Uf! Tendr\u00E1\r\nque ser otro quien lo cace.",
+        "Target": "Caza un Tobi-Kadachi",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0417\u0438\u0433\u0437\u0430\u0433 \u043C\u043E\u043B\u043D\u0438\u0438",
+        "Client": "\u041D\u0435\u0442\u0435\u0440\u043F\u0435\u043B\u0438\u0432\u0430\u044F \u043E\u0445\u043E\u0442\u043D\u0438\u0446\u0430",
+        "Description": "\u0415\u043B\u043A\u0438! \u042F \u0442\u0430\u043A \u043F\u044B\u0442\u0430\u043B\u0430\u0441\u044C \u043F\u043E\u0439\u043C\u0430\u0442\u044C\r\n\u0422\u043E\u0431\u0438-\u041A\u0430\u0434\u0430\u0447\u0438, \u043D\u043E \u043E\u043D \u0443\u0431\u0435\u0433\u0430\u0435\u0442!\r\n\u0411\u044B\u043B \u0445\u043E\u0440\u043E\u0448\u0438\u0439 \u043C\u043E\u043C\u0435\u043D\u0442, \u0430 \u043E\u043D\r\n\u0441\u043F\u0440\u044F\u0442\u0430\u043B\u0441\u044F \u0432 \u0434\u0435\u0440\u0435\u0432\u0435! \u041A\u043E\u0433\u0434\u0430\r\n\u0442\u0435\u043F\u0435\u0440\u044C \u0432\u044B\u0439\u0434\u0435\u0442?.. \u0417\u043D\u0430\u0435\u0448\u044C, \u0447\u0442\u043E?\r\n\u041F\u043E\u0439\u0434\u0443 \u044F \u043E\u0442\u0441\u044E\u0434\u0430. \u0415\u0449\u0435 \u043D\u0435 \u0445\u0432\u0430\u0442\u0430\u043B\u043E\r\n\u0432\u0435\u0441\u044C \u0434\u0435\u043D\u044C \u0435\u0433\u043E \u043A\u0430\u0440\u0430\u0443\u043B\u0438\u0442\u044C!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0422\u043E\u0431\u0438-\u041A\u0430\u0434\u0430\u0447\u0438",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Zygzakuj\u0105cy grzmociarz",
+        "Client": "Niecierpliwy \u0142owca",
+        "Description": "Ych! Chcia\u0142em upolowa\u0107 g\u0142upiego\r\nTobi-Kadachi, ale ten wiewi\u00F3r nie\r\nm\u00F3g\u0142 usiedzie\u0107 na miejscu! Kiedy\r\nw ko\u0144cu mia\u0142em zada\u0107 cios, wzi\u0105\u0142\r\ni zwia\u0142 na drzewo! Zejdzie w ko\u0144cu\r\nczy nie, ja si\u0119 pytam? Zreszt\u0105\r\nszkoda czasu. Spadam st\u0105d!",
+        "Target": "Upoluj Tobi-Kadachi",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Zigue-zague-zap",
+        "Client": "Ca\u00E7adora impaciente",
+        "Description": "Blargh! Eu tava tentando ca\u00E7ar um\r\nTobi-Kadachi idiota, mas o bicho n\u00E3o\r\nparava quieto! Quando finalmente\r\nconsegui uma abertura pra atacar,\r\nele saiu correndo e se escondeu numa\r\n\u00E1rvore! Quer saber? Eu vou embora!\r\nTenho mais o que fazer!",
+        "Target": "Cace um Tobi-Kadachi",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uBE44\uB8B0, \uB545\uC744 \uBC15\uCC28\uACE0",
+        "Client": "\uC131\uACA9\uC774 \uAE09\uD55C \uD5CC\uD130",
+        "Description": "\uC544~ \uC544\uBB34\uAC83\uB3C4 \uBABB \uD558\uACE0 \uB2F9\uD588\uC5B4!\r\n\uADF8 \uD1A0\uBE44\uCE74\uAC00\uCE58\uB77C\uB294 \uBAAC\uC2A4\uD130,\r\n\uB9D0\uB3C4 \uC548 \uB418\uAC8C \uBE60\uB978 \uC18D\uB3C4\uB85C\r\n\uB098\uB97C \uAC00\uC9C0\uACE0 \uB180\uB354\uB77C\uB2C8\uAE4C.\r\n\uC6C0\uC9C1\uC784\uC774\uB791 \uC9C0\uD615 \uC608\uCE21\uC774 \uC11C\uD230\r\n\uB098\uD55C\uD14C\uB294 \uBB34\uB9AC\uC57C. \uBBF8\uC548\uD558\uC9C0\uB9CC\r\n\uB204\uAC00 \uB300\uC2E0 \uC0AC\uB0E5\uD574 \uC918.",
+        "Target": "\uD1A0\uBE44\uCE74\uAC00\uCE58 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u64B2\u6714\u7684\u98DB\u96FB",
+        "Client": "\u6025\u8E81\u7684\u7375\u4EBA",
+        "Description": "\u554A\uFF5E\u6211\u88AB\u72E0\u72E0\u64FA\u4E86\u4E00\u9053\uFF01\r\n\u90A3\u500B\u53EB\u505A\u98DB\u96F7\u9F8D\u7684\u9B54\u7269\r\n\u5229\u7528\u9A5A\u4EBA\u7684\u9748\u6D3B\u5EA6\u56DB\u8655\u7A7F\u68AD\uFF0C\r\n\u628A\u6211\u5FB9\u5E95\u800D\u5F97\u5718\u5718\u8F49\u3002\r\n\u6211\u4E0D\u64C5\u9577\u9810\u5224\u5C0D\u624B\u7684\u52D5\u4F5C\u548C\u5730\u5F62\uFF0C\r\n\u6839\u672C\u61C9\u4ED8\u4E0D\u4F86\u3002\r\n\u62B1\u6B49\uFF0C\u9EBB\u7169\u4F86\u500B\u4EBA\u66FF\u6211\u72E9\u7375\u7260\u5427\u3002",
+        "Target": "\u72E9\u73751\u982D\u98DB\u96F7\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u98DE\u9F99\uFF0C\u8DC3\u52A8\u4E8E\u5730\u9762",
+        "Client": "\u6025\u6027\u5B50\u7684\u730E\u4EBA",
+        "Description": "\u5509\uFF5E\u6211\u88AB\u6253\u5F97\u597D\u60E8\u554A\uFF01\r\n\u90A3\u4E2A\u53EB\u98DE\u96F7\u9F99\u7684\u602A\u7269\uFF0C\r\n\u52A8\u4F5C\u771F\u662F\u592A\u654F\u6377\u4E86\uFF0C\r\n\u5B8C\u5168\u628A\u6211\u73A9\u5F04\u4E8E\u80A1\u638C\u4E4B\u4E2D\u3002\r\n\u6211\u4E0D\u64C5\u957F\u9884\u5224\u52A8\u4F5C\u548C\u5730\u5F62\uFF0C\r\n\u62FF\u5B83\u6BEB\u65E0\u529E\u6CD5\u3002\u4E0D\u597D\u610F\u601D\uFF0C\r\n\u8BF7\u6765\u4E2A\u4EBA\u66FF\u6211\u53BB\u72E9\u730E\u5B83\u3002",
+        "Target": "\u72E9\u730E1\u5934\u98DE\u96F7\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0635\u0627\u0639\u0642 \u0645\u062A\u0639\u0631\u062C",
+        "Client": "\u0635\u064A\u0651\u0627\u062F \u0646\u0627\u0641\u062F \u0627\u0644\u0635\u0628\u0631",
+        "Description": "\u0628\u0644\u0627\u0631\u062C! \u0643\u0646\u062A \u0623\u062D\u0627\u0648\u0644 \u0635\u064A\u062F\r\n\u062A\u0648\u0628\u064A \u0643\u0627\u062F\u0627\u062A\u0634\u064A \u0627\u0644\u063A\u0628\u064A \u0644\u0643\u0646 \u0627\u0644\u0648\u062D\u0634\r\n\u0627\u0644\u0633\u0646\u062C\u0627\u0628\u064A \u064A\u0631\u0641\u0636 \u0627\u0644\u0628\u0642\u0627\u0621 \u0633\u0627\u0643\u0646\u064B\u0627!\r\n\u0639\u0646\u062F\u0645\u0627 \u0648\u062C\u062F\u062A \u0641\u062A\u062D\u0629 \u0644\u062A\u0648\u062C\u064A\u0647\r\n\u0627\u0644\u0636\u0631\u0628\u0627\u062A \u0623\u062E\u064A\u0631\u064B\u0627\u060C \u0647\u0631\u0639 \u0648\u0627\u062E\u062A\u0628\u0623 \u0641\u064A\r\n\u0634\u062C\u0631\u0629! \u0647\u0644 \u0633\u064A\u0646\u0632\u0644 \u0642\u0631\u064A\u0628\u064B\u0627\u061F \u003CLSNR {\u0623\u062A\u0639\u0644\u0645} {\u0623\u062A\u0639\u0644\u0645\u064A\u0646}\u003E\u061F\r\n\u0633\u0623\u063A\u0627\u062F\u0631! \u0644\u064A\u0633 \u0644\u062F\u064A \u0648\u0642\u062A \u0644\u0647\u0630\u0627!",
+        "Target": "\u0635\u064A\u062F \u062A\u0648\u0628\u064A \u0643\u0627\u062F\u0627\u062A\u0634\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 4,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      89,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 89,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 91,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 93,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 133,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 98,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 24,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 6480,
+      "Points": 130,
+      "HRP": 400
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      22,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 38,
+      "HealthTable": 85,
+      "AttackTable": 62,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

@@ -1,0 +1,350 @@
+{
+  "QuestID": 10411,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u3042\u308B\u591C\u30D5\u30EB\u30D5\u30EB\u3092\u72E9\u308B",
+        "Client": "\u6ED1\u820C\u306E\u826F\u3044\u7537\u6027",
+        "Description": "\u5BD2\u3055\u306B\u30D6\u30EB\u30D6\u30EB\u9707\u3048\u3066\u591C\u91E3\u308A\u3092\r\n\u3057\u3066\u3044\u305F\u3089\u6025\u306B\u30D7\u30EB\u30D7\u30EB\u3057\u305F\u584A\u2026\r\n\u305D\u3046\u3001\u30D5\u30EB\u30D5\u30EB\u304C\u964D\u3063\u3066\u6765\u305F\uFF01\r\n\u30CC\u30EB\u30CC\u30EB\u306E\u53E3\u306B\u98DF\u308F\u308C\u308B\u524D\u306B\u3001\r\n\u6C37\u4E0A\u3092\u30C4\u30EB\u30C4\u30EB\u6ED1\u3063\u3066\u9003\u3052\u305F\u3088\u3002\r\n\u653E\u3063\u3066\u304A\u3051\u3070\u3001\u307F\u308B\u307F\u308B\u3046\u3061\u306B\r\n\u88AB\u5BB3\u304C\u5E83\u307E\u308B\u3002\u72E9\u731F\u3092\u983C\u3093\u3060\u305C\u3002",
+        "Target": "\u30D5\u30EB\u30D5\u30EB\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Night of the Khezu",
+        "Client": "Poetically Spoken Man",
+        "Description": "I was out fishing; everything dark\r\nand gloomy. When suddenly down\r\nflew a Khezu; slimy and gooey.\r\nHorrified to find there were no eyes\r\nthat would twinkle, only a blubbery\r\nneck...veiny and wrinkled.",
+        "Target": "Hunt a Khezu",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "La nuit du Khezu",
+        "Client": "Homme po\u00E9tique",
+        "Description": "Je p\u00EAchais tranquillement dans\r\nla nuit, quand un Khezu est arriv\u00E9,\r\nplein de gadoue. Je ne voyais pas\r\nces yeux, j\u0027\u00E9tais horrifi\u00E9.\r\nFace \u00E0 moi ne se tenait qu\u0027une\r\nnuque \u00E9paisse, turgescente et rid\u00E9e.",
+        "Target": "Chasser un Khezu",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "La notte del Khezu",
+        "Client": "Uomo poetico",
+        "Description": "Ero fuori a pescare, tutto era\r\nbuio intorno. Ma dal nulla \u00E8\r\napparso un Khezu viscido e\r\nmelmoso. Non aveva gli occhi,\r\ndavvero terrificante, ma il\r\nsuo collo era enorme, venoso\r\ne rugoso.",
+        "Target": "Caccia un Khezu",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Die Nacht des Khezu",
+        "Client": "Verhinderter Poet",
+        "Description": "Ich war angeln in dunkler Nacht,\r\nda flog ein Khezu her in klebrig-\r\nschleimiger Pracht.\r\nKeine Augen sah ich funkeln,\r\nnur ein aufgeschwollener Hals...\r\n\u00FCbers\u00E4t mit Adern und Runzeln.",
+        "Target": "Erjage einen Khezu.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "La noche del Khezu",
+        "Client": "Hombre de rico vocabulario",
+        "Description": "Pescaba yo al ocaso lento y\r\noscuro, cuando presto vol\u00F3 un\r\nKhezu sobre el r\u00EDo. Hui raudo\r\npara evitar el apuro, pues en\r\nsu mirada sent\u00ED un designio\r\nsombr\u00EDo. \u00A1Ve por \u00E9l y dale\r\nduro, da con br\u00EDo!",
+        "Target": "Caza un Khezu",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041D\u043E\u0447\u044C \u041A\u0435\u0437\u0443",
+        "Client": "\u041F\u043E\u044D\u0442",
+        "Description": "\u042F \u0445\u043E\u0434\u0438\u043B \u0440\u044B\u0431\u0430\u0447\u0438\u0442\u044C, \u0431\u044B\u043B\u043E \u0442\u0435\u043C\u043D\u043E\r\n\u0438 \u043C\u0440\u0430\u0447\u043D\u043E. \u0412\u043D\u0435\u0437\u0430\u043F\u043D\u043E \u0432\u043D\u0438\u0437 \u0441\u043B\u0435\u0442\u0435\u043B\r\n\u041A\u0435\u0437\u0443, \u0441\u043A\u043E\u043B\u044C\u0437\u043A\u0438\u0439 \u0438 \u043B\u0438\u043F\u043A\u0438\u0439.\r\n\u042F \u0434\u0430\u0436\u0435 \u0433\u043B\u0430\u0437 \u0443 \u043D\u0435\u0433\u043E \u043D\u0435 \u0432\u0438\u0434\u0435\u043B,\r\n\u0442\u043E\u043B\u044C\u043A\u043E \u043C\u043E\u0440\u0449\u0438\u043D\u0438\u0441\u0442\u0443\u044E \u0448\u0435\u044E\r\n\u0441 \u0443\u0437\u0435\u043B\u043A\u0430\u043C\u0438 \u0432\u0435\u043D. \u0423\u0436\u0430\u0441!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u041A\u0435\u0437\u0443",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Noc Khezu",
+        "Client": "Poetycki m\u0119\u017Cczyzna",
+        "Description": "By\u0142em na rybach \u2013 mroczno,\r\nponuro. Nagle leci Khezu,\r\njakby \u015Bluzu chmura. Straszny\r\nwidok, nie ma to-to oczu,\r\ntylko gruba szyja z z\u0119bami\r\nna ko\u0144cu...",
+        "Target": "Upoluj Khezu",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Noite do Khezu",
+        "Client": "Homem falando poeticamente",
+        "Description": "L\u00E1 estava eu, pescando em paz,\r\nnum breu que s\u00F3 a noite traz.\r\nDo c\u00E9u, veio um Khezu limoso.\r\nDizem que escapar fedendo\r\n\u00E9 melhor que morrer cheiroso.\r\nFugi apavorado de terr\u00EDvel fim.\r\nTu podes ca\u00E7\u00E1-lo por mim, sim?",
+        "Target": "Cace um Khezu",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC5B4\uB290 \uBC24 \uD478\uB8E8\uD478\uB8E8\uB97C \uC0AC\uB0E5\uD55C\uB2E4",
+        "Client": "\uB9D0\uC774 \uBE60\uB978 \uB0A8\uC131",
+        "Description": "\uCD94\uC704\uC5D0 \uBC8C\uBC8C \uB5A8\uBA70 \uBC24\uB09A\uC2DC\uB97C\r\n\uD558\uACE0 \uC788\uB294\uB370 \uAC11\uC790\uAE30 \uBC14\uB4E4\uBC14\uB4E4\r\n\uB5A0\uB294 \uAD34\uBB3C\uCCB4\u2026 \uADF8\uB798 \uD478\uB8E8\uD478\uB8E8\uAC00\r\n\uB098\uD0C0\uB0AC\uC5B4! \uADF8 \uB048\uC801\uD55C \uC785\uC5D0\r\n\uBA39\uD788\uAE30 \uC804\uC5D0 \uC5BC\uC74C \uC704\uB97C \uBBF8\uB044\uB7EC\uC838\r\n\uB3C4\uB9DD\uCCE4\uC9C0\uB9CC \uADF8\uB0E5 \uB450\uBA74 \uC21C\uC2DD\uAC04\uC5D0\r\n\uD53C\uD574\uAC00 \uCEE4\uC9C8 \uD14C\uB2C8\uAE4C \uC0AC\uB0E5\uD574 \uC918.",
+        "Target": "\uD478\uB8E8\uD478\uB8E8 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6DF1\u591C\u7684\u5947\u602A\u9F8D\u72E9\u7375",
+        "Client": "\u53E3\u9F52\u6E05\u6670\u7684\u7537\u6027",
+        "Description": "\u7576\u6211\u53BB\u591C\u91E3\uFF0C\u56E0\u4F4E\u6EAB\u745F\u745F\u767C\u6296\u6642\uFF0C\r\n\u7A81\u7136\u5192\u51FA\u4E00\u5718\u6709\u5F48\u529B\u7684\u584A\u72C0\u7269\u9AD4\u3002\r\n\u6C92\u932F\uFF0C\u5F9E\u5929\u800C\u964D\u7684\u6B63\u662F\u5947\u602A\u9F8D\uFF01\r\n\u5728\u88AB\u7260\u9ECF\u7B54\u7B54\u7684\u5634\u5DF4\u4E00\u53E3\u541E\u4E0B\u524D\uFF0C\r\n\u6211\u8D95\u7DCA\u5229\u7528\u6ED1\u6E9C\u6E9C\u7684\u51B0\u9762\u9003\u8D70\u4E86\u3002\r\n\u5982\u679C\u7F6E\u4E4B\u4E0D\u7406\uFF0C\u640D\u5BB3\u6703\u7ACB\u523B\u64F4\u5927\uFF0C\r\n\u5C31\u9EBB\u7169\u4F60\u53BB\u72E9\u7375\u7260\u4E86\u3002",
+        "Target": "\u72E9\u73751\u982D\u5947\u602A\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u67D0\u591C\uFF0C\u72E9\u730E\u5947\u602A\u9F99",
+        "Client": "\u80FD\u8BF4\u4F1A\u9053\u7684\u7537\u6027",
+        "Description": "\u5BD2\u98CE\u4E2D\u7684\u6211\u6296\u745F\u745F\u5730\u591C\u9493\uFF0C\r\n\u7A81\u7136\u6765\u4E86\u56E2\u6251\u7C0C\u7C0C\u7684\u4E1C\u897F\u2026\u2026\r\n\u6CA1\u9519\uFF0C\u98DE\u4E86\u4E0B\u6765\u7684\uFF0C\u662F\u5947\u602A\u9F99\uFF01\r\n\u5728\u88AB\u9ECF\u6ED1\u6ED1\u7684\u5927\u5634\u5403\u6389\u524D\uFF0C\r\n\u6211\u5229\u7528\u6ED1\u6E9C\u6E9C\u7684\u51B0\u9762\u9003\u8DD1\u4E86\u3002\r\n\u5750\u89C6\u4E0D\u7BA1\u7684\u8BDD\uFF0C\u53D7\u5BB3\u8303\u56F4\u773C\u7741\u7741\r\n\u5C31\u4F1A\u6269\u5927\u3002\u9EBB\u70E6\u4F60\u53BB\u72E9\u730E\u5566\u3002",
+        "Target": "\u72E9\u730E1\u5934\u5947\u602A\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0644\u064A\u0644\u0629 \u062E\u064A\u0632\u0648",
+        "Client": "\u0631\u0627\u062C\u0644 \u0634\u0627\u0639\u0631\u064A",
+        "Description": "\u0643\u0646\u062A \u0628\u0627\u0644\u062E\u0627\u0631\u062C \u0623\u0635\u0637\u0627\u062F\u061B \u0648\u0643\u0644\r\n\u0634\u064A\u0621 \u0645\u0638\u0644\u0645 \u0648\u0643\u0626\u064A\u0628. \u0639\u0646\u062F\u0645\u0627 \u0637\u0627\u0631\r\n\u062E\u064A\u0632\u0648 \u0641\u062C\u0623\u0629 \u0644\u0623\u0633\u0641\u0644\u061B \u0644\u0632\u062C \u0648\u0637\u0631\u064A.\r\n\u0648\u0630\u0639\u0631\u062A \u0639\u0646\u062F\u0645\u0627 \u0627\u0643\u062A\u0634\u0641\u062A \u0639\u062F\u0645 \u0648\u062C\u0648\u062F\r\n\u0639\u064A\u0648\u0646 \u0644\u0627\u0645\u0639\u0629\u060C \u0644\u064A\u0633 \u0633\u0648\u0649 \u0631\u0642\u0628\u0629\r\n\u0645\u062A\u0631\u0647\u0644\u0629...\u0648\u0645\u0639\u0631\u0651\u0642\u0629 \u0648\u0645\u062C\u0639\u062F\u0629.",
+        "Target": "\u0635\u064A\u062F \u062E\u064A\u0632\u0648",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1794,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1794,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 5040,
+      "Points": 110,
+      "HRP": 360
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      70,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 97,
+      "AttackTable": 79,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

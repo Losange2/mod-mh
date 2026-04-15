@@ -1,0 +1,350 @@
+{
+  "QuestID": 315290,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u30E4\u30D6\u3092\u3064\u3064\u3044\u3066\u86EE\u984E\u7ADC\u3092\u51FA\u3059",
+        "Client": "\u738B\u56FD\u9A0E\u58EB\u30D5\u30A3\u30AA\u30EC\u30FC\u30CD",
+        "Description": "\u5358\u72EC\u3067\u6C34\u6CA1\u6797\u306B\u5411\u304B\u3063\u305F\u7ADC\u4EBA\u306E\r\n\u7814\u7A76\u54E1\u304C\u30A2\u30F3\u30B8\u30E3\u30CA\u30D5\u306E\u8972\u6483\u3092\r\n\u53D7\u3051\u3001\u623B\u3063\u3066\u3053\u3089\u308C\u306A\u304F\u306A\u3063\u305F\r\n\u3088\u3046\u3060\u3002\u81EA\u696D\u81EA\u5F97\u3060\u304C\u3001\u4EF2\u9593\u3092\r\n\u6368\u3066\u7F6E\u304F\u3053\u3068\u306F\u3067\u304D\u306A\u3044\u3002\r\n\u3053\u3061\u3089\u306E\u4E0D\u624B\u969B\u3067\u7533\u3057\u8A33\u306A\u3044\u304C\u3001\r\n\u5974\u306E\u6551\u51FA\u306B\u5411\u304B\u3063\u3066\u304F\u308C\u3002",
+        "Target": "\u30A2\u30F3\u30B8\u30E3\u30CA\u30D5\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Provoking an Anjanath\u0027s Wrath",
+        "Client": "Dame Fiorayne",
+        "Description": "A Wyverian researcher has taken\r\nit upon himself to venture out in\r\nthe Flooded Forest alone. It comes\r\nas no surprise that going out there\r\nby himself was a stupid idea. And\r\nnow he\u0027s in danger. My apologies,\r\nbut could I ask you to rescue him?",
+        "Target": "Hunt an Anjanath",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Provoquer l\u0027ire d\u0027un Anjanath",
+        "Client": "Dame Fiorayne",
+        "Description": "Un chercheur wyv\u00E9rien s\u0027est rendu\r\nseul dans la For\u00EAt inond\u00E9e et a\r\n\u00E9t\u00E9 attaqu\u00E9 par un Anjanath.\r\nIl n\u0027est pas revenu. C\u0027\u00E9tait\r\nidiot de partir seul, mais on ne\r\npeut pas l\u0027abandonner. Tu veux\r\nbien aller le secourir ?",
+        "Target": "Chasser un Anjanath",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Scatenare l\u0027ira dell\u0027Anjanath",
+        "Client": "Dama Fiorayne",
+        "Description": "Un ricercatore wyverniano \u00E8\r\nandato alla Foresta inondata\r\ntutto solo ed \u00E8 stato attaccato\r\nda un Anjanath. Non \u00E8 ancora\r\ntornato. Gli sta bene, ma non\r\npossiamo abbandonarlo. Puoi\r\nandare a salvarlo?",
+        "Target": "Caccia un Anjanath",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Zorn eines Anjanath wecken",
+        "Client": "Fiorayne",
+        "Description": "Ein Wyverianischer Forscher ist\r\nallein in den Flutwald gegangen.\r\nDas war nat\u00FCrlich eine dumme\r\nIdee und jetzt steckt er in\r\nSchwierigkeiten. Entschuldige\r\ndie Bitte, aber kannst du ihn\r\nvielleicht retten?",
+        "Target": "Erjage einen Anjanath.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Por provocar al Anjanath",
+        "Client": "Fiorayne",
+        "Description": "Un estudioso de los wyverns\r\nse fue solo al Bosque inundado.\r\nY claro, ahora est\u00E1 en peligro,\r\n\u00BFqui\u00E9n lo habr\u00EDa imaginado?\r\nLe servir\u00E1 de lecci\u00F3n, pero\r\nno podemos abandonarlo.\r\n\u00BFPodr\u00EDas ir a rescatarlo?",
+        "Target": "Caza un Anjanath",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041F\u0440\u043E\u0432\u043E\u0446\u0438\u0440\u0443\u044F \u0433\u043D\u0435\u0432 \u0410\u043D\u044C\u044F\u043D\u0430\u0442\u0430",
+        "Client": "\u0420\u044B\u0446\u0430\u0440\u044C \u0424\u0438\u043E\u0440\u0430\u0439\u043D\u0430",
+        "Description": "\u0418\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u0432\u0438\u0432\u0435\u0440\u043D \u0443\u0448\u0435\u043B\r\n\u043E\u0434\u0438\u043D \u0432 \u0417\u0430\u0442\u043E\u043F\u043B\u0435\u043D\u043D\u044B\u0439 \u043B\u0435\u0441 \u0438\r\n\u043F\u043E\u0434\u0432\u0435\u0440\u0433\u0441\u044F \u043D\u0430\u043F\u0430\u0434\u0435\u043D\u0438\u044E \u0410\u043D\u044C\u044F\u043D\u0430\u0442\u0430.\r\n\u041E\u043D \u0434\u043E \u0441\u0438\u0445 \u043F\u043E\u0440 \u043D\u0435 \u0432\u0435\u0440\u043D\u0443\u043B\u0441\u044F.\r\n\u042D\u0442\u043E \u0445\u043E\u0440\u043E\u0448\u0438\u0439 \u0443\u0440\u043E\u043A \u043D\u0430 \u0431\u0443\u0434\u0443\u0449\u0435\u0435,\r\n\u043D\u043E \u043C\u044B \u0441\u0432\u043E\u0438\u0445 \u043D\u0435 \u0431\u0440\u043E\u0441\u0430\u0435\u043C.\r\n\u041F\u0440\u043E\u0448\u0443, \u0441\u043F\u0430\u0441\u0438\u0442\u0435 \u0435\u0433\u043E.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0410\u043D\u044C\u044F\u043D\u0430\u0442\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Prowokacja gniewu Anjanatha",
+        "Client": "Pani Fiorayne",
+        "Description": "Badacz wiwern poszed\u0142 sam do\r\nZatopionego Lasu i zaatakowa\u0142\r\ngo Anjanath. Jeszcze nie\r\nwr\u00F3ci\u0142. To dla niego nauczka,\r\nnie mo\u017Cemy jednak porzuca\u0107\r\nnaszych koleg\u00F3w. Wybacz,\r\nale uratuj go, prosz\u0119.",
+        "Target": "Upoluj Anjanatha",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Provoca\u00E7\u00E3o de Anjanath",
+        "Client": "Dama Fiorayne",
+        "Description": "Um pesquisador de serpes foi\r\nsozinho \u00E0 Selva Inundada e\r\nacabou atacado por um Anja-\r\nnath. Ainda n\u00E3o voltou. \u00C9\r\nbem-feito, mas n\u00E3o podemos\r\nabandonar colegas. Desculpa,\r\nmas por favor, resgate-o.",
+        "Target": "Cace um Anjanath",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uAE01\uC5B4 \uC548\uC7C8\uB098\uD504 \uB9CC\uB4E4\uAE30",
+        "Client": "\uC655\uAD6D \uAE30\uC0AC \uD53C\uC624\uB808\uB124",
+        "Description": "\uD63C\uC790 \uC218\uBAB0\uB41C \uC232\uC73C\uB85C \uAC04 \uC6A9\uC778\r\n\uC5F0\uAD6C\uC6D0\uC774 \uC548\uC7C8\uB098\uD504\uC758 \uC2B5\uACA9\uC744\r\n\uBC1B\uC544 \uB3CC\uC544\uC624\uC9C0 \uBABB\uD558\uACE0 \uC788\uB2E4.\r\n\uC790\uC5C5\uC790\uB4DD\uC774\uB2E4\uB9CC, \uB3D9\uB8CC\uB97C\r\n\uB0B4\uBC84\uB824 \uB458 \uC218\uB3C4 \uC5C6\uB294 \uC77C\uC774\uC9C0.\r\n\uC774\uCABD \uC2E4\uC218\uB77C\uC11C \uBA74\uBAA9 \uC5C6\uC9C0\uB9CC\r\n\uB140\uC11D\uC744 \uAD6C\uD574 \uC8FC\uACA0\uB098?",
+        "Target": "\uC548\uC7C8\uB098\uD504 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6253\u8349\u9A5A\u883B\u984E\u9F8D",
+        "Client": "\u738B\u570B\u9A0E\u58EB\u83F2\u6B50\u8389\u5C3C",
+        "Description": "\u4F3C\u4E4E\u6709\u4E00\u540D\u9F8D\u4EBA\u7814\u7A76\u54E1\r\n\u55AE\u7368\u524D\u5F80\u6C34\u6C92\u6797\uFF0C\u7D50\u679C\u906D\u5230\r\n\u883B\u984E\u9F8D\u8972\u64CA\u800C\u7121\u6CD5\u8FD4\u56DE\u3002\r\n\u96D6\u8AAA\u662F\u4ED6\u81EA\u4F5C\u81EA\u53D7\uFF0C\r\n\u4F46\u6211\u5011\u4E0D\u80FD\u898B\u6B7B\u4E0D\u6551\u3002\r\n\u5F88\u62B1\u6B49\u51FA\u4E86\u9019\u7A2E\u7D15\u6F0F\uFF0C\r\n\u8ACB\u4F60\u524D\u53BB\u6551\u51FA\u8A72\u540D\u7814\u7A76\u54E1\u5427\u3002",
+        "Target": "\u72E9\u73751\u982D\u883B\u984E\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u81EA\u6295\u86EE\u989A\u9F99",
+        "Client": "\u738B\u56FD\u9A91\u58EB\u83F2\u5965\u83B1\u5A1C",
+        "Description": "\u5B64\u8EAB\u524D\u5F80\u6C34\u6CA1\u6797\u7684\u9F99\u4EBA\u7814\u7A76\u5458\u4F3C\u4E4E\r\n\u906D\u5230\u86EE\u989A\u9F99\u88AD\u51FB\uFF0C\u56DE\u4E0D\u6765\u4E86\u3002\u867D\u7136\r\n\u8FD9\u662F\u4ED6\u81EA\u4F5C\u81EA\u53D7\uFF0C\u4F46\u6211\u4EEC\u4E0D\u80FD\u5BF9\u540C\r\n\u4F34\u89C1\u6B7B\u4E0D\u6551\u3002\u6211\u4EEC\u7684\u5931\u8BEF\u7ED9\u4F60\u6DFB\u9EBB\r\n\u70E6\u4E86\uFF0C\u8FD8\u8BF7\u4F60\u53BB\u6551\u4ED6\u3002",
+        "Target": "\u72E9\u730E1\u5934\u86EE\u989A\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0625\u062B\u0627\u0631\u0629 \u063A\u0636\u0628 \u0623\u0646\u062C\u0627\u0646\u0627\u062B",
+        "Client": "\u0627\u0644\u0633\u064A\u062F\u0629 \u0641\u064A\u0648\u0631\u0627\u064A\u0646",
+        "Description": "\u0630\u0647\u0628 \u0628\u0627\u062D\u062B \u062A\u0646\u0627\u0646\u064A\u0646 \u0645\u062C\u0646\u062D\u0629 \u0625\u0644\u064A\r\n\u0627\u0644\u063A\u0627\u0628\u0629 \u0627\u0644\u063A\u0627\u0631\u0642\u0629 \u0628\u0645\u0641\u0631\u062F\u0647 \u0648\r\n\u0647\u0627\u062C\u0645\u0647 \u0623\u0646\u062C\u0627\u0646\u0627\u062B. \u0648\u0644\u0645 \u064A\u0639\u062F\r\n\u0628\u0639\u062F. \u0625\u0646\u0647 \u064A\u0633\u062A\u062D\u0642 \u0630\u0644\u0643 \u062D\u0642\u0651\u064B\u0627\u060C\r\n\u0644\u0643\u0646\u0646\u0627 \u0644\u0627 \u0646\u0633\u062A\u0637\u064A\u0639 \u0627\u0644\u062A\u062E\u0644\u064A\r\n\u0639\u0646 \u0631\u0641\u0627\u0642\u0646\u0627. \u0623\u0639\u062A\u0630\u0631\u060C\r\n\u0644\u0643\u0646 \u0623\u0631\u062C\u0648\u0643 \u0627\u0630\u0647\u0628 \u0644\u0625\u0646\u0642\u0627\u0630\u0647\u0645.",
+        "Target": "\u0635\u064A\u062F \u0623\u0646\u062C\u0627\u0646\u0627\u062B",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 2,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      44,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 44,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 107,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 102,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 24,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 24,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 95,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 118,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 17640,
+      "Points": 360,
+      "HRP": 890
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      12,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 28,
+      "HealthTable": 118,
+      "AttackTable": 124,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

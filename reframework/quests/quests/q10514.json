@@ -1,0 +1,350 @@
+{
+  "QuestID": 10514,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u4E00\u4F53\u3068\u306A\u308C\uFF01\u3000\u76FE\u65A7\u306E\u578B",
+        "Client": "\u30A6\u30C4\u30B7\u6559\u5B98",
+        "Description": "\u3084\u3042\u3001\u6211\u304C\u611B\u5F1F\u5B50\u3088\uFF01\r\n\u5263\u3068\u76FE\u3092\u5408\u4F53\u3055\u305B\u3001\u3055\u3089\u306A\u308B\u529B\u3092\r\n\u5F15\u304D\u51FA\u3059\u30C1\u30E3\u30FC\u30B8\u30A2\u30C3\u30AF\u30B9\u2026\u3002\r\n\u65B0\u3057\u3044\u6280\u306E\u53C2\u8003\u306B\u306F\u3001\u6211\u304C\u8EAB\u306B\r\n\u6C34\u3084\u6CE5\u3092\u4E00\u4F53\u5316\u3055\u305B\u3066\u529B\u3092\u5F15\u304D\r\n\u51FA\u3059\u003CCOL RED\u003E\u30ED\u30A2\u30EB\u30C9\u30ED\u30B9\u003C/COL\u003E\u3068\u003CCOL RED\u003E\u30B8\u30E5\u30E9\u30C8\u30C9\u30B9\u003C/COL\u003E\r\n\u304C\u6700\u9069\u3060\u3002\u3058\u3083\u3001\u72E9\u3063\u3066\u307F\u3088\u3046\uFF01",
+        "Target": "\u5168\u3066\u306E\u30BF\u30FC\u30B2\u30C3\u30C8\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Charge Blade Coalescing",
+        "Client": "Master Utsushi",
+        "Description": "Alright, Ace, lesson time!\r\nLike the \u003CCOL RED\u003ERoyal Ludroth\u003C/COL\u003E and \u003CCOL RED\u003EJyuratodus\u003C/COL\u003E,\r\nyou\u0027ll need to be in water\u2014Wait, no...\r\nYou\u0027ll need to be \u0022AS water.\u0022 Meaning\r\nyou\u0027ll have to be flexible according to the\r\nsituation. Understanding this is the key\r\nto unlocking the charge blade\u0027s potential!",
+        "Target": "Hunt all target monsters",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Manier la volto-hache",
+        "Client": "Utsushi le ma\u00EEtre",
+        "Description": "Bon, je t\u0027explique ! Tout comme le\r\n\u003CCOL RED\u003ELudroth royal\u003C/COL\u003E et le \u003CCOL RED\u003EJyuratodus\u003C/COL\u003E, tu\r\nvas devoir aller dans l\u0027eau... Euh,\r\ndevenir de l\u0027eau, enfin mall\u00E9able\r\ncomme de l\u0027eau... Hmm. C\u0027est pas\r\nclair ? Bref, apprends \u00E0 t\u0027adapter\r\npour manier la volto-hache !",
+        "Target": "Chasser tous les monstres",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Unirsi alla lama caricata",
+        "Client": "Maestro Utsushi",
+        "Description": "OK, \u00E8 ora di imparare: proprio\r\ncome il \u003CCOL RED\u003ELudroth reale\u003C/COL\u003E e il\r\n\u003CCOL RED\u003EJyuratodus\u003C/COL\u003E, dovrai essere in\r\nacqua... No, devi essere COME\r\nl\u0027acqua, ovvero adattarti alla\r\nsituazione. Solo cos\u00EC sfrutti\r\nal massimo la lama caricata.",
+        "Target": "Caccia tutti i mostri assegnati",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Einsatz der Energieklinge",
+        "Client": "Meister Utsushi",
+        "Description": "Okay, Ass, aufgepasst! Wie der \u003CCOL RED\u003EK\u00F6nigs-\r\nLudroth\u003C/COL\u003E und der \u003CCOL RED\u003EJyuratodus\u003C/COL\u003E musst du im\r\nWasser-- Nee, warte... Du musst WIE\r\nWasser sein. Das hei\u00DFt, du musst auf jede\r\nSituation flexibel reagieren. Dieses Ver-\r\nst\u00E4ndnis ist essenziell, um das Potenzial\r\nder Energieklinge voll auszusch\u00F6pfen!",
+        "Target": "Erjage alle Zielmonster.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Probando el hacha cargada",
+        "Client": "Maestro Utsushi",
+        "Description": "Hacha, \u00A1hora de aprender!\r\nEl dise\u00F1o h\u00EDbrido del hacha\r\ncargada es como la forma en\r\nque ciertos monstruos usan\r\nagua y barro a su favor. Para\r\ndominar esta arma, \u00A1caza un\r\n\u003CCOL RED\u003ELudroth Real\u003C/COL\u003E y un \u003CCOL RED\u003EJyuratodus\u003C/COL\u003E!",
+        "Target": "Caza todos los objetivos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041E\u0431\u044A\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u0435 \u0441\u0438\u043B\u043E\u0432\u043E\u0433\u043E \u043A\u043B\u0438\u043D\u043A\u0430",
+        "Client": "\u041C\u0430\u0441\u0442\u0435\u0440 \u0423\u0446\u0443\u0441\u0438",
+        "Description": "\u041D\u0443 \u0447\u0442\u043E, \u0430\u0441, \u043F\u043E\u0440\u0430 \u0443\u0447\u0438\u0442\u044C\u0441\u044F!\r\n\u041A\u0430\u043A \u0438 \u003CCOL RED\u003E\u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u043E\u043C\u0443 \u041B\u0443\u0434\u0440\u043E\u0442\u0443\u003C/COL\u003E\r\n\u0441 \u003CCOL RED\u003E\u042E\u0440\u0430\u0442\u043E\u0434\u043E\u043C\u003C/COL\u003E, \u0442\u0435\u0431\u0435 \u043D\u0443\u0436\u043D\u043E\r\n\u0431\u044B\u0442\u044C, \u0441\u043B\u043E\u0432\u043D\u043E \u0432\u043E\u0434\u0430 \u2014 \u0442\u043E \u0435\u0441\u0442\u044C,\r\n\u043F\u0440\u0438\u0441\u043F\u043E\u0441\u0430\u0431\u043B\u0438\u0432\u0430\u0442\u044C\u0441\u044F \u043A \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438.\r\n\u0422\u043E\u0433\u0434\u0430-\u0442\u043E \u0442\u044B \u0441\u0442\u0430\u043D\u0435\u0448\u044C \u043C\u0430\u0441\u0442\u0435\u0440\u043E\u043C\r\n\u0441\u0438\u043B\u043E\u0432\u043E\u0433\u043E \u043A\u043B\u0438\u043D\u043A\u0430!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0432\u0441\u0435\u0445 \u043E\u0442\u043C\u0435\u0447\u0435\u043D\u043D\u044B\u0445 \u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Zespolenie \u0142adowanego ostrza",
+        "Client": "Mistrz Utsushi",
+        "Description": "Dobra, czas na nauk\u0119! Wzorem\r\n\u003CCOL RED\u003ELudrotha Kr\u00F3lewskiego\u003C/COL\u003E i\r\n\u003CCOL RED\u003EJyuratodusa\u003C/COL\u003E musisz by\u0107 w wodzie.\r\nZaraz, nie... Musisz by\u0107 JAK woda.\r\nCzyli umie\u0107 p\u0142ynnie dostosowa\u0107 si\u0119\r\ndo sytuacji. Je\u015Bli to zrozumiesz,\r\nuwolnisz potencja\u0142 \u0142adowanego ostrza.",
+        "Target": "Upoluj wszystkie cele",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Coalesc\u00EAncia da l\u00E2mina d\u00EDnamo",
+        "Client": "Mestre Utsushi",
+        "Description": "Beleza, Craque, hora da aula!\r\nComo o \u003CCOL RED\u003ELudroth Real\u003C/COL\u003E e o \u003CCOL RED\u003EJyuratodus\u003C/COL\u003E,\r\nvoc\u00EA precisa \u0022ser como a \u00E1gua\u0022.\r\nIsso significa que voc\u00EA tem que ser\r\nflex\u00EDvel de acordo com a situa\u00E7\u00E3o.\r\nEntender isso \u00E9 a chave pra liberar\r\no potencial da l\u00E2mina d\u00EDnamo!",
+        "Target": "Cace todos os monstros-alvos",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD558\uB098\uAC00 \uB3FC\uB77C! \uCC28\uC9C0\uC561\uC2A4\uC758 \uAE30\uC220",
+        "Client": "\uC6B0\uCE20\uC2DC \uAD50\uAD00",
+        "Description": "\uC790, \uB098\uC758 \uC560\uC81C\uC790\uC5EC!\r\n\uAC80\uACFC \uBC29\uD328\uB97C \uD569\uCCD0\uC11C \uD070 \uD798\uC744\r\n\uC774\uB04C\uC5B4 \uB0B4\uB294 \uCC28\uC9C0\uC561\uC2A4\u2026 \uC0C8\uB85C\uC6B4\r\n\uAE30\uC220\uC744 \uBC30\uC6B0\uB824\uBA74 \uBB3C\uACFC \uC9C4\uD759\uC744\r\n\uBAB8\uC5D0 \uC77C\uCCB4\uD654\uC2DC\uD0A4\uB294 \uD798\uC744 \uAC00\uC9C4\r\n\u003CCOL RED\u003E\uB85C\uC544\uB8E8\uB4DC\uB85C\uC2A4\u003C/COL\u003E\uC640 \u003CCOL RED\u003E\uC96C\uB77C\uD1A0\uB3C4\uC2A4\u003C/COL\u003E\uAC00\r\n\uC801\uC784\uC774\uB2E4. \uC790, \uC0AC\uB0E5\uD558\uB294 \uAC70\uB2E4!",
+        "Target": "\uBAA8\uB4E0 \uD0C0\uAC9F \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u4EBA\u65A7\u4E00\u9AD4\uFF01\u5145\u80FD\u65A7\u7684\u62DB\u5F0F",
+        "Client": "\u502A\u6CF0\u6559\u5B98",
+        "Description": "\u55E8\uFF0C\u6211\u7684\u611B\u5F92\u554A\uFF01\r\n\u5145\u80FD\u65A7\u662F\u5C07\u528D\u8207\u76FE\u5169\u8005\u5408\u4E00\uFF0C\r\n\u9032\u4E00\u6B65\u767C\u63EE\u5176\u529B\u91CF\u7684\u6B66\u5668\u2026\u2026\r\n\u800C\u80FD\u5920\u5C07\u6C34\u8207\u6CE5\u5404\u81EA\u5408\u800C\u70BA\u4E00\uFF0C\r\n\u4E26\u767C\u63EE\u5176\u529B\u91CF\u7684\u003CCOL RED\u003E\u6C34\u7378\u003C/COL\u003E\u548C\u003CCOL RED\u003E\u6CE5\u9B5A\u9F8D\u003C/COL\u003E\uFF0C\r\n\u6700\u9069\u5408\u4F5C\u70BA\u5145\u80FD\u65A7\u65B0\u6280\u80FD\u7684\u53C3\u8003\u3002\r\n\u90A3\u9EBC\uFF0C\u8A66\u8457\u53BB\u72E9\u7375\u7260\u5011\u5427\uFF01",
+        "Target": "\u72E9\u7375\u6240\u6709\u76EE\u6A19",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u878D\u4E3A\u4E00\u4F53\u5427\uFF01\u76FE\u65A7\u4E4B\u578B",
+        "Client": "\u502A\u6CF0\u6559\u5B98",
+        "Description": "\u563F\uFF0C\u6211\u7684\u7231\u5F92\u554A\uFF01\r\n\u5251\u76FE\u5408\u4F53\uFF0C\u53D1\u6325\u51FA\r\n\u66F4\u52A0\u5F3A\u5927\u529B\u91CF\u7684\u76FE\u65A7\u2026\u2026\r\n\u4E3A\u4E60\u5F97\u65B0\u6280\u5DE7\uFF0C\u80FD\u4EE4\u6C34\u8FD8\u6709\u6CE5\r\n\u4E0E\u81EA\u8EAB\u878D\u4E3A\u4E00\u4F53\u5E76\u53D1\u6325\u5176\u529B\u91CF\u7684\r\n\u003CCOL RED\u003E\u6C34\u517D\u003C/COL\u003E\u548C\u003CCOL RED\u003E\u6CE5\u9C7C\u9F99\u003C/COL\u003E\u6700\u9002\u5408\u4F5C\u4E3A\u53C2\u8003\u4E86\u3002\r\n\u4F60\u5C31\u53BB\u72E9\u730E\u5B83\u4EEC\u5427\uFF01",
+        "Target": "\u72E9\u730E\u6240\u6709\u76EE\u6807",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u062F\u0645\u062C \u0627\u0644\u0646\u0635\u0644 \u0627\u0644\u0645\u0634\u062D\u0648\u0646",
+        "Client": "\u0627\u0644\u0633\u064A\u062F \u0623\u0648\u062A\u0633\u0648\u0634\u064A",
+        "Description": "\u062D\u0633\u0646\u064B\u0627 \u003CLSNR {\u0623\u064A\u0647\u0627 \u0627\u0644\u0628\u0627\u0631\u0639} {\u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0628\u0627\u0631\u0639\u0629}\u003E\u060C \u062D\u0627\u0646 \u0648\u0642\u062A\r\n\u0627\u0644\u062F\u0631\u0633! \u0645\u062B\u0644 \u003CCOL RED\u003E\u0644\u0648\u062F\u0631\u0648\u062B \u0627\u0644\u0645\u0644\u0643\u064A\u003C/COL\u003E \u0648\u003CCOL RED\u003E\u062C\u064A\u0648\u0631\u0627\u062A\u0648\u062F\u0648\u0633\u003C/COL\u003E\u060C \u003CLSNR {\u0639\u0644\u064A\u0643 \u0623\u0646 \u062A\u0643\u0648\u0646} {\u0639\u0644\u064A\u0643\u0650 \u0623\u0646 \u062A\u0643\u0648\u0646\u064A}\u003E\r\n\u0641\u064A \u0627\u0644\u0645\u0627\u0621\u060C \u0645\u0647\u0644\u064B\u0627\u060C \u0644\u0627...\r\n\u003CLSNR {\u0639\u0644\u064A\u0643 \u0623\u0646 \u062A\u0643\u0648\u0646} {\u0639\u0644\u064A\u0643\u0650 \u0623\u0646 \u062A\u0643\u0648\u0646\u064A}\u003E \u0022\u0643\u0627\u0644\u0645\u0627\u0621\u0022. \u0628\u0645\u0639\u0646\u0649\r\n\u0625\u0646\u0647 \u003CLSNR {\u0639\u0644\u064A\u0643 \u0623\u0646 \u062A\u0643\u0648\u0646 \u0645\u0631\u0646\u064B\u0627} {\u0639\u0644\u064A\u0643\u0650 \u0623\u0646 \u062A\u0643\u0648\u0646\u064A \u0645\u0631\u0646\u0629}\u003E \u062D\u0633\u0628\r\n\u0627\u0644\u0645\u0648\u0642\u0641. \u0641\u0647\u0645 \u0630\u0644\u0643 \u0647\u0648 \u0627\u0644\u0645\u0641\u062A\u0627\u062D\r\n\u0644\u0625\u0637\u0644\u0627\u0642 \u0625\u0645\u0643\u0627\u0646\u064A\u0627\u062A \u0627\u0644\u0646\u0635\u0644 \u0627\u0644\u0645\u0634\u062D\u0648\u0646!",
+        "Target": "\u0635\u064A\u062F \u0643\u0644 \u0627\u0644\u0648\u062D\u0648\u0634 \u0627\u0644\u0645\u0633\u062A\u0647\u062F\u0641\u0629",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 5,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      20,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 20,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 514,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 2,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 93,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 9720,
+      "Points": 200,
+      "HRP": 610
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      44,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 40,
+      "HealthTable": 99,
+      "AttackTable": 81,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

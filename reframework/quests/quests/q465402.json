@@ -1,0 +1,350 @@
+{
+  "QuestID": 465402,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u57CE\u585E\u3092\u8352\u3089\u3059\u66B4\u541B",
+        "Client": "\u96C6\u4F1A\u6240\u306E\u53D7\u4ED8\u5B22\u30DF\u30CE\u30C8",
+        "Description": "\u4EE5\u524D\u306E\u935B\u932C\u3067\u3001\u81EA\u8EAB\u306E\u8AB2\u984C\u3092\r\n\u628A\u63E1\u3059\u308B\u3053\u3068\u304C\u3067\u304D\u307E\u3057\u305F\u3002\r\n\u30D2\u30CE\u30A8\u59C9\u3055\u307E\u3092\u304A\u5B88\u308A\u3059\u308B\u305F\u3081\u3001\r\n\u3088\u308A\u6D17\u7DF4\u3055\u308C\u305F\u7ACB\u3061\u56DE\u308A\u304C\r\n\u3067\u304D\u308B\u3088\u3046\u52AA\u3081\u306D\u3070\u306A\u308A\u307E\u305B\u3093\u3002\r\n\u8AB2\u984C\u514B\u670D\u306E\u305F\u3081\u3001\u518D\u3073\u935B\u932C\u306B\r\n\u3054\u5354\u529B\u3044\u305F\u3060\u3051\u306A\u3044\u3067\u3057\u3087\u3046\u304B\uFF1F",
+        "Target": "\u30C6\u30A3\u30AC\u30EC\u30C3\u30AF\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Destructive Instructor",
+        "Client": "Minoto the Hub Maiden",
+        "Description": "Thanks to our previous training\r\nsession I gained a lot of experience\r\nand I was able to identify a number\r\nof things I need to work on. I\u0027d like\r\nto build on what I learned and hone\r\nmy skill further! I\u0027ll do anything to\r\nprotect my sister! Say you\u0027ll help!",
+        "Target": "Hunt a Tigrex",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Tyran de la Citadelle",
+        "Client": "Minoto la r\u00E9ceptionniste",
+        "Description": "Notre entra\u00EEnement m\u0027a permis\r\nde rep\u00E9rer certains probl\u00E8mes.\r\nJe dois m\u0027am\u00E9liorer si je veux\r\npouvoir prot\u00E9ger Hinoa ! Que\r\ndirais-tu de me rejoindre pour\r\nun autre entra\u00EEnement\r\nfructueux ?",
+        "Target": "Chasser un Tigrex",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Tiranno della cittadella",
+        "Client": "Minoto la receptionist",
+        "Description": "Il nostro ultimo allenamento\r\nmi ha permesso di identificare\r\nuna serie di problemi. Devo\r\ncontinuare a perfezionare le\r\nmie abilit\u00E0 per proteggere\r\nHinoa. Ti unisci a me per\r\nun\u0027altra sessione proficua?",
+        "Target": "Caccia un Tigrex",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Zerst\u00F6rerischer Ausbilder",
+        "Client": "Minoto das St\u00E4tten-M\u00E4del",
+        "Description": "Durch unser gemeinsames Training\r\nhabe ich jede Menge Erfahrung\r\ngesammelt und Dinge entdeckt,\r\nan denen ich arbeiten muss. Aber\r\nzuerst muss ich meine Schwester\r\nbesch\u00FCtzen! Hilfst du mir dabei?",
+        "Target": "Erjage einen Tigrex.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Instructor destructor",
+        "Client": "Minoto de la recepci\u00F3n",
+        "Description": "Gracias a la experiencia de\r\nnuestra sesi\u00F3n de entrenamiento\r\nanterior, he podido identificar\r\nen qu\u00E9 debo mejorar. Quiero\r\npulir mis habilidades y as\u00ED poder\r\nproteger mejor a mi hermana,\r\n\u00A1dime que me ayudar\u00E1s, por favor!",
+        "Target": "Caza un Tigrex",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0422\u0438\u0440\u0430\u043D \u0426\u0438\u0442\u0430\u0434\u0435\u043B\u0438",
+        "Client": "\u0420\u0430\u0437\u0434\u0430\u0442\u0447\u0438\u0446\u0430 \u0437\u0430\u0434\u0430\u043D\u0438\u0439 \u041C\u0438\u043D\u043E\u0442\u043E",
+        "Description": "\u041D\u0430 \u043F\u0440\u043E\u0448\u043B\u043E\u0439 \u0442\u0440\u0435\u043D\u0438\u0440\u043E\u0432\u043A\u0435\r\n\u0432\u0441\u043A\u0440\u044B\u043B\u0438\u0441\u044C \u043C\u043E\u0438 \u0441\u043B\u0430\u0431\u044B\u0435 \u043C\u0435\u0441\u0442\u0430.\r\n\u0415\u0441\u043B\u0438 \u044F \u043D\u0435 \u0431\u0443\u0434\u0443 \u043E\u0442\u0442\u0430\u0447\u0438\u0432\u0430\u0442\u044C \u0441\u0432\u043E\u0438\r\n\u043D\u0430\u0432\u044B\u043A\u0438, \u044F \u043D\u0435 \u0441\u043C\u043E\u0433\u0443 \u0437\u0430\u0449\u0438\u0442\u0438\u0442\u044C\r\n\u0425\u0438\u043D\u043E\u0430! \u041D\u0435 \u0445\u043E\u0447\u0435\u0448\u044C \u0435\u0449\u0435 \u0440\u0430\u0437\r\n\u043F\u043E\u0442\u0440\u0435\u043D\u0438\u0440\u043E\u0432\u0430\u0442\u044C\u0441\u044F \u0432\u043C\u0435\u0441\u0442\u0435?\r\n\u041D\u0430\u043C \u043F\u043E\u0439\u0434\u0435\u0442 \u044D\u0442\u043E \u043D\u0430 \u043F\u043E\u043B\u044C\u0437\u0443.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0422\u0438\u0433\u0440\u0435\u043A\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Tyran Cytadeli",
+        "Client": "Szefowa Centrum Minoto",
+        "Description": "Nasz ostatni trening pom\u00F3g\u0142 mi\r\nzidentyfikowa\u0107 kilka\r\nniedoci\u0105gni\u0119\u0107. Musz\u0119 dalej\r\ndoskonali\u0107 umiej\u0119tno\u015Bci, aby\r\nchroni\u0107 Hino\u0119! Do\u0142\u0105czysz do\r\nmnie na kolejnej owocnej\r\nsesji treningowej?",
+        "Target": "Upoluj Tigrexa",
+        "Fail": "Nagroda r\u00F3wna 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Tirano do Forte",
+        "Client": "Minoto, a dama da AdE",
+        "Description": "Nosso treinamento anterior me\r\najudou a identificar uma s\u00E9rie\r\nde quest\u00F5es. Preciso aperfei-\r\n\u00E7oar minhas habilidades para\r\nproteger a Hinoa! Quer se\r\njuntar a mim numa sess\u00E3o\r\nprodutiva de treinamento?",
+        "Target": "Cace um Tigrex",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC694\uC0C8\uB97C \uD729\uC4F0\uB294 \uD3ED\uAD70",
+        "Client": "\uC9D1\uD68C\uC18C \uC811\uC218\uC6D0 \uBBF8\uB178\uD1A0",
+        "Description": "\uC774\uC804 \uD6C8\uB828\uC744 \uD1B5\uD574 \uC2A4\uC2A4\uB85C\uC758\r\n\uBB38\uC81C\uC810\uC744 \uD30C\uC545\uD560 \uC218 \uC788\uC5C8\uC2B5\uB2C8\uB2E4.\r\n\uD788\uB178\uC5D0 \uC5B8\uB2C8\uB97C \uC9C0\uD0A4\uAE30 \uC704\uD574\uC120\r\n\uBCF4\uB2E4 \uC138\uB828\uB41C \uC6C0\uC9C1\uC784\uC774\r\n\uAC00\uB2A5\uD558\uB3C4\uB85D \uB178\uB825\uD574\uC57C\uACA0\uC8E0.\r\n\uADF9\uBCF5\uD558\uAE30 \uC704\uD574 \uB2E4\uC2DC \uD55C\uBC88\r\n\uD6C8\uB828\uC744 \uB3C4\uC640\uC8FC\uC2E4 \uC218 \uC788\uC744\uAE4C\uC694?",
+        "Target": "\uD2F0\uAC00\uB809\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7834\u58DE\u57CE\u585E\u7684\u66B4\u541B",
+        "Client": "\u96C6\u6703\u6240\u63A5\u5F85\u54E1\u6C34\u85DD",
+        "Description": "\u7D93\u904E\u4E4B\u524D\u7684\u935B\u934A\uFF0C\r\n\u6211\u5DF2\u7D93\u4E86\u89E3\u81EA\u5DF1\u9996\u8981\u89E3\u6C7A\u7684\u8AB2\u984C\u4E86\u3002\r\n\u70BA\u4E86\u5B88\u8B77\u706B\u82BD\u59CA\u59CA\uFF0C\u6211\u5FC5\u9808\r\n\u52AA\u529B\u8B93\u81EA\u5DF1\u7684\u884C\u52D5\u66F4\u52A0\u6D17\u934A\u3002\r\n\u70BA\u4E86\u514B\u670D\u9019\u6B21\u7684\u8AB2\u984C\uFF0C\r\n\u53EF\u5426\u8ACB\u60A8\u518D\u6B21\u5354\u52A9\u6211\u9032\u884C\u935B\u934A\u5462\uFF1F",
+        "Target": "\u72E9\u73751\u982D\u8F5F\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7834\u574F\u57CE\u585E\u7684\u66B4\u541B",
+        "Client": "\u96C6\u4F1A\u6240\u63A5\u5F85\u5458\u6C34\u82B8",
+        "Description": "\u5728\u4E4B\u524D\u7684\u953B\u70BC\u4E2D\uFF0C\u6211\u627E\u5230\u4E86\u81EA\u5DF1\u7684\r\n\u95EE\u9898\u3002\u4E3A\u4E86\u4FDD\u62A4\u597D\u706B\u82BD\u59D0\u59D0\uFF0C\u6211\u5FC5\r\n\u987B\u52AA\u529B\u5B66\u4F1A\u66F4\u5229\u843D\u7684\u6218\u6597\u65B9\u5F0F\u3002\u4E3A\r\n\u4E86\u89E3\u51B3\u8FD9\u4E2A\u95EE\u9898\uFF0C\u53EF\u4EE5\u8BF7\u60A8\u518D\u52A9\u6211\r\n\u953B\u70BC\u5417\uFF1F",
+        "Target": "\u72E9\u730E1\u5934\u8F70\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0637\u0627\u063A\u064A\u0629 \u0627\u0644\u0642\u0644\u0639\u0629",
+        "Client": "\u0645\u064A\u0646\u0648\u062A\u0648 \u0641\u062A\u0627\u0629 \u0627\u0644\u0645\u0631\u0643\u0632",
+        "Description": "\u0633\u0627\u0639\u062F\u0646\u064A \u062A\u062F\u0631\u064A\u0628\u0646\u0627 \u0627\u0644\u0633\u0627\u0628\u0642\r\n\u0639\u0644\u0649 \u062A\u062D\u062F\u064A\u062F \u0639\u062F\u062F \u0645\u0646 \u0627\u0644\u0645\u0634\u0643\u0644\u0627\u062A.\r\n\u0623\u062D\u062A\u0627\u062C \u0625\u0644\u0649 \u0635\u0642\u0644 \u0645\u0647\u0627\u0631\u0627\u062A\u064A\r\n\u0628\u0635\u0648\u0631\u0629 \u0623\u0643\u0628\u0631\r\n\u0644\u062D\u0645\u0627\u064A\u0629 \u0647\u064A\u0646\u0648\u0627!\r\n\u0647\u0644 \u0633\u062A\u0646\u0636\u0645 \u0625\u0644\u064A\u064E\u0651 \u0641\u064A\r\n\u062F\u0648\u0631\u0629 \u062A\u062F\u0631\u064A\u0628\u064A\u0629 \u0623\u062E\u0631\u0649 \u0645\u0641\u064A\u062F\u0629\u061F",
+        "Target": "\u0627\u0635\u0637\u062F \u062A\u062C\u0631\u064A\u0643\u0633",
+        "Fail": "\u0644\u0627 \u062A\u0648\u062C\u062F \u0645\u0643\u0627\u0641\u0622\u062A\u060C \u0623\u0648 \u0627\u0646\u062A\u0647\u0649 \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 2,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      29
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      44,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 44,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 32,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 32,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 7,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 62,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 107,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 62,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 12960,
+      "Points": 260,
+      "HRP": 1120
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      12,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 15,
+      "HealthTable": 124,
+      "AttackTable": 128,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

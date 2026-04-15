@@ -1,0 +1,350 @@
+{
+  "QuestID": 315490,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u30B9\u30B4\u30A6\u30C7\u85AC\u5E2B\u306E\u635C\u7D22",
+        "Client": "\u7814\u7A76\u54E1\u30D0\u30CF\u30EA",
+        "Description": "\u003CPL\u003E\u306E\u304A\u304B\u3052\u3067\r\n\u85AC\u5E2B\u306E\u30BF\u30C9\u30EA\u304C\u5BC6\u6797\u306B\u3044\u308B\u3053\u3068\u306F\r\n\u308F\u304B\u3063\u305F\u3093\u3060\u3051\u3069\u2026\u30E9\u30A4\u30BC\u30AF\u30B9\u304C\r\n\u90AA\u9B54\u3092\u3057\u3066\u8E0F\u307F\u8FBC\u3081\u306A\u3044\u3089\u3057\u3044\u3002\r\n\u30D5\u30A3\u30AA\u30EC\u30FC\u30CD\u306E\u5BB9\u614B\u3092\u8003\u3048\u308C\u3070\r\n\u308F\u305A\u304B\u306A\u6642\u9593\u3082\u60DC\u3057\u3044\u2026\u3002\u5012\u3057\u3066\r\n\u30BF\u30C9\u30EA\u3092\u9023\u308C\u3066\u304D\u3066\u304F\u308C\u308B\u304B\u3044\uFF1F",
+        "Target": "\u30E9\u30A4\u30BC\u30AF\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "In Search of the Doctor",
+        "Client": "Bahari the Scientist",
+        "Description": "So, thanks to you, we know\r\nDoctor Tadori\u0027s out in the\r\nJungle, but thanks to an\r\nAstalos, it\u0027s too dangerous\r\nto go look for him. Fiorayne\r\ndoesn\u0027t have much time, you\r\nknow what you need to do!",
+        "Target": "Hunt an Astalos",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "On recherche le docteur",
+        "Client": "Bahari le scientifique",
+        "Description": "Gr\u00E2ce \u00E0 toi, on sait que Docteur\r\nTadori est dans la Jungle, mais\r\nun Astalos bloque le passage,\r\ndonc on ne peut pas le rejoindre.\r\nL\u0027\u00E9tat de Fiorayne s\u0027aggrave.\r\n\u00C9limine le monstre et reviens\r\navec le m\u00E9decin !",
+        "Target": "Chasser un Astalos",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Alla ricerca del dottore",
+        "Client": "Bahari lo scienziato",
+        "Description": "Grazie a te, ora sappiamo che\r\nil dottor Tadori si trova nella\r\ngiungla, ma non possiamo\r\nraggiungerlo perch\u00E9 un Astalos\r\nblocca la strada. A Fiorayne\r\nnon rimane molto tempo.\r\nVai e riporta qui il dottore!",
+        "Target": "Caccia un Astalos",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Auf der Suche nach dem Doktor",
+        "Client": "Bahari",
+        "Description": "Dank dir wissen wir, dass sich\r\nTadori im Dschungel befindet,\r\naber ein Astalos blockiert den\r\nWeg, sodass wir nicht zu ihm\r\ngelangen k\u00F6nnen. Fiorayne hat\r\nnicht mehr viel Zeit \u2013 du wei\u00DFt\r\nalso, was du zu tun hast!",
+        "Target": "Erjage einen Astalos.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "En busca del doctor",
+        "Client": "Bahari, el cient\u00EDfico",
+        "Description": "Gracias a ti sabemos que el\r\ndoctor Tadori est\u00E1 en la Jungla,\r\npero no podemos llegar hasta\r\n\u00E9l por culpa de un Astalos.\r\nY a Fiorayne no le queda mucho\r\ntiempo... \u00A1ya sabes qu\u00E9 tienes\r\nque hacer!",
+        "Target": "Caza un Astalos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0412 \u043F\u043E\u0438\u0441\u043A\u0430\u0445 \u0414\u043E\u043A\u0442\u043E\u0440\u0430",
+        "Client": "\u0423\u0447\u0435\u043D\u044B\u0439 \u0411\u0430\u0445\u0430\u0440\u0438",
+        "Description": "\u0411\u043B\u0430\u0433\u043E\u0434\u0430\u0440\u044F \u0442\u0435\u0431\u0435 \u043C\u044B \u0437\u043D\u0430\u0435\u043C, \u0447\u0442\u043E\r\n\u0414\u043E\u043A\u0442\u043E\u0440 \u0422\u0430\u0434\u043E\u0440\u0438 \u0432 \u0414\u0436\u0443\u043D\u0433\u043B\u044F\u0445, \u043D\u043E\r\n\u043F\u0443\u0442\u044C \u043A \u043D\u0435\u043C\u0443 \u043F\u0440\u0435\u0433\u0440\u0430\u0436\u0434\u0430\u0435\u0442\r\n\u0410\u0441\u0442\u0430\u043B\u043E\u0441. \u0423 \u0424\u0438\u043E\u0440\u0430\u0439\u043D\u044B \u043C\u0430\u043B\u043E\r\n\u0432\u0440\u0435\u043C\u0435\u043D\u0438. \u0420\u0430\u0437\u0431\u0435\u0440\u0438\u0441\u044C \u0441 \u0410\u0441\u0442\u0430\u043B\u043E\u0441\u043E\u043C\r\n\u0438 \u043F\u0440\u0438\u0432\u0435\u0434\u0438 \u043D\u0430\u043C \u0434\u043E\u043A\u0442\u043E\u0440\u0430!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0410\u0441\u0442\u0430\u043B\u043E\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "W poszukiwaniu Doktora",
+        "Client": "Naukowiec Bahari",
+        "Description": "Dzi\u0119ki tobie wiemy, \u017Ce Doktor\r\nTadori jest w D\u017Cungli, ale\r\nAstalos blokuje drog\u0119 i nie\r\nmo\u017Cemy si\u0119 do niego dosta\u0107.\r\nFiorayne nie ma du\u017Co czasu.\r\nUsu\u0144 Astalosa i przyprowad\u017A\r\nDoktora!",
+        "Target": "Upoluj Astalosa",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Em Busca do Doutor",
+        "Client": "Bahari, o Cientista",
+        "Description": "Gra\u00E7as a voc\u00EA, agora sabemos\r\nque o Dr. Tadori est\u00E1 na Selva,\r\nmas tem um Astalos bloqueando\r\no caminho. N\u00E3o resta muito\r\ntempo a Fiorayne. V\u00E1 matar o\r\nbicho e traga o doutor!",
+        "Target": "Cace um Astalos",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uB6F0\uC5B4\uB09C \uC57D\uC0AC \uCC3E\uAE30",
+        "Client": "\uC5F0\uAD6C\uC6D0 \uBC14\uD558\uB9AC",
+        "Description": "\u003CPL\u003E \uB355\uBD84\uC5D0\r\n\uC57D\uC0AC \uD0C0\uB3C4\uB9AC\uAC00 \uBC00\uB9BC\uC5D0 \uC788\uB294 \uAC78\r\n\uC54C\uC544\uB0C8\uC9C0\uB9CC\u2026\uB77C\uC774\uC81D\uC2A4 \uB54C\uBB38\uC5D0\r\n\uC811\uADFC\uD558\uC9C0 \uBABB\uD558\uB294 \uC0C1\uD669\uC778 \uB4EF\uD574.\r\n\uD53C\uC624\uB808\uB124\uC758 \uC0C1\uD0DC\uB97C \uC0DD\uAC01\uD558\uBA74\r\n\uC9C0\uCCB4\uD560 \uD2C8\uC774 \uC5C6\uC5B4. \uC4F0\uB7EC\uB728\uB9AC\uACE0\r\n\uD0C0\uB3C4\uB9AC\uB97C \uB370\uB824\uC640 \uC8FC\uACA0\uC5B4?",
+        "Target": "\uB77C\uC774\uC81D\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u641C\u7D22\u9AD8\u660E\u7684\u85E5\u5E2B",
+        "Client": "\u5DF4\u8D6B\u91CC\u7814\u7A76\u54E1",
+        "Description": "\u591A\u8667\u6709\u003CPL\u003E\uFF0C\r\n\u6211\u5011\u624D\u77E5\u9053\u6EAF\u85E5\u5E2B\u5728\u5BC6\u6797\u2026\u2026\r\n\u4F46\u96FB\u9F8D\u5728\u64CB\u4F4F\u6211\u5011\u7684\u53BB\u8DEF\u3002\r\n\u83F2\u6B50\u8389\u5C3C\u7684\u72C0\u6CC1\u5DF2\u662F\u523B\u4E0D\u5BB9\u7DE9\uFF0C\r\n\u4F60\u53EF\u4EE5\u53BB\u6253\u5012\u96FB\u9F8D\uFF0C\r\n\u628A\u6EAF\u85E5\u5E2B\u5E36\u56DE\u4F86\u55CE\uFF1F",
+        "Target": "\u72E9\u73751\u982D\u96FB\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u5BFB\u627E\u533B\u672F\u9AD8\u8D85\u7684\u6E38\u65B9\u533B",
+        "Client": "\u7814\u7A76\u5458\u5DF4\u54C8\u91CC",
+        "Description": "\u003CPL\u003E\uFF0C\u591A\u4E8F\u4F60\uFF0C\r\n\u5F04\u6E05\u4E86\u6E38\u65B9\u533B\u6CBF\u5728\u5BC6\u6797\u2026\u2026\u53EF\u56E0\u4E3A\r\n\u7535\u9F99\u4F5C\u4E71\uFF0C\u73B0\u5728\u4E0D\u80FD\u8FDB\u5165\u90A3\u91CC\u3002\r\n\u8003\u8651\u5230\u83F2\u5965\u83B1\u5A1C\u7684\u75C5\u60C5\uFF0C\u5FC5\u987B\u4E89\u5206\r\n\u593A\u79D2\u2026\u2026\u4F60\u80FD\u5426\u6253\u8D25\u7535\u9F99\uFF0C\u628A\u6CBF\u5E26\r\n\u8FC7\u6765\uFF1F",
+        "Target": "\u72E9\u730E1\u5934\u7535\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0628\u062D\u062B \u0639\u0646 \u0627\u0644\u0637\u0628\u064A\u0628",
+        "Client": "\u0628\u0647\u0627\u0631\u064A \u0627\u0644\u0639\u0627\u0644\u0650\u0645",
+        "Description": "\u0628\u0641\u0636\u0644\u0643\u060C \u0635\u0631\u0646\u0627 \u0646\u0639\u0644\u0645 \u0627\u0644\u0622\u0646 \u0623\u0646\r\n\u0627\u0644\u0637\u0628\u064A\u0628 \u062A\u0627\u062F\u0648\u0631\u064A \u0641\u064A \u0627\u0644\u063A\u0627\u0628\u0629\u060C\r\n\u0644\u0643\u0646 \u0623\u0633\u062A\u0627\u0644\u0648\u0633 \u064A\u0639\u0648\u0642\r\n\u0627\u0644\u0637\u0631\u064A\u0642\u060C \u0644\u0630\u0627 \u0644\u0627 \u064A\u0645\u0643\u0646\u0646\u0627 \u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u064A\u0647.\r\n\u0644\u0645 \u064A\u062A\u0628\u0642\u064E \u0644\u0641\u064A\u0648\u0631\u0627\u064A\u0646 \u0627\u0644\u0643\u062B\u064A\u0631 \u0645\u0646\r\n\u0627\u0644\u0648\u0642\u062A. \u0627\u0630\u0647\u0628 \u0648\u0627\u0642\u0636\u0650 \u0639\u0644\u064A\u0647\u060C\r\n\u0648\u0623\u0639\u062F \u0627\u0644\u0637\u0628\u064A\u0628!",
+        "Target": "\u0627\u0635\u0637\u062F \u0623\u0633\u062A\u0627\u0644\u0648\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 2,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      44,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 44,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 7,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 62,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 513,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 107,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 24,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 22320,
+      "Points": 450,
+      "HRP": 1150
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      12,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 10,
+      "HealthTable": 124,
+      "AttackTable": 128,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

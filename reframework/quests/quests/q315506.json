@@ -1,0 +1,350 @@
+{
+  "QuestID": 315506,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u3057\u3058\u307E\u306E\u5411\u3053\u3046",
+        "Client": "\u967A\u3057\u3044\u9854\u306E\u6709\u529B\u8CB4\u65CF",
+        "Description": "\u6C34\u6CA1\u6797\u306B\u3001\u3068\u3066\u3082\u6050\u308D\u3057\u3044\u53E4\u9F8D\u304C\r\n\u73FE\u308C\u305F\u3089\u3057\u3044\u3002\u3060\u304C\u3001\u8AB0\u3082\u305D\u306E\r\n\u59FF\u3092\u306F\u3063\u304D\u308A\u3068\u898B\u3068\u3089\u3093\u306E\u3060\u3002\r\n\u3044\u3063\u305F\u3044\u3069\u3093\u306A\u76F8\u624B\u306A\u306E\u304B\u2026\u3002\r\n\u6CE8\u610F\u3057\u3066\u8A0E\u4F10\u306B\u5411\u304B\u3063\u3066\u304F\u308C\uFF01",
+        "Target": "\u30AA\u30AA\u30CA\u30BA\u30C1\uFF11\u4F53\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Beyond the Silence",
+        "Client": "Grim Aristocrat",
+        "Description": "A terrifying elder dragon has\r\nappeared in the Flooded Forest,\r\nyet no one has set eyes on it.\r\nOf course, seeing it may be\r\nthe last thing you do... Please\r\nsee to it that it\u0027s dealt with!",
+        "Target": "Slay a Chameleos",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Au-del\u00E0 du silence",
+        "Client": "Aristocrate s\u00E9v\u00E8re",
+        "Description": "Un terrifiant dragon ancien\r\nvient d\u0027appara\u00EEtre dans la For\u00EAt\r\ninond\u00E9e, mais personne ne l\u0027a\r\nencore vu. Bien s\u00FBr, le voir\r\npourrait s\u0027av\u00E9rer fatal...\r\nTu dois nous en\r\nd\u00E9barrasser, mais prudence !",
+        "Target": "Tuer un Chameleos",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Oltre il silenzio",
+        "Client": "Torvo aristocratico",
+        "Description": "Sembra che sia apparso uno\r\nspaventoso drago anziano nella\r\nForesta inondata, ma nessuno\r\nl\u0027ha ancora visto chiaramente.\r\nBeh, in grado di raccontarlo!\r\nDevi eliminarlo!",
+        "Target": "Uccidi un Chameleos",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Auf in die Stille",
+        "Client": "Strenger Aristokrat",
+        "Description": "Ein schrecklicher Drachen-\r\n\u00E4ltester ist aufgetaucht in der\r\nN\u00E4he des Flutwalds, aber niemand\r\nhat ihn zu sehen bekommen.\r\nNat\u00FCrlich k\u00F6nnte es das letzte\r\nsein was du siehst...\r\nBitte beseitige ihn f\u00FCr uns!",
+        "Target": "Erlege einen Chameleos.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "M\u00E1s all\u00E1 del silencio",
+        "Client": "Arist\u00F3crata siniestro",
+        "Description": "Ha aparecido un temible drag\u00F3n\r\nanciano en el Bosque inundado,\r\npero nadie lo ha visto. Aunque\r\nclaro, verlo puede ser lo\r\n\u00FAltimo que hagas... Pero,\r\npor favor, \u00A1deshazte de \u00E9l!",
+        "Target": "Abate un Chameleos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0417\u0430 \u0442\u0438\u0448\u0438\u043D\u043E\u0439",
+        "Client": "\u041C\u0440\u0430\u0447\u043D\u044B\u0439 \u0430\u0440\u0438\u0441\u0442\u043E\u043A\u0440\u0430\u0442",
+        "Description": "\u0412 \u0417\u0430\u0442\u043E\u043F\u043B\u0435\u043D\u043D\u043E\u043C \u043B\u0435\u0441\u0443 \u043F\u043E\u044F\u0432\u0438\u043B\u0441\u044F\r\n\u0443\u0436\u0430\u0441\u043D\u044B\u0439 \u0434\u0440\u0435\u0432\u043D\u0438\u0439 \u0434\u0440\u0430\u043A\u043E\u043D, \u043D\u043E\r\n\u043D\u0438\u043A\u0442\u043E \u0435\u0433\u043E \u0435\u0449\u0435 \u043D\u0435 \u0432\u0438\u0434\u0435\u043B.\r\n\u0420\u0430\u0437\u0443\u043C\u0435\u0435\u0442\u0441\u044F, \u044D\u0442\u043E \u0437\u0440\u0435\u043B\u0438\u0449\u0435 \u043C\u043E\u0436\u0435\u0442\r\n\u0441\u0442\u0430\u0442\u044C \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u043C \u0432 \u0436\u0438\u0437\u043D\u0438...\r\n\u041D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E \u043E\u0442 \u043D\u0435\u0433\u043E \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044C\u0441\u044F.",
+        "Target": "\u0423\u0431\u0438\u0442\u044C \u0425\u0430\u043C\u0435\u043B\u0435\u043E\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Poza cisz\u0105",
+        "Client": "Ponury arystokrata",
+        "Description": "Przera\u017Caj\u0105cy Starszy Smok\r\npojawi\u0142 si\u0119 w Zatopionym\r\nLesie, ale nikt go jeszcze nie\r\nwidzia\u0142. Co prawda mo\u017Ce on by\u0107\r\nostatni\u0105 rzecz\u0105, kt\u00F3r\u0105 ujrzysz\r\nw \u017Cyciu... Mo\u017Cesz go\r\nwyeliminowa\u0107?",
+        "Target": "Zabij Chameleosa",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Al\u00E9m do Sil\u00EAncio",
+        "Client": "Aristocrata Severo",
+        "Description": "Um drag\u00E3o anci\u00E3o aterrorizante\r\nsurgiu na Selva Inundada, mas\r\nningu\u00E9m o avistou. Claro, v\u00EA-lo\r\npode ser a \u00FAltima coisa que\r\nvoc\u00EA far\u00E1... Precisamos que\r\nvoc\u00EA o elimine.",
+        "Target": "Mate um Chameleos",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uCE68\uBB35\uC758 \uC800\uD3B8",
+        "Client": "\uC2EC\uAC01\uD55C \uD45C\uC815\uC758 \uC720\uB825 \uADC0\uC871",
+        "Description": "\uC218\uBAB0\uB41C \uC232\uC5D0 \uBB34\uC2DC\uBB34\uC2DC\uD55C \uACE0\uB8E1\uC774\r\n\uB098\uD0C0\uB0AC\uB2E4\uB294\uB370 \uC544\uBB34\uB3C4 \uADF8\r\n\uC815\uCCB4\uB97C \uD655\uC2E4\uD788 \uD30C\uC545\uD558\uC9C0 \uBABB\uD588\uB2E4.\r\n\uB300\uCCB4 \uC815\uCCB4\uAC00 \uBB50\uC9C0\u2026?\r\n\uC8FC\uC758\uD574\uC11C \uD1A0\uBC8C\uC5D0 \uB098\uC11C \uC8FC\uAC8C!",
+        "Target": "\uC624\uB098\uC988\uCE58 1\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5BC2\u975C\u7684\u5F7C\u7AEF",
+        "Client": "\u795E\u8272\u51DD\u91CD\u7684\u6709\u6B0A\u8CB4\u65CF",
+        "Description": "\u807D\u805E\u6C34\u6C92\u6797\u51FA\u73FE\u4E86\u6975\u5EA6\u53EF\u6015\r\n\u7684\u53E4\u9F8D\u3002\u4E0D\u904E\uFF0C\u81F3\u4ECA\u4ECD\u672A\u6709\u4EBA\r\n\u6E05\u695A\u770B\u898B\u904E\u7260\u7684\u6A23\u5B50\u3002\r\n\u7260\u7A76\u7ADF\u662F\u4EC0\u9EBC\u6A23\u7684\u5C0D\u624B\u5462\u2026\u2026\r\n\u8B39\u614E\u5730\u524D\u5F80\u8A0E\u4F10\u5427\uFF01",
+        "Target": "\u8A0E\u4F101\u982D\u971E\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u5BC2\u9759\u6DF1\u5904",
+        "Client": "\u8868\u60C5\u72F0\u72DE\u7684\u6743\u8D35",
+        "Description": "\u6C34\u6CA1\u6797\u4E2D\u4F3C\u4E4E\u51FA\u73B0\u4E86\u975E\u5E38\u6050\u6016\u7684\u53E4\r\n\u9F99\uFF0C\u53EF\u8C01\u90FD\u6CA1\u80FD\u770B\u6E05\u5B83\u7684\u6A21\u6837\u2026\u2026\r\n\u5B83\u662F\u600E\u6837\u7684\u5BF9\u624B\u5462\u2026\u2026\u524D\u53BB\u8BA8\u4F10\u65F6\r\n\u8BF7\u4E00\u5B9A\u5C0F\u5FC3\uFF01",
+        "Target": "\u8BA8\u4F101\u5934\u971E\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0645\u0627 \u0648\u0631\u0627\u0621 \u0627\u0644\u0635\u0645\u062A",
+        "Client": "\u0627\u0644\u0623\u0631\u0633\u062A\u0642\u0631\u0627\u0637\u064A \u0627\u0644\u0643\u0626\u064A\u0628",
+        "Description": "\u0638\u0647\u0631 \u062A\u0646\u064A\u0646 \u0645\u0639\u0645\u0631 \u0645\u0631\u0639\u0628 \u0641\u064A\r\n\u0627\u0644\u063A\u0627\u0628\u0629 \u0627\u0644\u063A\u0627\u0631\u0642\u0629\u060C\r\n\u0648\u0645\u0639 \u0630\u0644\u0643 \u0644\u0645 \u064A\u0631\u0647\r\n\u0623\u062D\u062F \u0642\u0637. \u0642\u062F \u062A\u0643\u0648\u0646 \u0631\u0624\u064A\u062A\u0647\r\n\u0622\u062E\u0631 \u0634\u064A\u0621\r\n\u062A\u0641\u0639\u0644\u0647... \u0646\u0631\u064A\u062F\u0643\r\n\u0623\u0646 \u062A\u0642\u0636\u064A \u0639\u0644\u064A\u0647.",
+        "Target": "\u0642\u062A\u0644 \u062A\u0634\u0627\u0645\u0644\u064A\u0648\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 4,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      98,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 98,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 3,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 3,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 133,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 82,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 89,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 30240,
+      "Points": 610,
+      "HRP": 1400
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      31,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 31,
+      "HealthTable": 128,
+      "AttackTable": 130,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

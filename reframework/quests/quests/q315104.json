@@ -1,0 +1,350 @@
+{
+  "QuestID": 315104,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u5927\u793E\u8DE1\u306E\u76F8\u64B2\u5927\u4F1A\uFF1F",
+        "Client": "\u663C\u5BDD\u597D\u304D\u306E\u30A2\u30A4\u30EB\u30FC",
+        "Description": "\u5927\u793E\u8DE1\u306F\u65E5\u9670\u304C\u305F\u304F\u3055\u3093\u3042\u3063\u3066\u3001\r\n\u7D76\u597D\u306E\u304A\u663C\u5BDD\u30B9\u30DD\u30C3\u30C8\u306A\u306E\u30CB\u30E3\u3002\r\n\u305D\u308C\u306A\u306E\u306B\u3001\u30A2\u30AA\u30A2\u30B7\u30E9\uFF12\u982D\u304C\r\n\u30C9\u30C3\u30BF\u30F3\u30D0\u30C3\u30BF\u30F3\u3068\u76F8\u64B2\u3092\u3068\u3063\u3066\r\n\u305C\u3093\u305C\u3093\u7720\u308C\u306A\u3044\u306E\u30CB\u30E3\uFF01\r\n\u30CF\u30F3\u30BF\u30FC\u3055\u3093\u3001\u30DC\u30AF\u306E\u304A\u663C\u5BDD\u6642\u9593\r\n\u3092\u53D6\u308A\u623B\u3057\u3066\u307B\u3057\u3044\u30CB\u30E3\uFF01",
+        "Target": "\u30A2\u30AA\u30A2\u30B7\u30E9\uFF12\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Catnap Ruined",
+        "Client": "Cat-Napping Felyne",
+        "Description": "All the shade in the Shrine\r\nRuins makes it purr-fect fur\r\nnapping, but two Arzuros are\r\nmaking such a ruckus with\r\ntheir tussling, I can\u0027t catch a\r\nwink! I need you to get back\r\nmy mew-ty sleep, Hunter!",
+        "Target": "Hunt 2 Arzuros",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Une sieste g\u00E2ch\u00E9e",
+        "Client": "Felyne herbe \u00E0 chat",
+        "Description": "Il y a beaucoup d\u0027ombre au\r\nTemple oubli\u00E9, ce qui en fait\r\nl\u0027endroit id\u00E9al pour une sieste.\r\nMais deux Arzuros font un boucan\r\nd\u0027enfer et m\u0027emp\u00EAchent\r\nde dormir ! J\u0027ai besoin\r\nde dormir, moi !",
+        "Target": "Chasser 2 Arzuros",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Rissa alle Rovine sacre",
+        "Client": "Felyne appisolata",
+        "Description": "C\u0027\u00E8 tanta ombra alle Rovine\r\nsacre, il che le rende il posto\r\nideale per un pisolino. Ma due\r\nArzuros si azzuffano e fanno\r\nbaccano. Non riesco a riposare!\r\nAiutami a dormire, per favore.",
+        "Target": "Caccia 2 Arzuros",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Ruiniertes Nickerchen",
+        "Client": "D\u00F6sende Felyne",
+        "Description": "Die Schatten in den Heiligen\r\nRuinen machen den Ort zu\r\neinem schnurrigen Platz f\u00FCr ein\r\nNickerchen, aber zwei Arzuros\r\nmachen so einen Krach, dass ich\r\nkein Auge zudr\u00FCcken kann!\r\nIch brauche deine Hilfe!",
+        "Target": "Erjage zwei Arzuros.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Siesta molesta en el templo",
+        "Client": "Felyne siestera",
+        "Description": "El Templo olvidado es un sitio\r\nmorrongotudo para dormir a la\r\nsombra, pero hay dos Arzuros\r\npele\u00E1ndose y, con tanto ruido,\r\n\u00A1no puedo pegar ojo! Ay\u00FAdame a\r\nconciliar el sue\u00F1o.",
+        "Target": "Caza 2 Arzuros",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0417\u0430\u0432\u0430\u0440\u0443\u0448\u043A\u0430 \u0432 \u0420\u0443\u0438\u043D\u0430\u0445 \u0441\u0432\u044F\u0442\u0438\u043B\u0438\u0449\u0430",
+        "Client": "\u0414\u0440\u0435\u043C\u043B\u044E\u0449\u0438\u0439 \u041A\u043E\u0442\u0442",
+        "Description": "\u0420\u0443\u0438\u043D\u044B \u0441\u0432\u044F\u0442\u0438\u043B\u0438\u0449\u0430 \u0442\u0430\u043A\u0438\u0435\r\n\u0442\u0435\u043D\u0438\u0441\u0442\u044B\u0435 \u2014 \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E\u0435 \u043C\u0435\u0441\u0442\u043E\r\n\u0434\u043B\u044F \u0434\u043D\u0435\u0432\u043D\u043E\u0433\u043E \u0441\u043D\u0430. \u041D\u043E \u0434\u0432\u043E\u0435\r\n\u0410\u0440\u0437\u0443\u0440\u043E\u0441\u043E\u0432 \u0442\u0430\u043C \u0442\u0430\u043A\u043E\u0439 \u0448\u0443\u043C\r\n\u043F\u043E\u0434\u043D\u0438\u043C\u0430\u044E\u0442, \u0447\u0442\u043E \u044F \u0438 \u0433\u043B\u0430\u0437\r\n\u0441\u043E\u043C\u043A\u043D\u0443\u0442\u044C \u043D\u0435 \u043C\u043E\u0433\u0443! \u041C\u043E\u0439 \u043A\u0440\u0435\u043F\u043A\u0438\u0439\r\n\u0441\u043E\u043D \u0432 \u0442\u0432\u043E\u0438\u0445 \u0440\u0443\u043A\u0430\u0445!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C 2 \u0410\u0440\u0437\u0443\u0440\u043E\u0441\u043E\u0432",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "B\u00F3jka w Ruinach \u015Awi\u0105tynnych",
+        "Client": "Kochaj\u0105ca drzemki felinka",
+        "Description": "W Ruinach \u015Awi\u0105tynnych \u015Bwietnie\r\nsi\u0119 \u015Bpi z powodu cieni.\r\nNiestety dwa Arzurosy robi\u0105\r\ntyle ha\u0142asu, \u017Ce nie da si\u0119\r\nzmru\u017Cy\u0107 oka! Musz\u0119 gdzie\u015B si\u0119\r\nwyspa\u0107, prosz\u0119, pom\u00F3\u017C mi!",
+        "Target": "Upoluj 2 Arzurosy",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Briga nas Ru\u00EDnas do Templo",
+        "Client": "Felyna das Sonecas",
+        "Description": "A sombra toda nas Ru\u00EDnas do\r\nTemplo fazem de l\u00E1 um lugar\r\nperfeito para sonecas. S\u00F3 que\r\ntem dois Arzuros fazendo\r\nalgazarra com as brigas, a\u00ED\r\nn\u00E3o consigo dormir! Voc\u00EA tem\r\nque recuperar meus cochilos!",
+        "Target": "Cace 2 Arzuros",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC0AC\uC6D0 \uD3D0\uD5C8\uC758 \uC528\uB984 \uB300\uD68C?",
+        "Client": "\uB0AE\uC7A0\uC744 \uC88B\uC544\uD558\uB294 \uC544\uC774\uB8E8",
+        "Description": "\uC0AC\uC6D0 \uD3D0\uD5C8\uB294 \uADF8\uB298\uC774 \uB9CE\uC544\uC11C\r\n\uB0AE\uC7A0 \uC790\uAE30 \uC815\uB9D0 \uC88B\uC740 \uACF3\uC774\uB2E4\uB0E5.\r\n\uADF8\uB7F0\uB370 \uC544\uC624\uC544\uC2DC\uB77C 2\uB9C8\uB9AC\uAC00\r\n\uC694\uB780\uD558\uAC8C \uC528\uB984\uC744 \uD558\uACE0 \uC788\uC5B4\uC11C\r\n\uC7A0\uC744 \uC798 \uC218\uAC00 \uC5C6\uB2E4\uB0E5!\r\n\uB0B4 \uB0AE\uC7A0 \uC2DC\uAC04\uC744 \uB418\uCC3E\uC544 \uB2EC\uB77C\uB0E5!",
+        "Target": "\uC544\uC624\uC544\uC2DC\uB77C 2\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5927\u793E\u907A\u8DE1\u7684\u76F8\u64B2\u5927\u6703\uFF1F",
+        "Client": "\u559C\u6B61\u7761\u5348\u89BA\u7684\u827E\u8DEF",
+        "Description": "\u5927\u793E\u907A\u8DE1\u6709\u5F88\u591A\u53EF\u4E58\u6DBC\u7684\u9670\u5F71\uFF0C\r\n\u662F\u500B\u6975\u4F73\u7684\u5348\u7761\u5730\u9EDE\u55B5\u3002\r\n\u4F46\u504F\u504F\u67092\u982D\u9752\u718A\u7378\r\n\u5728\u90A3\u88E1\u6253\u76F8\u64B2\uFF0C\u4E00\u76F4\u7830\u7830\u7830\u7684\uFF0C\r\n\u5BB3\u6211\u5B8C\u5168\u7761\u4E0D\u8457\u55B5\uFF01\r\n\u7375\u4EBA\uFF0C\u5E0C\u671B\u4F60\u80FD\u5E6B\u6211\r\n\u91CD\u62FE\u6211\u7684\u5348\u7761\u6642\u5149\u55B5\uFF01",
+        "Target": "\u72E9\u73752\u982D\u9752\u718A\u7378",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u5E9F\u795E\u793E\u7684\u76F8\u6251\u5927\u8D5B\uFF1F",
+        "Client": "\u7231\u7761\u5348\u89C9\u7684\u827E\u9732\u732B",
+        "Description": "\u5E9F\u795E\u793E\u91CC\u6709\u5F88\u591A\u80CC\u9634\u7684\u5730\u65B9\uFF0C\u53EF\u9002\r\n\u5408\u7761\u5348\u89C9\u4E86\u55B5\u3002\u53EF\u662F\u6709\u4E24\u5934\u9752\u718A\u517D\r\n\u5728\u76F8\u6251\uFF0C\u5435\u5F97\u8981\u6B7B\uFF0C\u6839\u672C\u5C31\u7761\u4E0D\u7740\r\n\u55B5\uFF01\u730E\u4EBA\uFF0C\u8BF7\u4F60\u5E2E\u6211\u593A\u56DE\u7761\u5348\u89C9\u7684\r\n\u60EC\u610F\u65F6\u5149\u55B5\uFF01",
+        "Target": "\u72E9\u730E2\u5934\u9752\u718A\u517D",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0642\u062A\u0627\u0644 \u0641\u064A \u0623\u0637\u0644\u0627\u0644 \u0627\u0644\u0636\u0631\u064A\u062D",
+        "Client": "\u0641\u064A\u0644\u0627\u064A\u0646 \u0627\u0644\u0642\u0637 \u0627\u0644\u0646\u0627\u0626\u0645",
+        "Description": "\u0625\u0646\u0651\u064E \u0638\u0644 \u0623\u0637\u0644\u0627\u0644\r\n\u0627\u0644\u0636\u0631\u064A\u062D \u064A\u062C\u0639\u0644\u0647\u0627 \u0645\u0643\u0627\u0646\u064B\u0627 \u0645\u062B\u0627\u0644\u064A\u0651\u064B\u0627\r\n\u0644\u0644\u0642\u064A\u0644\u0648\u0644\u0629. \u0644\u0643\u0646 \u0627\u062B\u0646\u0627\u0646 \u0645\u0646 \u0623\u0631\u0632\u0648\u0631\u0648\u0633\r\n\u0644\u0627 \u064A\u062A\u0648\u0642\u0641\u0627\u0646 \u0639\u0646 \u0627\u0644\u0639\u0631\u0627\u0643\u060C \u0648\u0644\u0627\r\n\u064A\u0645\u0643\u0646\u0646\u064A \u062D\u062A\u0649 \u0625\u063A\u0645\u0627\u0636\r\n\u0639\u064A\u0646\u064A! \u0623\u0631\u064A\u062F\u0643 \u0623\u0646 \u062A\u0639\u064A\u062F \u0644\u064A\r\n\u0646\u0648\u0645\u064A \u0627\u0644\u0644\u0637\u064A\u0641\u060C \u0623\u064A\u0647\u0627 \u0627\u0644\u0635\u064A\u0627\u062F!",
+        "Target": "\u0627\u0635\u0637\u062F 2 \u0645\u0646 \u0623\u0631\u0632\u0648\u0631\u0648\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      2075,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 2075,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 20880,
+      "Points": 420,
+      "HRP": 670
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      112,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 115,
+      "AttackTable": 122,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

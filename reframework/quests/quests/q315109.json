@@ -1,0 +1,350 @@
+{
+  "QuestID": 315109,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u706B\u3001\u6050\u308C\u308B\u306B\u8DB3\u308A\u305A",
+        "Client": "\u8EE2\u304C\u308A\u307E\u304F\u3063\u305F\u30CF\u30F3\u30BF\u30FC",
+        "Description": "\u706B\u306B\u5305\u307E\u308C\u305F\u3089\u6C34\u5834\u3067\u8EE2\u304C\u308C\u3002\r\n\u3055\u3059\u308C\u3070\u706B\u306F\u5373\u6D88\u3048\u308B\u2015\u2015\u3002\r\n\u5148\u8F29\u306B\u305D\u3046\u6559\u308F\u3063\u3066\u79C1\u306F\u3001\r\n\u30A2\u30B1\u30CE\u30B7\u30EB\u30E0\u306B\u6311\u3093\u3060\u306E\u3002\u7D50\u679C\u2026\r\n\u8EE2\u304C\u308A\u3059\u304E\u3066\u5177\u5408\u304C\u60AA\u3044\u306E\u3088\u2026\u3002\r\n\u6D88\u305B\u305F\u3053\u3068\u306B\u2026\u559C\u3073\u904E\u304E\u305F\u308F\u2026\u3002\r\n\u3042\u3068\u306F\u3001\u8AB0\u304B\u304A\u9858\u3044\u2026\u306D\u2026\u3002",
+        "Target": "\u30A2\u30B1\u30CE\u30B7\u30EB\u30E0\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "It Could be Worse...",
+        "Client": "Prone Hunter",
+        "Description": "So funny story, I get barbequed\r\nby an Aknosom so I stop, drop,\r\nand roll, right? But I keep rolling\r\nand rolling...and rolling...and roll\u2014\r\nAnyway, I\u0027m all dizzy now and my\r\nbuns are toasted. Think you can\r\ngo and finish the job for me?",
+        "Target": "Hunt an Aknosom",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Ce pourrait \u00EAtre pire",
+        "Client": "Chasseur enclin",
+        "Description": "On met le feu et puis on se jette\r\nau sol et on roule dans un trou\r\nd\u0027eau ! J\u0027ai appris \u00E7a et affront\u00E9\r\nun Aknosom. Mais \u00E0 trop rouler,\r\nj\u0027ai fini malade.\r\nTu peux terminer le travail ?",
+        "Target": "Chasser un Aknosom",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Fuoco male, Aknosom peggio",
+        "Client": "Cacciatore volenteroso",
+        "Description": "Se prendi fuoco, buttati a terra\r\ne rotola in una pozza d\u0027acqua.\r\nCos\u00EC dice il mio capo, quindi ho\r\nvoluto affrontare un Aknosom.\r\nMi sono buttato per terra e sono\r\nrotolato finch\u00E9 non mi sono\r\nsentito male. Finisci il lavoro.",
+        "Target": "Caccia un Aknosom",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "K\u00F6nnte schlimmer sein...",
+        "Client": "Liegender J\u00E4ger",
+        "Description": "Wenn du Feuer f\u00E4ngst, dann bleib\r\nstehen, falle zu Boden und rolle\r\nin ein Wasserloch! Das lernte ich\r\nund stellte mich einem Aknosom.\r\nAber als ich fiel und rollte, wurde\r\nmir ganz schlecht! Kannst du den\r\nKampf f\u00FCr mich beenden?",
+        "Target": "Erjage einen Aknosom.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Podr\u00EDa ser peor...",
+        "Client": "Cazadora susceptible",
+        "Description": "Te vas a re\u00EDr. Resulta que un\r\nAknosom me peg\u00F3 fuego, as\u00ED\r\nque me tuve que echar al suelo\r\ny rodar, \u00BFno? Y rod\u00E9, rod\u00E9...\r\nY, en fin, adem\u00E1s de achicharrado\r\ntermin\u00E9 mareado. \u00BFNo podr\u00EDas\r\nir y terminar el trabajo por m\u00ED?",
+        "Target": "Caza un Aknosom",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0410\u043A\u043D\u043E\u0441\u043E\u043C \u0445\u0443\u0436\u0435 \u043E\u0433\u043D\u044F",
+        "Client": "\u041B\u0435\u0436\u0430\u0449\u0438\u0439 \u043E\u0445\u043E\u0442\u043D\u0438\u043A",
+        "Description": "\u041A\u043E\u0433\u0434\u0430 \u043E\u0445\u0432\u0430\u0447\u0435\u043D \u043E\u0433\u043D\u0435\u043C, \u043F\u0440\u044B\u0433\u0430\u0439 \u0432\r\n\u043B\u0443\u0436\u0443 \u0438 \u043F\u0435\u0440\u0435\u043A\u0430\u0442\u044B\u0432\u0430\u0439\u0441\u044F \u0432 \u043D\u0435\u0439!\r\n\u0422\u0430\u043A \u043C\u0435\u043D\u044F \u0443\u0447\u0438\u043B \u043D\u0430\u0441\u0442\u0430\u0432\u043D\u0438\u043A, \u0438 \u044F\r\n\u043F\u043E\u0448\u0435\u043B \u043E\u0445\u043E\u0442\u0438\u0442\u044C\u0441\u044F \u043D\u0430 \u0410\u043A\u043D\u043E\u0441\u043E\u043C\u0430.\r\n\u041D\u043E \u044F \u043F\u0435\u0440\u0435\u043A\u0430\u0442\u044B\u0432\u0430\u043B\u0441\u044F \u043F\u043E\u043A\u0430 \u043C\u043D\u0435\r\n\u043D\u0435 \u0441\u0442\u0430\u043B\u043E \u043F\u043B\u043E\u0445\u043E... \u0441\u043B\u0438\u0448\u043A\u043E\u043C\r\n\u0443\u0432\u043B\u0435\u043A\u0441\u044F. \u0417\u0430\u043A\u043E\u043D\u0447\u0438 \u043C\u043E\u044E \u043E\u0445\u043E\u0442\u0443...",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0410\u043A\u043D\u043E\u0441\u043E\u043C\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Ogie\u0144 z\u0142y, Aknosom gorszy",
+        "Client": "Podatny \u0142owca",
+        "Description": "Gdy palisz si\u0119, zatrzymaj si\u0119\r\ni turlaj si\u0119 w wodzie!\r\nUzbrojony w t\u0119 nauk\u0119 mojego\r\ntaty zaatakowa\u0142em Aknosoma.\r\nAle od turlania w wodzie a\u017C\r\nmnie zemdli\u0142o. Zbyt by\u0142em\r\npodekscytowany. Doko\u0144cz to...",
+        "Target": "Upoluj Aknosoma",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Fogo Ruim, Aknosom Pior",
+        "Client": "Ca\u00E7ador Deitado",
+        "Description": "Se voc\u00EA pegar fogo, pare,\r\ncaia e role pra \u00E1gua! Foi o\r\nque eu aprendi, mas fui ca\u00E7ar\r\num Aknosom e rolei, rolei\r\nat\u00E9 ficar enjoado. Foi\r\nrolamento demais. Termina\r\no servi\u00E7o...",
+        "Target": "Cace um Aknosom",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uBD88\uC744 \uAC81\uB0BC \uD544\uC694 \uC5C6\uB2E4",
+        "Client": "\uC2E4\uCEF7 \uAD6C\uB978 \uD5CC\uD130",
+        "Description": "\uBD88\uC5D0 \uD729\uC2F8\uC774\uBA74 \uBB3C\uAC00\uC5D0\uC11C \uAD74\uB7EC\uB77C.\r\n\uADF8\uB7EC\uBA74 \uBD88\uC774 \uAEBC\uC9C8 \uAC83\uC774\uB2E4.\r\n\uC120\uBC30\uB2D8\uAED8 \uADF8\uB807\uAC8C \uBC30\uC6E0\uB294\uB370,\r\n\uC544\uCF00\uB178\uC2DC\uB984\uC5D0\uAC8C \uB3C4\uC804\uD55C \uACB0\uACFC\u2026\r\n\uB108\uBB34 \uAD74\uB7EC\uC11C \uC18D\uC774 \uC548 \uC88B\uC544\u2026\r\n\uBD88\uC744 \uB048 \uAC78 \uB108\uBB34 \uAE30\uBED0\uD588\uB098 \uBD10\u2026\r\n\uB4B7\uC77C\uC740 \uB204\uAC00 \uC880 \uBD80\uD0C1\uD574\u2026",
+        "Target": "\uC544\uCF00\uB178\uC2DC\uB984 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5340\u5340\u706B\u7130\u4E0D\u8DB3\u70BA\u61FC",
+        "Client": "\u4E00\u76F4\u6253\u6EFE\u7684\u7375\u4EBA",
+        "Description": "\u6211\u7684\u524D\u8F29\u66FE\u544A\u8A34\u904E\u6211\uFF0C\u8EAB\u4E0A\u8457\u706B\u6642\r\n\u53EA\u8981\u5728\u6C34\u88E1\u6253\u6EFE\uFF0C\u5C31\u80FD\u99AC\u4E0A\u6EC5\u706B\u3002\r\n\u6211\u807D\u5B8C\u4E4B\u5F8C\uFF0C\u5C31\u53BB\u6311\u6230\u4E86\u5098\u9CE5\u2026\u2026\r\n\u7D50\u679C\u56E0\u70BA\u6EFE\u4E86\u592A\u591A\u5708\uFF0C\r\n\u8B8A\u5F97\u5F88\u4E0D\u8212\u670D\u2026\u2026\u6211\u56E0\u70BA\u5B78\u6703\r\n\u5982\u4F55\u6EC5\u706B\u5C31\u8208\u596E\u904E\u982D\u4E86\u2026\u2026\r\n\u5269\u4E0B\u7684\u2026\u2026\u5C31\u9EBB\u7169\u5225\u4EBA\u63A5\u624B\u4E86\u2026\u2026",
+        "Target": "\u72E9\u73751\u982D\u5098\u9CE5",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u706B\u4E0D\u8DB3\u4E3A\u60E7",
+        "Client": "\u9891\u9891\u6253\u6EDA\u7684\u730E\u4EBA",
+        "Description": "\u8EAB\u4E0A\u7740\u706B\u4E86\u5C31\u53BB\u6C34\u91CC\u6253\u4E2A\u6EDA\u3002\u8FD9\u6837\r\n\u53EF\u4EE5\u7ACB\u523B\u706D\u706B\u3002\u6211\u542C\u4E86\u524D\u8F88\u7684\u6559\r\n\u8BF2\uFF0C\u5C31\u53BB\u6311\u6218\u4F1E\u9E1F\u4E86\u3002\u7ED3\u679C\u2026\u2026\u6EDA\r\n\u592A\u591A\u6EDA\u6655\u4E86\u2026\u2026\u706B\u706D\u4E86\u2026\u2026\u53EF\u6211\u9AD8\r\n\u5174\u8FC7\u5934\u4E86\u2026\u2026\u4E4B\u540E\u8981\u9EBB\u70E6\u522B\u4EBA\u2026\u2026\r\n\u4E86\u2026\u2026",
+        "Target": "\u72E9\u730E1\u5934\u4F1E\u9E1F",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0646\u0627\u0631 \u0633\u064A\u0626\u0629\u060C \u0648\u0623\u0643\u0646\u0648\u0633\u0648\u0645 \u0623\u0633\u0648\u0623",
+        "Client": "\u0635\u064A\u0627\u062F \u0636\u0639\u064A\u0641",
+        "Description": "\u0639\u0646\u062F \u0627\u0634\u062A\u0639\u0627\u0644 \u0627\u0644\u0646\u064A\u0631\u0627\u0646\u060C \u062A\u0648\u0642\u0651\u064E\u0641\u060C \u062B\u0645 \u0627\u0633\u0642\u0637\r\n\u0648\u062A\u062F\u062D\u0631\u062C \u0641\u064A \u062D\u0641\u0631\u0629 \u0627\u0644\u0631\u064A!\r\n\u0648\u0641\u0642\u064B\u0627 \u0644\u0645\u0627 \u062A\u0639\u0644\u0645\u062A\u0647 \u0645\u0646 \u0645\u0639\u0644\u0645\u064A\u060C\r\n\u062A\u0648\u0644\u064A\u062A \u0623\u0645\u0631 \u0623\u0643\u0646\u0648\u0633\u0648\u0645. \u0648\u0644\u0643\u0646\u0646\u064A\r\n\u062A\u0648\u0642\u0641\u062A\u060C \u0648\u0633\u0642\u0637\u062A\u060C \u0648\u062A\u062F\u062D\u0631\u062C\u062A \u062D\u062A\u0649\r\n\u0623\u0635\u0628\u062A \u0628\u0627\u0644\u0645\u0631\u0636...\u0643\u0646\u062A\r\n\u0645\u062A\u062D\u0645\u0633\u064B\u0627 \u0644\u0644\u063A\u0627\u064A\u0629. \u0623\u0643\u0645\u0644 \u0627\u0644\u0645\u0647\u0645\u0629...",
+        "Target": "\u0627\u0635\u0637\u062F \u0623\u0643\u0646\u0648\u0633\u0648\u0645",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      2072,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 2072,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 9000,
+      "Points": 180,
+      "HRP": 470
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      112,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 115,
+      "AttackTable": 122,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

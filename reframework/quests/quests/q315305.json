@@ -1,0 +1,350 @@
+{
+  "QuestID": 315305,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u8FF7\u60D1\u5343\u4E07\u3001\u5BC6\u6797\u306E\u306A\u3089\u305A\u8005\u305F\u3061",
+        "Client": "\u5B9F\u76F4\u306A\u591C\u8B66\u56E3\u9577",
+        "Description": "\u6700\u8FD1\u3001\u591C\u306E\u5BC6\u6797\u3067\u30A2\u30F3\u30B8\u30E3\u30CA\u30D5\u3068\r\n\u30C8\u30D3\u30AB\u30AC\u30C1\u306B\u8972\u308F\u308C\u305F\u3068\u306E\u5831\u544A\u304C\r\n\u591A\u304F\u5C4A\u3044\u3066\u3044\u308B\u2026\u3002\u591C\u9053\u306E\u5B89\u5168\u3092\r\n\u5B88\u308B\u306E\u304C\u6211\u3005\u306E\u4F7F\u547D\u3060\u304C\u3001\u3042\u307E\u308A\r\n\u306E\u51F6\u66B4\u3055\u306B\u304A\u624B\u3042\u3052\u72B6\u614B\u3060\u2026\u3002\r\n\u3069\u3046\u304B\u6211\u3005\u306E\u4EE3\u308F\u308A\u306B\u3001\u3053\u306E\uFF12\u982D\r\n\u3092\u5012\u3057\u3066\u304D\u3066\u304F\u308C\u306A\u3044\u3060\u308D\u3046\u304B\u3002",
+        "Target": "\u30A2\u30F3\u30B8\u30E3\u30CA\u30D5\uFF11\u982D\u3068\u30C8\u30D3\u30AB\u30AC\u30C1\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Nocturnal Nuisances",
+        "Client": "Honest Night Watch Captain",
+        "Description": "We\u0027ve been getting more and more\r\nreports of Anjanath and Tobi-Kadachi\r\nassaults in the Jungle as of late.\r\nGuarding the night roads is our job,\r\nbut their ferocity is overwhelming\r\nand many a guard has been injured.\r\nCould you do something about them?",
+        "Target": "Hunt an Anjanath and a Tobi-Kadachi",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Nuisances nocturnes",
+        "Client": "Capitaine de vigie de nuit",
+        "Description": "Depuis quelque temps, il y a\r\nbeaucoup d\u0027attaques d\u0027Anjanath\r\net de Tobi-Kadachi dans la Jungle.\r\nNotre travail consiste \u00E0 garder\r\nles routes, la nuit, mais ces\r\nmonstres sont vraiment trop\r\nf\u00E9roces. Tu peux t\u0027en charger ?",
+        "Target": "Chasser un Anjanath et un Tobi-Kadachi",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Inconvenienti notturni",
+        "Client": "Capitano di guardia onesto",
+        "Description": "Di recente riceviamo sempre\r\npi\u00F9 segnalazioni di attacchi di\r\nAnjanath e Tobi-Kadachi nella\r\ngiungla. \u00C8 compito nostro\r\nproteggere le strade di notte,\r\nma la loro ferocia \u00E8 troppo\r\nper noi. Puoi sconfiggerli tu?",
+        "Target": "Caccia un Anjanath e un Tobi-Kadachi",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "St\u00F6renfriede in der Nacht",
+        "Client": "Ehrlicher Nachtwachekapit\u00E4n",
+        "Description": "Neuerdings erhalten wir mehr\r\nBerichte \u00FCber Anjanath- und Tobi-\r\nKadachi-Angriffe im Dschungel.\r\nDie n\u00E4chtlichen Stra\u00DFen zu\r\nbewachen ist unsere Aufgabe,\r\ndoch die Wildheit ist zu viel f\u00FCr\r\nuns. Kannst du sie besiegen?",
+        "Target": "Erjage einen Anjanath und einen\r\nTobi-Kadachi.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Molestias nocturnas",
+        "Client": "Capit\u00E1n nocturno honesto",
+        "Description": "\u00DAltimamente cada vez hay m\u00E1s\r\nasaltos de Anjanath y Tobi-\r\nKadachi en la Jungla. Nosotros\r\nvigilamos el camino de noche,\r\npero tanta ferocidad nos\r\nsupera. \u00BFTendr\u00EDas la bondad\r\nde solucionar el problema?",
+        "Target": "Caza un Anjanath\r\ny un Tobi-Kadachi",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041D\u043E\u0447\u043D\u044B\u0435 \u043D\u0435\u043F\u0440\u0438\u044F\u0442\u043D\u043E\u0441\u0442\u0438",
+        "Client": "\u0427\u0435\u0441\u0442\u043D\u044B\u0439 \u043A\u0430\u043F\u0438\u0442\u0430\u043D \u0434\u043E\u0437\u043E\u0440\u0430",
+        "Description": "\u0412 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043C\u044B \u043F\u043E\u043B\u0443\u0447\u0430\u0435\u043C\r\n\u0432\u0441\u0435 \u0431\u043E\u043B\u044C\u0448\u0435 \u0441\u043E\u043E\u0431\u0449\u0435\u043D\u0438\u0439 \u043E\r\n\u043D\u0430\u043F\u0430\u0434\u0435\u043D\u0438\u044F\u0445 \u0410\u043D\u044C\u044F\u043D\u0430\u0442\u0430 \u0438 \u0422\u043E\u0431\u0438-\r\n\u041A\u0430\u0434\u0430\u0447\u0438 \u0432 \u0414\u0436\u0443\u043D\u0433\u043B\u044F\u0445. \u041E\u0445\u0440\u0430\u043D\u0430\r\n\u0434\u043E\u0440\u043E\u0433 \u043F\u043E \u043D\u043E\u0447\u0430\u043C \u2014 \u043D\u0430\u0448\u0430 \u0440\u0430\u0431\u043E\u0442\u0430,\r\n\u043D\u043E \u044D\u0442\u0438 \u043C\u043E\u043D\u0441\u0442\u0440\u044B \u0441\u043B\u0438\u0448\u043A\u043E\u043C \u0441\u0438\u043B\u044C\u043D\u044B\r\n\u0434\u043B\u044F \u043D\u0430\u0441. \u041F\u043E\u043C\u043E\u0436\u0435\u0448\u044C \u043E\u0434\u043E\u043B\u0435\u0442\u044C \u0438\u0445?",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0410\u043D\u044C\u044F\u043D\u0430\u0442\u0430 \u0438 \u0422\u043E\u0431\u0438-\u041A\u0430\u0434\u0430\u0447\u0438",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Nocne utrapienia",
+        "Client": "Uczciwy stra\u017Cnik-kapitan",
+        "Description": "Dostajemy sprawozdania o\r\natakach Anjanatha i\r\nTobi-Kadachi w D\u017Cungli.\r\nPatrole dr\u00F3g w nocy to nasze\r\nzadanie, ale te potwory s\u0105 za\r\nsilne. Mo\u017Cesz je pokona\u0107\r\ndla nas?",
+        "Target": "Upoluj Anjanatha i Tobi-Kadachi",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Aborrecimentos Noturnos",
+        "Client": "Capit\u00E3o Vig. Not. Honesto",
+        "Description": "Recebemos muitos relatos de\r\nataques de Anjanath e Tobi-\r\nKadachi na Selva recente-\r\nmente. Guardamos as estradas\r\nnoturnas, mas eles s\u00E3o muito\r\nferozes para n\u00F3s. Voc\u00EA\r\npoderia derrot\u00E1-los?",
+        "Target": "Cace um Anjanath e um Tobi-Kadachi",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC131\uAC00\uC2E0 \uBC00\uB9BC\uC758 \uBD88\uB7C9\uBC30\uB4E4",
+        "Client": "\uC131\uC2E4\uD55C \uACBD\uBE44\uB2E8\uC7A5",
+        "Description": "\uCD5C\uADFC \uBC24\uC758 \uBC00\uB9BC\uC5D0\uC11C \uC548\uC7C8\uB098\uD504\uC640\r\n\uD1A0\uBE44\uCE74\uAC00\uCE58\uC5D0\uAC8C \uC2B5\uACA9\uB2F9\uD588\uB2E4\uB294\r\n\uBCF4\uACE0\uAC00 \uC787\uB530\uB974\uACE0 \uC788\uC5B4\u2026 \uBC24\uAE38\uC758\r\n\uC548\uC804\uC744 \uC9C0\uD0A4\uB294 \uAC83\uC774 \uC6B0\uB9AC\uC758 \uC0AC\uBA85\r\n\uC774\uC9C0\uB9CC, \uB108\uBB34 \uD749\uD3EC\uD574\uC11C \uBC29\uBC95\uC774\r\n\uC5C6\uB294 \uC0C1\uD0DC\uC57C\u2026 \uC6B0\uB9AC \uB300\uC2E0\r\n\uADF8 2\uB9C8\uB9AC\uB97C \uC4F0\uB7EC\uB728\uB824 \uC904\uB798?",
+        "Target": "\uC548\uC7C8\uB098\uD504 1\uB9C8\uB9AC\uC640 \uD1A0\uBE44\uCE74\uAC00\uCE58 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u4EE4\u4EBA\u982D\u75DB\u842C\u5206\u7684\u5BC6\u6797\u60E1\u68CD\u5011",
+        "Client": "\u803F\u76F4\u7684\u591C\u5DE1\u968A\u968A\u9577",
+        "Description": "\u6700\u8FD1\u6211\u5011\u63A5\u5230\u8A31\u591A\r\n\u5728\u591C\u665A\u884C\u7D93\u5BC6\u6797\u6642\u906D\u5230\r\n\u883B\u984E\u9F8D\u548C\u98DB\u96F7\u9F8D\u8972\u64CA\u7684\u5831\u544A\u2026\u2026\r\n\u96D6\u7136\u7DAD\u8B77\u591C\u9593\u884C\u4EBA\u7684\u5B89\u5168\r\n\u662F\u6211\u5011\u7684\u4F7F\u547D\uFF0C\u4F46\u7260\u5011\u592A\u51F6\u66B4\u4E86\uFF0C\r\n\u6211\u5011\u5BE6\u5728\u675F\u624B\u7121\u7B56\u2026\u2026\u53EF\u5426\u8ACB\u4F60\r\n\u4EE3\u66FF\u6211\u5011\u6253\u5012\u90A32\u982D\u9B54\u7269\u5462\uFF1F",
+        "Target": "\u72E9\u73751\u982D\u883B\u984E\u9F8D\u82071\u982D\u98DB\u96F7\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u4E3A\u5BB3\u4E00\u65B9\u7684\u5BC6\u6797\u6076\u68CD",
+        "Client": "\u803F\u76F4\u7684\u5DE1\u591C\u961F\u957F",
+        "Description": "\u6700\u8FD1\u6765\u4E86\u5F88\u591A\u62A5\u544A\uFF0C\u8BF4\u665A\u4E0A\u5728\u5BC6\r\n\u6797\u906D\u5230\u86EE\u989A\u9F99\u548C\u98DE\u96F7\u9F99\u7684\u88AD\u51FB\u2026\u2026\r\n\u4FDD\u969C\u591C\u8DEF\u7684\u5B89\u5168\u662F\u6211\u4EEC\u7684\u4F7F\u547D\uFF0C\u4F46\r\n\u5B83\u4EEC\u592A\u8FC7\u51F6\u6B8B\uFF0C\u6211\u4EEC\u675F\u624B\u65E0\u7B56\u2026\u2026\r\n\u8FD8\u8BF7\u4F60\u66FF\u6211\u4EEC\u53BB\u6253\u8D25\u90A3\u4E24\u5934\u602A\u7269\u3002",
+        "Target": "\u72E9\u730E1\u5934\u86EE\u989A\u9F99\u548C1\u5934\u98DE\u96F7\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0625\u0632\u0639\u0627\u062C \u0627\u0644\u0644\u064A\u0644\u064A",
+        "Client": "\u0642\u0627\u0626\u062F \u0627\u0644\u062D\u0631\u0627\u0633\u0629 \u0627\u0644\u0644\u064A\u0644\u064A\u0629 \u0627\u0644\u0623\u0645\u064A\u0646",
+        "Description": "\u0644\u0642\u062F \u062A\u0644\u0642\u064A\u0646\u0627 \u0627\u0644\u0645\u0632\u064A\u062F \u0645\u0646 \u0627\u0644\u062A\u0642\u0627\u0631\u064A\u0631\r\n\u0639\u0646 \u0627\u0639\u062A\u062F\u0627\u0621\u0627\u062A \u0623\u0646\u062C\u0627\u0646\u0627\u062B \u0648\u062A\u0648\u0628\u064A \u0643\u0627\u062F\u0627\u062A\u0634\u064A\r\n\u0641\u064A \u0627\u0644\u063A\u0627\u0628\u0629 \u0645\u0624\u062E\u0631\u064B\u0627.\r\n\u062D\u0631\u0627\u0633\u0629 \u0627\u0644\u0637\u0631\u0642 \u0627\u0644\u0644\u064A\u0644\u064A\u0629\r\n\u0647\u064A \u0645\u0647\u0645\u062A\u0646\u0627\u060C \u0644\u0643\u0646 \u0634\u0631\u0627\u0633\u0629 \u0647\u0630\u0647 \u0627\u0644\u0645\u062E\u0644\u0648\u0642\u0627\u062A\r\n\u0641\u0648\u0642 \u0627\u062D\u062A\u0645\u0627\u0644\u0646\u0627. \u0647\u0644 \u064A\u0645\u0643\u0646\u0643\r\n\u0623\u0646 \u062A\u0647\u0632\u0645\u0647\u0627 \u0628\u062F\u0644\u064B\u0627 \u0645\u0646\u0651\u064E\u0627\u061F",
+        "Target": "\u0627\u0635\u0637\u062F \u0623\u0646\u062C\u0627\u0646\u0627\u062B \u0648\u062A\u0648\u0628\u064A \u0643\u0627\u062F\u0627\u062A\u0634\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 12,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      47,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 47,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 82,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 118,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 136,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 133,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 41040,
+      "Points": 830,
+      "HRP": 1370
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      13,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 29,
+      "HealthTable": 121,
+      "AttackTable": 126,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

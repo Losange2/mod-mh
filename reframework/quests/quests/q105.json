@@ -1,0 +1,350 @@
+{
+  "QuestID": 105,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u6574\u5099\u306E\u524D\u306E\u30A4\u30BA\u30C1\u9000\u6CBB",
+        "Client": "\u91CC\u306E\u82E5\u3044\u5927\u5DE5",
+        "Description": "\u4ECA\u3001\u30AD\u30E3\u30F3\u30D7\u3092\u6574\u5099\u4E2D\u306A\u3093\u3060\u3051\u3069\r\n\u88DC\u4FEE\u6750\u304C\u5C11\u3057\u8DB3\u308A\u306A\u304F\u3066\u306A\u3002\r\n\u73FE\u5730\u3067\u8ABF\u9054\u3057\u3088\u3046\u306B\u3082\u3001\u30A4\u30BA\u30C1\u304C\r\n\u3046\u308D\u3064\u3044\u3066\u3044\u3066\u8EAB\u52D5\u304D\u304C\u53D6\u308C\u3093\u3002\r\n\u3060\u304B\u3089\u3055\u3001\u983C\u3080\u3088\u30CF\u30F3\u30BF\u30FC\u3055\u3093\u3002\r\n\u30AD\u30E3\u30F3\u30D7\u306E\u6574\u5099\u3092\u9032\u3081\u308B\u305F\u3081\u306B\r\n\u5974\u3089\u3092\u8A0E\u4F10\u3057\u3066\u304F\u308C\u306A\u3044\u304B\uFF1F",
+        "Target": "\u30A4\u30BA\u30C1\uFF18\u982D\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Help With Maintenance",
+        "Client": "Young Carpenter",
+        "Description": "I\u0027m fixin\u0027 up the ol\u0027 camp, but\r\nI\u0027m out of raw materials. Can\u0027t\r\ngo get more \u0027cause everywhere\r\nya go, Izuchi are snappin\u0027 and\r\nslashin\u0027 at ya. Think you can\r\nget \u0027em to scram so I can go\r\nget what I need?",
+        "Target": "Slay 8 Izuchi",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Travaux de maintenance",
+        "Client": "Jeune charpentier",
+        "Description": "J\u0027ai pas assez de mati\u00E8res\r\npremi\u00E8res pour finir de\r\nrafistoler le camp, et pas\r\nmoyen d\u0027en r\u00E9cup\u00E9rer avec tous\r\nces Izuchi dans les parages.\r\nTu pourrais te d\u00E9barrasser\r\nd\u0027eux pour moi ?",
+        "Target": "Tuer 8 Izuchi",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Lavori in corso",
+        "Client": "Giovane carpentiere",
+        "Description": "Sto sistemando l\u0027accampamento,\r\nma ho finito i materiali. Non\r\nposso andare a prenderne altri\r\nperch\u00E9 ci sono Izuchi ovunque,\r\npronti ad attaccare. Puoi\r\nfarli smammare tu, cos\u00EC potr\u00F2\r\nrecuperare quel che mi serve?",
+        "Target": "Uccidi 8 Izuchi",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Hilfe bei der Lagerpflege",
+        "Client": "Junger Zimmermann",
+        "Description": "Ich richte das Lager her, hab\r\naber kein Rohmaterial mehr.\r\n\u00DCberall lauern bissige Izuchi,\r\nalso kann ich auch nix holen.\r\nKannst du daf\u00FCr sorgen, dass\r\nsie abhauen, damit ich be-\r\nsorgen kann, was ich brauche?",
+        "Target": "Erlege 8 Izuchi.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Ayuda con mantenimiento",
+        "Client": "Joven carpintero",
+        "Description": "Necesito materia prima para\r\npreparar el campamento y no\r\npuedo ir por ella por culpa de\r\nlos Izuchi. Por favor,\r\n\u00A1deshazte de esos malditos\r\nIzuchi para que pueda seguir\r\ntrabajando!",
+        "Target": "Abate 8 Izuchi",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041F\u043E\u043C\u043E\u0449\u044C \u0441 \u0440\u0435\u043C\u043E\u043D\u0442\u043E\u043C",
+        "Client": "\u041C\u043E\u043B\u043E\u0434\u043E\u0439 \u043F\u043B\u043E\u0442\u043D\u0438\u043A",
+        "Description": "\u042F \u0440\u0435\u043C\u043E\u043D\u0442\u0438\u0440\u0443\u044E \u043B\u0430\u0433\u0435\u0440\u044C, \u043D\u043E \u0443 \u043C\u0435\u043D\u044F\r\n\u0437\u0430\u043A\u043E\u043D\u0447\u0438\u043B\u0438\u0441\u044C \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B. \u0418 \u043D\u043E\u0432\u044B\u0435\r\n\u044F \u043D\u0430\u0431\u0440\u0430\u0442\u044C \u043D\u0435 \u043C\u043E\u0433\u0443 \u2014 \u0442\u0430\u043C \u0432\u0435\u0437\u0434\u0435\r\n\u0418\u0434\u0437\u0443\u0442\u0438, \u043F\u0440\u043E\u0445\u043E\u0434\u0443 \u043D\u0435 \u0434\u0430\u044E\u0442.\r\n\u041C\u043E\u0436\u0435\u0448\u044C \u0438\u0445 \u043F\u0440\u043E\u0433\u043D\u0430\u0442\u044C, \u0447\u0442\u043E\u0431\u044B\r\n\u044F \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u043B \u0440\u0430\u0431\u043E\u0442\u0443?",
+        "Target": "\u0423\u0431\u0438\u0442\u044C 8 \u0418\u0434\u0437\u0443\u0442\u0438",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Pomoc przy robocie",
+        "Client": "M\u0142ody stolarz",
+        "Description": "Montuj\u0119 ob\u00F3z, ale sko\u0144czy\u0142y\r\nmi si\u0119 surowce. Nie mog\u0119\r\nzebra\u0107 wi\u0119cej, bo roi si\u0119 od\r\nIzuchich. Przep\u0119dzisz je,\r\n\u017Cebym m\u00F3g\u0142 zdoby\u0107, co mi\r\npotrzebne?",
+        "Target": "Zabij 8 Izuchich",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Ajuda com a manuten\u00E7\u00E3o",
+        "Client": "Jovem carpinteiro",
+        "Description": "T\u00F4 consertando o acampamento,\r\nmas acabaram os materiais. N\u00E3o\r\nd\u00E1 pra ir buscar mais porque\r\nt\u00E1 cheio de Izuchis atacando\r\npra l\u00E1 e pra c\u00E1. Voc\u00EA pode\r\nenxotar eles de l\u00E1 pra eu\r\npegar o que preciso?",
+        "Target": "Mate 8 Izuchis",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC815\uBE44\uBCF4\uB2E8 \uC774\uC988\uCE58 \uD1F4\uCE58\uAC00 \uBA3C\uC800",
+        "Client": "\uB9C8\uC744\uC758 \uC80A\uC740 \uBAA9\uC218",
+        "Description": "\uC9C0\uAE08 \uCEA0\uD504\uB97C \uC815\uBE44\uD558\uACE0 \uC788\uB294\uB370\r\n\uBCF4\uC218\uC5D0 \uC4F8 \uC7AC\uB8CC\uAC00 \uC870\uAE08 \uBAA8\uC790\uB77C\uC11C\r\n\uD604\uC9C0\uC5D0\uC11C \uC870\uB2EC\uD558\uB824\uACE0 \uD588\uB294\uB370\r\n\uC774\uC988\uCE58\uAC00 \uB3CC\uC544\uB2E4\uB140\uC11C \uBABB \uAC00\uACA0\uC5B4.\r\n\uADF8\uB798\uC11C \uB9D0\uC778\uB370 \uBD80\uD0C1\uC774 \uC788\uC5B4!\r\n\uCEA0\uD504\uC758 \uC815\uBE44\uB97C \uC9C4\uD589\uD558\uAE30 \uC704\uD574\uC11C\r\n\uB140\uC11D\uB4E4\uC744 \uD1A0\uBC8C\uD574 \uC904 \uC218 \uC788\uC744\uAE4C?",
+        "Target": "\uC774\uC988\uCE58 8\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6574\u5099\u524D\u5F97\u5148\u64CA\u9000\u942E\u9F2C\u9F8D",
+        "Client": "\u6751\u838A\u7684\u5E74\u8F15\u6728\u5320",
+        "Description": "\u6211\u73FE\u5728\u6B63\u5728\u9032\u884C\u71DF\u5730\u7684\u6574\u5099\uFF0C\r\n\u4F46\u9084\u7F3A\u5C11\u4E00\u4E9B\u4FEE\u88DC\u7684\u6750\u6599\u3002\r\n\u800C\u4E14\u942E\u9F2C\u9F8D\u4E00\u76F4\u5728\u9644\u8FD1\u5F98\u5F8A\uFF0C\r\n\u8B93\u6211\u5C31\u7B97\u60F3\u5C31\u5730\u53D6\u6750\u4E5F\u7121\u5F9E\u4E0B\u624B\u3002\r\n\u6240\u4EE5\u6211\u60F3\u62DC\u8A17\u4F60\u9019\u4F4D\u7375\u4EBA\uFF0C\r\n\u70BA\u4E86\u4F7F\u71DF\u5730\u7684\u6574\u5099\u80FD\u9806\u5229\u9032\u884C\uFF0C\r\n\u80FD\u8ACB\u4F60\u53BB\u5E6B\u6211\u8A0E\u4F10\u90A3\u4E9B\u50A2\u4F19\u55CE\uFF1F",
+        "Target": "\u8A0E\u4F108\u982D\u942E\u9F2C\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u5728\u4FEE\u6574\u524D\u51FB\u9000\u9570\u9F2C\u9F99",
+        "Client": "\u6751\u91CC\u7684\u5E74\u8F7B\u6728\u5320",
+        "Description": "\u6211\u6B63\u5728\u4FEE\u6574\u8425\u5730\uFF0C\r\n\u4F46\u6750\u6599\u6709\u4E9B\u4E0D\u591F\u3002\r\n\u5C31\u7B97\u60F3\u5728\u5F53\u5730\u6536\u96C6\u6750\u6599\uFF0C\r\n\u4E5F\u6709\u9570\u9F2C\u9F99\u56DB\u5904\u6A2A\u884C\uFF0C\u6CA1\u6CD5\u6536\u96C6\u3002\r\n\u6240\u4EE5\u554A\uFF0C\u62DC\u6258\u4F60\u4E86\uFF0C\u730E\u4EBA\u3002\r\n\u4E3A\u4E86\u80FD\u987A\u5229\u4FEE\u6574\u8425\u5730\uFF0C\r\n\u53EF\u4EE5\u9EBB\u70E6\u4F60\u53BB\u8BA8\u4F10\u5B83\u4EEC\u5417\uFF1F",
+        "Target": "\u8BA8\u4F108\u5934\u9570\u9F2C\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0645\u0633\u0627\u0639\u062F\u0629 \u0641\u064A \u0627\u0644\u0635\u064A\u0627\u0646\u0629",
+        "Client": "\u0627\u0644\u0646\u062C\u0627\u0631 \u0627\u0644\u0635\u063A\u064A\u0631",
+        "Description": "\u0623\u0646\u0627 \u0623\u0635\u0644\u062D \u0627\u0644\u0645\u0639\u0633\u0643\u0631 \u0628\u0627\u0644\u0643\u0627\u0645\u0644\u060C \u0648\u0644\u0643\u0646\r\n\u0646\u0641\u062F\u062A \u0645\u0646\u064A \u0627\u0644\u0645\u0648\u0627\u062F \u0627\u0644\u062E\u0627\u0645. \u0644\u0646 \u0623\u062A\u0645\u0643\u0646\r\n\u0645\u0646 \u0627\u0644\u0630\u0647\u0627\u0628 \u0644\u0644\u062D\u0635\u0648\u0644 \u0639\u0644\u0649 \u0627\u0644\u0645\u0632\u064A\u062F\r\n\u0644\u0623\u0646 \u0643\u0644 \u0645\u0643\u0627\u0646 \u0623\u0630\u0647\u0628 \u0625\u0644\u064A\u0647 \u064A\u062A\u0631\u0635\u062F\r\n\u0628\u064A \u0625\u064A\u0632\u0648\u062A\u0634\u064A \u0644\u062A\u0642\u0637\u064A\u0639\u064A.\r\n\u003CLSNR {\u0623\u062A\u0638\u0646 \u0623\u0646\u0647 \u0628\u0625\u0645\u0643\u0627\u0646\u0643} {\u0623\u062A\u0638\u0646\u064A\u0646 \u0623\u0646\u0647 \u0628\u0625\u0645\u0643\u0627\u0646\u0643\u0650}\u003E \u0635\u0631\u0641\u0647\u0627 \u0644\u0623\u0630\u0647\u0628\r\n\u0648\u0623\u062D\u0635\u0644 \u0639\u0644\u0649 \u0645\u0627 \u0623\u062D\u062A\u0627\u062C\u0647\u061F",
+        "Target": "\u0627\u0642\u062A\u0644 8 \u0645\u0646 \u0625\u064A\u0632\u0648\u062A\u0634\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1369,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1369,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 82,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 133,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1366,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 71,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 95,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 240,
+      "Points": 10,
+      "HRP": 30
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      52,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 47,
+      "HealthTable": 20,
+      "AttackTable": 4,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 20,
+        "AttackTable": 4,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 20,
+        "AttackTable": 4,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 20,
+        "AttackTable": 4,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 20,
+        "AttackTable": 4,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 20,
+        "AttackTable": 4,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 20,
+        "AttackTable": 4,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 20,
+        "AttackTable": 4,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

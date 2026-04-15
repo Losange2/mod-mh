@@ -1,0 +1,350 @@
+{
+  "QuestID": 315314,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u67D4\u3089\u304B\u3055\u304B\u6591\u6A21\u69D8\u304B",
+        "Client": "\u60A9\u3081\u308B\u8CB4\u5A66\u4EBA",
+        "Description": "\u65B0\u3057\u304F\u4F5C\u308B\u30C9\u30EC\u30B9\u306E\u30A4\u30E1\u30FC\u30B8\u3067\r\n\u60A9\u3093\u3067\u3044\u308B\u308F\u3002\u3057\u304B\u3082\u4ECA\u56DE\u306F\r\n\u30E2\u30F3\u30B9\u30BF\u30FC\u3092\u30C6\u30FC\u30DE\u306B\u3057\u305F\u3044\u306E\u3002\r\n\u67D4\u3089\u304B\u3044\u6BDB\u4E26\u307F\u306E\u30E1\u30EB\u30AF\u2015\u3001\u7D20\u6575\r\n\u306A\u6591\u6A21\u69D8\u3092\u6301\u3064\u30AA\u30EB\u30AE\u30A3\u3001\u3069\u3061\u3089\r\n\u3092\u53C2\u8003\u306B\u3057\u3088\u3046\u304B\u3057\u3089\uFF1F\u3000\u305C\u3072\r\n\u5B9F\u969B\u306B\u898B\u3066\u8ABF\u67FB\u3057\u3066\u304F\u308C\u306A\u3044\uFF1F",
+        "Target": "\u30E1\u30EB\u30AF\u30FC\u3068\u30AA\u30EB\u30AE\u30A3\r\n\u5408\u8A08\uFF11\uFF15\u982D\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Soft or Spotty?",
+        "Client": "Lady in Distress",
+        "Description": "I\u0027m trying to come up with the\r\ndesign for a new dress, and I\r\nwant to base it on a monster!\r\nThe fluffy Gowngoat, or the\r\ncute li\u0027l spotted Boggi, which\r\nshould I choose!? I can\u0027t decide!\r\nGo and check them out, please!",
+        "Target": "Slay a total of 15 Gowngoats or Boggi",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Soyeux ou tachet\u00E9 ?",
+        "Client": "Demoiselle en d\u00E9tresse",
+        "Description": "J\u0027essaie de confectionner une\r\nnouvelle robe ressemblant \u00E0\r\nun monstre ! Que devrais-je\r\nchoisir, le Ch\u00E8vrecape soyeux\r\nou le joli Boggi tachet\u00E9 ?\r\nVa les voir, s\u0027il te pla\u00EEt !",
+        "Target": "Tuer un total de 15 Ch\u00E8vrecape\r\nou Boggi",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Morbido o pezzato?",
+        "Client": "Lady in pericolo",
+        "Description": "Sto cercando di ideare un\r\nnuovo vestito, e voglio basarlo\r\nsu di una creatura! Sar\u00E0 una\r\nTunicapra o forse un Boggi?\r\nCosa posso scegliere?\r\nVai ad aiutarmi, ti prego!",
+        "Target": "Uccidi 15 Tunicapre o Boggi in totale",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Weich oder gefleckt?",
+        "Client": "Dame in Not",
+        "Description": "Ich \u00FCberlege mir gerade ein\r\nDesign f\u00FCr ein neues Kleid. Es\r\nsoll auf einem Monster basieren!\r\nDer flauschigen Gewandziege\r\noder dem niedlich gefleckten\r\nBoggi? Welchen soll ich w\u00E4hlen?!\r\nGeh und sie sieh dir an!",
+        "Target": "Erlege insgesamt 15 Gewandziegen\r\noder Boggi.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "\u00BFBlandito o circulitos?",
+        "Client": "Damisela en apuros",
+        "Description": "Estoy dise\u00F1ando un vestido,\r\n\u00A1y quiero tomar a una criatura\r\ncomo inspiraci\u00F3n! A cu\u00E1l deber\u00EDa\r\nelegir, \u00A1\u00BFa la esponjosa Capabra,\r\no al Boggi y sus topitos?!\r\n\u00A1No me decido! \u00A1Ve a echarles\r\nun vistazo, por favor!",
+        "Target": "Abate un total de\r\n15 Capabra o Boggi",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041F\u0443\u0448\u0438\u0441\u0442\u044B\u0439 \u0438\u043B\u0438 \u043F\u044F\u0442\u043D\u0438\u0441\u0442\u044B\u0439?",
+        "Client": "\u0414\u0430\u043C\u0430 \u0432 \u0431\u0435\u0434\u0435",
+        "Description": "\u042F \u043F\u044B\u0442\u0430\u044E\u0441\u044C \u043F\u0440\u0438\u0434\u0443\u043C\u0430\u0442\u044C \u043E\u0431\u043B\u0438\u043A\r\n\u043D\u043E\u0432\u043E\u0433\u043E \u043F\u043B\u0430\u0442\u044C\u044F, \u0445\u043E\u0447\u0443, \u0447\u0442\u043E\u0431\u044B \u043E\u043D\u043E\r\n\u043D\u0430\u043F\u043E\u043C\u0438\u043D\u0430\u043B\u043E \u043E \u043C\u043E\u043D\u0441\u0442\u0440\u0435! \u0427\u0442\u043E \u0436\u0435\r\n\u0432\u044B\u0431\u0440\u0430\u0442\u044C \u2014 \u043F\u0443\u0448\u0438\u0441\u0442\u043E\u0433\u043E \u0422\u0443\u043D\u0438\u043A\u043E\u0437\u043B\u0438-\r\n\u043A\u0430 \u0438\u043B\u0438 \u043A\u0440\u0430\u0441\u0438\u0432\u043E\u0433\u043E \u043F\u044F\u0442\u043D\u0438\u0441\u0442\u043E\u0433\u043E\r\n\u0411\u043E\u0433\u0433\u0438? \u0421\u0445\u043E\u0434\u0438, \u043F\u043E\u0441\u043C\u043E\u0442\u0440\u0438 \u043D\u0430\r\n\u043D\u0438\u0445, \u043F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430!",
+        "Target": "\u0423\u0431\u0438\u0442\u044C 15 \u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432 (\u0422\u0443\u043D\u0438\u043A\u043E\u0437\u043B\u043E\u0432\r\n\u0438\u043B\u0438 \u0411\u043E\u0433\u0433\u0438)",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Mi\u0119kka czy c\u0119tkowana?",
+        "Client": "Dama w opa\u0142ach",
+        "Description": "Pr\u00F3buj\u0119 wymy\u015Bli\u0107 projekt nowej\r\nsukienki i chc\u0119 si\u0119\r\nzainspirowa\u0107 potworem!\r\nPuchata Szlafkoza czy\r\npi\u0119knie c\u0119tkowany Boggi?\r\nKt\u00F3re wybra\u0107?\r\nZobacz, jak wygl\u0105daj\u0105!",
+        "Target": "Zabij \u0142\u0105cznie 15 Szlafk\u00F3z lub Boggich",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Macio ou Pintado?",
+        "Client": "Dama Aflita",
+        "Description": "Quero criar um novo vestido, e\r\nquero basear num monstro!\r\nO Bodebeca fofinho ou o lindo\r\nPap\u00E3o pintado, qual escolher?\r\nV\u00E1 dar uma olhada, por favor!",
+        "Target": "Mate um total de 15 Bodebecas ou Pap\u00F5es",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uBD80\uB4DC\uB7EC\uC6C0 or \uC5BC\uB8E9\uBB34\uB2AC?",
+        "Client": "\uACE0\uBBFC\uD558\uB294 \uADC0\uBD80\uC778",
+        "Description": "\uC0C8\uB85C \uB9CC\uB4DC\uB294 \uB4DC\uB808\uC2A4 \uB54C\uBB38\uC5D0\r\n\uACE0\uBBFC\uC774\uC57C. \uC774\uBC88\uC5D4 \uBAAC\uC2A4\uD130\uAC00 \r\n\uD14C\uB9C8\uAC70\uB4E0. \uD138\uC774 \uBD80\uB4DC\uB7EC\uC6B4 \uBA54\uB974\uD06C \r\n\uC544\uB2C8\uBA74 \uC5BC\uB8E9\uBB34\uB2AC\uAC00 \uBA4B\uC9C4 \uC62C\uAE30?\r\n\uC5B4\uB290 \uCABD\uC744 \uCC38\uACE0\uB85C \uD558\uB294 \uAC8C \uC88B\uC744\uAE4C? \r\n\uC2E4\uC81C\uB85C \uBCF4\uACE0 \uC870\uC0AC\uD574 \uC8FC\uACA0\uC5B4?",
+        "Target": "\uBA54\uB974\uD06C\uC640 \uC62C\uAE30\r\n\uD569\uACC4 15\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u67D4\u6BDB\u6216\u6591\u7D0B",
+        "Client": "\u6B63\u5728\u7169\u60F1\u7684\u5A66\u4EBA",
+        "Description": "\u6211\u6B63\u5728\u7169\u60F1\u8A72\u600E\u6A23\u505A\u65B0\u7684\u88D9\u5B50\u5462\uFF0C\r\n\u800C\u4E14\u9084\u60F3\u4EE5\u9B54\u7269\u70BA\u4E3B\u984C\u3002\r\n\u4F60\u89BA\u5F97\u6211\u61C9\u8A72\u53C3\u8003\u6BDB\u8CEA\u67D4\u8EDF\u7684\r\n\u9E97\u7F8A\u7378\uFF0C\u9084\u662F\u6591\u7D0B\u79C0\u9E97\u7684\r\n\u72E1\u72D7\u9F8D\u5462\uFF1F\u4F60\u53EF\u4EE5\u53BB\u5BE6\u5730\u5E6B\u6211\r\n\u8ABF\u67E5\u4E00\u4E0B\u55CE\uFF1F",
+        "Target": "\u8A0E\u4F10\u72E1\u72D7\u9F8D\u548C\u9E97\u7F8A\u7378\u517115\u982D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u67D4\u987A\u597D\uFF1F\u6591\u70B9\u597D\uFF1F",
+        "Client": "\u70E6\u607C\u7684\u8D35\u5987",
+        "Description": "\u6211\u597D\u70E6\u607C\u628A\u65B0\u7F1D\u5236\u7684\u793C\u670D\u505A\u6210\u4EC0\u4E48\r\n\u6B3E\u5F0F\u554A\u3002\u800C\u4E14\u8FD9\u6B21\u793C\u670D\u7684\u4E3B\u9898\u662F\u602A\r\n\u7269\u3002\u662F\u53C2\u8003\u6BDB\u67D4\u987A\u84EC\u677E\u7684\u4E3D\u7F8A\u517D\uFF1F\r\n\u8FD8\u662F\u53C2\u8003\u6591\u70B9\u4FCF\u4E3D\u7684\u72E1\u72D7\u9F99\u5462\uFF1F\u80FD\r\n\u4E0D\u80FD\u8BF7\u4F60\u53BB\u8C03\u67E5\u4E00\u8D9F\uFF0C\u4EB2\u773C\u770B\u770B\uFF1F",
+        "Target": "\u5408\u8BA1\u8BA8\u4F1015\u5934\u4E3D\u7F8A\u517D\u548C\u72E1\u72D7\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0646\u0627\u0639\u0645 \u0623\u0645 \u0645\u0631\u0642\u0637\u061F",
+        "Client": "\u0633\u064A\u062F\u0629 \u0628\u0627\u0626\u0633\u0629",
+        "Description": "\u0623\u062D\u0627\u0648\u0644 \u0625\u064A\u062C\u0627\u062F\r\n\u062A\u0635\u0645\u064A\u0645 \u0644\u0641\u0633\u062A\u0627\u0646 \u062C\u062F\u064A\u062F\u060C \u0648\u0623\u0631\u064A\u062F\r\n\u0623\u0646 \u0623\u0633\u062A\u0648\u062D\u064A\u0647 \u0645\u0646 \u0648\u062D\u0634!\r\n\u062C\u0627\u0648\u0646\u062C\u0648\u062A \u0627\u0644\u0645\u0646\u0641\u0648\u0634\u060C \u0623\u0648 \u0628\u0648\u062C\u064A\r\n\u0627\u0644\u0645\u0631\u0642\u0637 \u0627\u0644\u062C\u0645\u064A\u0644\u060C\r\n\u0623\u064A\u0647\u0645\u0627 \u0623\u062E\u062A\u0627\u0631\u061F!\r\n\u0627\u0630\u0647\u0628 \u0644\u062A\u0641\u062D\u0635\u0647\u0645\u0627 \u0631\u062C\u0627\u0621\u064B!",
+        "Target": "\u0627\u0642\u062A\u0644 15 \u062C\u0627\u0648\u0646\u062C\u0648\u062A\r\n\u0623\u0648 \u0628\u0648\u062C\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 13,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1412,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1412,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 57,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 24,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1369,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 133,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 349,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 4680,
+      "Points": 100,
+      "HRP": 0
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      67,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 27,
+      "HealthTable": 121,
+      "AttackTable": 126,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

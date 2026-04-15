@@ -1,0 +1,350 @@
+{
+  "QuestID": 315426,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u30A2\u30CB\u30AD\u304B\u3089\u304A\u9858\u3044",
+        "Client": "\u30CF\u30E2\u30F3\u306E\u4E00\u756A\u5F1F\u5B50\u30D2\u30D0\u30B5",
+        "Description": "\u76F8\u68D2\u306E\u30E2\u30F3\u30B8\u30E5\u304C\u30AB\u30E0\u30E9\u306E\u91CC\u306B\r\n\u5F37\u976D\u3067\u9811\u4E08\u306A\u7D20\u6750\u3092\u3001\u3067\u304D\u308B\u3060\u3051\r\n\u591A\u304F\u9001\u308A\u305F\u3044\u3089\u3057\u304F\u624B\u4F1D\u3063\u3066\u3044\u308B\r\n\u3093\u3060\u304C\u3001\u4FFA\u3068\u30E2\u30F3\u30B8\u30E5\u306E\uFF12\u4EBA\u3060\u3051\r\n\u3058\u3083\u6642\u9593\u304C\u304B\u304B\u3063\u3066\u3057\u304B\u305F\u306D\u3047\u3002\r\n\u30EF\u30EA\u30A3\u304C\u5CA9\u7ADC\u3068\u8F5F\u7ADC\u3092\u72E9\u731F\u3057\u3066\r\n\u7D20\u6750\u96C6\u3081\u3092\u624B\u4F1D\u3063\u3066\u304F\u308C\u306A\u3044\u304B\uFF1F",
+        "Target": "\u30D0\u30B5\u30EB\u30E2\u30B9\uFF11\u982D\u3068\u30C6\u30A3\u30AC\u30EC\u30C3\u30AF\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "A Request From Your Superior",
+        "Client": "Hamon\u0027s Top Disciple, Hibasa",
+        "Description": "My buddy Monju wants to send\r\nas many strong and sturdy\r\nmaterials as possible to\r\nKamura Village, but it\u0027s taking\r\ntoo long with just the two of\r\nus. Reckon you could help us\r\nhunt some Basarios and Tigrex?",
+        "Target": "Hunt a Basarios and a Tigrex",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Requ\u00EAte de votre sup\u00E9rieur",
+        "Client": "Hibasa, top disciple d\u0027Hamon",
+        "Description": "Mon ami Monju voudrait envoyer\r\nun maximum de mat\u00E9riaux\r\nrobustes au Village Kamura,\r\nmais \u00E0 nous deux, \u00E7a n\u0027avance\r\npas vite. Tu pourrais chasser\r\ndes Basarios et des Tigrex\r\npour nous aider ?",
+        "Target": "Chasser un Basarios et un Tigrex",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Una richiesta dal tuo superiore",
+        "Client": "Hibasa, discepolo di Hamon",
+        "Description": "La mia amica Monju vuole\r\ninviare tanti materiali forti\r\ne resistenti a Kamura, ma ci\r\nstiamo mettendo troppo in due.\r\nPotresti aiutarci cacciando\r\nalcuni Basarios e Tigrex?",
+        "Target": "Caccia un Basarios e un Tigrex",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Anfrage vom Vorgesetzten",
+        "Client": "Hamons Sch\u00FCler Hibasa",
+        "Description": "Mein Kumpel Monju will m\u00F6glichst\r\nviele starke und robuste Ma-\r\nterialien nach Kamura senden,\r\naber nur wir zwei brauchen ein-\r\nfach zu lange. Meinst du, du\r\nkannst uns helfen und ein paar\r\nBasarios und Tigrex jagen?",
+        "Target": "Erjage einen Basarios und einen Tigrex.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Una petici\u00F3n de tu superior",
+        "Client": "Hibasa, adelantada de Hamon",
+        "Description": "Mi amiga Monju quiere mandar\r\ntantos materiales fuertes a\r\nKamura como pueda, pero solas\r\nlas dos, tardamos demasiado.\r\n\u00BFCrees que podr\u00EDas ayudarnos a\r\ncazar unos Basarios y Tigrex?",
+        "Target": "Caza un Basarios y un Tigrex",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041F\u0440\u043E\u0441\u044C\u0431\u0430 \u043E\u0442 \u0432\u044B\u0448\u0435\u0441\u0442\u043E\u044F\u0449\u0438\u0445",
+        "Client": "\u0425\u0438\u0431\u0430\u0441\u0430, \u043B\u0443\u0447\u0448\u0438\u0439 \u0443\u0447-\u043A \u0425\u0430\u043C\u043E\u043D\u0430",
+        "Description": "\u041C\u043E\u044F \u043F\u043E\u0434\u0440\u0443\u0433\u0430 \u041C\u043E\u043D\u0434\u0437\u044E \u0445\u043E\u0447\u0435\u0442\r\n\u043F\u043E\u0441\u043B\u0430\u0442\u044C \u043A\u0430\u043A \u043C\u043E\u0436\u043D\u043E \u0431\u043E\u043B\u044C\u0448\u0435\r\n\u043A\u0440\u0435\u043F\u043A\u0438\u0445 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u043E\u0432 \u0432 \u0434\u0435\u0440\u0435\u0432\u043D\u044E\r\n\u041A\u0430\u043C\u0443\u0440\u0430, \u043D\u043E \u0432\u0434\u0432\u043E\u0435\u043C \u043C\u044B \u0434\u043E\u043B\u0433\u043E\r\n\u043A\u043E\u043F\u0430\u0435\u043C\u0441\u044F. \u041C\u043E\u0436\u0435\u0448\u044C \u043F\u043E\u043C\u043E\u0447\u044C \u043D\u0430\u043C\r\n\u0441 \u043E\u0445\u043E\u0442\u043E\u0439 \u043D\u0430 \u0411\u0430\u0437\u0430\u0440\u0438\u043E\u0441\u0430 \u0438\r\n\u0422\u0438\u0433\u0440\u0435\u043A\u0441\u0430?",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0411\u0430\u0437\u0430\u0440\u0438\u043E\u0441\u0430 \u0438 \u0422\u0438\u0433\u0440\u0435\u043A\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Pro\u015Bba od twojego szefa",
+        "Client": "Najl. ucze\u0144 Hamona: Hibasa",
+        "Description": "Moja kole\u017Canka Monju chce\r\nwys\u0142a\u0107 mocne i wytrzyma\u0142e\r\nmateria\u0142y do wioski Kamura,\r\nale zabiera nam to zbyt du\u017Co\r\nczasu. Czy mo\u017Cesz nam pom\u00F3c\r\nupolowa\u0107 Basariosa i Tigrexa?",
+        "Target": "Upoluj Basariosa i Tigrexa",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Pedido do Seu Superior",
+        "Client": "Hibasa, Melhor Disc. de Hamon",
+        "Description": "Minha amiga Monju quer mandar\r\no m\u00E1ximo de materiais fortes e\r\nresistentes para Kamura, mas\r\nest\u00E1 demorando muito com s\u00F3\r\nn\u00F3s dois. Voc\u00EA pode ajudar a\r\nca\u00E7ar alguns Basarios e Tigrex?",
+        "Target": "Cace um Basarios e o Tigrex",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD615\uB2D8\uC758 \uBD80\uD0C1",
+        "Client": "\uD558\uBAAC\uC758 \uC218\uC81C\uC790 \uD788\uBC14\uC0AC",
+        "Description": "\uD30C\uD2B8\uB108\uC778 \uBAAC\uC8FC\uAC00 \uCE74\uBB34\uB77C \uB9C8\uC744\uB85C\r\n\uAC15\uD558\uACE0 \uB2E8\uB2E8\uD55C \uC18C\uC7AC\uB97C \uCD5C\uB300\uD55C\r\n\uB9CE\uC774 \uBCF4\uB0B4\uACE0 \uC2F6\uB2E4\uACE0 \uD574\uC11C\r\n\uB3D5\uACE0 \uC788\uB294\uB370, \uB098\uC640 \uBAAC\uC8FC \uB458\uC774\uC11C\r\n\uD558\uAE30\uC5D0\uB294 \uC2DC\uAC04\uC774 \uC624\uB798 \uAC78\uB824.\r\n\uBBF8\uC548\uD55C\uB370 \uC554\uB8E1\uACFC \uAD49\uB8E1\uC744 \uC0AC\uB0E5\uD574\r\n\uC18C\uC7AC\uB97C \uBAA8\uC544 \uC8FC\uC9C0 \uC54A\uACA0\uC5B4?",
+        "Target": "\uBC14\uC0B4\uBAA8\uC2A4 1\uB9C8\uB9AC\uC640 \uD2F0\uAC00\uB809\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5927\u54E5\u7684\u8ACB\u6C42",
+        "Client": "\u5200\u7D0B\u7684\u982D\u865F\u5F1F\u5B50\u706B\u72F9",
+        "Description": "\u6211\u7684\u5925\u4F34\u6587\u6B8A\u60F3\u76E1\u53EF\u80FD\u591A\u5C07\u4E00\u4E9B\r\n\u5805\u56FA\u4E14\u8010\u7528\u7684\u7D20\u6750\u9001\u81F3\u795E\u706B\u6751\uFF0C\r\n\u4F46\u53EA\u9760\u6211\u548C\u6587\u6B8A\u5169\u500B\u4EBA\u7684\u8A71\uFF0C\r\n\u5F97\u82B1\u4E0A\u4E0D\u5C11\u6642\u9593\u3002\r\n\u62B1\u6B49\uFF0C\u80FD\u9EBB\u7169\u4F60\u53BB\u72E9\u7375\r\n\u5CA9\u9F8D\u548C\u8F5F\u9F8D\uFF0C\u5E6B\u5FD9\u6536\u96C6\u7D20\u6750\u55CE\uFF1F",
+        "Target": "\u72E9\u73751\u982D\u5CA9\u9F8D\u82071\u982D\u8F5F\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u5927\u54E5\u7684\u8BF7\u6C42",
+        "Client": "\u5200\u7EB9\u7684\u9996\u5E2D\u5F1F\u5B50\u706B\u72ED",
+        "Description": "\u6211\u7684\u642D\u6863\u6587\u6B8A\u60F3\u5C3D\u91CF\u591A\u5F80\u708E\u706B\u6751\u9001\r\n\u4E9B\u5F3A\u97E7\u7ED3\u5B9E\u7684\u7D20\u6750\uFF0C\u6211\u6B63\u5728\u5E2E\u5979\u3002\r\n\u4E0D\u8FC7\u5C31\u6211\u548C\u5979\u4E24\u4E2A\u4EBA\u592A\u82B1\u65F6\u95F4\u4E86\u3002\r\n\u4E0D\u597D\u610F\u601D\uFF0C\u80FD\u8BF7\u4F60\u5E2E\u5FD9\u72E9\u730E\u5CA9\u9F99\u548C\r\n\u8F70\u9F99\uFF0C\u534F\u52A9\u6211\u4EEC\u6536\u96C6\u7D20\u6750\u5417\uFF1F",
+        "Target": "\u72E9\u730E1\u5934\u5CA9\u9F99\u548C1\u5934\u8F70\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0637\u0644\u0628 \u0645\u0646 \u0627\u0644\u0645\u0633\u0626\u0648\u0644",
+        "Client": "\u062A\u0627\u0628\u0650\u0639 \u0647\u0627\u0645\u0648\u0646 \u0627\u0644\u0623\u0639\u0644\u0649\u060C \u0647\u064A\u0628\u0627\u0633\u0627",
+        "Description": "\u062A\u0631\u064A\u062F \u0635\u062F\u064A\u0642\u062A\u064A \u0645\u0648\u0646\u062C\u0648 \u0623\u0646 \u062A\u0631\u0633\u0644\r\n\u0623\u0643\u0628\u0631 \u0639\u062F\u062F \u0645\u0645\u0643\u0646 \u0645\u0646\r\n\u0627\u0644\u0645\u0648\u0627\u062F \u0627\u0644\u0642\u0648\u064A\u0629 \u0648\u0627\u0644\u0645\u062A\u064A\u0646\u0629 \u0625\u0644\u0649\r\n\u0642\u0631\u064A\u0629 \u0643\u0627\u0645\u0648\u0631\u0627\u060C \u0644\u0643\u0646 \u0627\u0644\u0623\u0645\u0631 \u064A\u0633\u062A\u063A\u0631\u0642\r\n\u0648\u0642\u062A\u064B\u0627 \u0637\u0648\u064A\u0644\u064B\u0627 \u0628\u0648\u062C\u0648\u062F\u0646\u0627 \u0646\u062D\u0646 \u0627\u0644\u0627\u062B\u0646\u0627\u0646 \u0641\u0642\u0637.\r\n\u0647\u0644 \u064A\u0645\u0643\u0646\u0643 \u0645\u0633\u0627\u0639\u062F\u062A\u0646\u0627 \u0641\u064A\r\n\u0635\u064A\u062F \u0628\u0639\u0636 \u0627\u0644\u062A\u062C\u0631\u064A\u0643\u0633 \u0648\u0627\u0644\u0628\u0627\u0633\u0627\u0631\u064A\u0648\u0633\u061F",
+        "Target": "\u0627\u0635\u0637\u062F \u0628\u0627\u0633\u0627\u0631\u064A\u0648\u0633 \u0648\u062A\u062C\u0631\u064A\u0643\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 3,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      25,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 25,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 109,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 109,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 513,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 82,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 44640,
+      "Points": 900,
+      "HRP": 1420
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      7,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 14,
+      "HealthTable": 124,
+      "AttackTable": 128,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

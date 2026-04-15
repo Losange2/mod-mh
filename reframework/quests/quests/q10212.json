@@ -1,0 +1,350 @@
+{
+  "QuestID": 10212,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u30DC\u30AF\u3082\u30EF\u30BF\u30B7\u3082\u30B1\u30B9\u30C8\u30C9\u30F3\uFF1F",
+        "Client": "\u6DF7\u4E71\u72B6\u614B\u306E\u7537",
+        "Description": "\u305F\u3001\u5927\u5909\u3060\u5927\u5909\u3060\u30A1\uFF01\u3000\u7802\u539F\u306B\r\n\u30B1\u30B9\u30C8\u30C9\u30F3\u304C\uFF01\u3000\u3044\u3063\u3071\u3044\u3060\u30A1\uFF01\r\n\u53F3\u3082\u5DE6\u3082\u30B1\u30B9\u30C8\u30C9\u30F3\u3001\u524D\u3082\u5F8C\u308D\u3082\r\n\u30B1\u30B9\u30C8\u30C9\u30F3\u2026\u2026\u306A\u3093\u3068\u304B\u9003\u3052\u3066\r\n\u304D\u305F\u304C\u3001\u30B1\u30B9\u30C8\u30C9\u30F3\u304C\u8133\u88CF\u306B\u713C\u304D\r\n\u4ED8\u3044\u3066\u96E2\u308C\u306A\u3044\u2026\u3002\u3068\u3001\u3068\u306B\u304B\u304F\r\n\u7802\u539F\u306E\u30B1\u30B9\u30C8\u30C9\u30F3\u3092\u5012\u3057\u3066\u304F\u308C\uFF01",
+        "Target": "\u30B1\u30B9\u30C8\u30C9\u30F3\uFF11\uFF15\u982D\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Dawn of the Kestodon",
+        "Client": "Utterly Confused Man",
+        "Description": "What do I do? WHAT DO I DO!?\r\nThere\u0027s Kestodon all around me!\r\nHere, there, yonder, whither\u2014\r\nthey\u0027re everywhere, I tell ya,\r\nEVERYWHERE! Even in my mind!\r\nThere\u0027s nowhere left to run! You\r\ngotta stop \u0027em before it\u0027s too late!",
+        "Target": "Slay 20 Kestodon",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "L\u0027invasion des Kestodon",
+        "Client": "Un homme d\u00E9sesp\u00E9r\u00E9",
+        "Description": "J\u0027en peux plus ! Les Kestodon sont\r\npartout ! PARTOUT ! Ils m\u0027observent\r\ntout le temps, m\u00EAme dans mes r\u00EAves !\r\nIl faut que tu les \u00E9limines avant\r\nqu\u0027ils prennent le pouvoir !\r\nJe t\u0027en prie !",
+        "Target": "Tuer 20 Kestodon",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "L\u0027alba del Kestodon",
+        "Client": "Uomo molto confuso",
+        "Description": "Cosa faccio? COSA FACCIO?!\r\nI Kestodon non mi danno\r\ntregua! Qua, l\u00E0, su, gi\u00F9...\r\nSono dappertutto, DAPPERTUTTO!\r\nPersino nella mia testa! Non\r\nc\u0027\u00E8 via di scampo! Fermali\r\nprima che sia troppo tardi!",
+        "Target": "Uccidi 20 Kestodon",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "D\u00E4mmerung der Kestodon",
+        "Client": "V\u00F6llig verwirrter Mann",
+        "Description": "Was mach ich blo\u00DF? WAS MACH\r\nICH BLOSS?! Um mich rum sind\r\nKestodon! Links, rechts, hier,\r\ndort \u2013 sie sind \u00DCBERALL! Sogar in\r\nmeinem Kopf! Ich kann nirgend-\r\nwohin! Halt sie auf, bevor es zu\r\nsp\u00E4t ist!",
+        "Target": "Erlege 20 Kestodon.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "\u00A1Kestodon a patadas!",
+        "Client": "Tipo muy confundido",
+        "Description": "\u00A1Ay, \u00BFqu\u00E9 hago?! \u00A1Kestodon!\r\n\u00A1En los Llanos arenosos! Aqu\u00ED,\r\nall\u00ED... \u00A1Mires donde mires!\r\nTe digo que est\u00E1n por todas\r\npartes, \u00A1incluso en mi cabeza!\r\n\u00A1No hay escapatoria! Por\r\nfavor, \u00A1acaba con ellos!",
+        "Target": "Abate 20 Kestodon",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0417\u0430\u0440\u044F \u041A\u0435\u0441\u0442\u043E\u0434\u043E\u043D\u043E\u0432",
+        "Client": "\u0421\u043A\u043E\u043D\u0444\u0443\u0436\u0435\u043D\u043D\u044B\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A",
+        "Description": "\u0427\u0442\u043E \u0436\u0435 \u043C\u043D\u0435 \u0434\u0435\u043B\u0430\u0442\u044C? \u0427\u0422\u041E \u0416\u0415\r\n\u0414\u0415\u041B\u0410\u0422\u042C? \u041A\u0440\u0443\u0433\u043E\u043C \u041A\u0435\u0441\u0442\u043E\u0434\u043E\u043D\u044B!\r\n\u0417\u0434\u0435\u0441\u044C, \u0442\u0430\u043C, \u0432\u0435\u0437\u0434\u0435! \u041E\u043D\u0438\r\n\u043F\u043E\u0432\u0441\u044E\u0434\u0443, \u0433\u043E\u0432\u043E\u0440\u044E \u044F \u0442\u0435\u0431\u0435,\r\n\u041F\u041E\u0412\u0421\u042E\u0414\u0423! \u0414\u0430\u0436\u0435 \u0443 \u043C\u0435\u043D\u044F \u0432 \u0433\u043E\u043B\u043E\u0432\u0435!\r\n\u0411\u0435\u0436\u0430\u0442\u044C \u043D\u0435\u043A\u0443\u0434\u0430! \u041F\u0440\u043E\u0448\u0443,\r\n\u0440\u0430\u0437\u0434\u0435\u043B\u0430\u0439\u0441\u044F \u0441 \u043D\u0438\u043C\u0438!",
+        "Target": "\u0423\u0431\u0438\u0442\u044C 20 \u041A\u0435\u0441\u0442\u043E\u0434\u043E\u043D\u043E\u0432",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Kestodoniada",
+        "Client": "Zdezorientowany m\u0119\u017Cczyzna",
+        "Description": "Co mam pocz\u0105\u0107? CO POCZ\u0104\u0106?! Pe\u0142no\r\nKestodon\u00F3w \u2013 tu, tam, \u00F3wdzie,\r\nz lewej, z prawej... Wsz\u0119dzie,\r\nm\u00F3wi\u0119 ci, WSZ\u0118DZIE! Nawet\r\nw mojej g\u0142owie! Nie ma dok\u0105d\r\nuciec! Musisz je pokona\u0107, nim\r\nb\u0119dzie za p\u00F3\u017Ano!",
+        "Target": "Zabij 20 Kestodon\u00F3w",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Alvorada do Kestodonte",
+        "Client": "Homem totalmente confuso",
+        "Description": "O que eu fa\u00E7o? O QUE EU FA\u00C7O?! Tem\r\nKestodontes por todo lugar! Aqui,\r\nali, acol\u00E1 \u2014 eles est\u00E3o em toda\r\nparte, s\u00E9rio, EM TODA PARTE! At\u00E9\r\nna minha mente! N\u00E3o tem mais pra\r\nonde correr! Voc\u00EA tem que det\u00EA-los\r\nantes que seja tarde demais!",
+        "Target": "Mate 20 Kestodontes",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC6B0\uB9AC \uBAA8\uB450 \uCF00\uC2A4\uD1A0\uB3C8?",
+        "Client": "\uD63C\uB780\uC5D0 \uBE60\uC9C4 \uB0A8\uC790",
+        "Description": "\uD06C, \uD070\uC77C\uC774\uC57C! \uBAA8\uB798 \uD3C9\uC6D0\uC5D0\r\n\uCF00\uC2A4\uD1A0\uB3C8\uC774 \uC794\uB729 \uB098\uD0C0\uB0AC\uC5B4!\r\n\uB3D9\uC11C\uB0A8\uBD81 \uC5B4\uB514\uB97C \uB458\uB7EC\uBD10\uB3C4\r\n\uCF00\uC2A4\uD1A0\uB3C8\u2026 \uB3C4\uB9DD\uCE58\uAE34 \uD588\uB294\uB370\u2026\r\n\uCF00\uC2A4\uD1A0\uB3C8\uC774 \uBA38\uB9AC\uC5D0 \uBC15\uD600\uC11C\r\n\uC0AC\uB77C\uC9C0\uC9C8 \uC54A\uC544\u2026 \uBAA8\uB798 \uD3C9\uC6D0\uC758\r\n\uCF00\uC2A4\uD1A0\uB3C8\uC744 \uC5C6\uC560 \uC918!",
+        "Target": "\uCF00\uC2A4\uD1A0\uB3C8 15\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6211\u662F\u51A0\u7A81\u9F8D\uFF1F\u51A0\u7A81\u9F8D\u662F\u6211\uFF1F",
+        "Client": "\u9677\u5165\u6DF7\u4E82\u7684\u7537\u5B50",
+        "Description": "\u5927\u3001\u5927\u5927\u3001\u5927\u4E8B\u4E0D\u5999\uFF01\r\n\u6C99\u539F\u5230\u8655\u90FD\u662F\u51A0\u7A81\u9F8D\uFF01\r\n\u524D\u5F8C\u51A0\u7A81\u9F8D\uFF0C\u5DE6\u53F3\u4E5F\u51A0\u7A81\u9F8D\u2026\u2026\r\n\u96D6\u7136\u6211\u9003\u4E86\u51FA\u4F86\uFF0C\r\n\u4F46\u8166\u6D77\u88E1\u537B\u5DF2\u7D93\r\n\u6EFF\u6EFF\u90FD\u662F\u51A0\u7A81\u9F8D\u2026\u2026\u7E3D\u3001\u7E3D\u4E4B\uFF0C\r\n\u62DC\u8A17\u5FEB\u53BB\u6253\u5012\u6C99\u539F\u7684\u51A0\u7A81\u9F8D\uFF01",
+        "Target": "\u8A0E\u4F1015\u982D\u51A0\u7A81\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6211\u4E5F\u662F\u51A0\u7A81\u9F99\uFF1F",
+        "Client": "\u5904\u4E8E\u6DF7\u4E71\u72B6\u6001\u7684\u7537\u4EBA",
+        "Description": "\u4E0D\u3001\u4E0D\u597D\u4E86\u4E0D\u597D\u4E86\uFF01\r\n\u6C99\u539F\u91CC\u51FA\u73B0\u4E86\u51A0\u7A81\u9F99\uFF01\u6570\u91CF\u5F88\u591A\uFF01\r\n\u524D\u540E\u5DE6\u53F3\uFF0C\u5230\u5904\u90FD\u662F\u51A0\u7A81\u9F99\u2026\u2026\r\n\u6211\u597D\u4E0D\u5BB9\u6613\u9003\u6389\u4E86\uFF0C\r\n\u4F46\u51A0\u7A81\u9F99\u4E00\u76F4\u8426\u7ED5\u5728\u6211\u5FC3\u5934\uFF0C\r\n\u6325\u4E4B\u4E0D\u53BB\u2026\u2026\u603B\u3001\u603B\u4E4B\uFF0C\r\n\u8BF7\u4F60\u53BB\u6253\u5012\u6C99\u539F\u7684\u51A0\u7A81\u9F99\uFF01",
+        "Target": "\u8BA8\u4F1015\u5934\u51A0\u7A81\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0641\u062C\u0631 \u0643\u064A\u0633\u062A\u0648\u062F\u0648\u0646",
+        "Client": "\u0631\u062C\u0644 \u0645\u0631\u062A\u0628\u0643 \u062A\u0645\u0627\u0645\u064B\u0627",
+        "Description": "\u0645\u0627\u0630\u0627 \u0623\u0641\u0639\u0644\u061F \u0645\u0627\u0630\u0627 \u0623\u0641\u0639\u0644!\u061F\r\n\u0647\u0646\u0627\u0643 \u0643\u064A\u0633\u062A\u0648\u062F\u0648\u0646 \u0641\u064A \u0643\u0644 \u0645\u0643\u0627\u0646 \u062D\u0648\u0644\u064A!\r\n\u0647\u0646\u0627\u060C \u0647\u0646\u0627\u0643\u060C\r\n\u0625\u0646\u0647\u0645 \u0641\u064A \u0643\u0644 \u0645\u0643\u0627\u0646\u060C \u0623\u0642\u0648\u0644 \u0644\u0643 \u0641\u064A\r\n\u0643\u0644 \u0645\u0643\u0627\u0646! \u062D\u062A\u0649 \u0641\u064A \u0639\u0642\u0644\u064A!\r\n\u0644\u0645 \u064A\u062A\u0628\u0642 \u0645\u0643\u0627\u0646 \u0644\u0644\u0647\u0631\u0628! \u003CLSNR {\u0639\u0644\u064A\u0643} {\u0639\u0644\u064A\u0643\u0650}\u003E\r\n\u0625\u064A\u0642\u0627\u0641\u0647\u0645 \u0642\u0628\u0644 \u0641\u0648\u0627\u062A \u0627\u0644\u0623\u0648\u0627\u0646!",
+        "Target": "\u0642\u062A\u0644 20 \u0643\u064A\u0633\u062A\u0648\u062F\u0648\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      98,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 98,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 2,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 514,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1369,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 37,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 59,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 1440,
+      "Points": 30,
+      "HRP": 120
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      31,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 17,
+      "HealthTable": 71,
+      "AttackTable": 52,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

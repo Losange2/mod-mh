@@ -1,0 +1,350 @@
+{
+  "QuestID": 602,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u7279\u5225\u8A31\u53EF\u8A66\u9A13\u30FB\u5176\u306E\u4E09",
+        "Client": "\u91CC\u306E\u53D7\u4ED8\u5B22\u30D2\u30CE\u30A8",
+        "Description": "\u7834\u7AF9\u306E\u52E2\u3044\u3067\u91CC\u306E\u30AF\u30A8\u30B9\u30C8\u3092\r\n\u89E3\u6C7A\u3057\u3066\u3044\u304F\u3042\u306A\u305F\u69D8\u306B\u3001\r\n\u7279\u5225\u8A31\u53EF\u8A66\u9A13\u3092\u53D7\u3051\u308B\u8CC7\u683C\u304C\r\n\u4E0E\u3048\u3089\u308C\u307E\u3057\u305F\u3002\r\n\u3053\u308C\u3092\u30AF\u30EA\u30A2\u3059\u308B\u3053\u3068\u3067\u3001\r\n\u003CCOL RED\u003E\u96C6\u4F1A\u6240\u2605\uFF14\u3078\u306E\u7DCA\u6025\u30AF\u30A8\u30B9\u30C8\u304B\u3089\u003C/COL\u003E\r\n\u958B\u59CB\u3067\u304D\u308B\u3088\u3046\u306B\u306A\u308A\u307E\u3059\u3088\u3002",
+        "Target": "\u5168\u3066\u306E\u30BF\u30FC\u30B2\u30C3\u30C8\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Special License Test 3",
+        "Client": "Hinoa the Quest Maiden",
+        "Description": "Seeing how you\u0027re just blazing\r\nthrough those quests, you\u0027ve\r\nearned the opportunity to take\r\na special license test, yay!\r\nPassing the test lets you take\r\non \u003CCOL RED\u003E4\u2605 Gathering Hub quests\u003C/COL\u003E.\r\nExciting, right? Good luck!",
+        "Target": "Hunt all target monsters",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Permis sp\u00E9cial, test 3",
+        "Client": "Hinoa la qu\u00EAtatrice",
+        "Description": "Vu comment tu encha\u00EEnes les\r\nqu\u00EAtes, je crois que tu\r\nm\u00E9rites de passer un permis\r\nsp\u00E9cial ! Si tu l\u0027obtiens, tu\r\npourras accepter des qu\u00EAtes\r\n\u003CCOL RED\u003E4\u2605 au Grand-Camp\u003C/COL\u003E.\r\nG\u00E9nial, non ? Bonne chance !",
+        "Target": "Chasser tous les monstres",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Licenza speciale test 3",
+        "Client": "Hinoa la missionatrice",
+        "Description": "Visto che te la cavi bene con\r\nle missioni, ho in serbo per\r\nte un test speciale! Se lo\r\nsuperi, potrai affrontare le\r\n\u003CCOL RED\u003Emissioni base di caccia 4\u2605\u003C/COL\u003E.\r\nNon \u00E8 fantastico? Buona\r\nfortuna!",
+        "Target": "Caccia tutti i mostri assegnati",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Spezieller Zulassungstest 3",
+        "Client": "Hinoa das Quest-M\u00E4del",
+        "Description": "Daf\u00FCr, wie schnell du durch\r\ndie Quests jagst, hast du dir\r\ndie Chance auf einen Spezial-\r\nZulassungstest verdient! Wenn\r\ndu ihn bestehst, darfst du\r\n\u003CCOL RED\u003E4\u2605-Versammlungsst\u00E4tten-Quests\u003C/COL\u003E\r\nannehmen. Juhu! Viel Gl\u00FCck!",
+        "Target": "Erjage alle Zielmonster.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Test de licencia especial 3",
+        "Client": "Hinoa la gestora de misiones",
+        "Description": "Llevas tan bien esas misiones\r\nque has ganado la oportunidad\r\nde hacer un test de licencia\r\nespecial. Superarlo har\u00E1 que\r\npuedas aceptar \u003CCOL RED\u003Emisiones de 4\u2605\r\nde la sala de reuni\u00F3n\u003C/COL\u003E.\r\nExcitante, \u00BFverdad? \u00A1Suerte!",
+        "Target": "Caza todos los objetivos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041E\u0441\u043E\u0431\u0430\u044F \u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044F, \u0442\u0435\u0441\u0442 3",
+        "Client": "\u0420\u0430\u0437\u0434\u0430\u0442\u0447\u0438\u0446\u0430 \u0437\u0430\u0434\u0430\u043D\u0438\u0439 \u0425\u0438\u043D\u043E\u0430",
+        "Description": "\u0422\u044B \u0442\u0430\u043A \u0445\u043E\u0440\u043E\u0448\u043E \u0441\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0448\u044C\u0441\u044F\r\n\u0441 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\u043C\u0438, \u0447\u0442\u043E \u0442\u0435\u043F\u0435\u0440\u044C\r\n\u043C\u043E\u0436\u0435\u0448\u044C \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u0442\u044C \u0442\u0435\u0441\u0442 \u043D\u0430\r\n\u043E\u0441\u043E\u0431\u0443\u044E \u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044E, \u0443\u0440\u0430!\r\n\u0415\u0441\u043B\u0438 \u043F\u0440\u043E\u0439\u0434\u0435\u0448\u044C \u0442\u0435\u0441\u0442, \u0441\u043C\u043E\u0436\u0435\u0448\u044C\r\n\u0431\u0440\u0430\u0442\u044C \u003CCOL RED\u003E\u0437\u0430\u0434\u0430\u043D\u0438\u044F \u0417\u0430\u043B\u0430 \u043D\u0430 4\u2605\u003C/COL\u003E.\r\n\u0417\u0434\u043E\u0440\u043E\u0432\u043E, \u043F\u0440\u0430\u0432\u0434\u0430? \u0423\u0434\u0430\u0447\u0438!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0432\u0441\u0435\u0445 \u043E\u0442\u043C\u0435\u0447\u0435\u043D\u043D\u044B\u0445 \u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Test na specjaln\u0105 licencj\u0119 3",
+        "Client": "Szefowa zada\u0144 Hinoa",
+        "Description": "Dos\u0142ownie mkniesz przez te\r\nzadania! Zas\u0142ugujesz na\r\nmo\u017Cliwo\u015B\u0107 przyst\u0105pienia do\r\ntestu na specjaln\u0105 licencj\u0119,\r\nhurra! Je\u015Bli zdasz, otrzymasz\r\ndost\u0119p do\r\n\u003CCOL RED\u003E4\u2605 zada\u0144 z Centrum Zgromadze\u0144\u003C/COL\u003E.",
+        "Target": "Upoluj wszystkie cele",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Teste de licen\u00E7a especial 3",
+        "Client": "Hinoa, a recrutadora",
+        "Description": "Voc\u00EA ganhou a oportunidade de\r\nfazer um teste de licen\u00E7a\r\nespecial! Pudera, voc\u00EA t\u00E1\r\narrasando nas miss\u00F5es! \u00C9 s\u00F3\r\npassar nele pra poder encarar\r\n\u003CCOL RED\u003Emiss\u00F5es de 4\u2605 na \u00C1rea de\r\nEncontro\u003C/COL\u003E. Legal, n\u00E9? Arrasa!",
+        "Target": "Cace todos os monstros-alvos",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD2B9\uBCC4 \uD5C8\uAC00 \uC2DC\uD5D8 3\uBC88\uC9F8",
+        "Client": "\uB9C8\uC744 \uC811\uC218\uC6D0 \uD788\uB178\uC5D0",
+        "Description": "\uC5C4\uCCAD\uB09C \uAE30\uC138\uB85C \uB9C8\uC744\uC758\r\n\uD018\uC2A4\uD2B8\uB97C \uD574\uACB0 \uC911\uC778 \uB2F9\uC2E0\uC5D0\uAC8C\r\n\uD2B9\uBCC4 \uD5C8\uAC00 \uC2DC\uD5D8\uC744 \uBC1B\uC744\r\n\uC790\uACA9\uC774 \uC8FC\uC5B4\uC84C\uC2B5\uB2C8\uB2E4.\r\n\uC774 \uC2DC\uD5D8\uC744 \uD074\uB9AC\uC5B4\uD558\uBA74\r\n\uBB34\uB824 \u003CCOL RED\u003E\uC9D1\uD68C\uC18C\uB97C \u26054\u003C/COL\u003E\uBD80\uD130\r\n\uC2DC\uC791\uD560 \uC218 \uC788\uAC8C \uB41C\uB2F5\uB2C8\uB2E4.",
+        "Target": "\uBAA8\uB4E0 \uD0C0\uAC9F \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7279\u5225\u8A31\u53EF\u8A66\u9A57\uFF65\u4E09",
+        "Client": "\u6751\u838A\u63A5\u5F85\u54E1\u706B\u82BD",
+        "Description": "\u7531\u65BC\u60A8\u4EE5\u7834\u7AF9\u4E4B\u52E2\u4E0D\u65B7\u89E3\u6C7A\u4E86\r\n\u6751\u838A\u7684\u4EFB\u52D9\uFF0C\u56E0\u6B64\u516C\u6703\u5DF2\u8CE6\u4E88\r\n\u60A8\u63A5\u53D7\u7279\u5225\u8A31\u53EF\u8A66\u9A57\u7684\u8CC7\u683C\u3002\r\n\u53EA\u8981\u5B8C\u6210\u8A66\u9A57\uFF0C\u60A8\u5C31\u80FD\u5F9E\u26054\r\n\u958B\u59CB\u9032\u884C\u003CCOL RED\u003E\u96C6\u6703\u6240\u003C/COL\u003E\u7684\u4EFB\u52D9\u56C9\uFF01",
+        "Target": "\u72E9\u7375\u6240\u6709\u76EE\u6A19",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7279\u522B\u8BB8\u53EF\u6D4B\u9A8C\u30FB\u5176\u4E09",
+        "Client": "\u6751\u5E84\u63A5\u5F85\u5458\u706B\u82BD",
+        "Description": "\u60A8\u52BF\u5982\u7834\u7AF9\uFF0C\r\n\u63A5\u4E8C\u8FDE\u4E09\u5B8C\u6210\u4E86\u6751\u4E2D\u7684\u4EFB\u52A1\uFF0C\r\n\u56E0\u6B64\u6388\u4E88\u60A8\u63A5\u53D7\r\n\u7279\u522B\u8BB8\u53EF\u6D4B\u9A8C\u7684\u8D44\u683C\u3002\r\n\u53EA\u8981\u5B8C\u6210\u8FD9\u9879\u4EFB\u52A1\uFF0C\r\n\u60A8\u5C31\u80FD\u5F00\u59CB\u627F\u63A5\r\n\u003CCOL RED\u003E\u96C6\u4F1A\u6240\u26054\u003C/COL\u003E\u4EFB\u52A1\u4E86\u3002",
+        "Target": "\u72E9\u730E\u6240\u6709\u76EE\u6807",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u062E\u062A\u0628\u0627\u0631 \u062A\u0631\u062E\u064A\u0635 \u062E\u0627\u0635 \u0631\u0642\u0645 3",
+        "Client": "\u0647\u064A\u0646\u0648\u0627 \u0641\u062A\u0627\u0629 \u0627\u0644\u0645\u0647\u0627\u0645",
+        "Description": "\u0628\u0646\u0627\u0621 \u0639\u0644\u0649 \u003CLSNR {\u0646\u062C\u0627\u062D\u0643} {\u0646\u062C\u0627\u062D\u0643\u0650}\u003E \u0627\u0644\u0645\u0628\u0647\u0631 \u0641\u064A\r\n\u0647\u0630\u0647 \u0627\u0644\u0645\u0647\u0627\u0645\u060C \u0644\u0642\u062F \u003CLSNR {\u062D\u0635\u0644\u062A} {\u062D\u0635\u0644\u062A\u0650}\u003E\r\n\u0639\u0644\u0649 \u0641\u0631\u0635\u0629 \u0627\u0644\u062D\u0635\u0648\u0644 \u0639\u0644\u0649\r\n\u0627\u062E\u062A\u0628\u0627\u0631 \u062A\u0631\u062E\u064A\u0635 \u062E\u0627\u0635\u060C \u0646\u0639\u0645! \u064A\u062A\u064A\u062D \u003CLSNR {\u0644\u0643} {\u0644\u0643\u0650}\u003E\r\n\u0627\u0644\u0646\u062C\u0627\u062D \u0641\u064A \u0627\u0644\u0627\u062E\u062A\u0628\u0627\u0631 \u0627\u0644\u062D\u0635\u0648\u0644 \u0639\u0644\u0649\r\n\u0645\u0647\u0627\u0645 \u003CCOL RED\u003E\u003CBSL\u003E\u26054\u003C/BSL\u003E \u0645\u0646 \u0645\u0631\u0643\u0632 \u0627\u0644\u062A\u062C\u0645\u0639\u003C/COL\u003E.\r\n\u0645\u062B\u064A\u0631\u060C \u0623\u0644\u064A\u0633 \u0643\u0630\u0644\u0643\u061F \u062D\u0638\u064B\u0627 \u0637\u064A\u0628\u064B\u0627!",
+        "Target": "\u0635\u064A\u062F \u0643\u0644 \u0627\u0644\u0648\u062D\u0648\u0634 \u0627\u0644\u0645\u0633\u062A\u0647\u062F\u0641\u0629",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 3,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1303,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1303,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1351,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 20,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 47,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 108,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1351,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 8010,
+      "Points": 170,
+      "HRP": 720
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      45,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 20,
+      "HealthTable": 36,
+      "AttackTable": 12,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

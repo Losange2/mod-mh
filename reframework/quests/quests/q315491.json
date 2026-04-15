@@ -1,0 +1,350 @@
+{
+  "QuestID": 315491,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u7720\u308C\u308B\u5BC6\u6797\u306E\u68D8\u7ADC",
+        "Client": "\u85AC\u5E2B\u306E\u30BF\u30C9\u30EA",
+        "Description": "\u85AC\u306B\u5FC5\u8981\u306A\u6BD2\u3092\u63A1\u53D6\u3059\u308B\u305F\u3081\r\n\u6025\u304E\u3001\u30A8\u30B9\u30D4\u30CA\u30B9\u306E\u72E9\u731F\u3092\r\n\u304A\u9858\u3044\u3057\u307E\u3059\u3002\u666E\u6BB5\u306F\u7A4F\u3084\u304B\u306A\r\n\u30E2\u30F3\u30B9\u30BF\u30FC\u3067\u3059\u304C\u3001\u6012\u308B\u3068\u5F37\u529B\u306A\r\n\u6BD2\u3001\u9EBB\u75FA\u3001\u706B\u3067\u8972\u3063\u3066\u304D\u307E\u3059\u3002\r\n\u3086\u3048\u306B\u3053\u308C\u306F\u5371\u967A\u306A\u4EFB\u52D9\u3067\u3059\u3002\r\n\u304F\u308C\u3050\u308C\u3082\u6CB9\u65AD\u306A\u3055\u3089\u306C\u3088\u3046\u2026\u3002",
+        "Target": "\u30A8\u30B9\u30D4\u30CA\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "A Slumbering Jungle Espinas",
+        "Client": "Doctor Tadori",
+        "Description": "You must hurry and hunt that\r\nEspinas! Though usually docile,\r\nthey attack with poison, paralytic,\r\nand fire when enraged! This\r\nmission is fraught with danger, but\r\ntime is of the essence! If we are to\r\nsave Fiorayne, you must succeed!",
+        "Target": "Hunt an Espinas",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Espinas ensommeill\u00E9",
+        "Client": "Docteur Tadori",
+        "Description": "Il faut vite que tu nous rapportes\r\nle poison d\u0027Espinas dont on a\r\nbesoin pour le rem\u00E8de. Les Espinas\r\nsont assez dociles, mais si tu\r\nles mets en col\u00E8re, ils peuvent\r\nlancer des attaques de poison,\r\nde paralysie et de feu. Prudence.",
+        "Target": "Chasser un Espinas",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Espinas assopito della giungla",
+        "Client": "Dottor Tadori",
+        "Description": "Presto, raccogli il veleno per\r\nla medicina da un Espinas! Di\r\nsolito \u00E8 un mostro docile ma,\r\nquando \u00E8 furioso, attacca con\r\nveleno, agenti paralizzanti e\r\nfuoco. La missione \u00E8 piena\r\ndi pericoli. Fa\u0027 attenzione.",
+        "Target": "Caccia un Espinas",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Schlafender Dschungel-Espinas",
+        "Client": "Tadori",
+        "Description": "Du musst dich beeilen und diesen\r\nEspinas erjagen! Sie sind gutm\u00FCtig,\r\naber greifen mit Gift, L\u00E4hmung\r\nund Feuer an, wenn sie w\u00FCtend\r\nsind. Die Mission ist voller Gefahr,\r\naber wenn wir Fiorayne retten\r\nwollen, musst du Erfolg haben!",
+        "Target": "Erjage einen Espinas.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Espinas dormido en la Jungla",
+        "Client": "El doctor Tadori",
+        "Description": "\u00A1Deprisa, tienes que cazar ese\r\nEspinas! Aunque suelen ser\r\nmansos, si se enfadan atacan\r\ncon veneno, par\u00E1lisis y fuego.\r\n\u00A1Es una misi\u00F3n peligrosa, pero\r\nmuy urgente! \u00A1Compl\u00E9tala para\r\nque podamos salvar a Fiorayne!",
+        "Target": "Caza un Espinas",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0414\u0440\u0435\u043C\u043B\u044E\u0449\u0438\u0439 \u042D\u0441\u043F\u0438\u043D\u0430\u0437 \u0432 \u0414\u0436\u0443\u043D\u0433\u043B\u044F\u0445",
+        "Client": "\u0414\u043E\u043A\u0442\u043E\u0440 \u0422\u0430\u0434\u043E\u0440\u0438",
+        "Description": "\u041F\u043E\u0441\u043A\u043E\u0440\u0435\u0435 \u0434\u043E\u0431\u0443\u0434\u044C \u044F\u0434 \u042D\u0441\u043F\u0438\u043D\u0430\u0437\u0430,\r\n\u0447\u0442\u043E \u043D\u0443\u0436\u0435\u043D \u043D\u0430\u043C \u0434\u043B\u044F \u043B\u0435\u043A\u0430\u0440\u0441\u0442\u0432\u0430.\r\n\u0425\u043E\u0442\u044F \u043E\u0431\u044B\u0447\u043D\u043E \u043E\u043D\u0438 \u043C\u0438\u0440\u043D\u044B\u0435, \u0435\u0441\u043B\u0438\r\n\u0438\u0445 \u0440\u0430\u0437\u043E\u0437\u043B\u0438\u0442\u044C, \u043E\u043D\u0438 \u0430\u0442\u0430\u043A\u0443\u044E\u0442\r\n\u044F\u0434\u043E\u043C, \u043E\u0433\u043D\u0435\u043C, \u0438 \u043C\u043E\u0433\u0443\u0442 \u043F\u0430\u0440\u0430\u043B\u0438-\r\n\u0437\u043E\u0432\u0430\u0442\u044C. \u042D\u0442\u043E \u043E\u043F\u0430\u0441\u043D\u0430\u044F \u0437\u0430\u0434\u0430\u0447\u0430.\r\n\u0411\u0443\u0434\u044C \u043D\u0430\u0447\u0435\u043A\u0443.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u042D\u0441\u043F\u0438\u043D\u0430\u0437\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "\u015Api\u0105cy Espinas w D\u017Cungli",
+        "Client": "Doktor Tadori",
+        "Description": "Szybko, zbierz trucizn\u0119 z\r\nEspinasa potrzebn\u0105 na lek.\r\nZazwyczaj s\u0105 niegro\u017Ane, ale\r\ngdy si\u0119 w\u015Bciekn\u0105, atakuj\u0105,\r\nu\u017Cywaj\u0105c trucizny, parali\u017Cu i\r\nognia. Ta misja jest pe\u0142na\r\nzagro\u017Ce\u0144. Uwa\u017Caj.",
+        "Target": "Upoluj Espinasa",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Espinas da Selva Adormecido",
+        "Client": "Doutor Tadori",
+        "Description": "Corra e colha dum Espinas o\r\nveneno necess\u00E1rio para o\r\nrem\u00E9dio. Ainda que d\u00F3ceis,\r\neles atacam com veneno, para-\r\nlisia e fogo quando ati\u00E7ados.\r\nA miss\u00E3o \u00E9 perigosa,\r\ntome cuidado.",
+        "Target": "Cace um Espinas",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC7A0\uC790\uB294 \uBC00\uB9BC\uC758 \uADF9\uB8E1",
+        "Client": "\uC57D\uC0AC \uD0C0\uB3C4\uB9AC",
+        "Description": "\uC57D\uC5D0 \uD544\uC694\uD55C \uB3C5\uC744 \uCC44\uCDE8\uD558\uAE30 \uC704\uD574\r\n\uC2DC\uAE09\uD788 \uC5D0\uC2A4\uD53C\uB098\uC2A4 \uC0AC\uB0E5\uC744\r\n\uBD80\uD0C1\uB4DC\uB9BD\uB2C8\uB2E4. \uD3C9\uC18C\uC5D0\uB294 \r\n\uC628\uC21C\uD558\uC9C0\uB9CC \uD654\uAC00 \uB098\uBA74 \uAC15\uB825\uD55C \r\n\uB3C5, \uB9C8\uBE44, \uBD88\uB85C \uACF5\uACA9\uD560 \uAC81\uB2C8\uB2E4.\r\n\uB54C\uBB38\uC5D0 \uC704\uD5D8\uD55C \uC784\uBB34\uC785\uB2C8\uB2E4.\r\n\uBD80\uB514 \uBC29\uC2EC\uD558\uC9C0 \uB9C8\uC2DC\uAE38\u2026",
+        "Target": "\uC5D0\uC2A4\uD53C\uB098\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6C89\u7761\u7684\u5BC6\u6797\u68D8\u9F8D",
+        "Client": "\u6EAF\u85E5\u5E2B",
+        "Description": "\u6211\u7684\u85E5\u7269\u9700\u8981\u7528\u5230\u68D8\u9F8D\u7684\u6BD2\u7D20\uFF0C\r\n\u6545\u5E0C\u671B\u4F60\u80FD\u76E1\u5FEB\u524D\u5F80\u72E9\u7375\u3002\r\n\u6B64\u9B54\u7269\u5E73\u6642\u500B\u6027\u6EAB\u99B4\uFF0C\r\n\u4F46\u4E00\u65E6\u767C\u6012\uFF0C\u4FBF\u6703\u4F7F\u7528\u5F37\u529B\u7684\u6BD2\u3001\r\n\u9EBB\u75FA\u548C\u706B\u7130\u653B\u64CA\u3002\r\n\u6240\u4EE5\u6B64\u4EFB\u52D9\u76F8\u7576\u5371\u96AA\uFF0C\r\n\u842C\u842C\u4E0D\u53EF\u6389\u4EE5\u8F15\u5FC3\u2026\u2026",
+        "Target": "\u72E9\u73751\u982D\u68D8\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6C89\u7761\u4E8E\u5BC6\u6797\u7684\u68D8\u9F99",
+        "Client": "\u6E38\u65B9\u533B\u6CBF",
+        "Description": "\u4E3A\u4E86\u91C7\u96C6\u5236\u836F\u6240\u9700\u7684\u6BD2\uFF0C\u8BF7\u706B\u901F\u53BB\r\n\u72E9\u730E\u68D8\u9F99\u3002\u8FD9\u79CD\u602A\u7269\u5E73\u65F6\u5F88\u6E29\u548C\uFF0C\r\n\u4F46\u6124\u6012\u65F6\u4F1A\u4F7F\u7528\u5F3A\u529B\u7684\u6BD2\u3001\u9EBB\u75F9\u548C\r\n\u706B\u653B\u51FB\u5BF9\u624B\u3002\u56E0\u6B64\u8FD9\u4E2A\u4EFB\u52A1\u76F8\u5F53\u5371\r\n\u9669\u3002\u8BF7\u4F60\u5343\u4E07\u4E0D\u8981\u5927\u610F\u2026\u2026",
+        "Target": "\u72E9\u730E1\u5934\u68D8\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0625\u0633\u0628\u064A\u0646\u0627\u0633 \u0627\u0644\u063A\u0627\u0628\u0629 \u0627\u0644\u0646\u0627\u0626\u0645\u0629",
+        "Client": "\u0627\u0644\u0637\u0628\u064A\u0628 \u062A\u0627\u062F\u0648\u0631\u064A",
+        "Description": "\u0623\u0633\u0631\u0639 \u0648\u0627\u062D\u0635\u062F \u0627\u0644\u0633\u0645 \u0627\u0644\u0630\u064A\r\n\u0646\u062D\u062A\u0627\u062C\u0647 \u0644\u0644\u062F\u0648\u0627\u0621 \u0645\u0646\r\n\u0625\u0633\u0628\u064A\u0646\u0627\u0633. \u0628\u0627\u0644\u0631\u063A\u0645 \u0645\u0646 \u0623\u0646\u0647 \u0639\u0627\u062F\u0629\u064B \u0645\u0627 \u064A\u0643\u0648\u0646 \u0633\u0647\u0644 \u0627\u0644\u0627\u0646\u0642\u064A\u0627\u062F\u060C\r\n\u0641\u0625\u0646\u0647 \u064A\u0647\u0627\u062C\u0645 \u0628\u0627\u0644\u0633\u0645\u060C\r\n\u0648\u0627\u0644\u0634\u0644\u0644\u060C \u0648\u0627\u0644\u0646\u0627\u0631 \u0639\u0646\u062F\r\n\u0627\u0644\u063A\u0636\u0628. \u0647\u0630\u0647 \u0627\u0644\u0645\u0647\u0645\u0629 \u0645\u062D\u0641\u0648\u0641\u0629\r\n\u0628\u0627\u0644\u0645\u062E\u0627\u0637\u0631. \u0643\u0646 \u0639\u0644\u0649 \u0623\u0647\u0628\u0629 \u0627\u0644\u0627\u0633\u062A\u0639\u062F\u0627\u062F.",
+        "Target": "\u0627\u0635\u0637\u062F \u0625\u0633\u0628\u064A\u0646\u0627\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 3,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      81,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 81,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 37,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 95,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 118,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 134,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 71,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 23400,
+      "Points": 470,
+      "HRP": 1190
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      50,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 6,
+      "HealthTable": 124,
+      "AttackTable": 128,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

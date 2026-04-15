@@ -1,0 +1,350 @@
+{
+  "QuestID": 309,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u6D77\u7DBF\u8CEA\u7D20\u6750\u304C\u4F5C\u308B\u7802\u6F20\u306E\u672A\u6765",
+        "Client": "\u7802\u6F20\u306E\u5927\u767A\u660E\u5BB6",
+        "Description": "\u30ED\u30A2\u30EB\u30C9\u30ED\u30B9\u306E\u76AE\u306F\u3001\u4FDD\u6C34\u529B\u304C\r\n\u975E\u5E38\u306B\u9AD8\u3044\u3002\u3067\u3001\u30EF\u30B7\u306F\u8003\u3048\u305F\u3002\r\n\u3053\u306E\u76AE\u306B\u6C34\u3092\u542B\u307E\u305B\u3001\u5730\u9762\u306B\u56FA\u5B9A\r\n\u3059\u308C\u3070\u3001\u7802\u6F20\u3067\u3082\u690D\u7269\u304C\u80B2\u3064\u306E\r\n\u3067\u306F\u3068\u3002\u3055\u3059\u304C\u30EF\u30B7\u3001\u5929\u624D\u3058\u3083\uFF01\r\n\u3063\u3066\u308F\u3051\u3067\u3001\u7802\u6F20\u306E\u672A\u6765\u306E\u305F\u3081\u306B\r\n\u30ED\u30A2\u30EB\u30C9\u30ED\u30B9\u3092\u72E9\u731F\u3057\u3066\u304F\u308C\uFF01",
+        "Target": "\u30ED\u30A2\u30EB\u30C9\u30ED\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Spongy Oasis",
+        "Client": "Desert Inventor",
+        "Description": "You know how Royal Ludroth hide\r\nis all spongey and absorbs lots of\r\nwater, right? If we get a bunch of it,\r\nthen desert farmers will never have\r\nto worry about watering their crops\r\never again! I. AM. A. GENIUS!",
+        "Target": "Hunt a Royal Ludroth",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Des \u00E9ponges \u00E0 gogo",
+        "Client": "Inventeur du d\u00E9sert",
+        "Description": "Tu sais que la peau du Ludroth\r\nroyal peut absorber beaucoup\r\nd\u0027eau, n\u0027est-ce pas ? Si on en\r\navait assez, les fermiers du\r\nd\u00E9sert n\u0027auraient plus \u00E0 se\r\nsoucier de la s\u00E9cheresse !\r\nUne id\u00E9e de g\u00E9nie, hein ?!",
+        "Target": "Chasser un Ludroth royal",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Oasi di spugna",
+        "Client": "Inventore del deserto",
+        "Description": "Sai che la pelle dei Ludroth\r\nreali \u00E8 spugnosa e assorbe\r\nmolta acqua, no?\r\nProcurandocene parecchia,\r\ni contadini del deserto non\r\ndovranno mai pi\u00F9 preoccuparsi\r\ndi irrigare i campi! GENIALE!",
+        "Target": "Caccia un Ludroth reale",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Schwammige Oase",
+        "Client": "W\u00FCstenerfinder",
+        "Description": "Die Lederhaut des K\u00F6nigs-\r\nLudroth ist wie ein Schwamm\r\nund absorbiert Wasser. Wenn\r\nwir ein paar h\u00E4tten, k\u00F6nnten\r\ndie Bauern in der W\u00FCste ihre\r\nFelder viel leichter bew\u00E4s-\r\nsern. ICH BIN EIN GENIE!",
+        "Target": "Erjage einen K\u00F6nigs-Ludroth.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Oasis esponjoso",
+        "Client": "Inventor del desierto",
+        "Description": "\u00BFSabes que la piel de Ludroth\r\nReal retiene fluidos de\r\nmaravilla? Si obtenemos unas\r\ncuantas, \u00A1los granjeros del\r\ndesierto no volver\u00EDan a tener\r\nproblemas con la irrigaci\u00F3n!\r\n\u00A1Soy un genio!",
+        "Target": "Caza un Ludroth Real",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0413\u0443\u0431\u0447\u0430\u0442\u044B\u0439 \u043E\u0430\u0437\u0438\u0441",
+        "Client": "\u041F\u0443\u0441\u0442\u044B\u043D\u043D\u044B\u0439 \u0438\u0437\u043E\u0431\u0440\u0435\u0442\u0430\u0442\u0435\u043B\u044C",
+        "Description": "\u0422\u044B \u0432\u0435\u0434\u044C \u0437\u043D\u0430\u0435\u0448\u044C, \u0447\u0442\u043E\r\n\u0443 \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u043E\u0433\u043E \u041B\u0443\u0434\u0440\u043E\u0442\u0430 \u0448\u043A\u0443\u0440\u0430\r\n\u0433\u0443\u0431\u0447\u0430\u0442\u0430\u044F \u0438 \u0441\u043E\u0445\u0440\u0430\u043D\u044F\u0435\u0442 \u0432\u043E\u0434\u0443?\r\n\u0415\u0441\u043B\u0438 \u043D\u0430\u0431\u0440\u0430\u0442\u044C \u0442\u0430\u043A\u0438\u0445 \u0448\u043A\u0443\u0440,\r\n\u0443 \u0444\u0435\u0440\u043C\u0435\u0440\u043E\u0432 \u0432 \u043F\u0443\u0441\u0442\u044B\u043D\u0435 \u0431\u043E\u043B\u044C\u0448\u0435\r\n\u043D\u0435 \u0431\u0443\u0434\u0435\u0442 \u043F\u0440\u043E\u0431\u043B\u0435\u043C \u0441 \u043E\u0440\u043E\u0448\u0435\u043D\u0438\u0435\u043C\r\n\u043F\u043E\u043B\u0435\u0439. \u042F. \u041F\u0420\u041E\u0421\u0422\u041E. \u0413\u0415\u041D\u0418\u0419!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u043E\u0433\u043E \u041B\u0443\u0434\u0440\u043E\u0442\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "G\u0105bczasta oaza",
+        "Client": "Pustynny wynalazca",
+        "Description": "Wiesz, \u017Ce sk\u00F3ra Ludrotha\r\nKr\u00F3lewskiego wch\u0142ania wod\u0119 jak\r\ng\u0105bka? Je\u015Bli j\u0105 zdob\u0119dziemy,\r\nsko\u0144cz\u0105 si\u0119 problemy\r\npustynnych rolnik\u00F3w z\r\nnawadnianiem p\u00F3l!\r\nTO PO PROSTU GENIALNE!",
+        "Target": "Upoluj Ludrotha Kr\u00F3lewskiego",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "O\u00E1sis esponjoso",
+        "Client": "Inventor do deserto",
+        "Description": "Voc\u00EA sabe que a pele do Ludroth\r\nReal \u00E9 esponjosa e absorve muita\r\n\u00E1gua, n\u00E9? Se conseguirmos um monte,\r\nos fazendeiros do deserto nunca\r\nmais precisar\u00E3o se preocupar em\r\nregar a horta!\r\nEU. SOU. UM. G\u00CANIO!",
+        "Target": "Cace um Ludroth Real",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD574\uBA74 \uC18C\uC7AC\uAC00 \uB9CC\uB4E4 \uC0AC\uB9C9\uC758 \uBBF8\uB798",
+        "Client": "\uC0AC\uB9C9\uC758 \uB300\uBC1C\uBA85\uAC00",
+        "Description": "\uB85C\uC544\uB8E8\uB4DC\uB85C\uC2A4\uC758 \uAC00\uC8FD\uC740 \uB0B4\uC218\uC131\uC774\r\n\uB6F0\uC5B4\uB098. \uADF8\uB798\uC11C \uB09C \uC0DD\uAC01\uD588\uC9C0.\r\n\uC774 \uAC00\uC8FD\uC5D0 \uBB3C\uC744 \uB2F4\uC544 \uC9C0\uBA74\uC5D0\r\n\uACE0\uC815\uC2DC\uD0A4\uBA74 \uC0AC\uB9C9\uC5D0\uC11C\uB3C4 \uC2DD\uBB3C\uC744\r\n\uD0A4\uC6B8 \uC218 \uC788\uC9C0 \uC54A\uC744\uAE4C \uD558\uACE0.\r\n\uC0AC\uB9C9\uC758 \uBBF8\uB798\uB97C \uC704\uD574\uC11C\r\n\uB85C\uC544\uB8E8\uB4DC\uB85C\uC2A4\uB97C \uC0AC\uB0E5\uD574 \uC8FC\uAC8C!",
+        "Target": "\uB85C\uC544\uB8E8\uB4DC\uB85C\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6D77\u7DBF\u8CEA\u7D20\u6750\u5275\u9020\u51FA\u7684\u6C99\u6F20\u672A\u4F86",
+        "Client": "\u6C99\u6F20\u7684\u5927\u767C\u660E\u5BB6",
+        "Description": "\u6C34\u7378\u7684\u76AE\u64C1\u6709\u76F8\u7576\u51FA\u8272\u7684\u4FDD\u6C34\u529B\u3002\r\n\u6240\u4EE5\u8001\u592B\u60F3\u5230\u4E86\u4E00\u500B\u9EDE\u5B50\uFF1A\r\n\u5C31\u662F\u5C07\u6C34\u7378\u76AE\u6CE8\u6EFF\u6C34\u5206\uFF0C\u56FA\u5B9A\u5728\r\n\u5730\u9762\u4E0A\uFF0C\u9019\u9EBC\u4E00\u4F86\u5C31\u9023\u6C99\u6F20\u4E5F\u80FD\r\n\u7A2E\u690D\u690D\u7269\u4E86\u5427\u3002\u8001\u592B\u771F\u662F\u5929\u624D\u554A\uFF01\r\n\u5982\u6B64\u9019\u822C\uFF0C\u70BA\u4E86\u6C99\u6F20\u7684\u672A\u4F86\uFF0C\r\n\u8ACB\u4F60\u53BB\u72E9\u7375\u6C34\u7378\u5427\uFF01",
+        "Target": "\u72E9\u73751\u982D\u6C34\u7378",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7528\u6D77\u7EF5\u8D28\u7D20\u6750\u5F00\u62D3\u6C99\u6F20\u7684\u672A\u6765",
+        "Client": "\u6C99\u6F20\u7684\u5927\u53D1\u660E\u5BB6",
+        "Description": "\u6C34\u517D\u7684\u76AE\u62E5\u6709\u975E\u5E38\u5F3A\u5927\u7684\r\n\u4FDD\u6C34\u80FD\u529B\u3002\u6240\u4EE5\u5462\uFF0C\u6211\u5C31\u60F3\u554A\u3002\r\n\u8BA9\u8FD9\u76AE\u5438\u9971\u6C34\uFF0C\u518D\u56FA\u5B9A\u5728\u5730\u9762\u4E0A\uFF0C\r\n\u8FD9\u6837\u4E00\u6765\uFF0C\u8BF4\u4E0D\u5B9A\u5C31\u80FD\u5728\u6C99\u6F20\u4E2D\r\n\u683D\u57F9\u690D\u7269\u3002\u4E0D\u6127\u662F\u8001\u592B\uFF0C\u5929\u624D\u554A\uFF01\r\n\u5C31\u662F\u8FD9\u4E48\u56DE\u4E8B\uFF0C\u4E3A\u4E86\u6C99\u6F20\u7684\u672A\u6765\uFF0C\r\n\u9EBB\u70E6\u4F60\u53BB\u72E9\u730E\u6C34\u517D\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u6C34\u517D",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0648\u0627\u062D\u0629 \u0625\u0633\u0641\u0646\u062C\u064A\u0629",
+        "Client": "\u0645\u062E\u062A\u0631\u0639 \u0627\u0644\u0635\u062D\u0631\u0627\u0621",
+        "Description": "\u003CLSNR {\u0623\u0646\u062A \u062A\u0639\u0631\u0641} {\u0623\u0646\u062A\u0650 \u062A\u0639\u0631\u0641\u064A\u0646}\u003E \u0623\u0646 \u062C\u0644\u062F \u0644\u0648\u062F\u0631\u0648\u062B \u0627\u0644\u0645\u0644\u0643\u064A\r\n\u0625\u0633\u0641\u0646\u062C\u064A \u0628\u0627\u0644\u0643\u0627\u0645\u0644 \u0648\u064A\u0645\u062A\u0635 \u0627\u0644\u0643\u062B\u064A\u0631 \u0645\u0646\r\n\u0627\u0644\u0645\u0627\u0621\u060C \u0635\u062D\u064A\u062D\u061F \u0625\u0630\u0627 \u0623\u062E\u0630\u0646\u0627 \u0642\u0637\u0639\u0629\r\n\u0645\u0646\u0647\u060C \u0641\u0644\u0646 \u064A\u0642\u0644\u0642 \u0645\u0632\u0627\u0631\u0639\u0648 \u0627\u0644\u0635\u062D\u0631\u0627\u0621\r\n\u0628\u0634\u0623\u0646 \u0631\u064A\u0651 \u0645\u062D\u0627\u0635\u064A\u0644\u0647\u0645\r\n\u0628\u0639\u062F \u0627\u0644\u0622\u0646! \u0623\u0646\u0627. \u0639\u0628\u0642\u0631\u064A!",
+        "Target": "\u0635\u064A\u062F \u0644\u0648\u062F\u0631\u0648\u062B \u0645\u0644\u0643\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 5,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      32,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 32,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 47,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 27,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1369,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 132,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 2400,
+      "Points": 50,
+      "HRP": 200
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      9,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 17,
+      "HealthTable": 26,
+      "AttackTable": 8,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

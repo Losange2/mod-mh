@@ -1,0 +1,350 @@
+{
+  "QuestID": 10614,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u78E8\u3051\uFF01\u3000\u9283\u69CD\u306E\u578B",
+        "Client": "\u30A6\u30C4\u30B7\u6559\u5B98",
+        "Description": "\u3084\u3042\u3001\u6211\u304C\u611B\u5F1F\u5B50\u3088\uFF01\r\n\u30AC\u30F3\u30E9\u30F3\u30B9\u306F\u3001\u591A\u5F69\u306A\u6280\u3092\r\n\u51B7\u9759\u306B\u7D44\u307F\u7ACB\u3066\u3066\u3053\u305D\u771F\u4FA1\u3092\u767A\u63EE\r\n\u3059\u308B\u6B66\u5668\u3060\uFF01\u3000\u003CCOL RED\u003E\u30D9\u30EA\u30AA\u30ED\u30B9\u003C/COL\u003E\u306E\r\n\u51B7\u9759\u306A\u6226\u3044\u65B9\u306F\u3001\u30AC\u30F3\u30E9\u30F3\u30B9\u306E\r\n\u65B0\u305F\u306A\u53EF\u80FD\u6027\u3092\u5F15\u304D\u51FA\u3059\u3060\u308D\u3046\u3002\r\n\u6355\u7372\u3057\u3066\u3001\u89B3\u5BDF\u3057\u3066\u307F\u3088\u3046\uFF01",
+        "Target": "\u30D9\u30EA\u30AA\u30ED\u30B9\uFF11\u982D\u306E\u6355\u7372",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\u3001\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7\r\n\u6355\u7372\u5BFE\u8C61\u306E\u8A0E\u4F10"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Grasp the Gunlance",
+        "Client": "Master Utsushi",
+        "Description": "Alright, Ace, lesson time!\r\nGetting in your target\u0027s face\r\nand remaining calm is the key\r\nto unleashing the true potential\r\nof the gunlance. And no monster\r\nteaches \u0022in-your-face\u0022 better\r\nthan the \u003CCOL RED\u003EBarioth\u003C/COL\u003E!",
+        "Target": "Capture a Barioth",
+        "Fail": "Reward hits 0, time expires,\r\nor capture target slain"
+      },
+      {
+        "Language": "FRE",
+        "Name": "D\u00E9couverte du lancecanon",
+        "Client": "Utsushi le ma\u00EEtre",
+        "Description": "Bon, je t\u0027explique ! Avoir sa cible\r\nbien en vue et garder son calme,\r\nc\u0027est la cl\u00E9 avec le lancecanon\r\nEt s\u0027il y a un bien monstre qui\r\nsait encadrer sa cible, c\u0027est\r\nle \u003CCOL RED\u003EBarioth\u003C/COL\u003E. Prends-en de la graine !",
+        "Target": "Capturer un Barioth",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9\r\nCible tu\u00E9e"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Apprendi la lancia-fucile",
+        "Client": "Maestro Utsushi",
+        "Description": "OK, \u00E8 ora di imparare: per\r\nsfruttare il potenziale della\r\nlancia-fucile, la chiave \u00E8\r\ntrovarsi dinanzi al bersaglio\r\ne rimanere calmi. E non c\u0027\u00E8\r\nnulla di meglio di un \u003CCOL RED\u003EBarioth\u003C/COL\u003E\r\nper apprendere questa tecnica!",
+        "Target": "Cattura un Barioth",
+        "Fail": "Premio a zero, tempo scaduto\r\no mostro da catturare ucciso"
+      },
+      {
+        "Language": "GER",
+        "Name": "Grundlagen der Gewehrlanze",
+        "Client": "Meister Utsushi",
+        "Description": "Okay, Ass, aufgepasst! Nase an\r\nNase mit dem Ziel zu sein und\r\ndabei ruhig zu bleiben, ist der\r\nSchl\u00FCssel zum Meistern der\r\nGewehrlanze. Und wenn dir ein\r\nMonster brutal die Nase brechen\r\nwill, ist es der \u003CCOL RED\u003EBarioth\u003C/COL\u003E!",
+        "Target": "Fange einen Barioth.",
+        "Fail": "Belohnung auf 0, Zeit l\u00E4uft ab\r\noder Fangziel erlegt."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Domina la lanza pistola",
+        "Client": "Maestro Utsushi",
+        "Description": "Hacha, \u00A1hora de aprender!\r\nDesatar el verdadero potencial\r\nde la lanza pistola requiere\r\nuna ejecuci\u00F3n s\u00F3lida. El\r\nestilo recio del \u003CCOL RED\u003EBarioth\u003C/COL\u003E es lo\r\nque buscas. \u00A1Captura uno y\r\nest\u00FAdialo bien!",
+        "Target": "Captura un Barioth",
+        "Fail": "La recompensa cae a 0, agotas\r\nel tiempo o el objetivo muere."
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041A\u043E\u0432\u0430\u0440\u043D\u0430\u044F \u043A\u043E\u043F\u044C\u0435\u043F\u0443\u0448\u043A\u0430",
+        "Client": "\u041C\u0430\u0441\u0442\u0435\u0440 \u0423\u0446\u0443\u0441\u0438",
+        "Description": "\u041D\u0443 \u0447\u0442\u043E, \u0430\u0441, \u043F\u043E\u0440\u0430 \u0443\u0447\u0438\u0442\u044C\u0441\u044F!\r\n\u041F\u0440\u0438 \u0430\u0442\u0430\u043A\u0435 \u043A\u043E\u043F\u044C\u0435\u043F\u0443\u0448\u043A\u043E\u0439\r\n\u0433\u043B\u0430\u0432\u043D\u043E\u0435 \u2014 \u043F\u043E\u0434\u043E\u0431\u0440\u0430\u0442\u044C\u0441\u044F \u043F\u043E\u0431\u043B\u0438\u0436\u0435\r\n\u0438 \u0441\u043E\u0445\u0440\u0430\u043D\u044F\u0442\u044C \u0441\u043F\u043E\u043A\u043E\u0439\u0441\u0442\u0432\u0438\u0435.\r\n\u0410 \u043F\u043E\u0434\u0445\u043E\u0434 \u043F\u043E\u0431\u043B\u0438\u0436\u0435 \u043B\u0443\u0447\u0448\u0435 \u0432\u0441\u0435\u0433\u043E\r\n\u043E\u0442\u0440\u0430\u0431\u0430\u0442\u044B\u0432\u0430\u0442\u044C \u0441 \u003CCOL RED\u003E\u0411\u0430\u0440\u0438\u043E\u0442\u043E\u043C\u003C/COL\u003E!",
+        "Target": "\u041F\u043E\u0439\u043C\u0430\u0442\u044C \u0411\u0430\u0440\u0438\u043E\u0442\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0,\r\n\u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F, \u0443\u043C\u0438\u0440\u0430\u0435\u0442 \u0446\u0435\u043B\u044C"
+      },
+      {
+        "Language": "POL",
+        "Name": "Opanuj lancopa\u0142",
+        "Client": "Mistrz Utsushi",
+        "Description": "Dobra, czas na nauk\u0119!\r\nSprowokowanie wroga\r\ni zachowanie spokoju to klucz\r\ndo wykorzystania potencja\u0142u\r\nlancopa\u0142u. A \u017Caden potw\u00F3r\r\nnie nauczy ci\u0119 prowokacji\r\nlepiej od \u003CCOL RED\u003EBariotha\u003C/COL\u003E!",
+        "Target": "Z\u0142ap Bariotha",
+        "Fail": "Nagroda = 0 lub koniec\r\nczasu, lub z\u0142apany cel ginie"
+      },
+      {
+        "Language": "POR",
+        "Name": "Empunhe a lan\u00E7arma",
+        "Client": "Mestre Utsushi",
+        "Description": "Beleza, Craque, hora da aula!\r\nFicar cara a cara com o alvo e\r\nmanter a calma \u00E9 a chave pra\r\nliberar o verdadeiro potencial\r\nda sua lan\u00E7arma. E nenhum monstro\r\n\u00E9 melhor no cara a cara que o\r\n\u003CCOL RED\u003EBarioth\u003C/COL\u003E!",
+        "Target": "Capture um Barioth",
+        "Fail": "Rec. chega a 0, tempo expira\r\nou alvo de captura \u00E9 morto"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC5F0\uB9C8\uD558\uB77C! \uAC74\uB79C\uC2A4\uC758 \uAE30\uC220",
+        "Client": "\uC6B0\uCE20\uC2DC \uAD50\uAD00",
+        "Description": "\uC790, \uB098\uC758 \uC560\uC81C\uC790\uC5EC!\r\n\uAC74\uB79C\uC2A4\uB294 \uB9CE\uC740 \uAE30\uC220\uC744 \uB0C9\uC815\uD558\uAC8C\r\n\uC870\uD569\uD574\uC57C \uC9C4\uAC00\uAC00 \uB098\uC624\uB294 \uBB34\uAE30\uB2E4!\r\n\u003CCOL RED\u003E\uBCA8\uB9AC\uC624\uB85C\uC2A4\u003C/COL\u003E\uC758 \uB0C9\uC815\uD55C\r\n\uC804\uD22C \uBC29\uC2DD\uC740 \uAC74\uB79C\uC2A4\uC758 \uC0C8\uB85C\uC6B4\r\n\uAC00\uB2A5\uC131\uC744 \uC774\uB04C\uC5B4\uB0BC \uAC83\uC774\uB2E4.\r\n\uD3EC\uD68D\uD574\uC11C \uAD00\uCC30\uD574 \uBCF4\uC790!",
+        "Target": "\uBCA8\uB9AC\uC624\uB85C\uC2A4 1\uB9C8\uB9AC \uD3EC\uD68D",
+        "Fail": "\uBCF4\uC218\uAE08 0, \uC2DC\uAC04 \uCD08\uACFC\r\n\uD3EC\uD68D \uB300\uC0C1 \uD1A0\uBC8C"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5343\u9318\u767E\u934A\uFF01\u9283\u69CD\u7684\u62DB\u5F0F",
+        "Client": "\u502A\u6CF0\u6559\u5B98",
+        "Description": "\u55E8\uFF0C\u6211\u7684\u611B\u5F92\u554A\uFF01\r\n\u9283\u69CD\u9019\u9805\u6B66\u5668\uFF0C\u5FC5\u9808\u51B7\u975C\u5730\r\n\u7D44\u5408\u5B83\u591A\u5F69\u591A\u59FF\u7684\u62DB\u5F0F\uFF0C\r\n\u624D\u80FD\u767C\u63EE\u5176\u771F\u6B63\u7684\u50F9\u503C\uFF01\r\n\u6211\u60F3\u003CCOL RED\u003E\u51B0\u7259\u9F8D\u003C/COL\u003E\u51B7\u975C\u7684\u6230\u9B25\u65B9\u5F0F\uFF0C\r\n\u61C9\u8A72\u80FD\u66FF\u9283\u69CD\u5E36\u4F86\u5D84\u65B0\u7684\u53EF\u80FD\u6027\u3002\r\n\u4F60\u5C31\u53BB\u6355\u7372\u7260\uFF0C\u4E26\u4E14\u597D\u597D\u89C0\u5BDF\u5427\uFF01",
+        "Target": "\u6355\u73721\u982D\u51B0\u7259\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\u3001\u6642\u9593\u7D50\u675F\r\n\u8A0E\u4F10\u6355\u7372\u5C0D\u8C61"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u78E8\u70BC\u5427\uFF01\u94F3\u67AA\u4E4B\u578B",
+        "Client": "\u502A\u6CF0\u6559\u5B98",
+        "Description": "\u563F\uFF0C\u6211\u7684\u7231\u5F92\u554A\u3002\r\n\u53EA\u6709\u5C06\u94F3\u67AA\u4E30\u5BCC\u591A\u5F69\u7684\u62DB\u5F0F\r\n\u51B7\u9759\u5730\u7EC4\u5408\u5728\u4E00\u8D77\uFF0C\r\n\u624D\u80FD\u53D1\u6325\u8FD9\u628A\u6B66\u5668\u771F\u6B63\u7684\u4EF7\u503C\uFF01\r\n\u003CCOL RED\u003E\u51B0\u7259\u9F99\u003C/COL\u003E\u51B7\u9759\u7684\u6218\u6597\u65B9\u5F0F\uFF0C\r\n\u5B9A\u80FD\u4E3A\u94F3\u67AA\u5E26\u6765\u65B0\u7684\u53EF\u80FD\u6027\u3002\r\n\u6355\u83B7\u5E76\u8FDB\u884C\u89C2\u5BDF\u5427\uFF01",
+        "Target": "\u6355\u83B71\u5934\u51B0\u7259\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\u3001\u65F6\u95F4\u8017\u5C3D\uFF0C\r\n\u6216\u8BA8\u4F10\u4E86\u6355\u83B7\u76EE\u6807"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0642\u0628\u0636\u0629 \u0628\u0646\u062F\u0642\u064A\u0629 \u0627\u0644\u0631\u0645\u0627\u062D",
+        "Client": "\u0627\u0644\u0633\u064A\u062F \u0623\u0648\u062A\u0633\u0648\u0634\u064A",
+        "Description": "\u062D\u0633\u0646\u064B\u0627 \u003CLSNR {\u0623\u064A\u0647\u0627 \u0627\u0644\u0628\u0627\u0631\u0639} {\u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0628\u0627\u0631\u0639\u0629}\u003E\u060C \u062D\u0627\u0646 \u0648\u0642\u062A\r\n\u0627\u0644\u062F\u0631\u0633! \u0625\u0646 \u0645\u0648\u0627\u062C\u0647\u0629 \u003CLSNR {\u0647\u062F\u0641\u0643} {\u0647\u062F\u0641\u0643\u0650}\u003E \u0648\u0627\u0644\u062D\u0641\u0627\u0638\r\n\u0639\u0644\u0649 \u0627\u0644\u0647\u062F\u0648\u0621 \u0647\u0645\u0627 \u0627\u0644\u0645\u0641\u062A\u0627\u062D \u0644\u0625\u0637\u0644\u0627\u0642\r\n\u0627\u0644\u0639\u0646\u0627\u0646 \u0644\u0644\u0625\u0645\u0643\u0627\u0646\u0627\u062A \u0627\u0644\u062D\u0642\u064A\u0642\u064A\u0629\r\n\u0644\u0628\u0646\u062F\u0642\u064A\u0629 \u0627\u0644\u0631\u0645\u0627\u062D. \u0648\u0644\u0627 \u064A\u0648\u062C\u062F\r\n\u0648\u062D\u0634 \u064A\u064F\u0639\u0644\u0651\u0645 \u0643\u064A\u0641\u064A\u0629\r\n\u0022\u0627\u0644\u0645\u0648\u0627\u062C\u0647\u0629\u0022 \u0623\u0641\u0636\u0644 \u0645\u0646 \u003CCOL RED\u003E\u0628\u0627\u0631\u064A\u0648\u062B\u003C/COL\u003E!",
+        "Target": "\u0623\u0633\u0631 \u0628\u0627\u0631\u064A\u0648\u062B",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u062A\u0647\u064A\r\n\u0627\u0644\u0648\u0642\u062A\u060C \u0623\u0648 \u0625\u0645\u0633\u0627\u0643 \u0647\u062F\u0641 \u0627\u0644\u0642\u062A\u0644"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      2075,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 2075,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 11520,
+      "Points": 240,
+      "HRP": 670
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      112,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 101,
+      "AttackTable": 83,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

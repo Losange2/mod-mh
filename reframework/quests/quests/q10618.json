@@ -1,0 +1,350 @@
+{
+  "QuestID": 10618,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u82F1\u4FCA\u8C6A\u5091",
+        "Client": "\u306B\u304E\u3084\u304B\u306A\u8208\u884C\u5E2B",
+        "Description": "\u3055\u3042\u3055\u3042\u3001\u7686\u3055\u3093\u304A\u7ACB\u4F1A\u3044\uFF01\r\n\u86EE\u984E\u7ADC\u3001\u6CE1\u72D0\u7ADC\u3001\u96F7\u72FC\u7ADC\u306E\r\n\u3054\u767B\u5834\uFF01\u3000\u7370\u731B\u3001\u72E1\u733E\u3001\u75DB\u70C8\u306A\r\n\u8352\u3076\u308B\u30E4\u30C4\u3089\u304C\u63C3\u3044\u8E0F\u307F\u3002\r\n\u6311\u3080\u306F\u3001\u3069\u3093\u306A\u30C4\u30EF\u30E2\u30CE\u3060\uFF01\r\n\u898B\u306A\u304D\u3083\u640D\u3060\u3088\u3001\u5BC4\u3063\u3068\u3044\u3067\uFF01",
+        "Target": "\u5168\u3066\u306E\u30BF\u30FC\u30B2\u30C3\u30C8\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Showdown in the Arena",
+        "Client": "Rowdy Showman",
+        "Description": "Gather \u0027round, gather \u0027round! Today\r\nwe have a show packed with fur and\r\nfury! Anjanath! Mizutsune! Zinogre!\r\nSparks will fly! Fire will burn! Bubbles\u2014\r\nd-does that say bubbles? It does. Uh...\r\nOK. Bubbles will, um, bubble! Who dares\r\nchallenge this trifecta of trepidation!",
+        "Target": "Hunt all target monsters",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Le combat du si\u00E8cle",
+        "Client": "Homme de spectacle",
+        "Description": "Approchez, approchez ! Un spectacle\r\nau poil vous attend aujourd\u0027hui !\r\nUn Anjanath, un Mizutsune et un\r\nZinogre ! Tremblez face aux \u00E9clairs\r\nfoudroyants, aux flammes br\u00FBlantes\r\net aux bulles... euh... rondes ? Qui\r\nosera affronter ce trio infernal ?",
+        "Target": "Chasser tous les monstres",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Scontro nell\u0027Arena",
+        "Client": "Showman chiassoso",
+        "Description": "Attenzione! Attenzione! Lo\r\nspettacolo di oggi prevede\r\nfuria e pellicce! Un Anjanath,\r\nun Mizutsune e uno Zinogre! Ne\r\nvedremo delle bolle? Bolle?\r\nC\u0027\u00E8 scritto bolle? Ehm... OK!\r\nChi sfider\u00E0 il temibile trio?",
+        "Target": "Caccia tutti i mostri assegnati",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Kr\u00E4ftemessen in der Arena",
+        "Client": "R\u00FCpelhafter Schausteller",
+        "Description": "Menschen, Tiere, Sensationen! Heute\r\nhaben wir ein Spektakel aus Zorn und\r\nZotteln! Anjanath! Mizutsune! Zinogre!\r\nFunken fliegen! Feuer brennt! Blasen--\r\nS-Steht da Blasen? Tatsache. \u00C4h... Okay.\r\nBlasen, \u00E4hm, blubbern! Wer wagt sich an\r\ndieses Dreiergespann der Beklemmung?",
+        "Target": "Erjage alle Zielmonster.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Duelo en la Arena",
+        "Client": "Artista alborotador",
+        "Description": "\u00A1Damas, caballeros y ni\u00F1os!\r\nEl Anjanath, el Mizutsune y\r\nel Zinogre, \u00A1el tr\u00EDo maldito!\r\nFieros, astutos y mortales.\r\n\u00BFQui\u00E9n se las ver\u00E1 con ellos?\r\nCazadores, \u00A1el espect\u00E1culo\r\ndebe continuar!",
+        "Target": "Caza todos los objetivos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0421\u0440\u0430\u0436\u0435\u043D\u0438\u0435 \u043D\u0430 \u0430\u0440\u0435\u043D\u0435",
+        "Client": "\u0428\u0443\u043C\u043D\u044B\u0439 \u0448\u043E\u0443\u043C\u0435\u043D",
+        "Description": "\u041F\u043E\u0434\u0445\u043E\u0434\u0438\u0442\u0435, \u043F\u043E\u0434\u0445\u043E\u0434\u0438\u0442\u0435, \u0423 \u043D\u0430\u0441\r\n\u0441\u0435\u0433\u043E\u0434\u043D\u044F \u043C\u0435\u0445 \u0438 \u044F\u0440\u043E\u0441\u0442\u044C! \u0410\u043D\u044C\u044F\u043D\u0430\u0442!\r\n\u041C\u0438\u0434\u0437\u0443\u0446\u0443\u043D\u044D! \u0417\u0438\u043D\u043E\u0433\u0440! \u0418\u0441\u043A\u0440\u044B!\r\n\u041E\u0433\u043E\u043D\u044C! \u041F\u0443\u0437\u044B\u0440\u0438! \u0421\u0442\u043E\u043F, \u0442\u0430\u043A\r\n\u0438 \u043D\u0430\u043F\u0438\u0441\u0430\u043D\u043E \u2014 \u0022\u043F\u0443\u0437\u044B\u0440\u0438\u0022? \u0425\u043C. \u0414\u0430.\r\n\u041B\u0430\u0434\u043D\u043E. \u041F\u0443\u0437\u044B\u0440\u0438! \u0422\u0440\u0435\u043F\u0435\u0449\u0438\u0442\u0435 \u0436\u0435\r\n\u043F\u0435\u0440\u0435\u0434 \u044D\u0442\u043E\u0439 \u0443\u0436\u0430\u0441\u043D\u043E\u0439 \u0442\u0440\u043E\u0438\u0446\u0435\u0439!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0432\u0441\u0435\u0445 \u043E\u0442\u043C\u0435\u0447\u0435\u043D\u043D\u044B\u0445 \u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Widowisko na Arenie",
+        "Client": "Ha\u0142a\u015Bliwy showman",
+        "Description": "Chod\u017Acie, chod\u017Acie! Dzisiaj widowisko\r\npe\u0142ne futra i furii! Anjanath!\r\nMizutsune! Zinogr! Polec\u0105 iskry! B\u0119d\u0105\r\nbucha\u0107 p\u0142omienie! B\u0105ble... Zaraz, tu\r\njest napisane \u201Eb\u0105ble\u201D? Ano jest.\r\nOk... B\u0105ble b\u0119d\u0105... b\u0105belkowa\u0107! Kto\r\nstawi czo\u0142o potr\u00F3jnej dawce grozy?",
+        "Target": "Upoluj wszystkie cele",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Confronto na Arena",
+        "Client": "Showman desordeiro",
+        "Description": "Venham! Venham! Hoje temos um show\r\nrecheado de pelos e f\u00FAria! Anjanath!\r\nMizutsune! Zinogre! Fa\u00EDscas voar\u00E3o!\r\nO fogo vai arder! Bolhas \u2014 t\u00E1 escrito\r\nbolhas mesmo? Pior que t\u00E1. H\u00E3... T\u00E1.\r\nBolhas v\u00E3o, h\u00E3, borbulhar! Quem ousa\r\ndesafiar esse trio trepidante?!",
+        "Target": "Cace todos os monstros-alvos",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC601\uC900\uD638\uAC78",
+        "Client": "\uD65C\uAE30\uCC2C \uC8FC\uCD5C\uC790",
+        "Description": "\uC790, \uC5EC\uB7EC\uBD84 \uBC18\uAC11\uC2B5\uB2C8\uB2E4!\r\n\uB9CC\uC545\uB8E1, \uD3EC\uD638\uB8E1, \uB1CC\uB791\uB8E1\uC758 \uB4F1\uC7A5!\r\n\uC601\uC545\uD568\uACFC \uAD50\uD65C\uD568\uC744 \uAC16\uCD94\uACE0\r\n\uB9F9\uB82C\uD788 \uB0A0\uB6F0\uB294 \uBAAC\uC2A4\uD130 \uBB34\uB9AC\uC5D0\uAC8C\r\n\uB3C4\uC804\uD560 \uAC15\uC790\uB294 \uB204\uAD6C\uC778\uAC00!\r\n\uC808\uB300 \uB193\uCE58\uC9C0 \uB9C8\uC138\uC694!",
+        "Target": "\uBAA8\uB4E0 \uD0C0\uAC9F \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u82F1\u96C4\u8C6A\u5091",
+        "Client": "\u5927\u8072\u5406\u559D\u7684\u8868\u6F14\u4E3B\u6301\u4EBA",
+        "Description": "\u4F86\u4F86\u4F86\uFF0C\u8D70\u904E\u8DEF\u904E\u5343\u842C\u5225\u932F\u904E\uFF01\r\n\u883B\u984E\u9F8D\u3001\u6CE1\u72D0\u9F8D\u548C\u96F7\u72FC\u9F8D\u51FA\u5834\u5566\uFF01\r\n\u4EE3\u8868\u51F6\u731B\u3001\u72E1\u733E\u8207\u5A01\u731B\u7684\r\n\u51F6\u66B4\u9B54\u7269\u5011\uFF0C\u4ECA\u5929\u9F4A\u805A\u4E00\u5802\uFF01\r\n\u5230\u5E95\u662F\u4EC0\u9EBC\u6A23\u7684\u5F37\u8005\u6562\u6311\u6230\u7260\u5011\uFF1F\r\n\u6C92\u770B\u5230\u53EF\u662F\u4F60\u7684\u640D\u5931\uFF0C\u5FEB\u4F86\u770B\u5594\uFF01",
+        "Target": "\u72E9\u7375\u6240\u6709\u76EE\u6A19",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u82F1\u96C4\u8C6A\u6770",
+        "Client": "\u70ED\u60C5\u5954\u653E\u7684\u4E3B\u6301\u4EBA",
+        "Description": "\u5728\u573A\u7684\u5404\u4F4D\uFF0C\u77A7\u597D\u561E\uFF01\r\n\u86EE\u989A\u9F99\uFF0C\u6CE1\u72D0\u9F99\uFF0C\u96F7\u72FC\u9F99\uFF0C\r\n\u95EA\u4EAE\u767B\u573A\uFF01\u72DE\u731B\uFF0C\u72E1\u733E\uFF0C\r\n\u72C2\u66B4\u7684\u51F6\u517D\u4EEC\u9F50\u805A\u4E00\u5802\u3002\r\n\u8981\u6311\u6218\u5B83\u4EEC\u7684\uFF0C\u662F\u600E\u6837\u7684\u5F3A\u8005\u5462\uFF01\r\n\u8D70\u8FC7\u8DEF\u8FC7\u522B\u9519\u8FC7\uFF0C\u5FEB\u6765\u77A7\u77A7\u554A\uFF01",
+        "Target": "\u72E9\u730E\u6240\u6709\u76EE\u6807",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0645\u0648\u0627\u062C\u0647\u0629 \u0641\u064A \u0627\u0644\u0633\u0627\u062D\u0629",
+        "Client": "\u0627\u0644\u0648\u062D\u0634 \u0627\u0644\u0645\u0634\u0627\u0643\u0633",
+        "Description": "\u0627\u062C\u062A\u0645\u0639\u0648\u0627\u060C \u0627\u062C\u062A\u0645\u0639\u0648\u0627! \u0627\u0644\u064A\u0648\u0645 \u0644\u062F\u064A\u0646\u0627\r\n\u0639\u0631\u0636 \u0645\u0644\u064A\u0621 \u0628\u0627\u0644\u0641\u0631\u0627\u0621 \u0648\u0627\u0644\u063A\u0636\u0628!\r\n\u0623\u0646\u062C\u0627\u0646\u0627\u062B! \u0645\u064A\u0632\u0648\u062A\u0633\u0648\u0646\u064A! \u0632\u064A\u0646\u062C\u0631!\r\n\u0633\u064A\u062A\u0637\u0627\u064A\u0631 \u0627\u0644\u0634\u0631\u0631! \u0633\u064A\u0634\u062A\u0639\u0644 \u0627\u0644\u0644\u0647\u0628!\r\n\u0641\u0642\u0627\u0639\u0627\u062A... \u0647\u0644 \u0647\u0646\u0627\u0643 \u0641\u0642\u0627\u0639\u0627\u062A\u061F \u0623\u062C\u0644.\r\n\u062D\u0633\u0646\u064B\u0627. \u0627\u0644\u0641\u0642\u0627\u0639\u0627\u062A \u0633\u0648\u0641 \u062A\u0641\u0642\u0651\u0639! \u0645\u0646\r\n\u064A\u0633\u062A\u0637\u064A\u0639 \u062A\u062D\u062F\u064A \u062B\u0644\u0627\u062B\u064A\u0629 \u0627\u0644\u0630\u0639\u0631 \u0647\u0630\u0647!",
+        "Target": "\u0635\u064A\u062F \u0643\u0644 \u0627\u0644\u0648\u062D\u0648\u0634 \u0627\u0644\u0645\u0633\u062A\u0647\u062F\u0641\u0629",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      2072,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 2072,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 16200,
+      "Points": 330,
+      "HRP": 880
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      112,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 101,
+      "AttackTable": 83,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

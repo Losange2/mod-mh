@@ -1,0 +1,350 @@
+{
+  "QuestID": 10510,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u5973\u738B\u306B\u9B45\u305B\u3089\u308C\u3066",
+        "Client": "\u7121\u9244\u7832\u306A\u7D75\u5E2B",
+        "Description": "\u5927\u793E\u8DE1\u306B\u30EA\u30AA\u30EC\u30A4\u30A2\u304C\u73FE\u308C\u305F\uFF01\r\n\u7D75\u5E2B\u3068\u3057\u3066\u4E00\u5EA6\u306F\u7D75\u306B\u53CE\u3081\u305F\u3044\r\n\u3068\u3053\u308D\u3060\u304C\u3001\u8E8D\u52D5\u611F\u304C\u6B32\u3057\u3044\uFF01\r\n\u305D\u3053\u3067\u3060\u3001\u30CF\u30F3\u30BF\u30FC\u3055\u3093\u3088\u3002\r\n\u3084\u3064\u3092\u72E9\u731F\u3057\u3066\u304F\u308C\u306D\u3047\u304B\u3044\uFF1F\r\n\u4FFA\u306F\u9670\u306A\u304C\u3089\u305D\u306E\u96C4\u59FF\u3092\u3057\u304B\u3068\r\n\u63CF\u304B\u305B\u3066\u3082\u3089\u3046\u304B\u3089\u5B89\u5FC3\u3057\u306A\uFF01",
+        "Target": "\u30EA\u30AA\u30EC\u30A4\u30A2\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Charmed by a Queen",
+        "Client": "Reckless Artist",
+        "Description": "Hunter Hunter HUNTER! We must\r\ngo at once! As we speak the queen\r\nherself is gracing the Shrine Ruins!\r\nI must capture her majesty in all its\r\nglory! But I hear Rathian are rather...\r\ndifficult to work with. Perhaps you\r\ncan assist me?",
+        "Target": "Hunt a Rathian",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Le charme d\u0027une reine",
+        "Client": "Artiste t\u00E9m\u00E9raire",
+        "Description": "Il faut qu\u0027on se d\u00E9p\u00EAche ! La reine\r\nest au Temple oubli\u00E9 en ce moment\r\nm\u00EAme ! Je dois absolument\r\nl\u0027immortaliser dans toute sa\r\nsplendeur ! Mais il para\u00EEt que les\r\nRathian ne se laissent pas faire...\r\nEst-ce que tu pourrais m\u0027aider ?",
+        "Target": "Chasser une Rathian",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Il fascino di una regina",
+        "Client": "Pittore incauto",
+        "Description": "Dobbiamo andare subito! Mentre\r\nparliamo, la regina stessa\r\nonora con la sua presenza le\r\nRovine sacre. Devo catturare\r\nSua Maest\u00E0 in tutta la sua\r\ngloria. Ma so che \u00E8... dura\r\ngestire una Rathian. Mi aiuti?",
+        "Target": "Caccia una Rathian",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Im Bann der K\u00F6nigin",
+        "Client": "Tollk\u00FChner Maler",
+        "Description": "Los, los, LOS! Brechen wir auf! In\r\ndiesem Moment beehrt die K\u00F6nigin\r\nh\u00F6chstselbst die Heiligen Ruinen! Ich\r\nmuss Ihre Majest\u00E4t in all ihrem Glanz\r\neinfangen! Aber es ist wohl eher...\r\nschwierig, mit Rathian zu arbeiten,\r\nhei\u00DFt es. W\u00FCrdest du mir helfen?",
+        "Target": "Erjage eine Rathian.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Encandilado por la reina",
+        "Client": "Artista osado",
+        "Description": "\u00A1Hay una Rathian en el templo!\r\nMe encantar\u00EDa retratarla,\r\npero necesito algo m\u00E1s de...\r\n\u00A1chispa! Y ah\u00ED entras t\u00FA.\r\nEnfr\u00E9ntate a ella mientras yo\r\nmiro desde lejos e inmortalizo\r\nel combate.",
+        "Target": "Caza una Rathian",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0427\u0430\u0440\u044B \u043A\u043E\u0440\u043E\u043B\u0435\u0432\u044B",
+        "Client": "\u0411\u0435\u0441\u043F\u0435\u0447\u043D\u044B\u0439 \u0445\u0443\u0434\u043E\u0436\u043D\u0438\u043A",
+        "Description": "\u0421\u043B\u0443\u0448\u0430\u0439, \u0441\u043B\u0443\u0448\u0430\u0439! \u041D\u0443\u0436\u043D\u043E \u0441\u0440\u043E\u0447\u043D\u043E\r\n\u0432\u044B\u0445\u043E\u0434\u0438\u0442\u044C! \u041F\u0440\u044F\u043C\u043E \u0441\u0435\u0439\u0447\u0430\u0441 \u0420\u0443\u0438\u043D\u044B\r\n\u0441\u0432\u044F\u0442\u0438\u043B\u0438\u0449\u0430 \u043F\u043E\u0447\u0442\u0438\u043B\u0430 \u0441\u0432\u043E\u0438\u043C\r\n\u043F\u0440\u0438\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0435\u043C \u043A\u043E\u0440\u043E\u043B\u0435\u0432\u0430! \u041D\u0430\u0434\u043E\r\n\u043F\u043E\u0439\u043C\u0430\u0442\u044C \u0415\u0435 \u0412\u0435\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E! \u0412\u043E\u0442\r\n\u0442\u043E\u043B\u044C\u043A\u043E \u0441 \u0420\u0430\u0442\u0438\u0430\u043D\u0430\u043C\u0438, \u0433\u043E\u0432\u043E\u0440\u044F\u0442...\r\n\u0442\u0440\u0443\u0434\u043D\u043E \u0440\u0430\u0431\u043E\u0442\u0430\u0442\u044C. \u041D\u0435 \u043F\u043E\u043C\u043E\u0436\u0435\u0448\u044C?",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0420\u0430\u0442\u0438\u0430\u043D\u0443",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Oczarowany Kr\u00F3low\u0105",
+        "Client": "Lekkomy\u015Blny artysta",
+        "Description": "S\u0142uchaj, s\u0142uchaj, S\u0141UCHAJ!\r\nMusimy natychmiast wyruszy\u0107!\r\nSama kr\u00F3lowa pojawi\u0142a si\u0119 w Ruinach\r\n\u015Awi\u0105tynnych! Musz\u0119 uchwyci\u0107 jej\r\nmajestat w pe\u0142ni chwa\u0142y! Ale\r\nRathiany s\u0105 podobno... trudne\r\nwe wsp\u00F3\u0142pracy. Pomo\u017Cesz mi?",
+        "Target": "Upoluj Rathian\u0119",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Encantado por uma rainha",
+        "Client": "Artista imprudente",
+        "Description": "\u003CLSNR {Ca\u00E7ador! Ca\u00E7ador! CA\u00C7ADOR!} {Ca\u00E7adora! Ca\u00E7adora! CA\u00C7ADORA!}\u003E Temos que\r\nir imediatamente! Enquanto falamos,\r\na pr\u00F3pria rainha est\u00E1 agraciando as\r\nRu\u00EDnas do Templo! Tenho que capturar\r\nsua majestade em toda sua gl\u00F3ria! Mas\r\neu soube que as Rathian s\u00E3o bastante...\r\ndif\u00EDceis de lidar. Voc\u00EA pode me ajudar?",
+        "Target": "Cace uma Rathian",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC5EC\uC655\uC5D0\uAC8C \uB9E4\uB8CC\uB418\uC5B4",
+        "Client": "\uBB34\uBAA8\uD55C \uD654\uAC00",
+        "Description": "\uC0AC\uC6D0 \uD3D0\uD5C8\uC5D0 \uB9AC\uC624\uB808\uC774\uC544\uAC00\r\n\uB098\uD0C0\uB0AC\uC5B4! \uD654\uAC00\uB85C\uC11C \uAF2D \uADF8\uB824\r\n\uBCF4\uACE0 \uC2F6\uC740\uB370\u2026 \uC5ED\uB3D9\uC801\uC778 \uB290\uB08C\uC774\r\n\uBD80\uC871\uD574! \uADF8\uB798\uC11C \uB9D0\uC778\uB370 \uD5CC\uD130 \uC528,\r\n\uB140\uC11D\uC744 \uC0AC\uB0E5\uD574 \uC8FC\uACA0\uC5B4?\r\n\uB0B4\uAC00 \uBA40\uB9AC\uC11C \uADF8 \uBAA8\uC2B5\uC744\r\n\uADF8\uB824\uC904 \uD14C\uB2C8\uAE4C! \uC548\uC2EC\uD574!",
+        "Target": "\uB9AC\uC624\uB808\uC774\uC544 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u70BA\u5973\u738B\u8457\u8FF7",
+        "Client": "\u9B6F\u83BD\u7684\u756B\u5BB6",
+        "Description": "\u96CC\u706B\u9F8D\u51FA\u73FE\u5728\u5927\u793E\u907A\u8DE1\u4E86\uFF01\r\n\u8EAB\u70BA\u756B\u5BB6\uFF0C\u4E00\u751F\u5FC5\u756B\u7260\u4E00\u6B21\uFF0C\r\n\u800C\u4E14\u6211\u5E0C\u671B\u756B\u9762\u80FD\u5920\u6D3B\u9748\u6D3B\u73FE\uFF01\r\n\u6240\u4EE5\uFF0C\u7375\u4EBA\uFF0C\r\n\u4F60\u80FD\u4E0D\u80FD\u66FF\u6211\u53BB\u72E9\u7375\u7260\uFF1F\r\n\u6211\u6703\u8EB2\u5728\u96B1\u853D\u8655\u4ED4\u7D30\u63CF\u7E6A\r\n\u7260\u7684\u82F1\u59FF\uFF0C\u4F60\u5118\u7BA1\u653E\u5FC3\u5427\uFF01",
+        "Target": "\u72E9\u73751\u982D\u96CC\u706B\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u4E3A\u5973\u738B\u6240\u5438\u5F15",
+        "Client": "\u9C81\u83BD\u7684\u753B\u5E08",
+        "Description": "\u5E9F\u795E\u793E\u51FA\u73B0\u4E86\u96CC\u706B\u9F99\uFF01\r\n\u8EAB\u4E3A\u753B\u5E08\uFF0C\u6211\u975E\u5E38\u60F3\u5C06\u5B83\u753B\u4E0B\u6765\uFF0C\r\n\u4F46\u6211\u5E0C\u671B\u753B\u9762\u53EF\u4EE5\u6709\u8DC3\u52A8\u611F\uFF01\r\n\u6240\u4EE5\u5462\uFF0C\u730E\u4EBA\u554A\u3002\r\n\u80FD\u8BF7\u4F60\u53BB\u72E9\u730E\u5B83\u5417\uFF1F\r\n\u653E\u5FC3\u5427\uFF0C\u6211\u4F1A\u8EB2\u5728\u6697\u5904\uFF0C\r\n\u628A\u5B83\u7684\u82F1\u59FF\u597D\u597D\u753B\u4E0B\u6765\u7684\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u96CC\u706B\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0633\u062D\u0631\u062A\u0647 \u0627\u0644\u0645\u0644\u0643\u0629",
+        "Client": "\u0641\u0646\u0627\u0646 \u0637\u0627\u0626\u0634",
+        "Description": "\u003CLSNR {\u0623\u064A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F} {\u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F\u0629}\u003E! \u064A\u062C\u0628 \u0623\u0646 \u0646\u0630\u0647\u0628\r\n\u062D\u0627\u0644\u064B\u0627! \u0628\u064A\u0646\u0645\u0627 \u0646\u062A\u062D\u062F\u062B\u060C \u062A\u0632\u064A\u0651\u0646\r\n\u0627\u0644\u0645\u0644\u0643\u0629 \u0628\u0646\u0641\u0633\u0647\u0627 \u0623\u0637\u0644\u0627\u0644 \u0627\u0644\u0636\u0631\u064A\u062D!\r\n\u064A\u062C\u0628 \u0623\u0646 \u0623\u0645\u0633\u0643 \u062C\u0644\u0627\u0644\u062A\u0647\u0627 \u0641\u064A\r\n\u0639\u0632 \u0645\u062C\u062F\u0647\u0627! \u0644\u0643\u0646 \u0633\u0645\u0639\u062A \u0623\u0646 \u0631\u0627\u062B\u064A\u0627\u0646...\r\n\u064A\u0635\u0639\u0628 \u0627\u0644\u062A\u0639\u0627\u0645\u0644 \u0645\u0639\u0647\u0627. \u0631\u0628\u0645\u0627\r\n\u003CLSNR {\u064A\u064F\u0645\u0643\u0646\u0643} {\u064A\u064F\u0645\u0643\u0646\u0643\u0650}\u003E \u0645\u0633\u0627\u0639\u062F\u062A\u064A\u061F",
+        "Target": "\u0635\u064A\u062F \u0631\u0627\u062B\u064A\u0627\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1874,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1874,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 7200,
+      "Points": 150,
+      "HRP": 470
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      74,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 99,
+      "AttackTable": 81,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

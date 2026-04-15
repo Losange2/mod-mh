@@ -1,0 +1,350 @@
+{
+  "QuestID": 10734,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u7206\u9C57\u7ADC\u3001\u518D\u3073\u98DB\u6765\u3059",
+        "Client": "\u8FD1\u96A3\u306E\u91CC\u306E\u81EA\u8B66\u56E3",
+        "Description": "\u518D\u3073\u3042\u306E\u7206\u9C57\u7ADC\u304C\u73FE\u308C\u307E\u3057\u305F\uFF01\r\n\u3042\u3061\u3053\u3061\u306B\u73FE\u308C\u3066\u306F\u904E\u5EA6\u306A\u653B\u6483\u3067\r\n\u72E9\u308A\u3092\u884C\u3046\u305F\u3081\u3001\u3069\u3053\u3082\u304B\u3057\u3053\u3082\r\n\u3081\u3061\u3083\u304F\u3061\u3083\u3067\u3059\uFF01\r\n\u5E38\u306B\u5404\u5730\u3092\u79FB\u52D5\u3057\u3066\u3044\u308B\u305F\u3081\u3001\r\n\u76EE\u7684\u5730\u304C\u6BCE\u56DE\u5B9A\u307E\u308A\u307E\u305B\u3093\uFF01\r\n\u304F\u308C\u3050\u308C\u3082\u3054\u6CE8\u610F\u304F\u3060\u3055\u3044\u3002",
+        "Target": "\u30D0\u30BC\u30EB\u30AE\u30A6\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Return of the Bazelgeuse",
+        "Client": "Nearby Village\u0027s Militia",
+        "Description": "That cursed thing has returned!\r\nAnd with it, fire and destruction!\r\nWhere it will strike next, we do\r\nnot know. All we can do is follow\r\nthe trail of devastation it has left\r\nbehind. Hunter we ask that you\r\nstop this terror from the skies!",
+        "Target": "Hunt a Bazelgeuse",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Le retour du Bazelgeuse",
+        "Client": "Milice du village voisin",
+        "Description": "Ce fichu monstre est de retour !\r\nJe te dis pas les d\u00E9g\u00E2ts...\r\nEt va savoir ce qu\u0027il compte\r\nattaquer la prochaine fois ! Il\r\nnous reste plus qu\u0027\u00E0 le suivre \u00E0\r\nla trace. D\u00E9barrasse-toi de ce\r\npr\u00E9dateur c\u00E9leste au plus vite !",
+        "Target": "Chasser un Bazelgeuse",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Il ritorno del Bazelgeuse",
+        "Client": "Milizia (villaggio vicino)",
+        "Description": "Quella maledetta bestia \u00E8\r\ntornata, portando con s\u00E9 fuoco\r\ne distruzione. Non sappiamo\r\nquando attaccher\u00E0, ma di\r\nsicuro si lascer\u00E0 dietro una\r\nscia di distruzione. Ferma\r\nquesto terrore dai cieli!",
+        "Target": "Caccia un Bazelgeuse",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "R\u00FCckkehr des Bazelgeuse",
+        "Client": "Soldatin des Nachbardorfs",
+        "Description": "Das verfluchte Ding ist zur\u00FCck!\r\nUnd mit ihm Feuer und Zerst\u00F6-\r\nrung! Wo es als N\u00E4chstes zu-\r\nschl\u00E4gt, wissen wir nicht. Wir\r\nk\u00F6nnen nur der Spur der Ver-\r\nw\u00FCstung folgen. Bitte, halte\r\ndiesen Schrecken der L\u00FCfte auf!",
+        "Target": "Erjage einen Bazelgeuse.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "El regreso del Bazelgeuse",
+        "Client": "Milicia de aldea vecina",
+        "Description": "\u00A1Ese maldito monstruo ha\r\nregresado! Y, con \u00E9l, el fuego\r\ny la devastaci\u00F3n. A saber qu\u00E9\r\nlugar atacar\u00E1 a continuaci\u00F3n.\r\nTenemos que seguir su rastro\r\nde destrucci\u00F3n y acabar con\r\n\u00E9l de una vez por todas.",
+        "Target": "Caza un Bazelgeuse",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0412\u043E\u0437\u0432\u0440\u0430\u0449\u0435\u043D\u0438\u0435 \u0411\u0430\u0437\u0435\u043B\u044C\u0433\u0435\u0439\u0441\u0430",
+        "Client": "\u041E\u043F\u043E\u043B\u0447\u0435\u043D\u0435\u0446 \u0431\u043B\u0438\u0436\u043D\u0435\u0439 \u0434\u0435\u0440\u0435\u0432\u043D\u0438",
+        "Description": "\u042D\u0442\u043E \u043F\u0440\u043E\u043A\u043B\u044F\u0442\u043E\u0435 \u0447\u0443\u0434\u043E\u0432\u0438\u0449\u0435\r\n\u0432\u0435\u0440\u043D\u0443\u043B\u043E\u0441\u044C! \u0410 \u0441 \u043D\u0438\u043C \u2014 \u043E\u0433\u043E\u043D\u044C\r\n\u0438 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u044F! \u041C\u044B \u043D\u0435 \u0437\u043D\u0430\u0435\u043C,\r\n\u043A\u0443\u0434\u0430 \u043E\u043D\u043E \u043D\u0430\u043D\u0435\u0441\u0435\u0442 \u043D\u043E\u0432\u044B\u0439 \u0443\u0434\u0430\u0440.\r\n\u041C\u044B \u043C\u043E\u0436\u0435\u043C \u043B\u0438\u0448\u044C \u0438\u0434\u0442\u0438 \u043F\u043E \u0441\u043B\u0435\u0434\u0443\r\n\u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043D\u0438\u0439. \u041F\u0440\u043E\u0441\u0438\u043C \u0442\u0435\u0431\u044F,\r\n\u043E\u0434\u043E\u043B\u0435\u0439 \u044D\u0442\u043E\u0442 \u043D\u0435\u0431\u0435\u0441\u043D\u044B\u0439 \u0443\u0436\u0430\u0441!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0411\u0430\u0437\u0435\u043B\u044C\u0433\u0435\u0439\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Powr\u00F3t Bazelgeza",
+        "Client": "Milicjantka z wioski obok",
+        "Description": "Wr\u00F3ci\u0142a ta przekl\u0119ta bestia!\r\nA z ni\u0105 ogie\u0144 i destrukcja!\r\nNie wiemy, gdzie znowu uderzy.\r\nMo\u017Cemy tylko i\u015B\u0107 \u015Bladem\r\nzniszcze\u0144, jaki za sob\u0105\r\nzostawia. Musisz powstrzyma\u0107\r\nten spadaj\u0105cy z nieba terror!",
+        "Target": "Upoluj Bazelgeza",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "O retorno do Bazelgeuse",
+        "Client": "Mil\u00EDcia da aldeia pr\u00F3xima",
+        "Description": "Aquela coisa maldita voltou! E com\r\nela, fogo e destrui\u00E7\u00E3o! N\u00E3o sabemos\r\nqual ser\u00E1 o pr\u00F3ximo alvo. Tudo o que\r\npodemos fazer \u00E9 seguir a trilha de\r\ndevasta\u00E7\u00E3o que ela deixou pra tr\u00E1s.\r\n\u003CLSNR {Ca\u00E7ador} {Ca\u00E7adora}\u003E, por favor, pare aquele\r\nterror dos c\u00E9us!",
+        "Target": "Cace um Bazelgeuse",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD3ED\uB9B0\uB8E1 \uB2E4\uC2DC \uB0A0\uC544\uC624\uB974\uB2E4",
+        "Client": "\uC778\uADFC \uB9C8\uC744\uC758 \uC218\uD638\uB2E8",
+        "Description": "\uB610 \uADF8 \uD3ED\uB9B0\uB8E1\uC774 \uB098\uD0C0\uB0AC\uC5B4\uC694!\r\n\uC5EC\uAE30\uC800\uAE30 \uB098\uD0C0\uB098\uC11C\uB294 \uACFC\uACA9\uD55C\r\n\uBC29\uC2DD\uC73C\uB85C \uC0AC\uB0E5\uC744 \uD558\uB2C8\uAE4C\r\n\uC5B4\uB51C \uAC00\uB3C4 \uB09C\uC7A5\uD310\uC774\uC5D0\uC694!\r\n\uD56D\uC0C1 \uC774\uB3D9\uD558\uACE0 \uC788\uB2E4 \uBCF4\uB2C8\r\n\uBAA9\uC801\uC9C0\uB97C \uC815\uD560 \uC218\uAC00 \uC5C6\uC5B4\uC694!\r\n\uBD80\uB514 \uC870\uC2EC\uD558\uC138\uC694!",
+        "Target": "\uBC14\uC824\uAE30\uC6B0\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7206\u9C57\u9F8D\u518D\u6B21\u4F86\u8972",
+        "Client": "\u9644\u8FD1\u6751\u838A\u7684\u5DE1\u5B88\u968A",
+        "Description": "\u90A3\u982D\u7206\u9C57\u9F8D\u53C8\u51FA\u73FE\u4E86\uFF01\r\n\u7260\u6703\u56DB\u8655\u79FB\u52D5\uFF0C\u4E26\u4E14\u4EE5\r\n\u904E\u5EA6\u6FC0\u70C8\u7684\u653B\u64CA\u624B\u6BB5\u72E9\u7375\uFF0C\r\n\u56E0\u6B64\u628A\u5404\u5730\u5F04\u5F97\u4E00\u5718\u7CDF\uFF01\r\n\u7531\u65BC\u7260\u7D93\u5E38\u5728\u5404\u5730\u79FB\u52D5\uFF0C\r\n\u6240\u4EE5\u6BCF\u6B21\u7684\u76EE\u7684\u5730\u90FD\u4E0D\u898B\u5F97\u4E00\u6A23\uFF01\r\n\u8ACB\u5343\u842C\u8981\u591A\u52A0\u6CE8\u610F\u3002",
+        "Target": "\u72E9\u73751\u982D\u7206\u9C57\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7206\u9CDE\u9F99\uFF0C\u518D\u73B0",
+        "Client": "\u90BB\u6751\u7684\u81EA\u8B66\u56E2",
+        "Description": "\u7206\u9CDE\u9F99\u518D\u6B21\u51FA\u73B0\uFF01\r\n\u5B83\u56DB\u5904\u73B0\u8EAB\uFF0C\u5728\u72E9\u730E\u65F6\u5927\u95F9\u7279\u95F9\uFF0C\r\n\u5230\u5904\u90FD\u88AB\u5B83\u7ED9\u641E\u5F97\u4E00\u56E2\u7CDF\uFF01\r\n\u7531\u4E8E\u5B83\u4E0D\u65AD\u56DB\u5904\u79FB\u52A8\uFF0C\r\n\u6BCF\u6B21\u90FD\u65E0\u6CD5\u9884\u6D4B\u5176\u76EE\u7684\u5730\uFF01\r\n\u53BB\u72E9\u730E\u65F6\u8FD8\u8BF7\u5343\u4E07\u5C0F\u5FC3\u3002",
+        "Target": "\u72E9\u730E1\u5934\u7206\u9CDE\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0639\u0648\u062F\u0629 \u0628\u0627\u0632\u064A\u0644\u062C\u064A\u0633",
+        "Client": "\u0645\u064A\u0644\u064A\u0634\u064A\u0627\u062A \u0627\u0644\u0642\u0631\u064A\u0629 \u0627\u0644\u0645\u062C\u0627\u0648\u0631\u0629",
+        "Description": "\u0639\u0627\u062F \u0647\u0630\u0627 \u0627\u0644\u0634\u064A\u0621 \u0627\u0644\u0644\u0639\u064A\u0646!\r\n\u062C\u0627\u0644\u0628\u064B\u0627 \u0627\u0644\u0646\u0627\u0631 \u0648\u0627\u0644\u062F\u0645\u0627\u0631!\r\n\u0644\u0627 \u0646\u0639\u0631\u0641 \u0623\u064A\u0646 \u0633\u064A\u0636\u0631\u0628 \u0628\u0639\u062F \u0630\u0644\u0643.\r\n\u0643\u0644 \u0645\u0627 \u064A\u064F\u0645\u0643\u0646\u0646\u0627 \u0641\u0639\u0644\u0647 \u0647\u0648 \u062A\u062A\u0628\u0639\r\n\u0623\u062B\u0631 \u0627\u0644\u062F\u0645\u0627\u0631 \u0627\u0644\u0630\u064A \u062E\u0644\u0641\u0647 \u0648\u0631\u0627\u0621\u0647.\r\n\u0646\u0637\u0644\u0628 \u003CLSNR {\u0645\u0646\u0643} {\u0645\u0646\u0643\u0650}\u003E \u0648\u0642\u0641 \u0647\u0630\u0627 \u0627\u0644\u0631\u0639\u0628 \u0627\u0644\u0642\u0627\u062F\u0645\r\n\u0645\u0646 \u0627\u0644\u0633\u0645\u0627\u0621 \u003CLSNR {\u0623\u064A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F} {\u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F\u0629}\u003E!",
+        "Target": "\u0635\u064A\u062F \u0628\u0627\u0632\u064A\u0644\u062C\u064A\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 3,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      8,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      134,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 134,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 513,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1351,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 59,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 513,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 95,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 15120,
+      "Points": 310,
+      "HRP": 970
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      60,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 49,
+      "HealthTable": 105,
+      "AttackTable": 87,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

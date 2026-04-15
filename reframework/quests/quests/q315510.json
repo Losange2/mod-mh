@@ -1,0 +1,350 @@
+{
+  "QuestID": 315510,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u7149\u7344\u306E\u4E3B\u3001\u6012\u308C\u308B\u708E\u5E1D",
+        "Client": "\u52C7\u58EE\u3055\u3067\u540D\u9AD8\u3044\u5C06\u8ECD",
+        "Description": "\u6298\u308A\u5165\u3063\u3066\u983C\u307F\u304C\u3042\u308B\u2026\u3002\r\n\u6211\u304C\u6700\u5F8C\u306E\u4EFB\u306B\u3001\u624B\u3092\u8CB8\u3057\u3066\r\n\u3082\u3089\u3044\u305F\u3044\u3002\u6EB6\u5CA9\u6D1E\u3078\u8FFD\u3044\u8FBC\u3093\u3060\r\n\u708E\u738B\u9F8D\u3068\u306E\u6226\u3044\u3060\u3002\r\n\u8FD1\u5BC4\u308B\u3060\u3051\u3067\u8089\u3092\u7126\u304C\u3059\r\n\u731B\u70C8\u306A\u708E\u306B\u306F\u6CE8\u610F\u3057\u308D\uFF01",
+        "Target": "\u30C6\u30AA\u30FB\u30C6\u30B9\u30AB\u30C8\u30EB\uFF11\u4F53\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Emperor of Flame",
+        "Client": "Heroic General",
+        "Description": "I beg of you, aid me in\r\nmy final task. I\u0027ve pursued\r\na Teostra all the way to the\r\nLava Caverns. Beware its\r\nflames, for they may roast\r\nyou alive! Godspeed, Hunter!",
+        "Target": "Slay a Teostra",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "L\u0027empereur de feu",
+        "Client": "G\u00E9n\u00E9ral h\u00E9ro\u00EFque",
+        "Description": "Aidez-moi \u00E0 accomplir\r\nma derni\u00E8re t\u00E2che !\r\nJ\u0027ai traqu\u00E9 un Teostra\r\njusqu\u0027aux Cavernes de lave.\r\nAttention \u00E0 ses flammes, qui\r\npeuvent vous calciner\r\nen un rien ! Bonne chance !",
+        "Target": "Tuer un Teostra",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Imperatore di fiamma",
+        "Client": "Eroico generale",
+        "Description": "Devo proprio chiedertelo:\r\naiutami a portare a termine il\r\nmio ultimo incarico. Ho seguito\r\nun Teostra fino alle Caverne\r\nlaviche. Occhio alle sue fiamme\r\no brucerai! Buona fortuna!",
+        "Target": "Uccidi un Teostra",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Kaiser der Flammen",
+        "Client": "Heroischer General",
+        "Description": "Hilf mir, meine letzte Aufgabe\r\nzu erf\u00FCllen. Habe einen Teostra\r\nbis in die Lavah\u00F6hlen verfolgt.\r\nH\u00FCte dich vor den Flammen,\r\nsie k\u00F6nnen dich bei lebendigem\r\nLeib r\u00F6sten!\r\nGeh mit Gott, \u003CLSNR {J\u00E4ger} {J\u00E4gerin}\u003E!",
+        "Target": "Erlege einen Teostra.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Emperador de las llamas",
+        "Client": "General heroico",
+        "Description": "Te lo ruego, ay\u00FAdame a\r\ncompletar mi \u00FAltima tarea.\r\nHe perseguido a un Teostra\r\nhasta las Grutas de lava.\r\nCuidado con sus llamas,\r\npueden quemarte \u003CLSNR {vivo} {viva}\u003E.\r\n\u00A1Suerte, \u003CLSNR {cazador} {cazadora}\u003E!",
+        "Target": "Abate un Teostra",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041E\u0433\u043D\u0435\u043D\u043D\u044B\u0439 \u0438\u043C\u043F\u0435\u0440\u0430\u0442\u043E\u0440",
+        "Client": "\u0413\u0435\u0440\u043E\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0433\u0435\u043D\u0435\u0440\u0430\u043B",
+        "Description": "\u0423\u043C\u043E\u043B\u044F\u044E, \u043F\u043E\u043C\u043E\u0433\u0438 \u043C\u043D\u0435 \u0441 \u043C\u043E\u0438\u043C\r\n\u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u043C \u0437\u0430\u0434\u0430\u043D\u0438\u0435\u043C. \u042F\r\n\u043F\u0440\u0435\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043B \u0422\u0435\u043E\u0441\u0442\u0440\u0443 \u0434\u043E \u0441\u0430\u043C\u044B\u0445\r\n\u041B\u0430\u0432\u043E\u0432\u044B\u0445 \u043F\u0435\u0449\u0435\u0440. \u041E\u043F\u0430\u0441\u0430\u0439\u0441\u044F \u0435\u0433\u043E\r\n\u043F\u043B\u0430\u043C\u0435\u043D\u0438, \u0438\u0431\u043E \u043E\u043D\u043E \u0441\u043E\u0436\u0436\u0435\u0442 \u0442\u0435\u0431\u044F\r\n\u0436\u0438\u0432\u044C\u0435\u043C! \u0423\u0434\u0430\u0447\u0438!",
+        "Target": "\u0423\u0431\u0438\u0442\u044C \u0422\u0435\u043E\u0441\u0442\u0440\u0443",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Cesarz p\u0142omieni",
+        "Client": "Bohaterski genera\u0142",
+        "Description": "B\u0142agam ci\u0119, pom\u00F3\u017C mi w\r\nostatnim zadaniu. Goni\u0142em\r\nTeostr\u0119 a\u017C do Jaski\u0144 Lawy.\r\nUwa\u017Caj na p\u0142omienie tego\r\npotwora, bo ci\u0119 usma\u017C\u0105\r\n\u017Cywcem! Powodzenia!",
+        "Target": "Zabij Teostr\u0119",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Imperador da Chama",
+        "Client": "General Heroico",
+        "Description": "Eu imploro sua ajuda com minha\r\ntarefa final. Persegui um\r\nTeostra at\u00E9 as Cavernas de\r\nLava. Cuidado com as chamas,\r\nque podem queimar qualquer\r\num! Boa sorte!",
+        "Target": "Mate um Teostra",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC5F0\uC625\uC758 \uC8FC\uC778, \uBD84\uB178\uD55C \uC5FC\uC81C",
+        "Client": "\uC6A9\uB9F9\uD568\uC73C\uB85C \uBA85\uB9DD \uB192\uC740 \uC7A5\uAD70",
+        "Description": "\uAE34\uD788 \uBD80\uD0C1\uD560 \uAC8C \uC788\uB124\u2026\r\n\uB0B4 \uB9C8\uC9C0\uB9C9 \uC784\uBB34\uB97C \uB3C4\uC640\uC8FC\uACA0\uB098?\r\n\uC6A9\uC554 \uB3D9\uAD74\uC5D0 \uBAB0\uC544\uB123\uC740\r\n\uC5FC\uC655\uB8E1\uACFC\uC758 \uC804\uD22C\uC9C0.\r\n\uB2E4\uAC00\uAC00\uAE30\uB9CC \uD574\uB3C4 \uC0B4\uC774 \uD0C0\uB294\r\n\uACA9\uB82C\uD55C \uBD88\uAF43\uC744 \uC870\uC2EC\uD558\uAC8C!",
+        "Target": "\uD14C\uC624-\uD14C\uC2A4\uCE74\uD1A0\uB974 1\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7149\u7344\u4E4B\u4E3B\uFF0C\u61A4\u6012\u7684\u708E\u5E1D",
+        "Client": "\u56E0\u52C7\u6562\u5065\u58EF\u800C\u805E\u540D\u7684\u5C07\u8ECD",
+        "Description": "\u9019\u662F\u6211\u771F\u5FC3\u8AA0\u610F\u7684\u8ACB\u6C42\u2026\u2026\r\n\u5E0C\u671B\u4F60\u80FD\u52A9\u6211\u4E00\u81C2\u4E4B\u529B\uFF0C\r\n\u5B8C\u6210\u9019\u6700\u5F8C\u7684\u4EFB\u52D9\u3002\r\n\u8ACB\u4F60\u548C\u88AB\u8D95\u9032\u7194\u5CA9\u6D1E\u88E1\u7684\r\n\u708E\u738B\u9F8D\u4E00\u6230\u5427\u3002\r\n\u7260\u8EAB\u908A\u7684\u706B\u7130\u6EAB\u5EA6\u6975\u9AD8\uFF0C\r\n\u53EA\u8981\u63A5\u8FD1\u5C31\u6703\u88AB\u70E4\u7126\uFF0C\u52D9\u5FC5\u5C0F\u5FC3\uFF01",
+        "Target": "\u8A0E\u4F101\u982D\u708E\u738B\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u70BC\u72F1\u4E4B\u4E3B\uFF0C\u6124\u6012\u7684\u708E\u5E1D",
+        "Client": "\u4EE5\u52C7\u731B\u8457\u79F0\u7684\u540D\u5C06",
+        "Description": "\u6211\u6709\u4E00\u4E2A\u7279\u522B\u8BF7\u6C42\u2026\u2026\u5E0C\u671B\u4F60\u80FD\u5E2E\r\n\u52A9\u6211\u4EEC\u6700\u540E\u7684\u4EFB\u52A1\u3002\u4EFB\u52A1\u662F\u53BB\u4E0E\u88AB\r\n\u8D76\u8FDB\u7194\u5CA9\u6D1E\u7684\u708E\u738B\u9F99\u6218\u6597\u3002\u5343\u4E07\u6CE8\r\n\u610F\u5B83\u7684\u5F3A\u70C8\u706B\u7130\uFF0C\u5149\u662F\u9760\u8FD1\u5C31\u80FD\u628A\r\n\u8EAB\u4F53\u70E4\u7126\uFF01",
+        "Target": "\u8BA8\u4F101\u5934\u708E\u738B\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631 \u0627\u0644\u0644\u0647\u0628",
+        "Client": "\u0627\u0644\u0642\u0627\u0626\u062F \u0627\u0644\u0628\u0637\u0648\u0644\u064A",
+        "Description": "\u0623\u062A\u0648\u0633\u0644 \u0625\u0644\u064A\u0643\u060C \u0633\u0627\u0639\u062F\u0646\u064A \u0641\u064A\r\n\u0645\u0647\u0645\u062A\u064A \u0627\u0644\u0623\u062E\u064A\u0631\u0629. \u0644\u0642\u062F \u062A\u0628\u0639\u062A\r\n\u062A\u064A\u0648\u0633\u062A\u0631\u0627 \u0637\u0648\u0627\u0644 \u0627\u0644\u0637\u0631\u064A\u0642 \u0625\u0644\u0649\r\n\u0643\u0647\u0648\u0641 \u0627\u0644\u062D\u0645\u0645. \u0627\u062D\u0630\u0631\r\n\u0645\u0646 \u0644\u0647\u064A\u0628\u0647\u060C \u0642\u062F \u064A\u0634\u0648\u064A\u0643\r\n\u062D\u064A\u0651\u064B\u0627! \u0628\u0627\u0644\u062A\u0648\u0641\u064A\u0642 \u0623\u064A\u0647\u0627 \u0627\u0644\u0635\u064A\u0627\u062F!",
+        "Target": "\u0642\u062A\u0644 \u062A\u064A\u0648\u0633\u062A\u0631\u0627",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      102,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 102,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1366,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1351,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 118,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 514,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 92,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 107,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 30240,
+      "Points": 610,
+      "HRP": 1400
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      34,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 128,
+      "AttackTable": 130,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

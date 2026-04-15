@@ -1,0 +1,350 @@
+{
+  "QuestID": 10315,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u30C6\u30FC\u30EB\u00D7\u30C6\u30FC\u30EB",
+        "Client": "\u60C5\u5831\u901A\u306E\u7537\u6027",
+        "Description": "\u3069\u3046\u3084\u3089\u5927\u793E\u8DE1\u3067\u30D3\u30B7\u30E5\u30C6\u30F3\u30B4\u3068\r\n\u30AA\u30ED\u30DF\u30C9\u30ED\u304C\u66B4\u308C\u3066\u308B\u3089\u3057\u3044\u305C\uFF01\r\n\u30D0\u30CD\u306E\u3088\u3046\u306B\u3057\u306A\u308B\u5C3B\u5C3E\u3068\u3001\u30E0\u30C1\r\n\u306E\u3088\u3046\u306B\u9577\u3044\u5C3B\u5C3E\u306E\u6301\u3061\u4E3B\u304B\u2026\u3002\r\n\u3069\u3061\u3089\u306E\u5C3B\u5C3E\u304C\u3088\u308A\u5F37\u3044\u306E\u304B\u306D\uFF1F\r\n\u3068\u3082\u3042\u308C\u3001\u88AB\u5BB3\u304C\u5927\u304D\u304F\u306A\u308B\u524D\u306B\r\n\u72E9\u731F\u3092\u983C\u3093\u3060\u305C\u30CF\u30F3\u30BF\u30FC\u3055\u3093\uFF01",
+        "Target": "\u30D3\u30B7\u30E5\u30C6\u30F3\u30B4\uFF11\u982D\u3068\u30AA\u30ED\u30DF\u30C9\u30ED\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Tail to Tail",
+        "Client": "Well-informed Man",
+        "Description": "Both Bishaten and Almudron are known\r\nfor using their powerful tails when they\r\nattack. I\u0027m collecting information on\r\nthese monsters. Could you possibly\r\nassist me? I need to ascertain which\r\ntail is stronger. The one like a fist,\r\nor the one like a whip?",
+        "Target": "Hunt a Bishaten and an Almudron",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Queue \u00E0 queue",
+        "Client": "Homme bien inform\u00E9",
+        "Description": "Le Bishaten et l\u0027Almudron utilisent\r\ntous les deux leur puissante queue\r\npour attaquer. Je veux en apprendre\r\nplus sur ces monstres, pourrais-tu\r\nm\u0027aider ? J\u0027aimerais savoir quelle\r\nest la meilleure queue ? Celle qui\r\nressemble \u00E0 un poing ou \u00E0 un fouet ?",
+        "Target": "Chasser un Bishaten et un Almudron",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Coda a coda",
+        "Client": "Uomo ben informato",
+        "Description": "Sia il Bishaten sia l\u0027Almudron\r\nusano le loro potenti code per\r\nattaccare. Sto raccogliendo\r\ninformazioni su questi mostri.\r\nPotresti aiutarmi? Devo\r\ncapire quale coda \u00E8 pi\u00F9 forte:\r\nquella a pugno o a frusta?",
+        "Target": "Caccia un Bishaten e un Almudron",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Schwanz an Schwanz",
+        "Client": "Gut informierter Mann",
+        "Description": "Sowohl Bishaten als auch Almudron sind\r\ndaf\u00FCr bekannt, ihre kr\u00E4ftigen Schw\u00E4nze\r\nbeim Angreifen einzusetzen. Ich sammle\r\nDaten zu diesen Monstern. W\u00FCrdest du\r\nmir helfen? Ich muss pr\u00FCfen, welcher\r\nSchwanz st\u00E4rker ist: der faust\u00E4hnliche\r\noder der peitschenartige?",
+        "Target": "Erjage einen Bishaten und\r\neinen Almudron.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Cara a cara, cola a cola",
+        "Client": "Tipo bien informado",
+        "Description": "Los Bishaten y los Almudron\r\nusan sus poderosas colas para\r\natacar, y estoy reuniendo\r\ndatos de ambos monstruos.\r\n\u00BFMe ayudas? Quiero saber\r\ncu\u00E1l de los dos tiene la cola\r\nm\u00E1s fuerte.",
+        "Target": "Caza un Bishaten y un Almudron",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0425\u0432\u043E\u0441\u0442\u043E\u043C \u043A \u0445\u0432\u043E\u0441\u0442\u0443",
+        "Client": "\u0418\u043D\u0444\u043E\u0440\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A",
+        "Description": "\u0418 \u0411\u0438\u0441\u044F\u0442\u044D\u043D, \u0438 \u0410\u043B\u043C\u0443\u0434\u0440\u043E\u043D \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\r\n\u0442\u0435\u043C, \u0447\u0442\u043E \u0431\u044C\u044E\u0442 \u0432\u0440\u0430\u0433\u043E\u0432\r\n\u0445\u0432\u043E\u0441\u0442\u0430\u043C\u0438. \u042F \u0438\u0437\u0443\u0447\u0430\u044E \u044D\u0442\u0438\u0445\r\n\u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432. \u0422\u044B \u043C\u043E\u0436\u0435\u0448\u044C \u043C\u043D\u0435\r\n\u043F\u043E\u043C\u043E\u0447\u044C? \u042F \u0445\u043E\u0447\u0443 \u0443\u0437\u043D\u0430\u0442\u044C, \u0447\u0435\u0439\r\n\u0445\u0432\u043E\u0441\u0442 \u0441\u0438\u043B\u044C\u043D\u0435\u0435 \u2014 \u0442\u043E\u0442, \u0447\u0442\u043E \u043A\u0430\u043A\r\n\u043A\u0443\u043B\u0430\u043A, \u0438\u043B\u0438 \u0442\u043E\u0442, \u0447\u0442\u043E \u043A\u0430\u043A \u043F\u043B\u0435\u0442\u044C?",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0411\u0438\u0441\u044F\u0442\u044D\u043D\u0430 \u0438 \u0410\u043B\u043C\u0443\u0434\u0440\u043E\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Ogon do ogona",
+        "Client": "Poinformowany m\u0119\u017Cczyzna",
+        "Description": "Bishaten i Almudron znane s\u0105\r\nz u\u017Cywania swych pot\u0119\u017Cnych ogon\u00F3w\r\ndo atakowania. Zbieram informacje\r\nna ich temat. Pomo\u017Cesz mi?\r\nMusz\u0119 ustali\u0107, kt\u00F3ry ogon jest\r\nsilniejszy \u2013 ten podobny do\r\npi\u0119\u015Bci czy ten w kszta\u0142cie bata.",
+        "Target": "Upoluj Bishatena i Almudrona",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Cauda a cauda",
+        "Client": "Homem bem informado",
+        "Description": "Tanto o Bishaten quanto o Almudron s\u00E3o\r\nconhecidos por usarem suas caudas\r\npoderosas quando atacam. Estou coletando\r\ninforma\u00E7\u00F5es sobre esses monstros. Voc\u00EA\r\npode me ajudar? Preciso verificar qual\r\ncauda \u00E9 a mais forte. A que parece um\r\npunho ou a que parece um chicote?",
+        "Target": "Cace um Bishaten e um Almudron",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD14C\uC77C \u00D7 \uD14C\uC77C",
+        "Client": "\uB0A8\uC131 \uC815\uBCF4\uD1B5",
+        "Description": "\uC0AC\uC6D0 \uD3D0\uD5C8\uC5D0\uC11C \uBE44\uC288\uD150\uACE0\uC640\r\n\uC624\uB85C\uBBF8\uB3C4\uB85C\uAC00 \uB0A0\uB6F0\uACE0 \uC788\uB098 \uBD10!\r\n\uC6A9\uC218\uCCA0\uCC98\uB7FC \uD718\uC5B4\uC9C0\uB294 \uAF2C\uB9AC\uC640\r\n\uCC44\uCC0D\uCC98\uB7FC \uAE34 \uAF2C\uB9AC\uB97C \uAC00\uC9C4\r\n\uB450 \uB140\uC11D \uC911\uC5D0 \uB204\uAD6C \uAF2C\uB9AC\uAC00\r\n\uB354 \uAC15\uD560\uAE4C? \uC5B4\uCA0C\uB4E0 \uD53C\uD574\uAC00\r\n\uD655\uC0B0\uB418\uAE30 \uC804\uC5D0 \uC0AC\uB0E5\uD574 \uC918!",
+        "Target": "\uBE44\uC288\uD150\uACE0 1\uB9C8\uB9AC\uC640\r\n\uC624\uB85C\uBBF8\uB3C4\uB85C 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5C3E\u5DF4\u5927\u5C0D\u6C7A",
+        "Client": "\u6D88\u606F\u9748\u901A\u7684\u7537\u6027",
+        "Description": "\u807D\u8AAA\u5929\u72D7\u7378\u548C\u6CE5\u7FC1\u9F8D\r\n\u6B63\u5728\u5927\u793E\u907A\u8DE1\u8086\u8650\uFF01\r\n\u4E00\u500B\u64C1\u6709\u5B9B\u5982\u5F48\u7C27\u822C\u67D4\u97CC\u7684\u5C3E\u5DF4\uFF0C\r\n\u53E6\u4E00\u500B\u5247\u6709\u9577\u5982\u97AD\u5B50\u822C\u7684\u5C3E\u5DF4\u2026\u2026\r\n\u4E0D\u77E5\u9053\u662F\u8AB0\u7684\u5C3E\u5DF4\u6BD4\u8F03\u53B2\u5BB3\uFF1F\r\n\u7121\u8AD6\u5982\u4F55\uFF0C\u5728\u640D\u5BB3\u64F4\u5927\u4E4B\u524D\uFF0C\r\n\u62DC\u8A17\u7375\u4EBA\u53BB\u72E9\u7375\u7260\u5011\u5427\uFF01",
+        "Target": "\u72E9\u73751\u982D\u5929\u72D7\u7378\u82071\u982D\u6CE5\u7FC1\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u5C3E\u5DF4\u00D7\u5C3E\u5DF4",
+        "Client": "\u6D88\u606F\u7075\u901A\u7684\u7537\u6027",
+        "Description": "\u5929\u72D7\u517D\u548C\u6CE5\u7FC1\u9F99\u597D\u50CF\u5728\r\n\u5927\u95F9\u5E9F\u795E\u793E\u554A\uFF01\r\n\u4E00\u65B9\u662F\u5F39\u7C27\u822C\u5145\u6EE1\u5F39\u529B\u7684\u5C3E\u5DF4\uFF0C\r\n\u53E6\u4E00\u65B9\u662F\u97AD\u5B50\u822C\u957F\u957F\u7684\u5C3E\u5DF4\u2026\u2026\r\n\u54EA\u6761\u5C3E\u5DF4\u66F4\u5F3A\u5462\uFF1F\r\n\u65E0\u8BBA\u5982\u4F55\uFF0C\u5E0C\u671B\u730E\u4EBA\u4F60\u53EF\u4EE5\r\n\u5728\u635F\u5BB3\u6269\u5927\u4E4B\u524D\u53BB\u72E9\u730E\u5B83\u4EEC\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u5929\u72D7\u517D\u548C1\u5934\u6CE5\u7FC1\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0645\u0648\u0627\u062C\u0647\u0629",
+        "Client": "\u0631\u062C\u0644 \u0645\u0633\u062A\u0646\u064A\u0631",
+        "Description": "\u062A\u0634\u062A\u0647\u0631 \u0643\u0644 \u0645\u0646 \u0628\u064A\u0634\u0627\u062A\u0646 \u0648\u0623\u0644\u0645\u0648\u062F\u0631\u0648\u0646\r\n\u0628\u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0630\u064A\u0648\u0644\u0647\u0627 \u0627\u0644\u0642\u0648\u064A\u0629 \u0639\u0646\u062F\r\n\u0627\u0644\u0647\u062C\u0648\u0645. \u0623\u0646\u0627 \u0623\u062C\u0645\u0639 \u0645\u0639\u0644\u0648\u0645\u0627\u062A\r\n\u0639\u0646 \u0647\u0630\u0647 \u0627\u0644\u0648\u062D\u0648\u0634. \u0647\u0644 \u003CLSNR {\u064A\u064F\u0645\u0643\u0646\u0643} {\u064A\u064F\u0645\u0643\u0646\u0643\u0650}\u003E\r\n\u0645\u0633\u0627\u0639\u062F\u062A\u064A\u061F \u0623\u0631\u064A\u062F \u0623\u0646 \u0623\u0639\u0631\u0641 \u0623\u064A\u0647\u0645\u0627\r\n\u064A\u0645\u062A\u0644\u0643 \u0627\u0644\u0630\u064A\u0644 \u0627\u0644\u0623\u0642\u0648\u0649. \u0627\u0644\u0630\u064A \u064A\u0634\u0628\u0647\r\n\u0627\u0644\u0642\u0628\u0636\u0629\u060C \u0623\u0645 \u0627\u0644\u0630\u064A \u064A\u0634\u0628\u0647 \u0627\u0644\u0633\u0648\u0637\u061F",
+        "Target": "\u0635\u064A\u062F \u0628\u064A\u0634\u0627\u062A\u0646 \u0648\u0623\u0644\u0645\u0648\u062F\u0631\u0648\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 13,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      346,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 346,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 25,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1412,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1369,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 136,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 349,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 62,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 10080,
+      "Points": 210,
+      "HRP": 660
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      53,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 4,
+      "HealthTable": 85,
+      "AttackTable": 62,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

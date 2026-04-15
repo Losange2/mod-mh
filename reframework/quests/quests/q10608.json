@@ -1,0 +1,350 @@
+{
+  "QuestID": 10608,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u731B\u8FFD\u3001\u86EE\u984E\u7ADC",
+        "Client": "\u8170\u3092\u629C\u304B\u3057\u305F\u8377\u904B\u3073\u4EBA",
+        "Description": "\u904B\u3093\u3067\u305F\u8377\u7269\u304C\u8EFD\u304F\u306A\u3063\u305F\u3082\u3093\u3067\r\n\u5909\u3060\u3068\u601D\u3063\u3066\u632F\u308A\u5411\u3044\u305F\u3093\u3060\u3002\r\n\u305D\u3057\u305F\u3089\u3001\u30A2\u30F3\u30B8\u30E3\u30CA\u30D5\u304C\u8377\u7269\r\n\u98DF\u3044\u306A\u304C\u3089\u8FFD\u3063\u3066\u304D\u3066\u308B\u3068\u304D\u305F\uFF01\r\n\u3082\u3046\u3001\u6C17\u4ED8\u3044\u305F\u77AC\u9593\u5927\u7D76\u53EB\u3057\u3066\r\n\u5F8C\u306F\u3069\u3046\u9003\u3052\u305F\u304B\u308F\u304B\u3089\u306D\u3047\u2026\u3002\r\n\u65E9\u3044\u3068\u3053\u72E9\u731F\u3092\u983C\u3080\u3002",
+        "Target": "\u30A2\u30F3\u30B8\u30E3\u30CA\u30D5\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Closer Than it Appears",
+        "Client": "Terrified Courier",
+        "Description": "I was en route to do some business\r\nwhen I started hearing this stomping\r\nnoise behind me. It was faint at first,\r\nbut then started getting louder and\r\nlouder! I turn around and there\u0027s an\r\nAnjanath right behind me! I\u0027ve never\r\nscreamed and run so hard in my life!",
+        "Target": "Hunt an Anjanath",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Plus proche qu\u0027on le pense",
+        "Client": "Coursier terrifi\u00E9",
+        "Description": "Je transportais des marchandises\r\nquand j\u0027ai commenc\u00E9 \u00E0 entendre des\r\nbruits de pas derri\u00E8re moi, de\r\nplus en plus forts ! Je me suis\r\nretourn\u00E9 et j\u0027ai vu qu\u0027un Anjanath\r\n\u00E9tait \u00E0 mes trousses ! J\u0027ai hurl\u00E9,\r\nj\u0027ai d\u00E9tal\u00E9 comme une fl\u00E8che !",
+        "Target": "Chasser un Anjanath",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Pi\u00F9 vicino di quanto sembra",
+        "Client": "Corriere terrorizzato",
+        "Description": "Ero in giro per affari quando\r\nho sentito dei tonfi dietro di\r\nme. Prima leggeri, poi sempre\r\npi\u00F9 forti. Mi sono girato e ho\r\nvisto un Anjanath dietro di\r\nme! Non ho mai urlato e corso\r\ncos\u00EC tanto in vita mia.",
+        "Target": "Caccia un Anjanath",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "N\u00E4her, als es scheint",
+        "Client": "Ver\u00E4ngstigter Kurier",
+        "Description": "Ich war unterwegs zu einem Gesch\u00E4fts-\r\ntreffen, da hab ich hinter mir ein\r\nStampfen geh\u00F6rt. Erst war es schwach,\r\nwurde aber lauter und lauter! Ich drehe\r\nmich um, und da ist direkt hinter mir\r\nein Anjanath! So sehr war ich in meinem\r\nLeben noch nie am Schreien und Rennen!",
+        "Target": "Erjage einen Anjanath.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "\u00A1Anjanath al acecho!",
+        "Client": "Mensajero aterrorizado",
+        "Description": "El cargamento que llevaba se\r\nvolvi\u00F3 m\u00E1s ligero de pronto.\r\nCuando me volv\u00ED, \u00A1un Anjanath\r\nven\u00EDa a por m\u00ED mientras\r\nmordisqueaba mis productos!\r\nNunca he gritado ni corrido\r\ntanto. \u00A1Ay\u00FAdame, por favor!",
+        "Target": "Caza un Anjanath",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0411\u043B\u0438\u0436\u0435, \u0447\u0435\u043C \u043A\u0430\u0436\u0435\u0442\u0441\u044F",
+        "Client": "\u0418\u0441\u043F\u0443\u0433\u0430\u043D\u043D\u044B\u0439 \u043A\u0443\u0440\u044C\u0435\u0440",
+        "Description": "\u042F \u0448\u0435\u043B \u043F\u043E \u0441\u0432\u043E\u0438\u043C \u0434\u0435\u043B\u0430\u043C \u0438 \u0432\u0434\u0440\u0443\u0433\r\n\u0443\u0441\u043B\u044B\u0448\u0430\u043B \u0437\u0430 \u0441\u043F\u0438\u043D\u043E\u0439 \u043A\u0430\u043A\u043E\u0439-\u0442\u043E\r\n\u0442\u043E\u043F\u043E\u0442. \u0421\u043F\u0435\u0440\u0432\u0430 \u043E\u043D \u0431\u044B\u043B \u0441\u043B\u0430\u0431\u044B\u043C,\r\n\u043F\u043E\u0442\u043E\u043C \u0441\u0442\u0430\u043D\u043E\u0432\u0438\u043B\u0441\u044F \u0432\u0441\u0435 \u0433\u0440\u043E\u043C\u0447\u0435\r\n\u0438 \u0433\u0440\u043E\u043C\u0447\u0435! \u042F \u043E\u0431\u0435\u0440\u043D\u0443\u043B\u0441\u044F \u2014 \u0430 \u0442\u0430\u043C\r\n\u0410\u043D\u044C\u044F\u043D\u0430\u0442, \u043F\u0440\u044F\u043C\u043E \u0437\u0430 \u043C\u043D\u043E\u0439! \u041A\u0430\u043A\r\n\u0436\u0435 \u044F \u043F\u043E\u0431\u0435\u0436\u0430\u043B!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0410\u043D\u044C\u044F\u043D\u0430\u0442\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Bli\u017Cej ni\u017C si\u0119 wydaje",
+        "Client": "Przera\u017Cony kurier",
+        "Description": "Szed\u0142em sobie za\u0142atwi\u0107 pewn\u0105\r\nspraw\u0119, gdy us\u0142ysza\u0142em za sob\u0105\r\ntupanie. Najpierw ciche, a\r\np\u00F3\u017Aniej coraz g\u0142o\u015Bniejsze!\r\nObracam si\u0119, a tu\u017C za moimi\r\nplecami jest Anjanath! W \u017Cyciu\r\ntak nie krzycza\u0142em i nie bieg\u0142em!",
+        "Target": "Upoluj Anjanatha",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Mais perto do que parece",
+        "Client": "Mensageiro aterrorizado",
+        "Description": "Eu tava indo cuidar de uns neg\u00F3cios\r\nquando comecei a ouvir um barulho de\r\npassos pesados atr\u00E1s de mim. Era fraco\r\nno in\u00EDcio, mas depois come\u00E7ou a ficar\r\ncada vez mais alto! Eu me virei, e tinha\r\num Anjanath bem atr\u00E1s de mim! Eu nunca\r\ngritei e corri tanto na minha vida!",
+        "Target": "Cace um Anjanath",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uB9CC\uC545\uB8E1\uC758 \uB9F9\uCD94\uACA9",
+        "Client": "\uAE5C\uC9DD \uB180\uB780 \uC9D0\uAFBC",
+        "Description": "\uC62E\uAE30\uB358 \uC9D0\uC774 \uAC11\uC790\uAE30 \uAC00\uBCBC\uC6CC\uC838\uC11C\r\n\uC774\uC0C1\uD558\uB2E4 \uC2F6\uC5B4 \uB3CC\uC544\uBD24\uB294\uB370\r\n\uAE00\uC384 \uC548\uC7C8\uB098\uD504\uAC00 \uBB3C\uAC74\uB4E4\uC744\r\n\uBA39\uC73C\uBA74\uC11C \uCAD3\uC544\uC624\uB354\uB77C\uB2C8\uAE4C!\r\n\uADF8\uAC78 \uC54C\uC790\uB9C8\uC790 \uBE44\uBA85\uC744 \uC9C0\uB974\uBA74\uC11C\r\n\uC544\uBB34 \uC0DD\uAC01 \uC5C6\uC774 \uB3C4\uB9DD\uCCE4\uC5B4\u2026\r\n\uBB34\uC11C\uC6B0\uB2C8\uAE4C \uBE68\uB9AC \uC0AC\uB0E5\uD574 \uC918.",
+        "Target": "\uC548\uC7C8\uB098\uD504 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7AAE\u8FFD\u4E0D\u6368\u7684\u883B\u984E\u9F8D",
+        "Client": "\u5687\u5230\u817F\u8EDF\u7684\u9001\u8CA8\u54E1",
+        "Description": "\u6211\u5728\u9001\u8CA8\u6642\u767C\u73FE\u8CA8\u7269\u8B8A\u8F15\u4E86\uFF0C\r\n\u89BA\u5F97\u6709\u9EDE\u5947\u602A\uFF0C\u6240\u4EE5\u4FBF\u56DE\u982D\u5BDF\u770B\u3002\r\n\u7D50\u679C\u7ADF\u7136\u662F\u883B\u984E\u9F8D\u4E00\u908A\u5543\u98DF\u8CA8\u7269\uFF0C\r\n\u4E00\u908A\u8DDF\u5728\u6211\u7684\u5F8C\u982D\uFF01\r\n\u5F85\u6211\u5BDF\u89BA\u7684\u77AC\u9593\u4FBF\u7ACB\u523B\u653E\u8072\u6158\u53EB\uFF0C\r\n\u9023\u81EA\u5DF1\u600E\u9EBC\u9003\u8D70\u7684\u90FD\u4E0D\u8A18\u5F97\u4E86\u2026\u2026\r\n\u62DC\u8A17\uFF0C\u8ACB\u76E1\u5FEB\u72E9\u7375\u7260\u5427\u3002",
+        "Target": "\u72E9\u73751\u982D\u883B\u984E\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7A77\u8FFD\u731B\u6253\u86EE\u989A\u9F99",
+        "Client": "\u5413\u5230\u817F\u8F6F\u7684\u642C\u8FD0\u5DE5",
+        "Description": "\u6211\u53D1\u89C9\u642C\u7684\u8D27\u597D\u50CF\u53D8\u8F7B\u4E86\uFF0C\r\n\u5C31\u56DE\u8FC7\u5934\u53BB\u770B\u4E86\u770B\u3002\r\n\u7ED3\u679C\uFF0C\u662F\u86EE\u989A\u9F99\u4E00\u8FB9\u5543\u98DF\u8D27\u7269\r\n\u4E00\u8FB9\u8FFD\u8FC7\u6765\u4E86\uFF01\u5509\uFF0C\u6211\u4E00\u53D1\u73B0\r\n\u5C31\u60CA\u53EB\u8D77\u6765\uFF0C\u90FD\u4E0D\u77E5\u9053\u90A3\u4E4B\u540E\r\n\u81EA\u5DF1\u662F\u600E\u4E48\u9003\u6389\u7684\u4E86\u2026\u2026\r\n\u8BF7\u4F60\u5FEB\u70B9\u53BB\u72E9\u730E\u5B83\u3002",
+        "Target": "\u72E9\u730E1\u5934\u86EE\u989A\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0623\u0642\u0631\u0628 \u0645\u0645\u0627 \u064A\u0628\u062F\u0648",
+        "Client": "\u0627\u0644\u0633\u0627\u0639\u064A \u0627\u0644\u0645\u0630\u0639\u0648\u0631",
+        "Description": "\u0643\u0646\u062A \u0641\u064A \u0637\u0631\u064A\u0642\u064A \u0644\u0644\u0642\u064A\u0627\u0645 \u0628\u0628\u0639\u0636\r\n\u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0639\u0646\u062F\u0645\u0627 \u0628\u062F\u0623\u062A \u0633\u0645\u0627\u0639 \u0635\u0648\u062A\r\n\u0627\u0644\u062E\u0637\u0648\u0627\u062A \u062E\u0644\u0641\u064A. \u0643\u0627\u0646\r\n\u062E\u0627\u0641\u062A\u064B\u0627 \u0641\u064A \u0627\u0644\u0628\u062F\u0627\u064A\u0629\u060C \u062B\u0645 \u0628\u062F\u0623 \u064A\u0639\u0644\u0648\r\n\u0648\u064A\u0639\u0644\u0648! \u0627\u0633\u062A\u062F\u0631\u062A \u0648\u0643\u0627\u0646 \u0623\u0646\u062C\u0627\u0646\u0627\u062B\r\n\u062E\u0644\u0641\u064A \u0645\u0628\u0627\u0634\u0631\u0629\u064B! \u0644\u0645 \u0623\u0635\u0631\u062E \u0648\u0623\u0631\u0643\u0636\r\n\u0628\u0647\u0630\u0647 \u0627\u0644\u0642\u0648\u0629 \u0641\u064A \u062D\u064A\u0627\u062A\u064A \u0645\u0646 \u0642\u0628\u0644!",
+        "Target": "\u0635\u064A\u062F \u0623\u0646\u062C\u0627\u0646\u0627\u062B",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 5,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      2,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 2,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1412,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 59,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 10080,
+      "Points": 210,
+      "HRP": 630
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      1,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 40,
+      "HealthTable": 101,
+      "AttackTable": 83,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

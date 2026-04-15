@@ -1,0 +1,350 @@
+{
+  "QuestID": 506,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u6708\u591C\u306B\u821E\u3046",
+        "Client": "\u4F1D\u7D71\u821E\u8E0A\u306E\u540D\u624B",
+        "Description": "\u3042\u3042\u3001\u7F8E\u3057\u3044\u3067\u3059\u308F\u2026\u3002\u5F27\u3092\u63CF\u304F\r\n\u3088\u3046\u306B\u3057\u306A\u3084\u304B\u306B\u5B99\u3092\u821E\u3046\u6CE1\u72D0\u7ADC\r\n\u2026\u305D\u3057\u3066\u7F8E\u3057\u3044\u30D2\u30EC\uFF01\u3000\u3042\u308C\u3055\u3048\r\n\u3042\u308C\u3070\u3001\u79C1\u306E\u821E\u3082\u4E00\u5C64\u9032\u5316\u3059\u308B\u306B\r\n\u9055\u3044\u3042\u308A\u307E\u305B\u3093\u308F\uFF01\u3000\u30CF\u30F3\u30BF\u30FC\u69D8\r\n\u6CE1\u72D0\u7ADC\u3092\u72E9\u731F\u3057\u3066\u304F\u3060\u3055\u3044\u307E\u3057\uFF01\r\n\u30D2\u30EC\u306F\u79C1\u81EA\u3089\u56DE\u53CE\u3044\u305F\u3057\u307E\u3059\u308F\uFF01",
+        "Target": "\u30BF\u30DE\u30DF\u30C4\u30CD\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Waltzing by Moonlight",
+        "Client": "Traditional Dance Master",
+        "Description": "O, how elegantly the Mizutsune\r\nsteps, arcing through the air...\r\nIt must be the fin! If I had\r\none for my own, surely I could\r\ndance as it does too... I know!\r\nHunter! Waltz with the wyvern,\r\nand I shall seize its fin!",
+        "Target": "Hunt a Mizutsune",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Danse au clair de lune",
+        "Client": "Danseuse traditionnelle",
+        "Description": "Ah, l\u0027\u00E9l\u00E9gance du Mizutsune\r\nquand il s\u0027\u00E9lance dans les\r\nairs... C\u0027est sa nageoire ! Si\r\nj\u0027en avais une, je danserais\r\ncomme lui ! Eh toi, en piste !\r\nDanse avec la wyverne, je lui\r\nvolerai sa nageoire !",
+        "Target": "Chasser un Mizutsune",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Valzer al chiaro di luna",
+        "Client": "Danzatrice esperta",
+        "Description": "Oh, com\u0027\u00E8 elegante il\r\nMizutsune quando si inarca in\r\naria... Dev\u0027essere la pinna!\r\nSe ne avessi una anche io,\r\npotrei danzare come lui. Danza\r\ncon il wyvern cos\u00EC posso\r\nprendergli la pinna!",
+        "Target": "Caccia un Mizutsune",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Walzer im Mondlicht",
+        "Client": "Traditions-Tanzmeisterin",
+        "Description": "Ach, wie elegant der Mizutsune\r\ndurch die L\u00FCfte t\u00E4nzelt...\r\nEs muss an der Flosse liegen!\r\nWenn ich so eine h\u00E4tte, k\u00F6nnte\r\nich auch so tanzen... Ah, ich\r\nhab\u0027s! Tanze mit dem Wyvern,\r\ndann greif ich mir die Flosse!",
+        "Target": "Erjage einen Mizutsune.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Bailando a la luz de la luna",
+        "Client": "Maestra de baile regional",
+        "Description": "Con qu\u00E9 elegancia se mueve y\r\nsurca el aire el Mizutsune...\r\nSer\u00E1 por su aleta. Si tuviese\r\nuna, seguro que yo tambi\u00E9n...\r\n\u00A1Ya s\u00E9! \u00A1Baila con el wyvern,\r\ny yo me har\u00E9 con su aleta!",
+        "Target": "Caza un Mizutsune",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0422\u0430\u043D\u0435\u0446 \u0432 \u043B\u0443\u043D\u043D\u043E\u043C \u0441\u0432\u0435\u0442\u0435",
+        "Client": "\u041C\u0430\u0441\u0442\u0435\u0440\u0438\u0446\u0430 \u0442\u0430\u043D\u0446\u0430",
+        "Description": "\u041E, \u043A\u0430\u043A \u044D\u043B\u0435\u0433\u0430\u043D\u0442\u043D\u043E \u0441\u0442\u0443\u043F\u0430\u0435\u0442\r\n\u041C\u0438\u0434\u0437\u0443\u0446\u0443\u043D\u044D, \u043F\u0440\u044B\u0433\u0430\u044F \u0432 \u0432\u043E\u0437\u0434\u0443\u0445.\r\n\u0414\u043E\u043B\u0436\u043D\u043E \u0431\u044B\u0442\u044C, \u0434\u0435\u043B\u043E \u0432 \u0433\u0440\u0435\u0431\u043D\u0435!\r\n\u0411\u044B\u043B \u0431\u044B \u0443 \u043C\u0435\u043D\u044F \u0442\u0430\u043A\u043E\u0439 \u0433\u0440\u0435\u0431\u0435\u043D\u044C \u2014\r\n\u044F \u043C\u043E\u0433\u043B\u0430 \u0431\u044B \u0442\u0430\u043D\u0446\u0435\u0432\u0430\u0442\u044C \u0442\u0430\u043A \u0436\u0435.\r\n\u0418\u0434\u0435\u044F! \u041F\u043E\u0442\u0430\u043D\u0446\u0443\u0439 \u0441 \u0432\u0438\u0432\u0435\u0440\u043D\u043E\u0439,\r\n\u0430 \u044F \u0441\u0442\u0430\u0449\u0443 \u0435\u0435 \u0433\u0440\u0435\u0431\u0435\u043D\u044C!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u041C\u0438\u0434\u0437\u0443\u0446\u0443\u043D\u044D",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Walc w \u015Bwietle ksi\u0119\u017Cyca",
+        "Client": "Mistrzyni ta\u0144ca tradyc.",
+        "Description": "Och, jak elegancko st\u0105pa\r\nMizutsune, wprost unosi si\u0119\r\nw powietrzu... To pewnie\r\njego p\u0142etwy! Gdybym mia\u0142a\r\njedn\u0105, na pewno te\u017C mog\u0142abym\r\ntak ta\u0144czy\u0107... Wiem! Zata\u0144cz z\r\nwiwern\u0105, \u017Cebym tak\u0105 dosta\u0142a!",
+        "Target": "Upoluj Mizutsune",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Valsa \u00E0 meia-noite",
+        "Client": "Mestra de dan\u00E7a cl\u00E1ssica",
+        "Description": "Como o Mizutsune se movimenta\r\ncom eleg\u00E2ncia! Deve ser a\r\nbarbatana! Se eu tivesse uma\r\nigual, certamente dan\u00E7aria\r\nassim... Certeza! \u003CLSNR {Ca\u00E7ador}{Ca\u00E7adora}\u003E!\r\nDance com a serpe pra me dar\r\na barbatana dela!",
+        "Target": "Cace um Mizutsune",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uB2EC\uBC24\uC5D0 \uCDA4\uCD94\uB2E4",
+        "Client": "\uC804\uD1B5 \uBB34\uC6A9 \uC804\uBB38\uAC00",
+        "Description": "\uC815\uB9D0 \uC544\uB984\uB2F5\uB124\uC694\u2026 \uC6D0\uC744 \uADF8\uB9AC\uB4EF\r\n\uC544\uB984\uB2F5\uAC8C \uCDA4\uCD94\uB294 \uD3EC\uD638\uB8E1\uACFC\r\n\u2026\uADF8 \uC544\uB984\uB2E4\uC6B4 \uC9C0\uB290\uB7EC\uBBF8!\r\n\uADF8\uAC83\uB9CC \uC788\uC73C\uBA74 \uC81C \uBB34\uC6A9\uB3C4 \uD55C\uCE35\r\n\uC9C4\uD654\uD560 \uC218 \uC788\uC744 \uAC70\uC608\uC694! \uD5CC\uD130\uB2D8!\r\n\uD3EC\uD638\uB8E1\uC744 \uC0AC\uB0E5\uD574 \uC8FC\uC138\uC694!\r\n\uC9C0\uB290\uB7EC\uBBF8\uB294 \uC81C\uAC00 \uAC00\uC838\uAC00\uACA0\uC5B4\uC694!",
+        "Target": "\uD0C0\uB9C8\uBBF8\uCE20\uB124 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6708\u4E0B\u4E4B\u821E",
+        "Client": "\u50B3\u7D71\u821E\u8E48\u7684\u9AD8\u624B",
+        "Description": "\u554A\u554A\uFF0C\u771F\u662F\u7F8E\u9E97\u2026\u2026\u5728\u7A7A\u4E2D\u5283\u8457\r\n\u5713\u6ED1\u7684\u66F2\u7DDA\uFF0C\u512A\u7F8E\u821E\u52D5\u8457\u7684\u6CE1\u72D0\u9F8D\r\n\u771F\u662F\u7F8E\u6975\u4E86\u2026\u2026\u9084\u6709\u90A3\u6F02\u4EAE\u7684\u9C2D\uFF01\r\n\u53EA\u8981\u6709\u4E86\u90A3\u500B\uFF0C\u6211\u7684\u821E\u8E48\u80AF\u5B9A\r\n\u4E5F\u80FD\u63D0\u5347\u81F3\u65B0\u7684\u5883\u754C\uFF01\r\n\u7375\u4EBA\u5927\u4EBA\uFF0C\u8ACB\u4F60\u5E6B\u6211\u72E9\u7375\u6CE1\u72D0\u9F8D\uFF01\r\n\u9C2D\u6211\u6703\u81EA\u5DF1\u53BB\u56DE\u6536\u7684\uFF01",
+        "Target": "\u72E9\u73751\u982D\u6CE1\u72D0\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6708\u591C\u8D77\u821E",
+        "Client": "\u4F20\u7EDF\u821E\u8E48\u540D\u5BB6",
+        "Description": "\u554A\uFF0C\u592A\u7F8E\u4E86\u2026\u2026\u5212\u51FA\u4F18\u96C5\u7684\u5F27\u7EBF\uFF0C\r\n\u5728\u7A7A\u4E2D\u7FE9\u7FE9\u8D77\u821E\u7684\u6CE1\u72D0\u9F99\u2026\u2026\r\n\u8FD8\u6709\u5B83\u7F8E\u4E3D\u7684\u9CCD\uFF01\u53EA\u8981\u6709\u4E86\u90A3\u4E2A\uFF0C\r\n\u6211\u7684\u821E\u8E48\u4E00\u5B9A\u80FD\u66F4\u4E0A\u4E00\u5C42\u697C\uFF01\r\n\u730E\u4EBA\u5927\u4EBA\uFF0C\u8BF7\u53BB\u72E9\u730E\u6CE1\u72D0\u9F99\u5427\uFF01\r\n\u9CCD\u5C31\u7531\u6211\u81EA\u5DF1\u53BB\u56DE\u6536\u4E86\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u6CE1\u72D0\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0631\u0642\u0635\u0629 \u0627\u0644\u0641\u0627\u0644\u0633 \u062A\u062D\u062A \u0636\u0648\u0621 \u0627\u0644\u0642\u0645\u0631",
+        "Client": "\u0633\u064A\u062F \u0627\u0644\u0631\u0642\u0635 \u0627\u0644\u062A\u0642\u0644\u064A\u062F\u064A",
+        "Description": "\u0623\u0648\u0647\u060C \u064A\u0627 \u0644\u0631\u0648\u0639\u0629 \u062E\u0637\u0648\u0627\u062A \u0645\u064A\u0632\u0648\u062A\u0633\u0648\u0646\u064A\u060C\r\n\u0645\u062A\u0642\u0648\u0633\u0629 \u0641\u064A \u0627\u0644\u0647\u0648\u0627\u0621... \u0628\u0627\u0644\u062A\u0623\u0643\u064A\u062F \u0625\u0646\u0647\u0627\r\n\u0627\u0644\u0632\u0639\u0646\u0641\u0629! \u0625\u0630\u0627 \u0643\u0627\u0646 \u0644\u062F\u064A\r\n\u0645\u062B\u0644\u0647\u0627\u060C \u0643\u0646\u062A \u0633\u0623\u062A\u0645\u0643\u0646 \u0645\u0646 \u0627\u0644\u0631\u0642\u0635\r\n\u0645\u062B\u0644\u0647 \u0623\u064A\u0636\u064B\u0627... \u0623\u0639\u0644\u0645! \u003CLSNR {\u0623\u064A\u0647\u0627 \u0627\u0644\u0635\u064A\u0627\u062F} {\u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0635\u064A\u0627\u062F\u0629}\u003E!\r\n\u003CLSNR {\u0627\u0631\u0642\u0635} {\u0627\u0631\u0642\u0635\u064A}\u003E \u0627\u0644\u0641\u0627\u0644\u0633 \u0645\u0639 \u062A\u0646\u064A\u0646 \u0645\u062C\u0646\u062D\u060C\r\n\u0648\u0633\u0623\u062D\u0635\u0644 \u0639\u0644\u0649 \u0632\u0639\u0646\u0641\u062A\u0647!",
+        "Target": "\u0635\u064A\u062F \u0645\u064A\u0632\u0648\u062A\u0633\u0648\u0646\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      124,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 124,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 107,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 133,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 59,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1412,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 90,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 4500,
+      "Points": 90,
+      "HRP": 320
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      65,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 4,
+      "HealthTable": 32,
+      "AttackTable": 11,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

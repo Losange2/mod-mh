@@ -1,0 +1,350 @@
+{
+  "QuestID": 315612,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u60C5\u71B1\u3068\u51B7\u9759\u306E\u8A66\u7DF4",
+        "Client": "\u71B1\u8840\u3068\u30AF\u30FC\u30EB\u306A\u3075\u305F\u308A\u306E\u5148\u8F29",
+        "Description": "\u8AF8\u541B\u3001\u6211\u3005\u304B\u3089\u7279\u5225\u306A\u8A66\u7DF4\u3060\uFF01\uFF01\r\n\u624B\u5F37\u3044\u4F9D\u983C\u3067\u3059\u304C\u3001\u7686\u3055\u3093\u306A\u3089\u3070\r\n\u9054\u6210\u3067\u304D\u307E\u3057\u3087\u3046\u2026\u3002\r\n\u708E\u306E\u3088\u3046\u306B\u71B1\u3044\u5FC3\u3068\uFF01\uFF01\r\n\u6C37\u306E\u3088\u3046\u306A\u51B7\u9759\u3055\u3067\u2026\u3002\r\n\u3053\u306E\u8A66\u7DF4\u306B\u6253\u3061\u52DD\u3063\u3066\u304F\u308C\uFF01\uFF01\r\n\u3053\u306E\u8A66\u7DF4\u3092\u514B\u670D\u3057\u3066\u304F\u3060\u3055\u3044\u2026\u3002",
+        "Target": "\u30D0\u30BC\u30EB\u30AE\u30A6\u30B9\uFF11\u982D\u3068\u30E9\u30FC\u30B8\u30E3\u30F3\uFF11\u982D\u306E\u72E9\u731F\u3068\r\n\u30E1\u30EB\u30FB\u30BC\u30CA\uFF11\u4F53\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Trials of Passion and Composure",
+        "Client": "Enthusiastic Master \u0026 Calm Master",
+        "Description": "Sup...uh, Friend! We have a gnar\u2014\r\n*ahem* a formidable challenge for\r\nyou! Together, we can overcome it,\r\nI\u0027m sure! With a heart as hot as fire,\r\nand a mind as cool as ice! You\u0027re\r\nthe missing piece we need to thras\u2014\r\n*ahem* conquer this ordeal!",
+        "Target": "Hunt a Bazelgeuse and a Rajang\r\nand slay Malzeno",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Chaud et froid",
+        "Client": "Ma\u00EEtre enthousiaste et Ma\u00EEtre calme",
+        "Description": "H\u00E9, nous avons un super d\u00E9fi\r\npour toi ! Ensemble, nous en\r\nsortirons vainqueurs, j\u0027en\r\nsuis s\u00FBr ! Avec ta passion\r\nardente et ton sang froid,\r\ntu es la personne qu\u0027il nous\r\nfaut pour r\u00E9ussir !",
+        "Target": "Chasser un Bazelgeuse et un Rajang\r\net tuer le Malzeno",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Prove di passione e contegno",
+        "Client": "Anziani, passionale e calmo",
+        "Description": "Abbiamo una formidabile sfida\r\nper te! Insieme possiamo\r\nsuperarla, ne sono certo. Con\r\nil mio cuore caldo come fuoco\r\ne la sua mente fredda come\r\nghiaccio, sei il pezzo mancante\r\nche ci aiuter\u00E0 a trionfare.",
+        "Target": "Caccia un Bazelgeuse e un Rajang\r\ne uccidi il Malzeno",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Leidenschaft und Beherrschung",
+        "Client": "Hitziger Meister \u0026 Ruhiger Meister",
+        "Description": "\u003CLSNR {Mein Freund} {Meine Freundin}\u003E, wir haben eine\r\nHerausforderung f\u00FCr dich!\r\nGemeinsam schaffen wir das!\r\nMit deinem Mut und k\u00FChlen\r\nKopf bist du das fehlende\r\nPuzzlest\u00FCck, mit dem wir\r\ndiese Pr\u00FCfung meistern k\u00F6nnen.",
+        "Target": "Erjage einen Bazelgeuse sowie einen\r\nRajang und erlege einen Malzeno.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Prueba de aplomo y pasi\u00F3n",
+        "Client": "Maestros exaltado y calmado",
+        "Description": "Hola, \u00A1te traemos un gran reto!\r\n\u00A1Juntos lo lograremos!\r\nCon tu pasi\u00F3n, \u00A1tan ardiente\r\ncomo la lumbre! Con tu mente,\r\n\u00A1tan fr\u00EDa como un glaciar!\r\n\u00A1Eres el eslab\u00F3n que le falta\r\na esta cadena para vencer!",
+        "Target": "Caza un Bazelgeuse y un Rajang,\r\ny abate a Malzeno",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0421\u0442\u0440\u0430\u0441\u0442\u044C \u0438 \u0445\u043B\u0430\u0434\u043D\u043E\u043A\u0440\u043E\u0432\u0438\u0435",
+        "Client": "\u041F\u0430\u0440\u043E\u0447\u043A\u0430 \u0441\u0442\u0430\u0440\u0448\u0438\u0445",
+        "Description": "\u003CLSNR {\u0414\u0440\u0443\u0433} {\u041F\u043E\u0434\u0440\u0443\u0433\u0430}\u003E, \u0443 \u043D\u0430\u0441 \u0434\u043B\u044F \u0442\u0435\u0431\u044F \u0432\u0430\u0436\u043D\u043E\u0435\r\n\u0437\u0430\u0434\u0430\u043D\u0438\u0435! \u0412\u043C\u0435\u0441\u0442\u0435 \u043C\u044B \u0441\u043F\u0440\u0430\u0432\u0438\u043C\u0441\u044F!\r\n\u0421 \u0442\u0430\u043A\u0438\u043C-\u0442\u043E \u043F\u043B\u0430\u043C\u0435\u043D\u043D\u044B\u043C \u0441\u0435\u0440\u0434\u0446\u0435\u043C!\r\n\u0418 \u0445\u043E\u043B\u043E\u0434\u043D\u044B\u043C \u0443\u043C\u043E\u043C!\r\n\u041F\u0440\u043E\u0439\u0442\u0438 \u044D\u0442\u043E \u0438\u0441\u043F\u044B\u0442\u0430\u043D\u0438\u0435\r\n\u043C\u043E\u0436\u043D\u043E \u043B\u0438\u0448\u044C \u0441 \u0442\u0432\u043E\u0435\u0439 \u043F\u043E\u043C\u043E\u0449\u044C\u044E!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0411\u0430\u0437\u0435\u043B\u044C\u0433\u0435\u0439\u0441\u0430 \u0438 \u0420\u0430\u044F\u043D\u0433\u0430,\r\n\u0443\u0431\u0438\u0442\u044C \u041C\u0430\u043B\u0437\u0435\u043D\u043E",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Pr\u00F3by pasji i opanowania",
+        "Client": "Wybuch. pan i spokojny pan",
+        "Description": "Mamy dla ciebie du\u017Ce wyzwanie!\r\nRazem na pewno damy rad\u0119!\r\nZ sercem gor\u0105cym jak ogie\u0144!\r\nZ umys\u0142em ch\u0142odnym jak l\u00F3d!\r\nJeste\u015B brakuj\u0105cym elementem,\r\nkt\u00F3rego potrzebujemy,\r\n\u017Ceby przej\u015B\u0107 t\u0119 pr\u00F3b\u0119!",
+        "Target": "Upoluj Bazelgeza i Rajanga\r\noraz zabij Malzeno",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Desafios de Paix\u00E3o e Calma",
+        "Client": "Veterano Enfezado e Veterano Calmo",
+        "Description": "Temos um desafio incr\u00EDvel para\r\nvoc\u00EA! Juntando nossas for\u00E7as,\r\ntenho certeza de que podemos\r\nsuper\u00E1-lo! Com este cora\u00E7\u00E3o\r\nquente como fogo! Esta mente\r\nfresca como gelo! Voc\u00EA \u00E9 a pe\u00E7a\r\nque faltava nessa miss\u00E3o!",
+        "Target": "Cace um Bazelgeuse e o Rajang\r\ne mate o Malzeno.",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC815\uC5F4\uACFC \uB0C9\uC815\uC758 \uC2DC\uB828",
+        "Client": "\uB728\uAC81\uACE0\uB3C4 \uCFE8\uD55C \uB450 \uC120\uBC30",
+        "Description": "\uC81C\uAD70, \uC6B0\uB9AC\uC758 \uD2B9\uBCC4\uD55C \uC2DC\uB828\uC774\uB2E4!!\r\n\uC5B4\uB824\uC6B4 \uC758\uB8B0\uC9C0\uB9CC \uBAA8\uB450 \uD568\uAED8\uB77C\uBA74\r\n\uD574\uB0BC \uC218 \uC788\uACA0\uC9C0\u2026\r\n\uBD88\uAF43\uCC98\uB7FC \uB728\uAC81\uAC8C!!\r\n\uC5BC\uC74C\uCC98\uB7FC \uB0C9\uC815\uD558\uAC8C\u2026\r\n\uC774 \uC2DC\uB828\uC744 \uB6F0\uC5B4\uB118\uC5B4\uB77C!!\r\n\uC774 \uC2DC\uB828\uC744 \uADF9\uBCF5\uD574 \uC8FC\uC138\uC694\u2026",
+        "Target": "\uBC14\uC824\uAE30\uC6B0\uC2A4 1\uB9C8\uB9AC, \uB77C\uC794 1\uB9C8\uB9AC \uC0AC\uB0E5\uACFC\r\n\uBA5C-\uC81C\uB098 1\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6FC0\u60C5\u8207\u51B7\u975C\u7684\u8A66\u7149",
+        "Client": "\u71B1\u8840\u7684\u524D\u8F29\u8207\u51B7\u9177\u7684\u524D\u8F29",
+        "Description": "\u5404\u4F4D\uFF0C\u6211\u5011\u6E96\u5099\u4E86\u7279\u5225\u7684\u8A66\u7149\uFF01\uFF01\r\n\u96D6\u7136\u9019\u4EFD\u59D4\u8A17\u76F8\u7576\u68D8\u624B\uFF0C\r\n\u4F46\u4EE5\u5404\u4F4D\u7684\u5BE6\u529B\u60F3\u5FC5\u4E0D\u6210\u554F\u984C\u2026\u2026\r\n\u4EE5\u5F77\u5982\u718A\u718A\u70C8\u7130\u71C3\u71D2\u7684\u71B1\u60C5\uFF01\uFF01\r\n\u53CA\u7336\u5982\u51CD\u82E5\u5BD2\u51B0\u7684\u6C89\u8457\u51B7\u975C\u2026\u2026\r\n\u5B8C\u6210\u9019\u9805\u8A66\u7149\u5427\uFF01\uFF01\r\n\u514B\u670D\u9019\u9805\u8A66\u7149\u5427\u2026\u2026",
+        "Target": "\u72E9\u73751\u982D\u7206\u9C57\u9F8D\u30011\u982D\u91D1\u7345\u5B50\r\n\u8207\u8A0E\u4F101\u982D\u7235\u9280\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u70ED\u60C5\u4E0E\u51B7\u9759\u7684\u8003\u9A8C",
+        "Client": "\u70ED\u8840\u4E0E\u51B7\u9759\u7684\u4E24\u4F4D\u524D\u8F88",
+        "Description": "\u8BF8\u4F4D\uFF0C\u8FD9\u662F\u6211\u4EEC\u63D0\u4F9B\u7684\u7279\u6B8A\u8003\u9A8C\uFF01\r\n\u867D\u7136\u662F\u56F0\u96BE\u7684\u59D4\u6258\uFF0C\u4F46\u4EE5\u5927\u5BB6\u7684\u672C\r\n\u9886\u5E94\u8BE5\u80FD\u591F\u5B8C\u6210\u5427\u2026\u2026\u7528\u706B\u7130\u822C\u7684\r\n\u70ED\u60C5\u4E0E\u5BD2\u51B0\u822C\u7684\u51B7\u9759\u2026\u2026\u6765\u6218\u80DC\u8FD9\r\n\u6B21\u8003\u9A8C\uFF01\uFF01\u8BF7\u514B\u670D\u8FD9\u6B21\u8003\u9A8C\u2026\u2026",
+        "Target": "\u72E9\u730E1\u5934\u7206\u9CDE\u9F99\u548C1\u5934\u91D1\u72EE\u5B50\r\n\u5E76\u8BA8\u4F101\u5934\u7235\u94F6\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0645\u062D\u0627\u0643\u0645\u0627\u062A \u0627\u0644\u0634\u063A\u0641 \u0648\u0631\u0628\u0627\u0637\u0629 \u0627\u0644\u062C\u0623\u0634",
+        "Client": "\u0627\u0644\u0645\u062E\u0636\u0631\u0645 \u062D\u0627\u062F \u0627\u0644\u0637\u0628\u0627\u0639\u060C \u0648\u0627\u0644\u0645\u062E\u0636\u0631\u0645 \u0627\u0644\u0647\u0627\u062F\u0626",
+        "Description": "\u064A\u0627 \u0635\u062F\u064A\u0642\u064A\u060C \u0644\u062F\u064A\u0646\u0627\r\n\u062A\u062D\u062F\u064D \u0647\u0627\u0626\u0644 \u0644\u0643! \u064A\u0645\u0643\u0646\u0646\u0627 \u0627\u0644\u062A\u063A\u0644\u0628 \u0639\u0644\u064A\u0647 \u0645\u0639\u064B\u0627\u060C\r\n\u0623\u0646\u0627 \u0645\u062A\u0623\u0643\u062F! \u0645\u0639 \u0647\u0630\u0627 \u0627\u0644\u0642\u0644\u0628\r\n\u0627\u0644\u0645\u0641\u0639\u0645 \u0628\u0627\u0644\u062D\u0645\u0627\u0633 \u0627\u0644\u0645\u0644\u062A\u0647\u0628!\r\n\u0648\u0647\u0630\u0627 \u0627\u0644\u0639\u0642\u0644 \u0627\u0644\u0647\u0627\u062F\u0626!\r\n\u0623\u0646\u062A \u0627\u0644\u0642\u0637\u0639\u0629 \u0627\u0644\u0645\u0641\u0642\u0648\u062F\u0629 \u0627\u0644\u062A\u064A \u0646\u062D\u062A\u0627\u062C\u0647\u0627\r\n\u0644\u0644\u062A\u063A\u0644\u0628 \u0639\u0644\u0649 \u0647\u0630\u0647 \u0627\u0644\u0645\u062D\u0646\u0629!",
+        "Target": "\u0627\u0635\u0637\u062F \u0628\u0627\u0632\u064A\u0644\u062C\u064A\u0633 \u0648\u0631\u0627\u062C\u0627\u0646\u062C\r\n\u0648\u0627\u0642\u062A\u0644 \u0645\u0627\u0644\u0632\u064A\u0646\u0648",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 3,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      21,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      134,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 134,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 81,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 108,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 20,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 59,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 98640,
+      "Points": 1980,
+      "HRP": 2800
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      60,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 35,
+      "HealthTable": 132,
+      "AttackTable": 132,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

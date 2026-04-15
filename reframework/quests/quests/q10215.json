@@ -1,0 +1,350 @@
+{
+  "QuestID": 10215,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u6C34\u306E\u7363\u3068\u706B\u306E\u7ADC\u3068",
+        "Client": "\u51B7\u9759\u306A\u751F\u7269\u5B66\u8005",
+        "Description": "\u6C34\u6CA1\u6797\u306E\u751F\u614B\u8ABF\u67FB\u4E2D\u3001\u96CC\u706B\u7ADC\u3068\r\n\u6C34\u7363\u306B\u906D\u9047\u3057\u305F\u3002\u96CC\u706B\u7ADC\u306B\u306F\u706B\u3092\r\n\u5410\u304D\u304B\u3051\u3089\u308C\u3001\u6C34\u7363\u306B\u306F\u6C34\u3067\u8DB3\u3092\r\n\u53D6\u3089\u308C\u3066\u3057\u307E\u3063\u305F\u3002\u6CF3\u304E\u306E\u5F97\u610F\u306A\r\n\u79C1\u304C\u3001\u5076\u7136\u306B\u3082\u7279\u6B8A\u306A\u5916\u5957\u3092\u7740\u3066\r\n\u3044\u305F\u305F\u3081\u554F\u984C\u306F\u306A\u304B\u3063\u305F\u304C\u3001\u5371\u967A\r\n\u6975\u307E\u308A\u306A\u3044\u3002\uFF12\u982D\u306E\u72E9\u731F\u3092\u983C\u3080\u3002",
+        "Target": "\u5168\u3066\u306E\u30BF\u30FC\u30B2\u30C3\u30C8\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Fried and Baptized",
+        "Client": "Unflappable Biologist",
+        "Description": "I tend to ignore these little \u0022tiffs\u0022\r\nbetween monsters while out in\r\nthe field. Especially since I have\r\na special cloak to protect me. But\r\nit becomes increasingly difficult to\r\nignore when the forest is flooding\r\nand burning at the same time...",
+        "Target": "Hunt all target monsters",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Tout feu tout flaque",
+        "Client": "Biologiste imperturbable",
+        "Description": "D\u0027habitude, je fais pas cas des\r\nquerelles entre monstres, surtout\r\ndepuis que je suis prot\u00E9g\u00E9 par ma\r\ncape, mais l\u00E0 je dois avouer que\r\n\u00E7a devient de plus en plus difficile\r\n\u00E0 ignorer. Apr\u00E8s tout, une for\u00EAt\r\ninond\u00E9e qui br\u00FBle, c\u0027est pas rien...",
+        "Target": "Chasser tous les monstres",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Cotta e innaffiata",
+        "Client": "Biologo impassibile",
+        "Description": "Di solito cerco di ignorare i\r\n\u0022bisticci\u0022 tra mostri, anche\r\nperch\u00E9 ho un mantello speciale\r\na proteggermi. Ma diventa\r\nsempre pi\u00F9 difficile quando la\r\nforesta brucia ed \u00E8 inondata\r\nallo stesso tempo...",
+        "Target": "Caccia tutti i mostri assegnati",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Feuertaufe",
+        "Client": "Unersch\u00FCtterlicher Biologe",
+        "Description": "Meist ignoriere ich die kleinen\r\n\u0022Kabbeleien\u0022 zwischen Monstern\r\ndrau\u00DFen im Feld. Ich hab auch\r\neinen Spezialumhang zum Schutz.\r\nAber wenn der Wald gleichzeitig\r\n\u00FCberflutet ist und brennt, ist das\r\nmit dem Ignorieren schwierig...",
+        "Target": "Erjage alle Zielmonster.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Elementos opuestos",
+        "Client": "Bi\u00F3logo tranquilo",
+        "Description": "Suelo pasar ol\u00EDmpicamente de\r\nlas peleas entre monstruos,\r\nsobre todo teniendo una capa\r\nespecial para protegerme,\r\npero no es f\u00E1cil de ignorar\r\ncuando el bosque se inunda y\r\nse quema al mismo tiempo.",
+        "Target": "Caza todos los objetivos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041A\u0440\u0435\u0449\u0435\u043D\u044C\u0435 \u043E\u0433\u043D\u0435\u043C",
+        "Client": "\u041D\u0435\u0432\u043E\u0437\u043C\u0443\u0442\u0438\u043C\u044B\u0439 \u0431\u0438\u043E\u043B\u043E\u0433",
+        "Description": "\u042F, \u043A\u043E\u0433\u0434\u0430 \u0432\u044B\u0445\u043E\u0436\u0443 \u0432 \u043F\u043E\u0445\u043E\u0434, \u043D\u0435\r\n\u043E\u0431\u0440\u0430\u0449\u0430\u044E \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u044F \u043D\u0430 \u0434\u0440\u0430\u043A\u0438\r\n\u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432 \u2014 \u043A \u0442\u043E\u043C\u0443 \u0436\u0435, \u0443 \u043C\u0435\u043D\u044F\r\n\u0435\u0441\u0442\u044C \u0437\u0430\u0449\u0438\u0442\u043D\u044B\u0439 \u043F\u043B\u0430\u0449. \u041D\u043E \u0441\u0435\u0439\u0447\u0430\u0441\r\n\u043D\u0435 \u043E\u0431\u0440\u0430\u0449\u0430\u0442\u044C \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u044F \u0442\u0440\u0443\u0434\u043D\u043E,\r\n\u043B\u0435\u0441 \u0438 \u0442\u043E\u043D\u0435\u0442 \u0438 \u0433\u043E\u0440\u0438\u0442\r\n\u043E\u0434\u043D\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0432\u0441\u0435\u0445 \u043E\u0442\u043C\u0435\u0447\u0435\u043D\u043D\u044B\u0445 \u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Ogniem i wod\u0105",
+        "Client": "Niewzruszony biolog",
+        "Description": "Na og\u00F3\u0142 nie przejmuj\u0119 si\u0119\r\n\u201Esprzeczkami\u201D potwor\u00F3w, gdy jestem\r\nw terenie. Zw\u0142aszcza od kiedy mam\r\nspecjalny p\u0142aszcz ochronny. Ale\r\ntrudno udawa\u0107, \u017Ce nic si\u0119 nie dzieje,\r\nkiedy las jednocze\u015Bnie p\u0142onie\r\ni sp\u0142ywa wod\u0105...",
+        "Target": "Upoluj wszystkie cele",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Frito e batizado",
+        "Client": "Bi\u00F3logo imperturb\u00E1vel",
+        "Description": "Geralmente, eu ignoro essas \u0022rusgas\u0022\r\nentre monstros quando estou no campo.\r\nEspecialmente porque tenho uma capa\r\nespecial pra me proteger. Mas fica\r\ncada vez mais dif\u00EDcil ignorar com\r\na floresta inundando e queimando\r\nao mesmo tempo...",
+        "Target": "Cace todos os monstros-alvos",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC218\uAD34\uC218\uC640 \uC790\uD654\uB8E1",
+        "Client": "\uB0C9\uC815\uD55C \uC0DD\uBB3C\uD559\uC790",
+        "Description": "\uC218\uBAB0\uB41C \uC232\uC758 \uC0DD\uD0DC \uC870\uC0AC \uC911\uC5D0\r\n\uC790\uD654\uB8E1\uACFC \uC218\uAD34\uC218\uB97C \uB9CC\uB0AC\uC5B4.\r\n\uC790\uD654\uB8E1\uC740 \uBD88\uC744 \uBFDC\uC9C0, \uC218\uAD34\uC218\uB294\r\n\uBB3C\uB85C \uC6C0\uC9C1\uC774\uAE30 \uC5B4\uB835\uAC8C \uD558\uC9C0\u2026\r\n\uC218\uC601\uC774 \uD2B9\uAE30\uC778 \uB370\uB2E4\uAC00 \uD2B9\uC218\uD55C\r\n\uC678\uD22C\uAC00 \uC788\uC5B4\uC11C \uBCC4\uC77C \uC5C6\uC5C8\uC9C0\uB9CC\r\n\uC704\uD5D8\uD558\uB2C8\uAE4C \uADF8 \uB458\uC744 \uC0AC\uB0E5\uD574 \uC918.",
+        "Target": "\uBAA8\uB4E0 \uD0C0\uAC9F \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6C34\u4E4B\u91CE\u7378\u8207\u706B\u4E4B\u98DB\u9F8D",
+        "Client": "\u51B7\u975C\u7684\u751F\u7269\u5B78\u5BB6",
+        "Description": "\u6211\u5728\u6C34\u6C92\u6797\u5F9E\u4E8B\u751F\u614B\u8ABF\u67E5\u7684\u9014\u4E2D\uFF0C\r\n\u9047\u5230\u4E86\u96CC\u706B\u9F8D\u548C\u6C34\u7378\u3002\u96CC\u706B\u9F8D\r\n\u671D\u6211\u5674\u706B\uFF0C\u6C34\u7378\u5247\u7528\u6C34\u5BB3\u6211\u6ED1\u5012\u3002\r\n\u7531\u65BC\u6211\u64C5\u9577\u6E38\u6CF3\uFF0C\u800C\u4E14\u53C8\u6E4A\u5DE7\r\n\u7A7F\u8457\u7279\u6B8A\u5916\u5957\uFF0C\u624D\u80FD\u5016\u514D\u65BC\u96E3\uFF0C\r\n\u4F46\u7260\u5011\u5BE6\u5728\u592A\u5371\u96AA\u4E86\u3002\r\n\u62DC\u8A17\u53BB\u72E9\u7375\u90192\u982D\u9B54\u7269\u5427\u3002",
+        "Target": "\u72E9\u7375\u6240\u6709\u76EE\u6A19",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6C34\u4E4B\u517D\u4E0E\u706B\u4E4B\u9F99",
+        "Client": "\u51B7\u9759\u7684\u751F\u7269\u5B66\u8005",
+        "Description": "\u5728\u6C34\u6CA1\u6797\u8FDB\u884C\u751F\u6001\u8C03\u67E5\u65F6\uFF0C\r\n\u6211\u9047\u5230\u4E86\u96CC\u706B\u9F99\u4E0E\u6C34\u517D\u3002\r\n\u96CC\u706B\u9F99\u5411\u6211\u55B7\u706B\uFF0C\u6C34\u517D\u7684\u6C34\u8BA9\u6211\r\n\u96BE\u4EE5\u524D\u884C\u3002\u8FD8\u597D\u64C5\u957F\u6E38\u6CF3\u7684\u6211\r\n\u5076\u7136\u7A7F\u4E86\u7279\u6B8A\u7684\u5916\u5957\uFF0C\r\n\u6240\u4EE5\u6CA1\u51FA\u4EC0\u4E48\u4E8B\uFF0C\u4F46\u5B9E\u5728\u662F\u5371\u9669\u3002\r\n\u9EBB\u70E6\u4F60\u53BB\u72E9\u730E\u8FD9\u4E24\u5934\u602A\u7269\u3002",
+        "Target": "\u72E9\u730E\u6240\u6709\u76EE\u6807",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0645\u062D\u0631\u0648\u0642\u0629 \u0648\u0645\u064F\u0637\u0647\u0631\u0629",
+        "Client": "\u0639\u0627\u0644\u0645 \u0627\u0644\u0623\u062D\u064A\u0627\u0621 \u0627\u0644\u0647\u0627\u062F\u0626",
+        "Description": "\u0623\u0645\u064A\u0644 \u0625\u0644\u0649 \u062A\u062C\u0627\u0647\u0644 \u0647\u0630\u0647 \u0022\u0627\u0644\u0634\u062C\u0627\u0631\u0627\u062A\u0022\r\n\u0627\u0644\u0635\u063A\u064A\u0631\u0629 \u0628\u064A\u0646 \u0627\u0644\u0648\u062D\u0648\u0634 \u0623\u062B\u0646\u0627\u0621\r\n\u062A\u0648\u0627\u062C\u062F\u064A \u0641\u064A \u0627\u0644\u0645\u064A\u062F\u0627\u0646. \u062E\u0627\u0635\u0629\u064B \u0644\u0623\u0646\r\n\u0644\u062F\u064A \u0639\u0628\u0627\u0621\u0629 \u0645\u0645\u064A\u0632\u0629 \u0644\u062D\u0645\u0627\u064A\u062A\u064A. \u0644\u0643\u0646\r\n\u064A\u0635\u0628\u062D \u0627\u0644\u062A\u062C\u0627\u0647\u0644 \u0623\u0635\u0639\u0628\r\n\u0641\u0623\u0635\u0639\u0628 \u0639\u0646\u062F\u0645\u0627 \u062A\u0641\u064A\u0636\r\n\u0627\u0644\u063A\u0627\u0628\u0629 \u0648\u062A\u062D\u062A\u0631\u0642 \u0641\u064A \u0627\u0644\u0648\u0642\u062A \u0646\u0641\u0633\u0647...",
+        "Target": "\u0635\u064A\u062F \u0643\u0644 \u0627\u0644\u0648\u062D\u0648\u0634 \u0627\u0644\u0645\u0633\u062A\u0647\u062F\u0641\u0629",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 5,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      59,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 59,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 32,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 62,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 351,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 513,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 513,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 6840,
+      "Points": 140,
+      "HRP": 430
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      16,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 15,
+      "HealthTable": 71,
+      "AttackTable": 52,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

@@ -1,0 +1,350 @@
+{
+  "QuestID": 402,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u5C71\u6797\u306E\u8352\u6CD5\u5E2B",
+        "Client": "\u52A0\u5DE5\u5C4B\u306E\u30CF\u30E2\u30F3",
+        "Description": "\u5927\u793E\u8DE1\u3067\u3001\u30D3\u30B7\u30E5\u30C6\u30F3\u30B4\u304C\r\n\u901A\u884C\u4EBA\u306B\u8FF7\u60D1\u3092\u304B\u3051\u3066\u304A\u308B\u3002\r\n\u3061\u3087\u3046\u3069\u3001\u9020\u3063\u3066\u3044\u305F\u304B\u3089\u304F\u308A\u306B\r\n\u30E4\u30C4\u3081\u306E\u7D20\u6750\u304C\u5FC5\u8981\u3067\u3042\u3063\u305F\u3086\u3048\r\n\u307E\u3055\u3057\u304F\u4E00\u6319\u4E21\u5F97\u306E\u597D\u6A5F\u2026\u3002\r\n\u7D20\u6750\u306F\u30EF\u30B7\u304C\u78BA\u4FDD\u3059\u308B\u3002\r\n\u304A\u306C\u3057\u306B\u306F\u3001\u72E9\u731F\u3092\u4EFB\u305B\u305F\u3044\u3002",
+        "Target": "\u30D3\u30B7\u30E5\u30C6\u30F3\u30B4\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Monkey Wrench in Your Plans",
+        "Client": "Hamon the Blacksmith",
+        "Description": "In order to separate Magnamalo\r\nfrom the Rampage, I need to\r\ncomplete my device. In order to\r\ndo that, I need materials from a\r\nBishaten. One has been spotted\r\nin the Shrine Ruins. Depart at once!",
+        "Target": "Hunt a Bishaten",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Lancer la machine",
+        "Client": "Hamon le forgeron",
+        "Description": "Pour s\u00E9parer le Magnamalo et\r\nla Calamit\u00E9, je dois terminer\r\nma machine, et pour \u00E7a, il me\r\nfaut des mat\u00E9riaux provenant\r\nd\u0027un Bishaten. \u00C7a tombe bien,\r\nun a \u00E9t\u00E9 aper\u00E7u au Temple\r\noubli\u00E9. Allez, au boulot !",
+        "Target": "Chasser un Bishaten",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Bastoni fra le ruote",
+        "Client": "Hamon il fabbro",
+        "Description": "Per separare il Magnamalo\r\ndalla furia, devo completare\r\nil mio dispositivo. Per farlo,\r\nmi servono materiali di\r\nBishaten. Ne hanno avvistato\r\nuno alle Rovine sacre.\r\nDevi partire subito!",
+        "Target": "Caccia un Bishaten",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Affenartiges Material",
+        "Client": "Hamon der Schmied",
+        "Description": "Um Magnamalo von der Randale\r\nzu trennen, muss ich mein\r\nGer\u00E4t fertigstellen. Daf\u00FCr\r\nbrauche ich Material von einem\r\nBishaten. In den Heiligen\r\nRuinen wurde einer gesichtet.\r\nGeh gleich los!",
+        "Target": "Erjage einen Bishaten.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Guardi\u00E1n de las monta\u00F1as",
+        "Client": "Hamon el herrero",
+        "Description": "Se ha visto un Bishaten en el\r\ndel Templo olvidado, y resulta\r\nque estoy haciendo una m\u00E1quina\r\nque requiere materiales de uno\r\nde ellos. Matar\u00EDamos dos\r\np\u00E1jaros de un tiro: yo consigo\r\nmateriales, y t\u00FA una caza.",
+        "Target": "Caza un Bishaten",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041F\u043E\u043C\u0435\u0445\u0430 \u043F\u043B\u0430\u043D\u0430\u043C",
+        "Client": "\u041A\u0443\u0437\u043D\u0435\u0446 \u0425\u0430\u043C\u043E\u043D",
+        "Description": "\u0427\u0442\u043E\u0431\u044B \u043E\u0442\u0434\u0435\u043B\u0438\u0442\u044C \u041C\u0430\u0433\u043D\u0430\u043C\u0430\u043B\u043E \u043E\u0442\r\n\u0411\u0443\u0439\u0441\u0442\u0432\u0430, \u043C\u043D\u0435 \u043D\u0443\u0436\u043D\u043E \u0434\u043E\u0434\u0435\u043B\u0430\u0442\u044C\r\n\u0441\u0432\u043E\u0435 \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E. \u0414\u043B\u044F \u044D\u0442\u043E\u0433\u043E\r\n\u043C\u043D\u0435 \u043D\u0443\u0436\u043D\u044B \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u0438\u0437\r\n\u0411\u0438\u0441\u044F\u0442\u044D\u043D\u0430. \u0411\u0438\u0441\u044F\u0442\u044D\u043D\u0430 \u043D\u0435\u0434\u0430\u0432\u043D\u043E\r\n\u0432\u0438\u0434\u0435\u043B\u0438 \u0432 \u0420\u0443\u0438\u043D\u0430\u0445 \u0441\u0432\u044F\u0442\u0438\u043B\u0438\u0449\u0430.\r\n\u0421\u0440\u043E\u0447\u043D\u043E \u0438\u0434\u0438 \u0442\u0443\u0434\u0430!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0411\u0438\u0441\u044F\u0442\u044D\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Kij w szprychy",
+        "Client": "Kowal Hamon",
+        "Description": "\u017Beby oddzieli\u0107 Magnamalo od\r\nFurii, musz\u0119 uko\u0144czy\u0107 moje\r\nurz\u0105dzenie. Potrzebne mi do\r\ntego materia\u0142y z Bishatena.\r\nWidziano jednego w Ruinach\r\n\u015Awi\u0105tynnych. Wyrusz tam jak\r\nnajszybciej!",
+        "Target": "Upoluj Bishatena",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Planos emperrados",
+        "Client": "Hamon, o ferreiro",
+        "Description": "Eu tenho que terminar o meu\r\ndispositivo pra separar o Magnamalo\r\ndo Frenesi. Pra isso, preciso\r\nde materiais de um Bishaten.\r\nViram um deles nas Ru\u00EDnas do\r\nTemplo. V\u00E1 o quanto antes!",
+        "Target": "Cace um Bishaten",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC0B0\uB9BC\uC758 \uAC70\uCE5C \uBC95\uC0AC",
+        "Client": "\uAC00\uACF5\uC810\uC758 \uD558\uBAAC",
+        "Description": "\uBE44\uC288\uD150\uACE0 \uB54C\uBB38\uC5D0 \uC0AC\uC6D0 \uD3D0\uD5C8\uB97C\r\n\uC9C0\uB098\uAC00\uB294 \uC0AC\uB78C\uB4E4\uC758 \uC6D0\uC131\uC774 \uD06C\uB124.\r\n\uB9C8\uCE68 \uB9CC\uB4DC\uB824\uB294 \uC7A5\uCE58\uC5D0 \uB140\uC11D\uC758\r\n\uC18C\uC7AC\uAC00 \uD544\uC694\uD55C \uC0C1\uD669\uC774\uB77C\r\n\uC77C\uAC70\uC591\uB4DD\uC758 \uAE30\uD68C\uC9C0\u2026\r\n\uC18C\uC7AC\uB294 \uB0B4\uAC00 \uD655\uBCF4\uD560 \uD14C\uB2C8\r\n\uC790\uB124\uC5D0\uAC90 \uC0AC\uB0E5\uC744 \uB9E1\uAE30\uACA0\uB124.",
+        "Target": "\uBE44\uC288\uD150\uACE0 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5C71\u6797\u7684\u6B66\u50E7",
+        "Client": "\u52A0\u5DE5\u5E97\u5200\u7D0B",
+        "Description": "\u5929\u72D7\u7378\u6B63\u5728\u5927\u793E\u907A\u8DE1\u963B\u7919\r\n\u8DEF\u904E\u7684\u884C\u4EBA\u3002\u6B63\u597D\u6211\u88FD\u9020\u7684\r\n\u6A5F\u95DC\u4E5F\u9700\u8981\u7260\u8EAB\u4E0A\u7684\u7D20\u6750\uFF0C\r\n\u9019\u6B63\u662F\u4E00\u8209\u5169\u5F97\u7684\u597D\u6A5F\u6703\u2026\u2026\r\n\u6211\u6703\u89AA\u81EA\u53D6\u4E0B\u7D20\u6750\uFF0C\r\n\u81F3\u65BC\u72E9\u7375\u5C31\u4EA4\u7D66\u4F60\u4E86\u3002",
+        "Target": "\u72E9\u73751\u982D\u5929\u72D7\u7378",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u5C71\u6797\u6B66\u50E7",
+        "Client": "\u52A0\u5DE5\u5546\u5200\u7EB9",
+        "Description": "\u5929\u72D7\u517D\u5728\u5E9F\u795E\u793E\r\n\u88AD\u51FB\u8DEF\u8FC7\u7684\u884C\u4EBA\u3002\r\n\u6B63\u597D\u8001\u592B\u8981\u505A\u7684\u673A\u5173\r\n\u9700\u8981\u90A3\u5BB6\u4F19\u7684\u7D20\u6750\uFF0C\r\n\u8FD9\u662F\u4E2A\u4E00\u7BAD\u53CC\u96D5\u7684\u597D\u673A\u4F1A\u2026\u2026\r\n\u7D20\u6750\u7531\u8001\u592B\u53BB\u786E\u4FDD\uFF0C\r\n\u72E9\u730E\u5C31\u4EA4\u7ED9\u4F60\u4E86\u3002",
+        "Target": "\u72E9\u730E1\u5934\u5929\u72D7\u517D",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0645\u0641\u062A\u0627\u062D \u0627\u0644\u0642\u0631\u062F \u0641\u064A \u062E\u0637\u0637\u0643",
+        "Client": "\u0627\u0644\u062D\u062F\u0627\u062F \u0647\u0627\u0645\u0648\u0646",
+        "Description": "\u0644\u0625\u0628\u0639\u0627\u062F \u0645\u0627\u062C\u0646\u0627\u0645\u0627\u0644\u0648 \u0639\u0646\r\n\u0627\u0644\u063A\u0636\u0628 \u0627\u0644\u0639\u0627\u0631\u0645\u060C \u0623\u062D\u062A\u0627\u062C\r\n\u0644\u0625\u0643\u0645\u0627\u0644 \u062C\u0647\u0627\u0632\u064A. \u0644\u0644\u0642\u064A\u0627\u0645 \u0628\u0630\u0644\u0643\r\n\u060C\u0623\u062D\u062A\u0627\u062C \u0644\u0645\u0648\u0627\u062F \u0645\u0646\r\n\u0628\u064A\u0634\u0627\u062A\u0646. \u062A\u0645\u062A \u0631\u0624\u064A\u0629 \u0623\u062D\u062F\u0647\u0627\r\n\u0641\u064A \u0623\u0637\u0644\u0627\u0644 \u0627\u0644\u0636\u0631\u064A\u062D. \u0648\u0631\u062D\u0644 \u0639\u0644\u0649 \u0627\u0644\u0641\u0648\u0631!",
+        "Target": "\u0635\u064A\u062F \u0628\u064A\u0634\u0627\u062A\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      2120,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 2120,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 3000,
+      "Points": 60,
+      "HRP": 220
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      112,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 29,
+      "AttackTable": 10,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

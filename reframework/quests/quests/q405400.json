@@ -1,0 +1,350 @@
+{
+  "QuestID": 405400,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u8D64\u6708\u306B\u543C\u3048\u308B\u6C37\u72FC",
+        "Client": "\u63D0\u7763\u30AC\u30EC\u30A2\u30B9",
+        "Description": "\u2026\u2026\u30EB\u30CA\u30AC\u30ED\u30F3\u304C\u66B4\u8D70\u3057\u3001\u5468\u8FBA\u306E\r\n\u6751\u3092\u8972\u6483\u3057\u3066\u3044\u308B\u3002\u30D5\u30A3\u30AA\u30EC\u30FC\u30CD\r\n\u3068\u3068\u3082\u306B\u3001\u8CB4\u6BBF\u306F\u3053\u308C\u306E\u72E9\u731F\u306B\u3042\r\n\u305F\u3063\u3066\u307B\u3057\u3044\u3002\u2026\u2026\u30EB\u30CA\u30AC\u30ED\u30F3\u306F\r\n\u9AD8\u5730\u306B\u751F\u606F\u3059\u308B\u3068\u3042\u3063\u3066\u3001\u76EE\u6483\u8005\r\n\u3082\u975E\u5E38\u306B\u5C11\u306A\u304F\u8B0E\u3082\u591A\u3044\u3002\r\n\u2026\u2026\u4E07\u5168\u306E\u6E96\u5099\u3067\u6311\u3093\u3067\u304F\u308C\u3002",
+        "Target": "\u30EB\u30CA\u30AC\u30ED\u30F3\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Ice Wolf, Red Moon",
+        "Client": "Admiral Galleus",
+        "Description": "A Lunagaron has been attacking\r\nnearby villages. The knights\r\ndispatched to intercept it have\r\nall come back severely injured.\r\nGo with Fiorayne and deal with\r\nit immediately. You have your\r\norders. Go get it done.",
+        "Target": "Hunt a Lunagaron",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Loup glac\u00E9e, lune \u00E9carlate",
+        "Client": "Amiral Galleus",
+        "Description": "Un Lunagaron d\u00E9cha\u00EEn\u00E9 s\u0027est\r\nmis \u00E0 attaquer les villages \u00E0\r\nproximit\u00E9. Peux-tu aller le\r\nchasser avec Fiorayne ? Les\r\nLunagaron vivent en altitude,\r\nnous n\u0027avons donc que tr\u00E8s peu\r\nd\u0027informations. Attention...",
+        "Target": "Chasser un Lunagaron",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Lupo di ghiaccio, luna rossa",
+        "Client": "Ammiraglio Galleus",
+        "Description": "Un Lunagaron scatenato ha\r\nattaccato dei villaggi vicini.\r\nPuoi cacciarlo insieme a\r\nFiorayne? Queste bestie vivono\r\na quote pi\u00F9 elevate, quindi ci\r\nsono poche informazioni su cui\r\nbasarci. Preparati al meglio.",
+        "Target": "Caccia un Lunagaron",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Eiswolf, Roter Mond",
+        "Client": "Galleus",
+        "Description": "Ein Lunagaron hat die D\u00F6rfer\r\nin der N\u00E4he angegriffen. Die\r\nausgesandten Ritter sind alle\r\nschwer verletzt zur\u00FCckge-\r\nkommen. Geh mit Fiorayne\r\nund k\u00FCmmere dich sofort um\r\nihn. Du hast deine Befehle!",
+        "Target": "Erjage einen Lunagaron.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "El lobo g\u00E9lido y la luna roja",
+        "Client": "Almirante Galleus",
+        "Description": "Un Lunagaron desbocado ha estado\r\natacando las aldeas aleda\u00F1as.\r\nTodos los caballeros enviados\r\nhan vuelto heridos. Ve con\r\nFiorayne y enc\u00E1rgate enseguida.\r\nCumplid con vuestras \u00F3rdenes.",
+        "Target": "Caza un Lunagaron",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041B\u0435\u0434\u044F\u043D\u043E\u0439 \u0432\u043E\u043B\u043A, \u043A\u0440\u0430\u0441\u043D\u0430\u044F \u043B\u0443\u043D\u0430",
+        "Client": "\u0410\u0434\u043C\u0438\u0440\u0430\u043B \u0413\u0430\u043B\u043B\u0435\u0443\u0441",
+        "Description": "\u041B\u0443\u043D\u0430\u0433\u0430\u0440\u043E\u043D \u0432\u0437\u0431\u0435\u0441\u0438\u043B\u0441\u044F \u0438 \u043D\u0430\u043F\u0430\u0434\u0430\u0435\u0442\r\n\u043D\u0430 \u0441\u043E\u0441\u0435\u0434\u043D\u0438\u0435 \u0434\u0435\u0440\u0435\u0432\u043D\u0438.\r\n\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u0435 \u0435\u0433\u043E \u0441 \u0424\u0438\u043E\u0440\u0430\u0439\u043D\u043E\u0439?\r\n\u041E\u043D \u043E\u0431\u0438\u0442\u0430\u0435\u0442 \u0432 \u0432\u044B\u0441\u043E\u043A\u043E\u0433\u043E\u0440\u044C\u0435,\r\n\u043F\u043E\u044D\u0442\u043E\u043C\u0443 \u0441\u0432\u0435\u0434\u0435\u043D\u0438\u0439 \u043E \u043D\u0435\u043C \u043E\u0447\u0435\u043D\u044C \u043C\u0430\u043B\u043E.\r\n\u0413\u043E\u0442\u043E\u0432\u044C\u0442\u0435\u0441\u044C \u0442\u0449\u0430\u0442\u0435\u043B\u044C\u043D\u043E.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u041B\u0443\u043D\u0430\u0433\u0430\u0440\u043E\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Lodowy wilk, czerwony ksi\u0119\u017Cyc",
+        "Client": "Admira\u0142 Galleus",
+        "Description": "W\u015Bciek\u0142y Lunagaron atakuje\r\ns\u0105siednie wioski. Mo\u017Cesz\r\ngo upolowa\u0107 z pomoc\u0105 Fiorayne?\r\nLunagarony \u017Cyj\u0105 na wy\u017Cej\r\npo\u0142o\u017Conych obszarach, wi\u0119c mamy\r\nma\u0142o informacji na ich temat.\r\nDobrze si\u0119 przygotuj.",
+        "Target": "Upoluj Lunagarona",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Lobo de Gelo, Lua Vermelha",
+        "Client": "Almirante Galleus",
+        "Description": "Um Lunagaron ensandecido tem\r\natacado aldeias pr\u00F3ximas. Voc\u00EA\r\npode ir ca\u00E7\u00E1-lo com Fiorayne?\r\nO Lunagaron vive em grandes\r\naltitudes, por isso temos\r\npoucas informa\u00E7\u00F5es.\r\nPrepare-se com cuidado.",
+        "Target": "Cace um Lunagaron",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uBD89\uC740 \uB2EC\uC5D0 \uC6B8\uBD80\uC9D6\uB294 \uBE59\uB791",
+        "Client": "\uC81C\uB3C5 \uAC08\uB808\uC544\uC2A4",
+        "Description": "\u2026\u2026\uB8E8\uB098\uAC00\uB860\uC774 \uD3ED\uC8FC\uD574 \uC778\uADFC\r\n\uB9C8\uC744\uC744 \uC2B5\uACA9\uD558\uACE0 \uC788\uB2E4. \uADC0\uACF5\uC740\r\n\uD53C\uC624\uB808\uB124\uC640 \uD568\uAED8 \uC0AC\uB0E5\uD574 \uC8FC\uAE38\r\n\uBC14\uB780\uB2E4. \uB8E8\uB098\uAC00\uB860\uC740 \uB192\uC740 \uACF3\uC5D0\r\n\uC11C\uC2DD\uD558\uAE30\uC5D0 \uBAA9\uACA9\uC790\uB3C4 \uB9E4\uC6B0 \uC801\uACE0\r\n\uC54C\uB824\uC9C4 \uC815\uBCF4\uB3C4 \uB9CE\uC9C0 \uC54A\uB2E4.\r\n\uB9CC\uBC18\uC758 \uC900\uBE44\uB97C \uD558\uACE0 \uB3C4\uC804\uD558\uB3C4\uB85D.",
+        "Target": "\uB8E8\uB098\uAC00\uB860 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u671D\u7D05\u6708\u5486\u54EE\u7684\u51B0\u72FC",
+        "Client": "\u52A0\u96F7\u4E9E\u65AF\u63D0\u7763",
+        "Description": "\u2026\u2026\u5931\u63A7\u7684\u51B0\u72FC\u9F8D\u6B63\u5728\u8972\u64CA\r\n\u5468\u570D\u7684\u6751\u838A\uFF0C\u6211\u5E0C\u671B\u4F60\u80FD\u8DDF\r\n\u83F2\u6B50\u8389\u5C3C\u4E00\u540C\u524D\u53BB\u72E9\u7375\u7260\u3002\r\n\u2026\u2026\u7531\u65BC\u51B0\u72FC\u9F8D\u5E73\u6642\u68F2\u606F\u65BC\u9AD8\u5730\uFF0C\r\n\u9BAE\u5C11\u6709\u4EBA\u76EE\u64CA\uFF0C\u56E0\u6B64\u4ECD\u5145\u6EFF\u8B0E\u5718\u3002\r\n\u2026\u2026\u8ACB\u505A\u597D\u842C\u5168\u6E96\u5099\u624D\u524D\u5F80\u6311\u6230\u3002",
+        "Target": "\u72E9\u73751\u982D\u51B0\u72FC\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u51B0\u72FC\u5578\u8840\u6708",
+        "Client": "\u63D0\u7763\u52A0\u96F7\u4E9A\u65AF",
+        "Description": "\u2026\u2026\u51B0\u72FC\u9F99\u53D1\u4E86\u72C2\uFF0C\u5728\u88AD\u51FB\u5468\u8FB9\u7684\r\n\u6751\u5E84\u3002\u6211\u5E0C\u671B\u9601\u4E0B\u548C\u83F2\u5965\u83B1\u5A1C\u4E00\u8D77\r\n\u53BB\u72E9\u730E\u5B83\u2026\u2026\u51B0\u72FC\u9F99\u6816\u606F\u4E8E\u9AD8\u5730\uFF0C\r\n\u56E0\u6B64\u76EE\u51FB\u5230\u5B83\u7684\u4EBA\u6781\u5C11\uFF0C\u8C1C\u56E2\u91CD\u91CD\r\n\u2026\u2026\u6311\u6218\u524D\u52A1\u5FC5\u505A\u597D\u4E07\u5168\u7684\u51C6\u5907\u3002",
+        "Target": "\u72E9\u730E1\u5934\u51B0\u72FC\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0630\u0626\u0628 \u0627\u0644\u062C\u0644\u064A\u062F\u060C \u0627\u0644\u0642\u0645\u0631 \u0627\u0644\u0623\u062D\u0645\u0631",
+        "Client": "\u0627\u0644\u0623\u062F\u0645\u064A\u0631\u0627\u0644 \u062C\u0627\u0644\u064A\u0648\u0633",
+        "Description": "\u0647\u0627\u062C\u064E\u0645 \u0644\u0648\u0646\u0627\u062C\u0627\u0631\u0648\u0646 \u0627\u0644\u0647\u0627\u0626\u062C \u0627\u0644\u0642\u0631\u0649 \u0627\u0644\u0645\u062C\u0627\u0648\u0631\u0629.\r\n\u0647\u0644 \u064A\u0645\u0643\u0646\u0643 \u0627\u0644\u0630\u0647\u0627\u0628 \u0645\u0639 \u0641\u064A\u0648\u0631\u0627\u064A\u0646 \u0648\u0627\u0635\u0637\u064A\u0627\u062F\u0647\u061F\r\n\u064A\u0639\u064A\u0634 \u0644\u0648\u0646\u0627\u062C\u0627\u0631\u0648\u0646 \u0639\u0644\u0649 \u0627\u0631\u062A\u0641\u0627\u0639\u0627\u062A \u0639\u0627\u0644\u064A\u0629\u060C\r\n\u0645\u0627 \u064A\u0639\u0646\u064A \u0623\u0646\u0647 \u0644\u064A\u0633 \u0644\u062F\u064A\u0646\u0627 \u0633\u0648\u0649\r\n\u0627\u0644\u0642\u0644\u064A\u0644 \u0645\u0646 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062A\r\n\u0644\u0644\u0627\u0633\u062A\u0641\u0627\u062F\u0629 \u0645\u0646\u0647\u0627.\r\n\u0627\u0633\u062A\u0639\u062F \u062C\u064A\u062F\u064B\u0627.",
+        "Target": "\u0627\u0635\u0637\u062F \u0644\u0648\u0646\u0627\u062C\u0627\u0631\u0648\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 12,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      124,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 124,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 136,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 133,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 82,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 90,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1351,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 23400,
+      "Points": 470,
+      "HRP": 1180
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      65,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 8,
+      "HealthTable": 124,
+      "AttackTable": 128,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

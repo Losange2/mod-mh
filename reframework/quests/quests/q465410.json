@@ -1,0 +1,350 @@
+{
+  "QuestID": 465410,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u672A\u77E5\u304B\u3089\u306E\u6D78\u8755",
+        "Client": "\u30A2\u30EB\u30ED\u30FC\u6559\u5B98",
+        "Description": "\u3061\u3087\u3044\u3068\u6311\u3093\u3067\u307F\u305F\u3044\u30AF\u30A8\u30B9\u30C8\u304C\r\n\u3042\u308B\u3093\u3060\u304C\u3001\u4E00\u4EBA\u3058\u3083\u5371\u967A\u3060\u3063\u3066\r\n\u65AD\u3089\u308C\u3061\u307E\u3063\u305F\u3002\u3053\u308C\u3067\u3082\u4FFA\u306F\r\n\u30A8\u30EB\u30AC\u30C9\u306E\u30A2\u30EB\u30ED\u30FC\u6559\u5B98\u3060\u305C\uFF1F\r\n\u305D\u3093\u306A\u6642\u306B\u304A\u524D\u3055\u3093\u306E\u767B\u5834\u3063\u3066\r\n\u308F\u3051\u3060\u3002\u3068\u3044\u3046\u308F\u3051\u3067\u4FFA\u3068\u4E00\u7DD2\u306B\r\n\u30B4\u30A2\u30FB\u30DE\u30AC\u30E9\u3092\u72E9\u308A\u306B\u884C\u3053\u3046\u305C\uFF01",
+        "Target": "\u30B4\u30A2\u30FB\u30DE\u30AC\u30E9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Unknown Invader",
+        "Client": "Arena Master Arlow",
+        "Description": "You know I\u0027m always up for a little\r\nchallenge, yeah? But looks like the\r\nhigher-ups don\u0027t want an ol\u0027 geezer\r\nlike me goin\u0027 out there alone...\r\nImagine that! ME needin\u0027 a babysitter.\r\nWell, what do you say, Hunter? Up\r\nto hunt a Gore Magala with me?",
+        "Target": "Hunt a Gore Magala",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Envahisseur myst\u00E9rieux",
+        "Client": "Ma\u00EEtre d\u0027Ar\u00E8ne Arlow",
+        "Description": "Une qu\u00EAte m\u0027int\u00E9resse, mais\r\nelle semble trop dangereuse\r\npour une seule personne...\r\nOui, m\u00EAme pour Ma\u00EEtre Arlow !\r\nJe compte donc sur toi !\r\nAllons chasser un Gore Magala\r\nensemble !",
+        "Target": "Chasser un Gore Magala",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Invasore sconosciuto",
+        "Client": "Maestro Arlow",
+        "Description": "C\u0027\u00E8 una missione di cui vorrei\r\noccuparmi, ma \u00E8 stato deciso\r\nche sarebbe troppo pericoloso\r\naffrontarla da solo. Io! Il\r\nmaestro Arlow di Elgado! Qui\r\nmi serve il tuo aiuto. Andiamo\r\na cacciare un Gore Magala!",
+        "Target": "Caccia un Gore Magala",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Unbekannter Eindringling",
+        "Client": "Arenameister Arlow",
+        "Description": "Dir ist bekannt, dass ich immer f\u00FCr\r\neine Herausforderung zu haben bin,\r\nja? Aber meine Vorgesetzten wollen\r\nnicht, dass ein alter Sack wie ich\r\nallein loszieht. Stelle dir mal vor!\r\nICH brauche einen Aufpasser...\r\nWillst du einen Gore Magala jagen?",
+        "Target": "Erjage einen Gore Magala.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Invasor desconocido",
+        "Client": "Maestro de la Arena Arlow",
+        "Description": "T\u00FA sabes que yo siempre estoy a\r\npunto para cualquier reto, \u00BFverdad?\r\nPero parece que los peces gordos\r\nno quieren que un viejo como yo\r\nsalga solo... \u00A1Imag\u00EDnate! \u00A1Yo, con\r\nuna ni\u00F1era! En fin, \u00BFqu\u00E9 me dices?\r\n\u00BFSalimos a cazar un Gore Magala?",
+        "Target": "Caza un Gore Magala",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041D\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u0437\u0430\u0445\u0432\u0430\u0442\u0447\u0438\u043A",
+        "Client": "\u041C\u0430\u0441\u0442\u0435\u0440 \u0410\u0440\u043B\u043E\u0443",
+        "Description": "\u0423 \u043C\u0435\u043D\u044F \u0435\u0441\u0442\u044C \u043D\u0430 \u043F\u0440\u0438\u043C\u0435\u0442\u0435\r\n\u0437\u0430\u0434\u0430\u043D\u0438\u0435, \u043D\u043E \u043E\u0434\u043D\u043E\u043C\u0443 \u0431\u0440\u0430\u0442\u044C\u0441\u044F\r\n\u0437\u0430 \u043D\u0435\u0433\u043E \u2014 \u0441\u043B\u0438\u0448\u043A\u043E\u043C \u043E\u043F\u0430\u0441\u043D\u043E. \u041C\u043D\u0435!\r\n\u041C\u0430\u0441\u0442\u0435\u0440\u0443 \u0410\u0440\u043B\u043E\u0443 \u0438\u0437 \u042D\u043B\u0433\u0430\u0434\u043E!\r\n\u0412\u043E\u0442 \u043F\u043E\u0447\u0435\u043C\u0443 \u043C\u043D\u0435 \u003CLSNR {\u043D\u0443\u0436\u0435\u043D} {\u043D\u0443\u0436\u043D\u0430}\u003E \u0442\u044B.\r\n\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u043C \u041A\u0440\u043E\u0432\u0430\u0432\u0443\u044E \u041C\u0430\u0433\u0430\u043B\u0443!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u041A\u0440\u043E\u0432\u0430\u0432\u0443\u044E \u041C\u0430\u0433\u0430\u043B\u0443",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Nieznany naje\u017Ad\u017Aca",
+        "Client": "Mistrz Arlow",
+        "Description": "Chc\u0119 podj\u0105\u0107 si\u0119 jednego zadania,\r\nale zdecydowano, \u017Ce jest zbyt\r\nniebezpieczne dla mnie jednego.\r\nMnie! Mistrza Arlowa z Elgado!\r\nWi\u0119c tu zaczyna si\u0119 twoja\r\nrola. Zapolujmy na\r\nGore Magal\u0119!",
+        "Target": "Upoluj Gore Magal\u0119",
+        "Fail": "Nagroda r\u00F3wna 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Invasor Desconhecido",
+        "Client": "Mestre Arlow",
+        "Description": "Quero fazer uma miss\u00E3o, mas\r\ndecidiram que \u00E9 muito perigoso\r\neu ir sozinho. Logo eu! Mestre\r\nArlow de Elgado! \u00C9 a\u00ED que voc\u00EA\r\nentra. Vamos l\u00E1 ca\u00E7ar um\r\nGore Magala!",
+        "Target": "Cace um Gore Magala",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uBBF8\uC9C0\uC5D0\uC11C \uC628 \uCE68\uC2DD",
+        "Client": "\uC54C\uB85C \uAD50\uAD00",
+        "Description": "\uC0B4\uC9DD \uB3C4\uC804\uD574 \uBCF4\uACE0 \uC2F6\uC740 \uD018\uC2A4\uD2B8\uAC00\r\n\uC788\uB294\uB370, \uD63C\uC790\uC11C\uB294 \uC704\uD5D8\uD558\uB2E4\uBA70\r\n\uAC70\uC808\uB2F9\uD588\uB2E4. \uC774\uB798 \uBD2C\uB3C4 \uC5D8\uAC00\uB3C4\uC758\r\n\uC54C\uB85C \uAD50\uAD00\uC778\uB370 \uB9D0\uC774\uC9C0.\r\n\uADF8\uB7EC\uB358 \uCC38\uC5D0 \uB124\uAC00 \uB4F1\uC7A5\uD588\uB2E4!\r\n\uADF8\uB7EC\uB2C8 \uB098\uC640 \uD568\uAED8 \uACE0\uC5B4-\uB9C8\uAC00\uB77C\r\n\uC0AC\uB0E5\uC5D0 \uB098\uC11C\uC790!",
+        "Target": "\uACE0\uC5B4-\uB9C8\uAC00\uB77C 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u4F86\u81EA\u672A\u77E5\u7684\u4FB5\u8755",
+        "Client": "\u4E9E\u723E\u7F85\u6559\u5B98",
+        "Description": "\u6211\u60F3\u5617\u8A66\u6311\u6230\u4E00\u500B\u4EFB\u52D9\uFF0C\r\n\u4F46\u5C0D\u65B9\u8AAA\u4E00\u500B\u4EBA\u53BB\u592A\u5371\u96AA\uFF0C\r\n\u6240\u4EE5\u62D2\u7D55\u4E86\u6211\u3002\u62DC\u8A17\uFF0C\u6211\u597D\u6B79\r\n\u4E5F\u662F\u827E\u723E\u5361\u591A\u7684\u4E9E\u723E\u7F85\u6559\u5B98\u8036\uFF01\r\n\u800C\u4F60\u525B\u597D\u5C31\u5728\u9019\u500B\u6642\u5019\u51FA\u73FE\u4E86\u3002\r\n\u5C31\u662F\u9019\u6A23\uFF0C\u6240\u4EE5\u6211\u5011\u5169\u500B\r\n\u4E00\u8D77\u53BB\u72E9\u7375\u9ED1\u8755\u9F8D\u5427\uFF01",
+        "Target": "\u72E9\u73751\u982D\u9ED1\u8755\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6765\u81EA\u672A\u77E5\u7684\u4FB5\u8680",
+        "Client": "\u963F\u5C14\u6D1B\u6559\u5B98",
+        "Description": "\u6211\u6709\u70B9\u60F3\u6311\u6218\u4E00\u4E2A\u4EFB\u52A1\uFF0C\u53EF\u662F\u5BF9\u9762\r\n\u8BF4\u4E00\u4E2A\u4EBA\u592A\u5371\u9669\u4E86\uFF0C\u6CA1\u6709\u7B54\u5E94\u6211\u3002\r\n\u518D\u600E\u4E48\u8BF4\uFF0C\u6211\u597D\u6B79\u4E5F\u662F\u57C3\u5C14\u8FE6\u5FB7\u7684\r\n\u963F\u5C14\u6D1B\u6559\u5B98\u554A\u3002\u8FD9\u79CD\u65F6\u5019\u5C31\u8F6E\u5230\u4F60\r\n\u51FA\u573A\u4E86\u3002\u4E00\u8D77\u53BB\u72E9\u730E\u9ED1\u8680\u9F99\u5427\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u9ED1\u8680\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0645\u0633\u062A\u0639\u0645\u0631 \u0645\u062C\u0647\u0648\u0644",
+        "Client": "\u0627\u0644\u0633\u064A\u062F \u0623\u0631\u0644\u0648",
+        "Description": "\u0647\u0646\u0627\u0643 \u0645\u0647\u0645\u0629 \u0623\u0631\u064A\u062F \u0627\u0644\u0642\u064A\u0627\u0645 \u0628\u0647\u0627\u060C\r\n\u0648\u0644\u0643\u0646 \u062A\u0642\u0631\u0631 \u0623\u0646\u0647\r\n\u0623\u0645\u0631 \u062E\u0637\u064A\u0631 \u0644\u0644\u063A\u0627\u064A\u0629 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u064A \u0644\u0644\u062A\u0639\u0627\u0645\u0644\r\n\u0645\u0639\u0647\u0627 \u0628\u0645\u0641\u0631\u062F\u064A. \u0623\u0646\u0627! \u0633\u064A\u062F \u0622\u0631\u0644\u0648\r\n\u0645\u0646 \u0625\u0644\u062C\u0627\u062F\u0648! \u0647\u0646\u0627 \u064A\u0623\u062A\u064A\r\n\u062F\u0648\u0631\u0643. \u062F\u0639\u0646\u0627 \u0646\u062E\u0631\u062C\r\n\u0648\u0646\u0628\u062D\u062B \u0639\u0646 \u062C\u0648\u0631 \u0645\u0627\u062C\u0627\u0644\u0627!",
+        "Target": "\u0627\u0635\u0637\u062F \u062C\u0648\u0631 \u0645\u0627\u062C\u0627\u0644\u0627",
+        "Fail": "\u0644\u0627 \u062A\u0648\u062C\u062F \u0645\u0643\u0627\u0641\u0622\u062A\u060C \u0623\u0648 \u0627\u0646\u062A\u0647\u0649 \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      29
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      82,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 82,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 81,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 60,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 91,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 91,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 59,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 90,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 13320,
+      "Points": 270,
+      "HRP": 1150
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      20,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 16,
+      "HealthTable": 124,
+      "AttackTable": 128,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

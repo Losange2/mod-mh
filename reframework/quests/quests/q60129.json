@@ -1,0 +1,350 @@
+{
+  "QuestID": 60129,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u305F\u3068\u3048\u93A7\u304C\u7815\u3051\u3066\u3082",
+        "Client": "\u90F5\u4FBF\u5C4B\u306E\u30BB\u30F3\u30EA",
+        "Description": "\u300E\u5E30\u3063\u3066\u304D\u305F \u9B54\u754C\u6751\u300F\u304B\u3089\u3001\r\n\u30B9\u30DA\u30B7\u30E3\u30EB\u306A\u30AF\u30A8\u30B9\u30C8\u3060\u305E\u30CB\u30E3\uFF01\r\n\u9B54\u754C\u6751\u306B\u73FE\u308C\u308B\u9B54\u7269\u306E\u3088\u3046\u306A\u3001\r\n\u8D64\u307F\u3092\u5E2F\u3073\u305F\u30E2\u30F3\u30B9\u30BF\u30FC\uFF13\u982D\u3092\r\n\u72E9\u731F\u3059\u308B\u305E\u30CB\u30E3\uFF01\u3000\u6210\u529F\u3057\u305F\u3089\u3001\r\n\u52C7\u6562\u306A\u9A0E\u58EB\u306B\u306A\u308C\u308B\u3001\u91CD\u306D\u7740\r\n\u88C5\u5099\u306E\u7D20\u6750\u304C\u3082\u3089\u3048\u308B\u305E\u30CB\u30E3\uFF01",
+        "Target": "\u5168\u3066\u306E\u30BF\u30FC\u30B2\u30C3\u30C8\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Knight in Shattered Armor",
+        "Client": "Senri the Mailman",
+        "Description": "I\u0027ve got a special quest fur-om\r\nGhosts \u0027n Goblins Resurrection\r\nfor ya! I need you to hunt three\r\nmonsters covered in an eerie\r\nred aura. Get it done, and I\u0027ll\r\ngive you the materials to forge\r\na courageous knight\u0027s armor!",
+        "Target": "Hunt all target monsters",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Chevalier en armure bris\u00E9e",
+        "Client": "Senri le postier",
+        "Description": "Ghosts \u0027n Goblins Resurrection a\r\nune requ\u00EAte sp\u00E9ciale pour toi !\r\nTu dois chasser 3 monstres entour\u00E9s\r\nd\u0027une myst\u00E9rieuse aura rouge. Je te\r\ndonnerai des mat\u00E9riaux pour forger\r\nl\u0027armure d\u0027un preux chevalier !",
+        "Target": "Chasser tous les monstres",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Cavaliere dall\u0027armatura cadente",
+        "Client": "Senri il postino",
+        "Description": "Ho una missione perrrfetta da\r\nGhosts \u0027n Goblins Resurrection\r\nsolo per te! Caccia tre mostri\r\ndall\u0027aura rossa e ti dar\u00F2 i\r\nmateriali per creare l\u0027armatura\r\ndi un coraggioso cavaliere!",
+        "Target": "Caccia tutti i mostri assegnati",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Ritter in rostender R\u00FCstung",
+        "Client": "Senri der Postbote",
+        "Description": "Ich habe eine spezielle Quest von\r\nGhosts \u0027n Goblins Resurrection f\u00FCr\r\ndich! Du musst drei Monster mit\r\neiner gespenstischen roten Aura\r\njagen. Dann bekommst du Mate-\r\nrialien, um die R\u00FCstung eines\r\nmutigen Ritters zu schmieden!",
+        "Target": "Erjage alle Zielmonster.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Caballero de armadura rota",
+        "Client": "Senri el cartero",
+        "Description": "\u00A1Tengo para ti una misi\u00F3n de\r\nGhosts \u0027n Goblins Resurrection!\r\nCaza tres monstruos rodeados\r\nde una extra\u00F1a aura roja y te\r\ndar\u00E9 materiales para forjar la\r\narmadura de un caballero\r\nvaleroso.",
+        "Target": "Caza todos los objetivos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0420\u044B\u0446\u0430\u0440\u044C \u0432 \u0440\u0430\u0437\u0431\u0438\u0442\u044B\u0445 \u0434\u043E\u0441\u043F\u0435\u0445\u0430\u0445",
+        "Client": "\u041F\u043E\u0447\u0442\u0430\u043B\u044C\u043E\u043D \u0421\u044D\u043D\u0440\u0438",
+        "Description": "\u0423 \u043C\u044F\u0443\u043D\u044F \u0434\u043B\u044F \u0442\u0435\u0431\u044F \u043E\u0441\u043E\u0431\u043E\u0435\r\n\u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u0438\u0437 Ghosts \u0027n Goblins\r\nResurrection! \u0412\u044B\u0441\u043B\u0435\u0434\u0438 \u0442\u0440\u0435\u0445\r\n\u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432, \u0443\u043A\u0440\u044B\u0442\u044B\u0445 \u0437\u043B\u043E\u0432\u0435\u0449\u0435\u0439\r\n\u043A\u0440\u0430\u0441\u043D\u043E\u0439 \u0430\u0443\u0440\u043E\u0439. \u0421\u0434\u0435\u043B\u0430\u0439 \u0432\u0441\u0435, \u043A\u0430\u043A\r\n\u043D\u0430\u0434\u043E \u0438 \u044F \u0434\u0430\u043C \u0442\u0435\u0431\u0435 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B\r\n\u0434\u043B\u044F \u0440\u044B\u0446\u0430\u0440\u0441\u043A\u0438\u0445 \u0434\u043E\u0441\u043F\u0435\u0445\u043E\u0432!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0432\u0441\u0435 \u0446\u0435\u043B\u0438",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Rycerz w roztrzask. pancerzu",
+        "Client": "Listonosz Senri",
+        "Description": "Mam dla ciebie specjalne\r\nmiau-danie od Ghosts \u0027n Goblins\r\nResurrection! Musisz upolowa\u0107\r\ntrzy potwory sk\u0105pane w dziwnej,\r\nczerwonej aurze. Zr\u00F3b to, a\r\ndam ci materia\u0142y do wykucia\r\npancerza m\u0119\u017Cnego rycerza!",
+        "Target": "Upoluj wszystkie cele",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Cavaleiro da Armadura Estilha\u00E7ada",
+        "Client": "Senri, o carteiro",
+        "Description": "Tenho uma miauss\u00E3o especial de\r\nGhosts \u0027n Goblins Resurrection\r\npra voc\u00EA! Cace tr\u00EAs monstros\r\nenvoltos numa misteriosa aura\r\nvermelha. Fa\u00E7a isso e te darei\r\nmiauteriais pra forjar uma\r\narmadura de cavaleiro valente!",
+        "Target": "Cace todos os monstros-alvo",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uAC11\uC637\uC774 \uC0B0\uC0B0\uC870\uAC01 \uB09C\uB2E4 \uD574\uB3C4",
+        "Client": "\uC6B0\uCCB4\uBD80 \uC13C\uB9AC",
+        "Description": "\u300CGhosts \u0027n Goblins Resurrection\u300D\r\n\uC2A4\uD398\uC15C \uD018\uC2A4\uD2B8\uB2E4\uB0E5! \r\n\uB9C8\uACC4\uC5D0 \uC0AC\uB294 \uB9C8\uBB3C\uCC98\uB7FC\r\n\uBD89\uC740\uBE5B\uC744 \uB760\uB294 \uBAAC\uC2A4\uD130\uB97C \r\n3\uB9C8\uB9AC \uC0AC\uB0E5 \uD558\uB77C\uB0E5! \r\n\uB367\uC785\uB294 \uC7A5\uBE44 \uC18C\uC7AC\uB97C \uD68D\uB4DD\uD558\uACE0\r\n\uC6A9\uAC10\uD55C \uAE30\uC0AC\uAC00 \uB418\uC5B4\uBCF4\uB77C\uB0E5!",
+        "Target": "\uBAA8\uB4E0 \uD0C0\uAC9F \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7121\u61FC\u7C89\u76D4\u788E\u7532",
+        "Client": "\u90F5\u5DEE\u5343\u91CC",
+        "Description": "\u9019\u662F\u300A\u7D93\u5178\u56DE\u6B78 \u9B54\u754C\u6751\u300B\u7684\u7279\u5225\r\n\u4EFB\u52D9\u55B5\uFF01\u5982\u679C\u80FD\u6210\u529F\u72E9\u7375\u4E09\u982D\r\n\u8C8C\u4F3C\u60E1\u9B54\u7684\u7D05\u8272\u9B54\u7269\uFF0C\r\n\u5C31\u53EF\u4EE5\u7372\u5F97\u82F1\u52C7\u9A0E\u58EB\u7684\r\n\u5916\u89C0\u88DD\u5099\u7D20\u6750\uFF01",
+        "Target": "\u72E9\u7375\u6240\u6709\u76EE\u6A19",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u65E0\u60E7\u7C89\u76D4\u788E\u7532",
+        "Client": "\u4FE1\u4F7F\u884C\u5343\u91CC",
+        "Description": "\u8FD9\u662F\u300A\u7ECF\u5178\u56DE\u5F52 \u9B54\u754C\u6751\u300B\u7684\u7279\u522B\r\n\u4EFB\u52A1\u55B5\uFF01\u5982\u679C\u80FD\u6210\u529F\u72E9\u730E\u4E09\u5934\u6563\r\n\u53D1\u7EA2\u8272\u90AA\u6C14\u7684\u9B54\u7269\uFF0C\u5C31\u53EF\u4EE5\u83B7\u5F97\r\n\u82F1\u52C7\u9A91\u58EB\u7684\u5916\u89C2\u88C5\u5907\u7D20\u6750\uFF01",
+        "Target": "\u72E9\u730E\u6240\u6709\u76EE\u6807",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0641\u0627\u0631\u0633 \u064A\u0631\u062A\u062F\u064A \u062F\u0631\u0639\u064B\u0627 \u0645\u062D\u0637\u0645\u0629",
+        "Client": "\u0633\u0627\u0639\u064A \u0627\u0644\u0628\u0631\u064A\u062F \u0633\u064A\u0646\u0631\u064A",
+        "Description": "\u0644\u062F\u064A \u0645\u0647\u0645\u0629 \u062E\u0627\u0635\u0629 \u003CLSNR {\u0644\u0643} {\u0644\u0643\u0650}\u003E  \u0645\u0646\r\nGhosts \u0027n Goblins Resurrection!\r\n\u003CLSNR {\u0623\u062D\u062A\u0627\u062C\u0643 \u0623\u0646 \u062A\u0635\u064A\u062F} {\u0623\u062D\u062A\u0627\u062C\u0643\u0650 \u0623\u0646 \u062A\u0635\u064A\u062F\u064A}\u003E \u062B\u0644\u0627\u062B\u0629\r\n\u0648\u062D\u0648\u0634 \u0645\u064F\u062D\u0627\u0637\u0629 \u0628\u0647\u0627\u0644\u0629\r\n\u062D\u0645\u0631\u0627\u0621 \u063A\u0631\u064A\u0628\u0629. \u003CLSNR {\u0646\u0641\u0630} {\u0646\u0641\u0630\u064A}\u003E \u0630\u0644\u0643\u060C \u0648\u003CLSNR {\u0633\u0623\u0639\u0637\u064A\u0643} {\u0633\u0623\u0639\u0637\u064A\u0643\u0650}\u003E\r\n\u0627\u0644\u0645\u0648\u0627\u062F \u0644\u062A\u0634\u0643\u064A\u0644\r\n\u062F\u0631\u0639 \u0627\u0644\u0641\u0627\u0631\u0633 \u0627\u0644\u0634\u062C\u0627\u0639!",
+        "Target": "\u0635\u064A\u062F \u0643\u0644 \u0627\u0644\u0648\u062D\u0648\u0634 \u0627\u0644\u0645\u0633\u062A\u0647\u062F\u0641\u0629",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 4,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      93,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 93,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 118,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 98,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 54,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 82,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 3,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 14400,
+      "Points": 290,
+      "HRP": 1370
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      26,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 49,
+      "HealthTable": 101,
+      "AttackTable": 83,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

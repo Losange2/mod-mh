@@ -1,0 +1,350 @@
+{
+  "QuestID": 601,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u6CE5\u571F\u306E\u96A0\u8005",
+        "Client": "\u91CC\u9577\u30D5\u30B2\u30F3",
+        "Description": "\u3053\u308C\u3082\u767E\u7ADC\u591C\u884C\u306E\u5F71\u97FF\u304B\u2026\u3002\r\n\u5C71\u5965\u306B\u7C60\u3063\u3066\u3044\u305F\u96A0\u8005\u304C\r\n\u5927\u793E\u8DE1\u307E\u3067\u964D\u308A\u3066\u304D\u3066\u3057\u307E\u3063\u305F\u3002\r\n\u6CE5\u7FC1\u7ADC\u306E\u540D\u306E\u3068\u304A\u308A\u3001\u6CE5\u3092\u81EA\u5728\u306B\r\n\u64CD\u308B\u3001\u8001\u304B\u3044\u306A\u6D77\u7ADC\u3060\u3002\r\n\u91CC\u306B\u8E0F\u307F\u8FBC\u307E\u308C\u3066\u306F\u4E00\u5927\u4E8B\u2026\uFF01\r\n\u72E9\u731F\u3092\u983C\u3080\u305E\u3001\u30C4\u30EF\u30E2\u30CE\u3088\uFF01",
+        "Target": "\u30AA\u30ED\u30DF\u30C9\u30ED\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Hermit of the Swamp",
+        "Client": "Fugen the Elder",
+        "Description": "An Almudron is makin\u0027 a real mess\r\nof things in the Shrine Ruins. They\r\nusually just keep to themselves up\r\nin the mountains... Could just be\r\nanother effect of the Rampage\r\nEither way, we can\u0027t let it get any\r\ncloser to the village. Now get to it!",
+        "Target": "Hunt an Almudron",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Ermite du marais",
+        "Client": "Fugen l\u0027Ancien",
+        "Description": "Un Almudron fait des ravages\r\nau Temple oubli\u00E9. D\u0027habitude,\r\nils se tiennent \u00E0 carreau dans\r\nles montagnes... Tu penses que\r\nc\u0027est \u00E0 cause de la Calamit\u00E9 ?\r\nQuoi qu\u0027il en soit, on ne peut\r\npas le laisser s\u0027approcher !",
+        "Target": "Chasser un Almudron",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Eremita della palude",
+        "Client": "Fugen l\u0027anziano",
+        "Description": "Un Almudron sta combinando\r\ndisastri alle Rovine sacre.\r\nDi solito restano tra le\r\nmontagne... Forse \u00E8 un altro\r\neffetto della furia, ma non\r\npossiamo lasciarlo avvicinare\r\nal villaggio. Fai qualcosa!",
+        "Target": "Caccia un Almudron",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Eremit aus dem Schlamm",
+        "Client": "Fogen der \u00C4lteste",
+        "Description": "Ein Almudron w\u00FCtet in den\r\nHeiligen Ruinen. Normalerweise\r\nbleiben sie in den Bergen...\r\nIst das etwa ein Nebeneffekt\r\nder Randale? Wie auch immer,\r\ner darf nicht n\u00E4her ans Dorf\r\nkommen. K\u00FCmmer dich darum!",
+        "Target": "Erjage einen Almudron.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Ermita\u00F1o del pantano",
+        "Client": "Fugen el anciano",
+        "Description": "Esto debe de ser cosa del\r\nFrenes\u00ED otra vez. Un Almudron\r\nest\u00E1 rondando por el Templo\r\nolvidado. Ser\u00E1 un feo asunto\r\nsi le da por pasar por Kamura\r\ntambi\u00E9n. \u00A1As\u00ED que ya sabes qu\u00E9\r\nhacer!",
+        "Target": "Caza un Almudron",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0411\u043E\u043B\u043E\u0442\u043D\u044B\u0439 \u043E\u0442\u0448\u0435\u043B\u044C\u043D\u0438\u043A",
+        "Client": "\u0421\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u043D\u0430 \u0424\u0443\u0433\u044D\u043D",
+        "Description": "\u0410\u043B\u043C\u0443\u0434\u0440\u043E\u043D \u0443\u0441\u0442\u0440\u043E\u0438\u043B \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0438\u0439 \u0445\u0430\u043E\u0441\r\n\u0432 \u0420\u0443\u0438\u043D\u0430\u0445 \u0441\u0432\u044F\u0442\u0438\u043B\u0438\u0449\u0430. \u0410 \u0432\u0435\u0434\u044C\r\n\u043E\u0431\u044B\u0447\u043D\u043E \u043E\u043D\u0438 \u0436\u0438\u0432\u0443\u0442 \u0432 \u0433\u043E\u0440\u0430\u0445 \u0438\r\n\u043D\u0438\u043A\u043E\u0433\u043E \u043D\u0435 \u0442\u0440\u043E\u0433\u0430\u044E\u0442. \u0412\u043E\u0437\u043C\u043E\u0436\u043D\u043E, \u044D\u0442\u043E\r\n\u043E\u043F\u044F\u0442\u044C \u0438\u0437-\u0437\u0430 \u0411\u0443\u0439\u0441\u0442\u0432\u0430. \u041A\u0430\u043A \u0431\u044B \u0442\u043E\r\n\u043D\u0438 \u0431\u044B\u043B\u043E, \u043D\u0435\u043B\u044C\u0437\u044F, \u0447\u0442\u043E\u0431\u044B \u043E\u043D \u043F\u043E\u0434\u043E\u0448\u0435\u043B\r\n\u0435\u0449\u0435 \u0431\u043B\u0438\u0436\u0435 \u043A \u0434\u0435\u0440\u0435\u0432\u043D\u0435. \u0420\u0430\u0437\u0431\u0435\u0440\u0438\u0441\u044C!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0410\u043B\u043C\u0443\u0434\u0440\u043E\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Bagienny Pustelnik",
+        "Client": "Starszy Fugen",
+        "Description": "Jaki\u015B Almudron rozbija si\u0119 po\r\nRuinach \u015Awi\u0105tynnych. Zwykle te\r\nbestie siedz\u0105 wysoko\r\nw g\u00F3rach... To pewnie efekt\r\nFurii. Tak czy siak, bestia\r\nnie mo\u017Ce zbli\u017Cy\u0107 si\u0119 do\r\nwioski. Dorwij j\u0105!",
+        "Target": "Upoluj Almudrona",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Eremita do P\u00E2ntano",
+        "Client": "Fugen, o anci\u00E3o",
+        "Description": "Um Almudron t\u00E1 fazendo uma baita\r\nbagun\u00E7a nas Ru\u00EDnas do Templo.\r\nGeralmente, eles ficam nas\r\nmontanhas... Pode ser algum\r\nefeito do Frenesi. De qualquer\r\nmaneira, n\u00E3o podemos deixar que\r\nele se aproxime mais da aldeia.",
+        "Target": "Cace um Almudron",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC9C4\uD759\uC5D0 \uC228\uC740 \uAC83",
+        "Client": "\uCD0C\uC7A5 \uD6C4\uAC90",
+        "Description": "\uC774\uAC83\uB3C4 \uBC31\uB8E1\uC57C\uD589 \uB54C\uBB38\uC778\uAC00\u2026\r\n\uC0B0\uC18D\uC5D0 \uC228\uC5B4 \uC9C0\uB0B4\uB358 \uB140\uC11D\uC774\r\n\uC0AC\uC6D0 \uD3D0\uD5C8\uAE4C\uC9C0 \uB0B4\uB824\uC654\uB2E4.\r\n\uC774\uC639\uB8E1\uC774\uB77C\uB294 \uC774\uB984\uCC98\uB7FC \uC9C4\uD759\uC744\r\n\uC870\uC885\uD558\uB294 \uAD50\uD65C\uD55C \uD574\uB8E1\uC774\uC9C0.\r\n\uB9C8\uC744\uC5D0 \uC624\uBA74 \uD070\uC77C\uC774 \uB0A0 \uAC70\uB2E4\u2026!\r\n\uB140\uC11D\uC744 \uC0AC\uB0E5\uD558\uAC70\uB77C, \uAC15\uC790\uC5EC!",
+        "Target": "\uC624\uB85C\uBBF8\uB3C4\uB85C 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6CE5\u4E4B\u96B1\u8005",
+        "Client": "\u6751\u9577\u5085\u8CE2",
+        "Description": "\u9019\u4E5F\u662F\u767E\u9F8D\u591C\u884C\u7684\u5F71\u97FF\u55CE\u2026\u2026\r\n\u9577\u671F\u5C45\u4F4F\u5728\u6DF1\u5C71\u4E4B\u4E2D\u7684\u96B1\u8005\uFF0C\r\n\u7ADF\u7136\u4E0B\u5C71\u4F86\u5230\u5927\u793E\u907A\u8DE1\u4E86\u3002\r\n\u6CE5\u7FC1\u9F8D\u6B63\u5982\u5176\u540D\uFF0C\u80FD\u5920\u81EA\u7531\u5730\u64CD\u7E31\r\n\u6CE5\u571F\uFF0C\u662F\u982D\u8001\u5978\u5DE8\u733E\u7684\u6D77\u9F8D\u3002\r\n\u8981\u662F\u8B93\u7260\u8E0F\u9032\u6751\u838A\u53EF\u5C31\u7CDF\u4E86\u2026\u2026\uFF01\r\n\u5F37\u8005\u554A\uFF0C\u8ACB\u4F60\u53BB\u72E9\u7375\u7260\u5427\uFF01",
+        "Target": "\u72E9\u73751\u982D\u6CE5\u7FC1\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6CE5\u571F\u9690\u8005",
+        "Client": "\u6751\u957F\u666E\u8D24",
+        "Description": "\u8FD9\u4E5F\u662F\u767E\u9F99\u591C\u884C\u7684\u5F71\u54CD\u5417\u2026\u2026\r\n\u9690\u5C45\u5728\u6DF1\u5C71\u4E2D\u7684\u9690\u8005\r\n\u4E0B\u5230\u5E9F\u795E\u793E\u6765\u4E86\u3002\u4E00\u5982\u5176\u540D\uFF0C\r\n\u6CE5\u7FC1\u9F99\u80FD\u591F\u81EA\u7531\u5730\u64CD\u7EB5\u6CE5\uFF0C\r\n\u662F\u79CD\u8001\u5978\u5DE8\u733E\u7684\u6D77\u9F99\u3002\r\n\u8BA9\u5B83\u95EF\u5230\u6751\u5B50\u91CC\u5C31\u5927\u4E8B\u4E0D\u5999\u4E86\u2026\u2026\r\n\u72E9\u730E\u5C31\u4EA4\u7ED9\u4F60\u4E86\uFF0C\u5F3A\u8005\u554A\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u6CE5\u7FC1\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0646\u0627\u0633\u0643 \u0627\u0644\u0645\u0633\u062A\u0646\u0642\u0639",
+        "Client": "\u0627\u0644\u0645\u0639\u0645\u0651\u0631 \u0641\u064A\u0648\u062C\u064A\u0646",
+        "Description": "\u0623\u0644\u0645\u0648\u062F\u0631\u0648\u0646 \u064A\u0639\u0628\u062B \u0628\u0627\u0644\u0623\u0634\u064A\u0627\u0621\r\n\u0627\u0644\u0645\u0648\u062C\u0648\u062F\u0629 \u0641\u064A \u0623\u0637\u0644\u0627\u0644 \u0627\u0644\u0636\u0631\u064A\u062D. \u0648\u0647\u0648\r\n\u0639\u0627\u062F\u0629\u064B \u0645\u0627 \u064A\u0628\u0642\u0649 \u0639\u0644\u0649 \u0627\u0644\u062C\u0628\u0627\u0644...\r\n\u0642\u062F \u064A\u0643\u0648\u0646 \u0647\u0630\u0627 \u062A\u0623\u062B\u064A\u0631\u064B\u0627 \u0622\u062E\u0631 \u0645\u0646\r\n\u0622\u062B\u0627\u0631 \u0627\u0644\u063A\u0636\u0628 \u0627\u0644\u0639\u0627\u0631\u0645\u060C \u0639\u0644\u0649 \u0623\u064A \u062D\u0627\u0644\u060C\r\n\u0639\u0644\u064A\u0646\u0627 \u0645\u0646\u0639\u0647 \u0645\u0646 \u0627\u0644\u0627\u0642\u062A\u0631\u0627\u0628\r\n\u0645\u0646 \u0627\u0644\u0642\u0631\u064A\u0629. \u0627\u0644\u0622\u0646\u060C \u003CLSNR {\u0627\u0646\u0637\u0644\u0642} {\u0627\u0646\u0637\u0644\u0642\u064A}\u003E!",
+        "Target": "\u0635\u064A\u062F \u0623\u0644\u0645\u0648\u062F\u0631\u0648\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1351,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1351,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 109,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 107,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1369,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 71,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 132,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 102,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 5100,
+      "Points": 110,
+      "HRP": 370
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      64,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 35,
+      "HealthTable": 36,
+      "AttackTable": 12,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

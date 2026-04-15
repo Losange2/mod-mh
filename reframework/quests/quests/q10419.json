@@ -1,0 +1,350 @@
+{
+  "QuestID": 10419,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u9752\u304F\u3066\u4E38\u3044\u611B\u3057\u3044\u3042\u306E\u5B50",
+        "Client": "\u9154\u72C2\u306A\u7814\u7A76\u8005",
+        "Description": "\u541B\uFF01\u3000\u30A2\u30AA\u30A2\u30B7\u30E9\u306F\u597D\u304D\u304B\u306A\uFF01\uFF1F\r\n\u3042\u306E\u3001\u307D\u3063\u3066\u308A\u3068\u3057\u305F\u30D5\u30A9\u30EB\u30E0\uFF01\r\n\u305D\u3057\u3066\u9752\u718A\u7363\u306E\u7570\u540D\u306E\u5143\u3068\u306A\u3063\u305F\r\n\u7F8E\u3057\u304F\u30E2\u30C3\u30D5\u30E2\u30D5\u306E\u6BDB\u4E26\u307F\uFF01\uFF01\u3000\r\n\u3042\u3042\uFF01\u3000\u304A\u8179\u306B\u62B1\u304D\u3064\u304D\u305F\u3044\u2026\uFF01\r\n\u2026\u3068\u3044\u3046\u308F\u3051\u3067\u3001\u6355\u7372\u3092\u983C\u3080\u3088\u3002\r\n\u306F\u306F\u3001\u62B1\u304D\u3064\u304F\u306E\u306F\u5197\u8AC7\u3060\u3068\u3082\u3002",
+        "Target": "\u30A2\u30AA\u30A2\u30B7\u30E9\uFF11\u982D\u306E\u6355\u7372",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\u3001\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7\r\n\u6355\u7372\u5BFE\u8C61\u306E\u8A0E\u4F10"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Blue, Round, and Cute",
+        "Client": "Whimsical Researcher",
+        "Description": "You there! Tell me, don\u0027t you\r\nthink Arzuros are the cutest!?\r\nFuzzy blue fur, a soft tubby\r\nbelly; what I wouldn\u0027t give to\r\nhug \u0027em! Sooo, can you capture\r\none for m\u2014 Whaddya mean,\r\n\u0022only if I promise not to hug it?\u0022",
+        "Target": "Capture an Arzuros",
+        "Fail": "Reward hits 0, time expires,\r\nor capture target slain"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Bleu, rond, mignon",
+        "Client": "Chercheur capricieux",
+        "Description": "Eh, toi l\u00E0-bas ! Tu trouves\r\npas que les Arzuros sont trop\r\nmignons avec leur fourrure\r\nbleue et leur petit ventre ?\r\nJe voudrais tellement en\r\nserrer un dans mes bras...\r\nTu voudrais m\u0027aider ?",
+        "Target": "Capturer un Arzuros",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9\r\nCible tu\u00E9e"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Blu, tondi e carini",
+        "Client": "Ricercatore stravagante",
+        "Description": "Ehi! Non pensi che gli Arzuros\r\nsiano carinissimi? Quel pelo\r\nblu e quella pancia morbida.\r\nCome vorrei abbracciarne uno!\r\nNon \u00E8 cheee, ehm, potresti\r\ncatturarne uno... Eh? Solo se\r\nprometto di non abbracciarlo?!",
+        "Target": "Cattura un Arzuros",
+        "Fail": "Premio a zero, tempo scaduto\r\no mostro da catturare ucciso"
+      },
+      {
+        "Language": "GER",
+        "Name": "Blau, rund und s\u00FC\u00DF",
+        "Client": "Schrulliger Forscher",
+        "Description": "Du da! Sind Arzuros nicht das\r\nS\u00FC\u00DFeste auf der ganzen Welt?!\r\nWeiches blaues Fell, ein ku-\r\ngelrunder Bauch; einfach zum\r\nKnuddeln! F\u00E4ngst du einen f\u00FCr\r\nmi-- ... Wie? Ich muss schw\u00F6-\r\nren, ihn nicht zu knuddeln?",
+        "Target": "Fange einen Arzuros.",
+        "Fail": "Belohnung auf 0, Zeit l\u00E4uft ab\r\noder Fangziel erlegt."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Azules, redondos y monos",
+        "Client": "Investigador caprichoso",
+        "Description": "\u00BFNo te parece que los Arzuros\r\nson una moner\u00EDa? Ese pelo azul\r\ntan mullidito, esa barriguita\r\ntan suave... \u00A1Qu\u00E9 achuchables!\r\n\u00BFMe consigues uno? \u00BFC\u00F3mo que\r\nsolo si prometo no abrazarlo?",
+        "Target": "Captura un Arzuros",
+        "Fail": "La recompensa cae a 0, agotas\r\nel tiempo o el objetivo muere."
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0421\u0438\u043D\u0438\u0439, \u043A\u0440\u0443\u0433\u043B\u044B\u0439, \u0441\u0438\u043C\u043F\u0430\u0442\u0438\u0447\u043D\u044B\u0439",
+        "Client": "\u042D\u043A\u0441\u0446\u0435\u043D\u0442\u0440\u0438\u0447\u043D\u044B\u0439 \u0443\u0447\u0435\u043D\u044B\u0439",
+        "Description": "\u042D\u0439! \u0421\u043A\u0430\u0436\u0438-\u043A\u0430, \u0440\u0430\u0437\u0432\u0435 \u0410\u0440\u0437\u0443\u0440\u043E\u0441\u044B\r\n\u043D\u0435 \u043C\u0438\u043B\u0430\u0448\u043A\u0438? \u041F\u0443\u0448\u0438\u0441\u0442\u044B\u0439 \u0441\u0438\u043D\u0438\u0439\r\n\u043C\u0435\u0445, \u043C\u044F\u0433\u043A\u043E\u0435 \u043F\u0443\u0437\u0438\u043A\u043E \u2014\r\n\u0432\u043E\u0442 \u0431\u044B \u0442\u0430\u043A\u043E\u0433\u043E \u043E\u0431\u043D\u044F\u0442\u044C! \u041C\u043E\u0436\u0435\u0448\u044C\r\n\u043F\u043E\u0439\u043C\u0430\u0442\u044C \u0434\u043B\u044F \u043C\u0435\u043D\u044F \u0442\u0430\u043A\u043E\u0433\u043E\r\n\u043A\u0440\u0430\u0441\u0430\u0432\u0446\u0430? \u0427\u0442\u043E \u0437\u043D\u0430\u0447\u0438\u0442,\r\n\u0022\u0435\u0441\u043B\u0438 \u043F\u043E\u043E\u0431\u0435\u0449\u0430\u044E \u043D\u0435 \u043E\u0431\u043D\u0438\u043C\u0430\u0442\u044C\u0022?",
+        "Target": "\u041F\u043E\u0439\u043C\u0430\u0442\u044C \u0410\u0440\u0437\u0443\u0440\u043E\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0,\r\n\u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F, \u0443\u043C\u0438\u0440\u0430\u0435\u0442 \u0446\u0435\u043B\u044C"
+      },
+      {
+        "Language": "POL",
+        "Name": "Niebieskie, okr\u0105g\u0142e, s\u0142odkie",
+        "Client": "Dziwaczny badacz",
+        "Description": "Ty tam! Powiedz mi, nie\r\ns\u0105dzisz, \u017Ce Arzurosy s\u0105\r\nprzes\u0142odkie?! Puchate\r\nniebieskie futerko, mi\u0119kki\r\nbrzuszek \u2013 tuli\u0142bym! Z\u0142ap mi\r\ntakiego, pro... \u017Be co? Pod\r\nwarunkiem, \u017Ce go nie przytul\u0119?",
+        "Target": "Z\u0142ap Arzurosa",
+        "Fail": "Nagroda = 0 lub koniec\r\nczasu, lub z\u0142apany cel ginie"
+      },
+      {
+        "Language": "POR",
+        "Name": "Azul, redondo e fofo",
+        "Client": "Pesquisador exc\u00EAntrico",
+        "Description": "Voc\u00EA a\u00ED! Diga, voc\u00EA n\u00E3o acha\r\nos Arzuros uma fofura?!\r\nPelo azul felpudo, barriga\r\nmacia \u2014 como eu queria abra\u00E7ar\r\num! Voc\u00EA pode capturar um\r\npra m... Como assim, \u0022s\u00F3 se\r\neu prometer n\u00E3o abra\u00E7\u00E1-lo\u0022?!",
+        "Target": "Capture um Arzuros",
+        "Fail": "Rec. chega a 0, tempo expira\r\nou alvo de captura \u00E9 morto"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD30C\uB797\uACE0 \uB465\uADFC \uC0AC\uB791\uC2A4\uB7EC\uC6B4 \uC544\uC774",
+        "Client": "\uBCC4\uB09C \uC5F0\uAD6C\uC790",
+        "Description": "\uB108! \uC544\uC624\uC544\uC2DC\uB77C \uC88B\uC544\uD558\uB2C8?!\r\n\uADF8 \uD1B5\uD1B5\uD55C \uC0DD\uAE40\uC0C8! \uADF8\uB9AC\uACE0\r\n\uCCAD\uC6C5\uC218\uB77C\uB294 \uBCC4\uBA85\uC744 \uB9CC\uB4E0\r\n\uC544\uB984\uB2F5\uACE0 \uBCF5\uC2AC\uBCF5\uC2AC\uD55C \uD138!!\r\n\uC544! \uAF49 \uAEF4\uC548\uC544 \uC8FC\uACE0 \uC2F6\uC5B4\u2026!\r\n\u2026\uADF8\uB798\uC11C \uB9D0\uC778\uB370 \uD3EC\uD68D\uD574 \uC904\uB798?\r\n\uD558\uD558, \uAEF4\uC548\uB294\uB2E4\uB294 \uAC74 \uB18D\uB2F4\uC774\uC57C.",
+        "Target": "\uC544\uC624\uC544\uC2DC\uB77C 1\uB9C8\uB9AC \uD3EC\uD68D",
+        "Fail": "\uBCF4\uC218\uAE08 0, \uC2DC\uAC04 \uCD08\uACFC\r\n\uD3EC\uD68D \uB300\uC0C1 \uD1A0\uBC8C"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u85CD\u85CD\u5713\u5713\uFF0C\u60F9\u4EBA\u6190\u611B\u7684\u5B69\u5B50",
+        "Client": "\u53E4\u602A\u7684\u7814\u7A76\u8005",
+        "Description": "\u5582\uFF01\u4F60\u559C\u6B61\u9752\u718A\u7378\u55CE\uFF01\uFF1F\r\n\u4F60\u770B\u7260\u90A3\u80D6\u561F\u561F\u7684\u5916\u89C0\uFF01\r\n\u9084\u6709\u6210\u70BA\u5176\u540D\u7A31\u7531\u4F86\u7684\r\n\u7F8E\u9E97\u84EC\u9B06\u7684\u6BDB\u9AEE\uFF01\r\n\u554A\u554A\uFF01\u771F\u60F3\u64B2\u9032\u7260\u7684\u61F7\u88E1\u2026\u2026\uFF01\r\n\u90A3\u9EBC\u2026\u2026\u5C31\u8ACB\u4F60\u6355\u7372\u7260\u4E86\u3002\u54C8\u54C8\uFF0C\r\n\u8AAA\u8981\u64B2\u9032\u7260\u61F7\u88E1\uFF0C\u7576\u7136\u662F\u8AAA\u7B11\u7684\u3002",
+        "Target": "\u6355\u73721\u982D\u9752\u718A\u7378",
+        "Fail": "\u5831\u916C\u91D10\u3001\u6642\u9593\u7D50\u675F\r\n\u8A0E\u4F10\u6355\u7372\u5C0D\u8C61"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u5706\u6EDA\u6EDA\u7684\u53EF\u7231\u9752\u718A\u517D",
+        "Client": "\u5F02\u60F3\u5929\u5F00\u7684\u7814\u7A76\u8005",
+        "Description": "\u6211\u8BF4\uFF01\u4F60\u559C\u6B22\u9752\u718A\u517D\u5417\uFF01\uFF1F\r\n\u5B83\u90A3\u80D6\u561F\u561F\u7684\u6A21\u6837\uFF01\r\n\u8FD8\u6709\u9752\u718A\u517D\u8FD9\u4E00\u79F0\u547C\u7684\u7F18\u7531\uFF0C\r\n\u90A3\u8EAB\u7F8E\u4E3D\u7684\u67D4\u8F6F\u6BDB\u76AE\uFF01\uFF01\r\n\u554A\uFF01\u597D\u60F3\u62B1\u4F4F\u5B83\u7684\u809A\u76AE\u2026\u2026\uFF01\r\n\u2026\u2026\u6240\u4EE5\uFF0C\u9EBB\u70E6\u4F60\u6355\u83B7\u5B83\u3002\r\n\u54C8\u54C8\uFF0C\u8981\u62B1\u4F4F\u5B83\u5F53\u7136\u662F\u5F00\u73A9\u7B11\u7684\u3002",
+        "Target": "\u6355\u83B71\u5934\u9752\u718A\u517D",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\u3001\u65F6\u95F4\u8017\u5C3D\uFF0C\r\n\u6216\u8BA8\u4F10\u4E86\u6355\u83B7\u76EE\u6807"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0623\u0632\u0631\u0642 \u0648\u062F\u0627\u0626\u0631\u064A \u0648\u0644\u0637\u064A\u0641",
+        "Client": "\u0627\u0644\u0628\u0627\u062D\u062B \u0627\u0644\u063A\u0631\u064A\u0628",
+        "Description": "\u003CLSNR {\u0623\u0646\u062A} {\u0623\u0646\u062A\u0650}\u003E \u0647\u0646\u0627\u0643! \u0623\u0644\u0627 \u003CLSNR {\u062A\u0638\u0646} {\u062A\u0638\u0646\u064A\u0646}\u003E\r\n\u0623\u0646 \u0648\u062D\u0648\u0634 \u0623\u0631\u0632\u0648\u0631\u0648\u0633 \u0647\u064A \u0627\u0644\u0623\u0644\u0637\u0641!\u061F\r\n\u0641\u0631\u0627\u0621 \u0623\u0632\u0631\u0642 \u063A\u0627\u0645\u0636\u060C\r\n\u0628\u0637\u0646 \u0628\u062F\u064A\u0646 \u0646\u0627\u0639\u0645\u061B\r\n\u0644\u0645\u064E \u0644\u0627 \u0623\u0639\u0627\u0646\u0642\u0647! \u0644\u0630\u0627\u060C \u0647\u0644 \u003CLSNR {\u064A\u064F\u0645\u0643\u0646\u0643} {\u064A\u064F\u0645\u0643\u0646\u0643\u0650}\u003E\r\n\u0627\u0644\u0625\u0645\u0633\u0627\u0643 \u0628\u0648\u0627\u062D\u062F \u0645\u0646... \u0645\u0627\u0630\u0627 \u003CLSNR {\u062A\u0642\u0635\u062F} {\u062A\u0642\u0635\u062F\u064A\u0646}\u003E\r\n\u0022\u0625\u0644\u0627 \u0625\u0630\u0627 \u003CLSNR {\u0648\u0639\u062F\u062A\u0646\u064A} {\u0648\u0639\u062F\u062A\u0650\u0646\u064A}\u003E \u0623\u0644\u0627 \u0623\u0639\u0627\u0646\u0642\u0647\u061F\u0022",
+        "Target": "\u0623\u0633\u0631 \u0623\u0631\u0632\u0648\u0631\u0648\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u062A\u0647\u064A\r\n\u0627\u0644\u0648\u0642\u062A\u060C \u0623\u0648 \u0625\u0645\u0633\u0627\u0643 \u0647\u062F\u0641 \u0627\u0644\u0642\u062A\u0644"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 3,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      23,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 23,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 60,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 90,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1351,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 37,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 90,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 4680,
+      "Points": 100,
+      "HRP": 220
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      5,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 10,
+      "HealthTable": 97,
+      "AttackTable": 79,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

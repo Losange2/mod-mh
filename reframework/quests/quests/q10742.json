@@ -1,0 +1,350 @@
+{
+  "QuestID": 10742,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u9AD8\u96E3\u5EA6\uFF1A\u7ADC\u7363\u622F\u753B",
+        "Client": "\u7121\u9244\u7832\u306A\u7D75\u5E2B",
+        "Description": "\u96EA\u9B3C\u7363\u3001\u8F5F\u7ADC\u3001\u6CE1\u72D0\u7ADC\u304C\u52E2\u63C3\u3044\uFF01\r\n\u3053\u308C\u306F\u3082\u3046\u63CF\u304F\u3057\u304B\u306D\u3047\u306A\u2026\uFF01\uFF01\r\n\u30CF\u30F3\u30BF\u30FC\u3055\u3093\u3001\u60AA\u3044\u304C\u3044\u3063\u3061\u3087\r\n\u3084\u3064\u3089\u3092\u30AC\u30C4\u30F3\u3068\u72E9\u308A\u307E\u304F\u3063\u3066\r\n\u3044\u3044\u52D5\u304D\u3092\u5F15\u304D\u51FA\u3057\u3066\u304D\u3066\u304F\u308C\uFF01\r\n\u5B89\u5FC3\u3057\u308D\u3001\u3061\u3083\u3093\u3068\u6B74\u53F2\u306B\u6B8B\u308B\r\n\u540D\u753B\u3092\u63CF\u3044\u3066\u3084\u308B\u304B\u3089\u3088\uFF01",
+        "Target": "\u30B4\u30B7\u30E3\u30CF\u30AE\uFF11\u982D\u3068\u30C6\u30A3\u30AC\u30EC\u30C3\u30AF\u30B9\uFF11\u982D\u3068\r\n\u30BF\u30DE\u30DF\u30C4\u30CD\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Advanced: Monsters in Ink",
+        "Client": "Reckless Artist",
+        "Description": "Hunter Hunter HUNTER! A Goss\r\nHarag, a Tigrex, and a Mizutsune\r\nare all out in the Frost Islands right\r\nat this moment! If you\u0027d be willing\r\nto take the three of them on, I shall\r\nobserve you, painting a masterpiece\r\nof the action! It will be my finest work!",
+        "Target": "Hunt a Goss Harag, a Tigrex,\r\nand a Mizutsune",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Avanc\u00E9 : Monstres d\u0027encre",
+        "Client": "Artiste t\u00E9m\u00E9raire",
+        "Description": "H\u00E9, tiens-toi bien ! Un Goss Harag,\r\nun Tigrex et un Mizutsune sont dans\r\nl\u0027Archipel de glace \u00E0 cet instant !\r\nIl faut que je peigne \u00E7a ! C\u0027est\r\ntrop beau ! Si tu acceptes de les\r\naffronter, je t\u0027observerai et je\r\nreproduirai l\u0027action sur ma toile !",
+        "Target": "Chasser un Goss Harag, un Tigrex\r\net un Mizutsune",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Avanzata: Mostri su tela",
+        "Client": "Pittore incauto",
+        "Description": "Un Goss Harag, un Tigrex e un\r\nMizutsune si trovano proprio\r\nora alle Isole ghiacciate. Se\r\nte la senti di affrontarli\r\ntutti e tre, io ti osserver\u00F2 e\r\ndipinger\u00F2 questa gloriosa\r\nscena. Sar\u00E0 un capolavoro!",
+        "Target": "Caccia un Goss Harag, un Tigrex e\r\nun Mizutsune",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Schwer: Tintenmonster",
+        "Client": "Tollk\u00FChner Maler",
+        "Description": "Los, los, LOS! Ein Goss Harag, ein\r\nTigrex und ein Mizutsune sind genau\r\nin diesem Moment auf den Frostinseln\r\nunterwegs! Wenn du bereit bist, es mit\r\nallen dreien aufzunehmen, werde ich\r\ndeine Taten in einem Meisterwerk\r\nverewigen! Das wird mein Glanzst\u00FCck!",
+        "Target": "Erjage einen Goss Harag, einen Tigrex\r\nund einen Mizutsune.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Avanzada: monstruos en tinta",
+        "Client": "Artista osado",
+        "Description": "Un Goss Harag, un Tigrex y\r\nun Mizutsune, \u00BFeh? \u00A1Qui\u00E9n no\r\npintar\u00EDa ese tr\u00EDptico! Si te\r\natreves, dale caza a los tres\r\nmientras observo, \u00A1as\u00ED podr\u00E9\r\npintar una obra maestra!\r\nEst\u00E1n en las Islas heladas.",
+        "Target": "Caza un Goss Harag, un Tigrex\r\ny un Mizutsune",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041D\u043E\u0432\u0430\u044F \u0441\u0442\u0443\u043F\u0435\u043D\u044C: \u0427\u0435\u0440\u043D\u0438\u043B\u0430",
+        "Client": "\u0411\u0435\u0441\u043F\u0435\u0447\u043D\u044B\u0439 \u0445\u0443\u0434\u043E\u0436\u043D\u0438\u043A",
+        "Description": "\u0421\u043B\u0443\u0448\u0430\u0439, \u0441\u043B\u0443\u0448\u0430\u0439, \u0441\u043B\u0443\u0448\u0430\u0439! \u041D\u0430\r\n\u041C\u043E\u0440\u043E\u0437\u043D\u044B\u0445 \u043E\u0441\u0442\u0440\u043E\u0432\u0430\u0445 \u0441\u0435\u0439\u0447\u0430\u0441\r\n\u0434\u0435\u0440\u0443\u0442\u0441\u044F \u0413\u043E\u0441\u0441-\u0425\u0430\u0440\u0430\u0433, \u0422\u0438\u0433\u0440\u0435\u043A\u0441\r\n\u0438 \u041C\u0438\u0434\u0437\u0443\u0446\u0443\u043D\u044D! \u0415\u0441\u043B\u0438 \u0445\u043E\u0447\u0435\u0448\u044C\r\n\u0441 \u043D\u0438\u043C\u0438 \u0441\u0440\u0430\u0437\u0438\u0442\u044C\u0441\u044F, \u044F \u0442\u0435\u0431\u044F\r\n\u0437\u0430\u043F\u0435\u0447\u0430\u0442\u043B\u0435\u044E! \u042D\u0442\u043E \u0431\u0443\u0434\u0435\u0442 \u043B\u0443\u0447\u0448\u0430\u044F\r\n\u043C\u043E\u044F \u0440\u0430\u0431\u043E\u0442\u0430!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0413\u043E\u0441\u0441-\u0425\u0430\u0440\u0430\u0433\u0430,\r\n\u0422\u0438\u0433\u0440\u0435\u043A\u0441\u0430 \u0438 \u041C\u0438\u0434\u0437\u0443\u0446\u0443\u043D\u044D",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Zaawans.: Potwory na p\u0142\u00F3tnie",
+        "Client": "Lekkomy\u015Blny artysta",
+        "Description": "S\u0142uchaj, s\u0142uchaj, s\u0142uchaj!\r\nGoss Harag, Tigrex i Mizutsune\r\ns\u0105 teraz na Wyspach Mro\u017Anych!\r\nZawalcz z t\u0105 tr\u00F3jk\u0105, a ja b\u0119d\u0119\r\nobserwowa\u0142 i uwieczni\u0119 to na\r\np\u0142\u00F3tnie! To b\u0119dzie arcydzie\u0142o\r\ni moje opus magnum!",
+        "Target": "Upoluj Goss Haraga, Tigrexa\r\ni Mizutsune",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Avan\u00E7ado: Monstros em tinta",
+        "Client": "Artista imprudente",
+        "Description": "\u003CLSNR {Ca\u00E7ador! Ca\u00E7ador! CA\u00C7ADOR!} {Ca\u00E7adora! Ca\u00E7adora! CA\u00C7ADORA!}\u003E Um Goss\r\nHarag, um Tigrex e um Mizutsune est\u00E3o\r\ntodos nas Ilhas G\u00E9lidas neste momento!\r\nSe voc\u00EA estiver disposta a enfrentar\r\nos tr\u00EAs, vou te observar e pintar uma\r\nobra-prima da a\u00E7\u00E3o! Ser\u00E1 meu melhor\r\ntrabalho!",
+        "Target": "Cace um Goss Harag, um Tigrex\r\ne um Mizutsune",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uACE0\uB09C\uC774\uB3C4: \uC6A9\uC218\uD76C\uD654",
+        "Client": "\uBB34\uBAA8\uD55C \uD654\uAC00",
+        "Description": "\uC124\uAD34\uC218, \uAD49\uB8E1, \uD3EC\uD638\uB8E1\uC774 \uBAA8\uC600\uC5B4!\r\n\uC774\uAC74 \uADF8\uB9BC\uC73C\uB85C \uB0A8\uACA8\uC57C \uD574\u2026!!\r\n\uBBF8\uC548\uD558\uC9C0\uB9CC \uAC19\uC774 \uAC00\uC11C\r\n\uB188\uB4E4\uC744 \uC0AC\uB0E5\uD558\uBA74\uC11C \uC88B\uC740\r\n\uC6C0\uC9C1\uC784\uC744 \uB0B4\uAC8C \uBCF4\uC5EC \uC918!\r\n\uC548\uC2EC\uD574, \uC5ED\uC0AC\uC5D0 \uB0A8\uC744 \uB9CC\uD55C\r\n\uBA85\uC791\uC744 \uADF8\uB824 \uC904 \uD14C\uB2C8\uAE4C!",
+        "Target": "\uACE0\uC0E4\uD558\uAE30 1\uB9C8\uB9AC\uC640 \uD2F0\uAC00\uB809\uC2A4 1\uB9C8\uB9AC\uC640\r\n\uD0C0\uB9C8\uBBF8\uCE20\uB124 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u9AD8\u96E3\u5EA6\uFF1A\u9F8D\u7378\u6232\u756B",
+        "Client": "\u9B6F\u83BD\u7684\u756B\u5BB6",
+        "Description": "\u96EA\u9B3C\u7378\u3001\u8F5F\u9F8D\u3001\u6CE1\u72D0\u9F8D\u9F4A\u805A\u4E00\u5802\uFF01\r\n\u6B64\u7B49\u5947\u666F\uFF0C\u600E\u9EBC\u80FD\u4E0D\u63D0\u7B46\u756B\u4E0B\uFF01\uFF01\r\n\u4E0D\u597D\u610F\u601D\u554A\uFF0C\u7375\u4EBA\uFF0C\r\n\u8ACB\u4F60\u4F7F\u76E1\u5168\u529B\u72E9\u7375\uFF0C\r\n\u8A98\u4F7F\u7260\u5011\u64FA\u51FA\u7CBE\u5F69\u7684\u52D5\u4F5C\uFF01\r\n\u4F60\u653E\u5FC3\uFF0C\u6211\u4E00\u5B9A\u6703\u756B\u51FA\r\n\u540D\u5782\u9752\u53F2\u7684\u540D\u756B\uFF01",
+        "Target": "\u72E9\u73751\u982D\u96EA\u9B3C\u7378\u30011\u982D\u8F5F\u9F8D\r\n\u82071\u982D\u6CE1\u72D0\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u9AD8\u96BE\u5EA6\uFF1A\u9F99\u517D\u620F\u753B",
+        "Client": "\u9C81\u83BD\u7684\u753B\u5E08",
+        "Description": "\u96EA\u9B3C\u517D\uFF0C\u8F70\u9F99\uFF0C\u6CE1\u72D0\u9F99\u9F50\u805A\u4E00\u5802\uFF01\r\n\u8FD9\u4E0B\u6211\u4E5F\u53EA\u80FD\u753B\u5566\u2026\u2026\uFF01\uFF01\r\n\u730E\u4EBA\uFF0C\u4E0D\u597D\u610F\u601D\u554A\uFF0C\r\n\u9EBB\u70E6\u4F60\u53BB\u5168\u529B\u72E9\u730E\u4E00\u4E0B\u5B83\u4EEC\uFF0C\r\n\u5F15\u8BF1\u51FA\u5404\u79CD\u52A8\u4F5C\u8BA9\u6211\u77A7\u77A7\u5427\uFF01\r\n\u4F60\u653E\u5FC3\uFF0C\u6211\u4E00\u5B9A\u4F1A\u753B\u51FA\r\n\u540D\u5782\u9752\u53F2\u7684\u540D\u753B\u7684\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u96EA\u9B3C\u517D\u30011\u5934\u8F70\u9F99\u548C1\u5934\u6CE1\u72D0\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0645\u062A\u0642\u062F\u0645: \u0627\u0644\u0648\u062D\u0648\u0634 \u0641\u064A \u0627\u0644\u062D\u0628\u0631",
+        "Client": "\u0641\u0646\u0627\u0646 \u0637\u0627\u0626\u0634",
+        "Description": "\u003CLSNR {\u0623\u064A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F} {\u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F\u0629}\u003E! \u064A\u0648\u062C\u062F\r\n\u062C\u0648\u0633 \u0647\u0631\u0627\u062C \u0648\u062A\u062C\u0631\u064A\u0643\u0633 \u0648\u0645\u064A\u0632\u0648\u062A\u0633\u0648\u0646\u064A\r\n\u0641\u064A \u0627\u0644\u062C\u064F\u0632\u0631 \u0627\u0644\u062B\u0644\u062C\u064A\u0629\r\n\u0627\u0644\u0622\u0646! \u0625\u0630\u0627 \u003CLSNR {\u0643\u0646\u062A \u062A\u0646\u0648\u064A} {\u0643\u0646\u062A\u0650 \u062A\u0646\u0648\u064A\u0646}\u003E\r\n\u0627\u0644\u0642\u0636\u0627\u0621 \u0639\u0644\u064A\u0647\u0645\u060C \u0641\u0633\u0648\u0641\r\n\u003CLSNR {\u0623\u0631\u0627\u0642\u0628\u0643} {\u0623\u0631\u0627\u0642\u0628\u0643\u0650}\u003E\u060C \u0648\u0623\u0631\u0633\u0645 \u062A\u062D\u0641\u0629 \u0641\u0646\u064A\u0629 \u0639\u0646\r\n\u0647\u0630\u0627 \u0627\u0644\u062D\u062F\u062B! \u0633\u062A\u0643\u0648\u0646 \u0623\u0641\u0636\u0644 \u0623\u0639\u0645\u0627\u0644\u064A!",
+        "Target": "\u0635\u064A\u062F \u062C\u0648\u0633 \u0647\u0631\u0627\u062C \u0648\u062A\u062C\u0631\u064A\u0643\u0633\r\n\u0648\u0645\u064A\u0632\u0648\u062A\u0633\u0648\u0646\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 3,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      8,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      37,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 37,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 47,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 102,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 25,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 108,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 26640,
+      "Points": 540,
+      "HRP": 1970
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      10,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 37,
+      "HealthTable": 105,
+      "AttackTable": 87,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

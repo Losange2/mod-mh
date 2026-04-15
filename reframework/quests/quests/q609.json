@@ -1,0 +1,350 @@
+{
+  "QuestID": 609,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u5929\u7A7A\u306E\u738B\u8005\u3001\u5927\u5730\u306E\u66B4\u541B",
+        "Client": "\u5E74\u82E5\u3044\u5C06\u8ECD",
+        "Description": "\u904E\u9177\u306A\u4EFB\u52D9\u306B\u8010\u3048\u304B\u306D\u305F\u90E8\u4E0B\u304C\r\n\u4E3B\u541B\u306B\u6B6F\u5411\u304B\u3044\u2026\u79C1\u306F\u76E3\u7763\u8CAC\u4EFB\u3092\r\n\u554F\u308F\u308C\u3001\u6EB6\u5CA9\u6D1E\u306B\u7570\u52D5\u306B\u306A\u3063\u305F\u3002\r\n\u5168\u3066\u306F\u3001\u53CC\u65B9\u306E\u6C17\u6301\u3061\u3092\u616E\u308C\u306A\u304B\r\n\u3063\u305F\u79C1\u306E\u5931\u614B\u2026\u8CAC\u4EFB\u3092\u679C\u305F\u3059\u305F\u3081\r\n\u306B\u3082\u79C1\u306F\u751F\u304D\u306D\u3070\u306A\u3089\u306C\u3002\u3059\u307E\u306C\r\n\u304C\u3001\u30E2\u30F3\u30B9\u30BF\u30FC\u306E\u72E9\u731F\u3092\u983C\u3080\u2026\uFF01",
+        "Target": "\u30EA\u30AA\u30EC\u30A6\u30B9\uFF11\u982D\u3068\r\n\u30C6\u30A3\u30AC\u30EC\u30C3\u30AF\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "King of the Sky, Bane of the Land",
+        "Client": "Young General",
+        "Description": "My subordinates had enough of\r\ntheir harsh missions and\r\nrebelled. I was forced to take\r\nresponsibility and demoted to\r\nthe Lava Caverns. I need to get\r\nbetter at my job, but to do so\r\nI need to survive first! Help!",
+        "Target": "Hunt a Rathalos and a Tigrex",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Roi des Cieux, fl\u00E9au sur terre",
+        "Client": "Jeune g\u00E9n\u00E9ral",
+        "Description": "Mes subordonn\u00E9s trouvaient\r\nleurs missions trop dures et se\r\nsont rebell\u00E9s. J\u0027ai \u00E9t\u00E9 d\u00E9chu\r\nde mes fonctions et j\u0027ai d\u00FB\r\nprendre un poste aux Cavernes.\r\nJe dois m\u0027am\u00E9liorer, mais il\r\nfaut d\u0027abord que je survive !",
+        "Target": "Chasser un Rathalos et un Tigrex",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Distruttori di cielo e terra",
+        "Client": "Giovane generale",
+        "Description": "I miei sottoposti erano stufi\r\ndi missioni cos\u00EC dure e si\r\nsono ribellati. Ho dovuto\r\nassumermi la responsabilit\u00E0 e\r\nretrocedere alle Caverne\r\nlaviche. Migliorer\u00F2, ma prima\r\ndevo sopravvivere! Aiuto!",
+        "Target": "Caccia un Rathalos e un Tigrex",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Himmelsk\u00F6nig und Landplage",
+        "Client": "Junger General",
+        "Description": "Meine Untergebenen hatten ihre\r\nbrutalen Missionen satt und\r\nhaben rebelliert. Ich wurde in\r\ndie Lavah\u00F6hlen strafversetzt.\r\nIch will ein besserer General\r\nwerden, aber dazu muss ich\r\nerst mal \u00FCberleben. Hilfe!",
+        "Target": "Erjage einen Rathalos und einen Tigrex.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "El rey azota la tierra",
+        "Client": "Joven general",
+        "Description": "Mis subordinados se rebelaron,\r\nhartos de misiones dif\u00EDciles.\r\nMe han hecho responsable y\r\ndestinado a las Grutas de\r\nlava. Necesito mejorar en mi\r\ntrabajo, \u00A1pero antes debo\r\nsobrevivir! \u00A1Ayuda!",
+        "Target": "Caza un Rathalos y un Tigrex",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041A\u043E\u0440\u043E\u043B\u044C \u041D\u0435\u0431\u0435\u0441, \u0413\u0440\u043E\u0437\u0430 \u0417\u0435\u043C\u0435\u043B\u044C",
+        "Client": "\u041C\u043E\u043B\u043E\u0434\u043E\u0439 \u043F\u043E\u043B\u043A\u043E\u0432\u043E\u0434\u0435\u0446",
+        "Description": "\u041C\u043E\u0438 \u0441\u043E\u043B\u0434\u0430\u0442\u044B \u043D\u0435 \u0432\u044B\u043D\u0435\u0441\u043B\u0438 \u0442\u044F\u0436\u0435\u043B\u044B\u0445\r\n\u0437\u0430\u0434\u0430\u043D\u0438\u0439 \u0438 \u0432\u0437\u0431\u0443\u043D\u0442\u043E\u0432\u0430\u043B\u0438\u0441\u044C.\r\n\u042F \u0432\u044B\u043D\u0443\u0436\u0434\u0435\u043D \u0431\u044B\u043B \u0432\u0437\u044F\u0442\u044C \u043D\u0430 \u0441\u0435\u0431\u044F\r\n\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0441\u0442\u044C \u0438 \u043E\u0442\u043F\u0440\u0430\u0432\u0438\u043B\u0441\u044F\r\n\u0432 \u041B\u0430\u0432\u043E\u0432\u044B\u0435 \u043F\u0435\u0449\u0435\u0440\u044B. \u041C\u043D\u0435 \u043D\u0443\u0436\u043D\u043E\r\n\u0441\u043B\u0443\u0436\u0438\u0442\u044C \u0435\u0449\u0435 \u043B\u0443\u0447\u0448\u0435, \u043D\u043E \u0434\u043B\u044F\r\n\u044D\u0442\u043E\u0433\u043E \u043D\u0430\u0434\u043E \u043E\u0441\u0442\u0430\u0442\u044C\u0441\u044F \u0432 \u0436\u0438\u0432\u044B\u0445!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0420\u0430\u0442\u0430\u043B\u043E\u0441\u0430 \u0438 \u0422\u0438\u0433\u0440\u0435\u043A\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Kr\u00F3l niebios, plaga ziemi",
+        "Client": "M\u0142ody genera\u0142",
+        "Description": "Moi podw\u0142adni mieli dosy\u0107\r\nswoich ci\u0119\u017Ckich misji i si\u0119\r\nzbuntowali. By\u0142em zmuszony\r\nwzi\u0105\u0107 za to odpowiedzialno\u015B\u0107\r\ni zosta\u0142em zes\u0142any do Jaski\u0144\r\nLawy. Musz\u0119 nad sob\u0105 pracowa\u0107,\r\nale najpierw przetrwa\u0107! Pom\u00F3\u017C!",
+        "Target": "Upoluj Rathalosa i Tigrexa",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Rei dos C\u00E9us, Flagelo da Terra",
+        "Client": "Jovem general",
+        "Description": "Meus subordinados cansaram das\r\nmiss\u00F5es dif\u00EDceis e se\r\nrebelaram. Fui for\u00E7ado a me\r\nrebaixar \u00E0s Cavernas de Lava.\r\nPreciso melhorar na minha\r\nfun\u00E7\u00E3o, mas antes tenho que\r\ncontinuar vivo! Socorro!",
+        "Target": "Cace um Rathalos e um Tigrex",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD558\uB298\uC758 \uC655\uC790, \uB300\uC9C0\uC758 \uD3ED\uAD70",
+        "Client": "\uC80A\uC740 \uC7A5\uAD70",
+        "Description": "\uAC00\uD639\uD55C \uC784\uBB34\uB97C \uBABB \uBC84\uD2F4 \uBD80\uD558\uAC00\r\n\uC8FC\uAD70\uC5D0\uAC8C \uB300\uB4E4\uC5C8\uC5B4\u2026 \uB098\uB294 \uAD00\uB9AC\r\n\uC18C\uD640\uB85C \uC6A9\uC554 \uB3D9\uAD74\uC5D0 \uC88C\uCC9C\uB410\uC9C0.\r\n\uC804\uBD80 \uC11C\uB85C\uC758 \uC0DD\uAC01\uC744 \uD30C\uC545\uD558\uC9C0\r\n\uBABB\uD55C \uB0B4 \uD0D3\uC774\uC57C\u2026 \uCC45\uC784\uC744 \uC9C0\uB824\uBA74\r\n\uC77C\uB2E8 \uC0B4\uC544\uC57C \uD574. \uBBF8\uC548\uD558\uC9C0\uB9CC\r\n\uBAAC\uC2A4\uD130 \uC0AC\uB0E5\uC744 \uBD80\uD0C1\uD558\uACA0\uC5B4\u2026!",
+        "Target": "\uB9AC\uC624\uB808\uC6B0\uC2A4 1\uB9C8\uB9AC\uC640\r\n\uD2F0\uAC00\uB809\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5929\u7A7A\u738B\u8005\u8207\u5927\u5730\u66B4\u541B",
+        "Client": "\u5E74\u8F15\u7684\u5C07\u8ECD",
+        "Description": "\u6211\u7684\u90E8\u4E0B\u56E0\u70BA\u7121\u6CD5\u71AC\u904E\u56B4\u82DB\u7684\r\n\u4EFB\u52D9\uFF0C\u6240\u4EE5\u5411\u541B\u4E3B\u767C\u8D77\u4E86\u53CD\u6297\u2026\u2026\r\n\u6211\u4E5F\u56E0\u9818\u5C0E\u7121\u65B9\u800C\u88AB\u7A76\u8CAC\uFF0C\u906D\u8ABF\u8077\r\n\u5230\u7194\u5CA9\u6D1E\u3002\u9019\u4E00\u5207\u90FD\u662F\u6211\u7684\u904E\u932F\uFF0C\r\n\u662F\u6211\u6C92\u80FD\u9867\u616E\u5230\u96D9\u65B9\u7684\u5FC3\u60C5\u2026\u2026\r\n\u70BA\u4E86\u8CA0\u8D77\u8CAC\u4EFB\uFF0C\u6211\u5FC5\u9808\u8981\u6D3B\u4E0B\u53BB\u3002\r\n\u62B1\u6B49\uFF0C\u8ACB\u4F60\u66FF\u6211\u72E9\u7375\u9B54\u7269\u5427\u2026\u2026\uFF01",
+        "Target": "\u72E9\u73751\u982D\u706B\u9F8D\r\n\u82071\u982D\u8F5F\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u5929\u7A7A\u738B\u8005\uFF0C\u5927\u5730\u66B4\u541B",
+        "Client": "\u5E74\u8F7B\u7684\u5C06\u519B",
+        "Description": "\u6211\u7684\u90E8\u4E0B\u5FCD\u53D7\u4E0D\u4E86\u4E25\u9177\u7684\u4EFB\u52A1\uFF0C\r\n\u5411\u4E3B\u541B\u53D1\u8D77\u4E86\u53DB\u4E71\u2026\u2026\u4E8E\u662F\u6211\u88AB\r\n\u4E0A\u5934\u8FFD\u7A76\u8D23\u4EFB\uFF0C\u8C03\u5F80\u4E86\u7194\u5CA9\u6D1E\u3002\r\n\u8FD9\u5168\u90FD\u662F\u6211\u7684\u9519\uFF0C\u90FD\u602A\u6211\u6CA1\u80FD\r\n\u8003\u8651\u5230\u53CC\u65B9\u7684\u5FC3\u60C5\u2026\u2026\u5C31\u7B97\u662F\u4E3A\u4E86\r\n\u5C65\u884C\u8D23\u4EFB\uFF0C\u6211\u4E5F\u5FC5\u987B\u8981\u6D3B\u4E0B\u53BB\uFF01\r\n\u62B1\u6B49\uFF0C\u9EBB\u70E6\u4F60\u53BB\u72E9\u730E\u602A\u7269\u2026\u2026\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u706B\u9F99\u548C1\u5934\u8F70\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0645\u0644\u0643 \u0627\u0644\u0633\u0645\u0627\u0648\u0627\u062A\u060C \u0647\u0644\u0627\u0643 \u0627\u0644\u0623\u0631\u0636",
+        "Client": "\u0627\u0644\u062C\u0646\u0631\u0627\u0644 \u0627\u0644\u0635\u063A\u064A\u0631",
+        "Description": "\u0644\u062F\u0649 \u0623\u062A\u0628\u0627\u0639\u064A \u0645\u0627 \u064A\u0643\u0641\u064A\r\n\u0645\u0646 \u0627\u0644\u0645\u0647\u0627\u0645 \u0627\u0644\u0635\u0639\u0628\u0629 \u0648\u062A\u0645\u0631\u062F\u0648\u0627.\r\n\u0644\u0642\u062F \u0623\u064F\u062C\u0628\u0631\u062A \u0639\u0644\u0649 \u062A\u062D\u0645\u0644 \u0627\u0644\u0645\u0633\u0624\u0648\u0644\u064A\u0629\r\n\u0648\u0627\u0644\u0646\u0632\u0648\u0644 \u0625\u0644\u0649 \u0643\u0647\u0648\u0641 \u0627\u0644\u062D\u0645\u0645.\r\n\u0623\u0631\u064A\u062F \u0623\u0646 \u0623\u062A\u062D\u0633\u0646 \u0641\u064A \u0648\u0638\u064A\u0641\u062A\u064A\u060C\r\n\u0648\u0644\u0643\u0646 \u0644\u0644\u0642\u064A\u0627\u0645 \u0628\u0630\u0644\u0643\r\n\u0639\u0644\u064A\u0651 \u0623\u0646 \u0623\u0646\u062C\u0648 \u0623\u0648\u0644\u064B\u0627! \u0633\u0627\u0639\u062F\u0648\u0646\u064A!",
+        "Target": "\u0642\u0645 \u0628\u0635\u064A\u062F \u0631\u0627\u0630\u0627\u0644\u0648\u0633 \u0648\u062A\u064A\u062C\u0631\u064A\u0643\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 3,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      57,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 57,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 513,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 25,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1369,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 134,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 7680,
+      "Points": 160,
+      "HRP": 580
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      15,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 35,
+      "HealthTable": 36,
+      "AttackTable": 12,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 36,
+        "AttackTable": 12,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

@@ -1,0 +1,350 @@
+{
+  "QuestID": 10316,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u8352\u30EC\u72C2\u30A6\u30E2\u30CE\u30BF\u30C1",
+        "Client": "\u614C\u3066\u305F\u69D8\u5B50\u306E\u30A2\u30A4\u30EB\u30FC",
+        "Description": "\u30CB\u30E3\u30CB\u30E3\u30CB\u30E3\uFF01\u3000\u5927\u5909\u3060\u30CB\u30E3\uFF5E\uFF01\r\n\u30C6\u30A3\u30AC\u30EC\u30C3\u30AF\u30B9\u3068\u30B4\u30B7\u30E3\u30CF\u30AE\u304C\r\n\u5BD2\u51B7\u7FA4\u5CF6\u306E\u8FD1\u304F\u306B\u73FE\u308C\u305F\u30CB\u30E3\uFF01\r\n\u3042\u3093\u306A\u3084\u3064\u3089\u306B\u66B4\u308C\u3089\u308C\u305F\u3089\u3001\r\n\u5CF6\u306E\u5F62\u304C\u5909\u308F\u3063\u3061\u3083\u3046\u30CB\u30E3\uFF5E\uFF01\r\n\u30CF\u30F3\u30BF\u30FC\u3055\u3093\uFF01\u3000\u52A9\u3051\u3066\u30CB\u30E3\uFF01",
+        "Target": "\u5168\u3066\u306E\u30BF\u30FC\u30B2\u30C3\u30C8\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Beastly Chaos",
+        "Client": "Distressed Felyne",
+        "Description": "Oh meow! A Tigrex and a Goss\r\nHarag are going berserk out in\r\nthe Frost Islands! If someone\r\ndoesn\u0027t stop \u0027em, the island\u0027s\r\ngonna get carved up like a\r\nscratching post! Help!",
+        "Target": "Hunt all target monsters",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Chaos monstrueux",
+        "Client": "Felyne en d\u00E9tresse",
+        "Description": "Miaou ! Un Tigrex et un Goss Harag\r\nsont devenus fous de rage pr\u00E8s de\r\nl\u0027Archipel de glace ! SI personne ne\r\nles arr\u00EAte, c\u0027est toute l\u0027\u00EEle qui va\r\nen p\u00E2tir ! Chapristi ! Aide-nous !",
+        "Target": "Chasser tous les monstres",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Caos bestiale",
+        "Client": "Felyne stressato",
+        "Description": "Oh, miao! Sono stati avvistati\r\nun Tigrex e un Goss Harag\r\nimpazziti alle Isole ghiacciate!\r\nSe non vengono fermati,\r\nl\u0027isola verr\u00E0 fatta a pezzi\r\ncome un tiragraffi! Aiuto!",
+        "Target": "Caccia tutti i mostri assegnati",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Bestialisches Chaos",
+        "Client": "Verzweifelter Felyne",
+        "Description": "Oh Miau! Ein Tigrex und ein\r\nGoss Harag drehen auf den\r\nFrostinseln v\u00F6llig durch!\r\nWenn niemand sie aufh\u00E4lt,\r\nwird die Insel zerfetzt wie ein\r\nKratzbaum! Hilfe!",
+        "Target": "Erjage alle Zielmonster.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Caos bestial",
+        "Client": "Felyne en apuros",
+        "Description": "\u00A1Oh, miau! \u00A1Han avistado un\r\nTigrex y un Goss Harag cerca\r\nde las Islas heladas! Si se\r\nenzarzan en combate, \u00A1la isla\r\nva a acabar pelada como un\r\nrascador Felyne! \u00A1Ayuda!",
+        "Target": "Caza todos los objetivos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0417\u0432\u0435\u0440\u0438\u043D\u044B\u0439 \u0445\u0430\u043E\u0441",
+        "Client": "\u041E\u0433\u043E\u0440\u0447\u0435\u043D\u043D\u044B\u0439 \u041A\u043E\u0442\u0442",
+        "Description": "\u041E\u0445, \u043C\u044F\u0443! \u0423 \u041C\u043E\u0440\u043E\u0437\u043D\u044B\u0445 \u043E\u0441\u0442\u0440\u043E\u0432\u043E\u0432\r\n\u0431\u0435\u0441\u044F\u0442\u0441\u044F \u0422\u0438\u0433\u0440\u0435\u043A\u0441 \u0438 \u0413\u043E\u0441\u0441-\u0425\u0430\u0440\u0430\u0433!\r\n\u0415\u0441\u043B\u0438 \u0438\u0445 \u043D\u0435 \u043E\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C, \u043E\u043D\u0438\r\n\u0432\u0435\u0441\u044C \u043E\u0441\u0442\u0440\u043E\u0432 \u0440\u0430\u0437\u043D\u0435\u0441\u0443\u0442! \u041F\u043E\u043C\u043E\u0433\u0438!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0432\u0441\u0435\u0445 \u043E\u0442\u043C\u0435\u0447\u0435\u043D\u043D\u044B\u0445 \u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Bestialski chaos",
+        "Client": "Zaniepokojony felin",
+        "Description": "Och, miau! Na Wyspach Mro\u017Anych\r\nszaleje Tigrex i Goss Harag!\r\nJe\u015Bli kto\u015B ich nie powstrzyma,\r\nwyspa b\u0119dzie wygl\u0105da\u0107 jak\r\nkoci drapak! Pomocy!",
+        "Target": "Upoluj wszystkie cele",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Caos bestial",
+        "Client": "Felyno angustiado",
+        "Description": "Essa miau! Um Tigrex e um Goss\r\nHarag est\u00E3o causando caos nas\r\nIlhas G\u00E9lidas! Se ningu\u00E9m\r\npar\u00E1-los, a ilha vai ficar\r\ndestru\u00EDda como um poste de\r\narranhar! Socorro!",
+        "Target": "Cace todos os monstros-alvos",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uB0A0\uB6F0\uB294 \uC790\uB4E4",
+        "Client": "\uB2F9\uD669\uD55C \uC544\uC774\uB8E8",
+        "Description": "\uB0D0\uB0D0\uB0E5! \uD070\uC77C\uC774\uB2E4\uB0E5~!\r\n\uD2F0\uAC00\uB809\uC2A4\uC640 \uACE0\uC0E4\uD558\uAE30\uAC00\r\n\uD55C\uB7AD \uAD70\uB3C4 \uC8FC\uBCC0\uC5D0 \uB098\uD0C0\uB0AC\uB2E4\uB0E5!\r\n\uC800\uB7F0 \uB140\uC11D\uB4E4\uC774 \uB0A0\uB6F0\uC5C8\uB2E4\uAC04\r\n\uC12C\uC758 \uC9C0\uB3C4\uAC00 \uBC14\uB014 \uAC70\uB2E4\uB0E5~!\r\n\uD5CC\uD130 \uC528! \uB3C4\uC640\uB2EC\uB77C\uB0E5!",
+        "Target": "\uBAA8\uB4E0 \uD0C0\uAC9F \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u760B\u72C2\u7684\u8086\u8650\u8005\u5011",
+        "Client": "\u6EFF\u81C9\u9A5A\u614C\u7684\u827E\u8DEF",
+        "Description": "\u55B5\u55B5\u55B5\uFF01\u5927\u4E8B\u4E0D\u5999\u55B5\uFF5E\uFF01\r\n\u8F5F\u9F8D\u548C\u96EA\u9B3C\u7378\u51FA\u73FE\u5728\r\n\u5BD2\u51B7\u7FA4\u5CF6\u9644\u8FD1\u4E86\u55B5\uFF01\r\n\u8981\u662F\u653E\u4EFB\u7260\u5011\u4F5C\u4E82\uFF0C\r\n\u6574\u5EA7\u5CF6\u5C31\u6703\u9762\u76EE\u5168\u975E\u55B5\uFF5E\uFF01\r\n\u7375\u4EBA\uFF01\u8ACB\u5E6B\u5E6B\u5FD9\u55B5\uFF01",
+        "Target": "\u72E9\u7375\u6240\u6709\u76EE\u6A19",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u72C2\u66B4\u8005",
+        "Client": "\u614C\u5F20\u7684\u827E\u9732\u732B",
+        "Description": "\u55B5\u55B5\u55B5\uFF01\u4E0D\u597D\u4E86\u55B5\uFF5E\uFF01\r\n\u8F70\u9F99\u548C\u96EA\u9B3C\u517D\u51FA\u73B0\u5728\r\n\u51B0\u5C01\u7FA4\u5C9B\u9644\u8FD1\u4E86\u55B5\uFF01\r\n\u8981\u662F\u90A3\u4E24\u4E2A\u5BB6\u4F19\u95F9\u8D77\u6765\uFF0C\r\n\u5C9B\u5C7F\u7684\u5730\u5F62\u90FD\u8981\u53D8\u4E86\u55B5\uFF5E\uFF01\r\n\u730E\u4EBA\uFF01\u5E2E\u5E2E\u5FD9\u55B5\uFF01",
+        "Target": "\u72E9\u730E\u6240\u6709\u76EE\u6807",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0641\u0648\u0636\u0649 \u0627\u0644\u0648\u062D\u0634\u064A\u0629",
+        "Client": "\u0641\u064A\u0644\u0627\u064A\u0646 \u0627\u0644\u0642\u0644\u0642",
+        "Description": "\u064A\u0627 \u0625\u0644\u0647\u064A! \u064A\u062C\u0646 \u062C\u0646\u0648\u0646 \u062A\u062C\u0631\u064A\u0643\u0633\r\n\u0648\u062C\u0648\u0633 \u0647\u0631\u0627\u062C \u0641\u064A \u0627\u0644\u062C\u064F\u0632\u0631\r\n\u0627\u0644\u062C\u0644\u064A\u062F\u064A\u0629! \u0644\u0648 \u0644\u0645 \u064A\u0648\u0642\u0641\u0647\u0645 \u0623\u062D\u062F\u060C\r\n\u0641\u0633\u064A\u062A\u0645 \u0646\u062D\u062A \u0627\u0644\u062C\u0632\u064A\u0631\u0629\r\n\u0645\u062B\u0644 \u0639\u0627\u0645\u0648\u062F \u0645\u062E\u062F\u0648\u0634!\r\n\u0633\u0627\u0639\u062F\u0648\u0646\u064A!",
+        "Target": "\u0635\u064A\u062F \u0643\u0644 \u0627\u0644\u0648\u062D\u0648\u0634 \u0627\u0644\u0645\u0633\u062A\u0647\u062F\u0641\u0629",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1379,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1379,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 12240,
+      "Points": 250,
+      "HRP": 740
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      40,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 85,
+      "AttackTable": 62,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

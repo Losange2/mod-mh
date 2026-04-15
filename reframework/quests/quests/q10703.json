@@ -1,0 +1,350 @@
+{
+  "QuestID": 10703,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u53E4\u306E\u5E7B\u5F71",
+        "Client": "\u30AE\u30EB\u30C9\u30DE\u30CD\u30FC\u30B8\u30E3\u30FC\u30FB\u30B4\u30B3\u30AF",
+        "Description": "\u304A\u304A\u3001\u6050\u308D\u3057\u3044\u3053\u3068\u3067\u30B2\u30B3\u3002\r\n\u3042\u306E\u53E4\u306E\u5E7B\u5F71\u306B\u3057\u3066\u3001\u4E0D\u53EF\u8996\u306E\r\n\u795E\u4ED9\u3001\u971E\u9F8D\u30AA\u30AA\u30CA\u30BA\u30C1\u304C\u5927\u793E\u8DE1\u306B\r\n\u73FE\u308C\u3088\u3046\u3068\u306F\u2026\uFF01\u3000\u93AE\u8B77\u306E\u5FA1\u5EDF\u306E\r\n\u970A\u6C17\u306B\u8A98\u308F\u308C\u305F\u304B\u3001\u306F\u305F\u307E\u305F\r\n\u767E\u7ADC\u591C\u884C\u306E\u5F71\u97FF\u306B\u3088\u308B\u3082\u306E\u304B\u2026\u3002\r\n\u4E00\u523B\u3082\u65E9\u304F\u3001\u8A0E\u4F10\u3092\u983C\u3080\u3067\u30B2\u30B3\uFF01",
+        "Target": "\u30AA\u30AA\u30CA\u30BA\u30C1\uFF11\u4F53\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Ancient Illusion",
+        "Client": "Guild Master Hojo",
+        "Description": "A Chameleos has shown itself\u2014\r\nhmmm...no. A Chameleos has\r\nappeared\u2014*sigh* A Chameleos\r\nhas been spot\u2014We know it\u0027s out\r\nthere! Go hunt the cursed thing\r\nbefore it unleashes toadal chaos!\r\nNow, hop to it-to it!",
+        "Target": "Slay a Chameleos",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Illusion ancestrale",
+        "Client": "Hojo le Ma\u00EEtre de la Guilde",
+        "Description": "Un Chameleos est arriv\u00E9... Hmm, non.\r\nUn Chameleos est apparu. *soupir*\r\nUn Chameleos a \u00E9t\u00E9 aper\u00E7u... Bref,\r\nil y en a un dans les parages !\r\nVa chasser cette crapule au lieu\r\nde l\u00E9zarder ! Allez, au boulot !",
+        "Target": "Tuer un Chameleos",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Antica illusione",
+        "Client": "Hojo il capo della Gilda",
+        "Description": "Si \u00E8 palesato un Chameleos...\r\nMmmh, no, \u00E8 apparso un\r\nChameleos... Uff, \u00E8 stato\r\navvistato un Chameleos...\r\nSappiamo che ce n\u0027\u00E8 uno!\r\nCaccia quella bestiaccia prima\r\nche scateni il caos! Su, su!",
+        "Target": "Uccidi un Chameleos",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Uralte Illusion",
+        "Client": "Gildenmeister Hojo",
+        "Description": "Ein Chameleos hat sich gezeigt--\r\nHmmm, nein. Ein Chameleos ist\r\naufgetau-- *seufz* Ein Chameleos\r\nwurde gesich-- Er ist da drau\u00DFen!\r\nGeh und jag das verfluchte Ding,\r\nbevor es totales Chaos anrichtet!\r\nSei kein Frosch \u2013 auf, auf!",
+        "Target": "Erlege einen Chameleos.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Vieja ilusi\u00F3n",
+        "Client": "Hojo el maestro del gremio",
+        "Description": "\u00A1Han visto un Chameleos!\r\nVete t\u00FA a saber qu\u00E9 es lo que\r\nlo atrajo y qu\u00E9 lo ha hecho\r\ndejar su nido, pero tienes que\r\ndetenerlo lo antes posible,\r\n\u00A1antes de que siembre el caos!",
+        "Target": "Abate un Chameleos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0414\u0440\u0435\u0432\u043D\u044F\u044F \u0438\u043B\u043B\u044E\u0437\u0438\u044F",
+        "Client": "\u041C\u0430\u0441\u0442\u0435\u0440 \u0413\u0438\u043B\u044C\u0434\u0438\u0438 \u0425\u043E\u0434\u0437\u0451",
+        "Description": "\u0422\u0443\u0442 \u043F\u043E\u043A\u0430\u0437\u0430\u043B\u0441\u044F \u0425\u0430\u043C\u0435\u043B\u0435\u043E\u0441... \u043D\u0435\u0442.\r\n\u041F\u043E\u044F\u0432\u0438\u043B\u0441\u044F \u0425\u0430\u043C\u0435\u043B\u0435\u043E\u0441... *\u0432\u0437\u0434\u043E\u0445*\r\n\u041E\u0431\u043D\u0430\u0440\u0443\u0436\u0435\u043D \u0425\u0430\u043C\u0435\u043B\u0435\u043E\u0441... \u0432 \u043E\u0431\u0449\u0435\u043C,\r\n\u043E\u043D \u0437\u0434\u0435\u0441\u044C! \u0418\u0434\u0438 \u0438 \u0440\u0430\u0437\u0431\u0435\u0440\u0438\u0441\u044C\r\n\u0441 \u044D\u0442\u0438\u043C \u0437\u043B\u043E\u0434\u0435\u0435\u043C, \u043F\u043E\u043A\u0430 \u043D\u0435 \u043D\u0430\u0441\u0442\u0430\u043B\r\n\u043F\u043E\u043B\u043D\u044B\u0439 \u0445\u0430\u043E\u0441! \u0421\u043A\u043E\u0440\u0435\u0435 \u0436\u0435!",
+        "Target": "\u0423\u0431\u0438\u0442\u044C \u0425\u0430\u043C\u0435\u043B\u0435\u043E\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Prastara iluzja",
+        "Client": "Mistrz Gildii Hojo",
+        "Description": "Pokaza\u0142 si\u0119 Chameleos... Hm...\r\nNie, ukaza\u0142 si\u0119 Chameleos...\r\nEch... Widziano Chameleosa.\r\nWiemy, \u017Ce grasuje! Id\u017A upoluj\r\nbesti\u0119, zanim rozp\u0119ta totalny\r\nchaos! No ju\u017C, do dzie\u0142a,\r\nkum-kum!",
+        "Target": "Zabij Chameleosa",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Ilus\u00E3o antiga",
+        "Client": "Mestre de guilda Hojo",
+        "Description": "Um Chameleos se revelou... hum...\r\nn\u00E3o. Um Chameleos apareceu...\r\nAi, ai... Um Chameleos foi avistado...\r\nSabemos que ele t\u00E1 por a\u00ED! Vai ca\u00E7ar\r\naquela coisa maldita antes que ele\r\ndesencadeie o caos total! Agora,\r\nm\u00E3os \u00E0 obra!",
+        "Target": "Mate um Chameleos",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uACE0\uB300\uC758 \uD658\uC601",
+        "Client": "\uAE38\uB4DC \uB9E4\uB2C8\uC800 \uACE0\uCF54\uCFE0",
+        "Description": "\uBB34\uC11C\uC6B4 \uC77C\uC774\uB2E4\uAC1C\uACE8.\r\n\uACE0\uB300\uC758 \uD658\uC601\uC774\uC790 \uD22C\uBA85\uD55C \uC2E0\uC120,\r\n\uD558\uB8E1 \uC624\uB098\uC988\uCE58\uAC00 \uC0AC\uC6D0 \uD3D0\uD5C8\uC5D0\r\n\uB098\uD0C0\uB0A0 \uC904\uC774\uC57C\uAC1C\uACE8\u2026!\r\n\uC218\uD638\uC758 \uC0AC\uB2F9\uC5D0 \uC774\uB04C\uB9B0 \uAC74\uC9C0\r\n\uBC31\uB8E1\uC57C\uD589\uC758 \uC601\uD5A5\uC778 \uAC74\uC9C0\u2026\r\n\uBE68\uB9AC \uD1A0\uBC8C\uD574\uC57C \uD55C\uB2E4\uAC1C\uACE8!",
+        "Target": "\uC624\uB098\uC988\uCE58 1\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u4E0A\u53E4\u5E7B\u5F71",
+        "Client": "\u516C\u6703\u7D93\u7D00\u4EBA\uFF65\u98A8\u767B",
+        "Description": "\u54E6\uFF5E\u771F\u662F\u592A\u53EF\u6015\u4E86\u5471\u3002\r\n\u90A3\u9053\u4E0A\u53E4\u5E7B\u5F71\u2500\u2500\r\n\u8089\u773C\u770B\u4E0D\u898B\u7684\u795E\u4ED9\u971E\u9F8D\uFF0C\r\n\u7ADF\u7136\u51FA\u73FE\u5728\u5927\u793E\u907A\u8DE1\u2026\u2026\uFF01\r\n\u4E0D\u77E5\u662F\u53D7\u5230\u93AE\u5B88\u795E\u5EDF\u7684\u9748\u6C23\u5438\u5F15\uFF1F\r\n\u53C8\u6216\u662F\u53D7\u5230\u767E\u9F8D\u591C\u884C\u7684\u5F71\u97FF\u2026\u2026\r\n\u8ACB\u4F60\u76E1\u5FEB\u8A0E\u4F10\u7260\u5471\uFF01",
+        "Target": "\u8A0E\u4F101\u982D\u971E\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u8FDC\u53E4\u5E7B\u5F71",
+        "Client": "\u516C\u4F1A\u7ECF\u7EAA\u4EBA\u30FB\u5C81\u4E30\u7A14",
+        "Description": "\u5662\uFF0C\u5B9E\u5728\u662F\u53EF\u6015\u5471\u3002\r\n\u90A3\u4E2A\u8FDC\u53E4\u5E7B\u5F71\uFF0C\u770B\u4E0D\u89C1\u7684\u795E\u4ED9\uFF0C\r\n\u971E\u9F99\u5C45\u7136\u51FA\u73B0\u5728\u5E9F\u795E\u793E\u4E86\u2026\u2026\uFF01\r\n\u662F\u53D7\u5230\u9547\u62A4\u5FA1\u5E99\u4E2D\u7075\u6C14\u7684\u5438\u5F15\u5417\uFF1F\r\n\u8FD8\u662F\u8BF4\uFF0C\u662F\u767E\u9F99\u591C\u884C\u7684\u5F71\u54CD\u5462\u2026\u2026\r\n\u62DC\u6258\u4F60\u5C3D\u5FEB\u53BB\u8BA8\u4F10\u5B83\u5471\uFF01",
+        "Target": "\u8BA8\u4F101\u5934\u971E\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0648\u0647\u0645 \u0627\u0644\u0642\u062F\u064A\u0645",
+        "Client": "\u0632\u0639\u064A\u0645 \u0627\u0644\u0646\u0642\u0627\u0628\u0629 \u0647\u0648\u062C\u0648",
+        "Description": "\u0623\u0638\u0647\u0631 \u062A\u0634\u0627\u0645\u0644\u064A\u0648\u0633 \u0646\u0641\u0633\u0647!\r\n\u0645\u0645\u0645...\u0644\u0627. \u0638\u0647\u0631 \u062A\u0634\u0627\u0645\u0644\u064A\u0648\u0633...\r\n*\u062A\u0646\u0647\u064A\u062F\u0629* \u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u0649 \u062A\u0634\u0627\u0645\u0644\u064A\u0648\u0633!\r\n\u0646\u062D\u0646 \u0646\u0639\u0644\u0645 \u0623\u0646\u0647\r\n\u0647\u0646\u0627\u0643! \u003CLSNR {\u0627\u0630\u0647\u0628} {\u0627\u0630\u0647\u0628\u064A}\u003E \u0644\u0635\u064A\u062F \u0647\u0630\u0627 \u0627\u0644\u0634\u064A\u0621 \u0627\u0644\u0644\u0639\u064A\u0646\r\n\u0642\u0628\u0644 \u0623\u0646 \u064A\u062A\u0633\u0628\u0628 \u0628\u0641\u0648\u0636\u0649\r\n\u0639\u0627\u0631\u0645\u0629! \u0648\u0627\u0644\u0622\u0646\u060C \u003CLSNR {\u0627\u0642\u0641\u0632} {\u0627\u0642\u0641\u0632\u064A}\u003E \u0639\u0644\u064A\u0647!",
+        "Target": "\u0642\u062A\u0644 \u062A\u0634\u0627\u0645\u0644\u064A\u0648\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 13,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      8,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1412,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1412,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 57,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 60,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 97,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 57,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 346,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 42,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 17280,
+      "Points": 350,
+      "HRP": 1050
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      67,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 29,
+      "HealthTable": 105,
+      "AttackTable": 87,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

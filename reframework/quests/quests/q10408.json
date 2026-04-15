@@ -1,0 +1,350 @@
+{
+  "QuestID": 10408,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u5927\u5834\u6240\u30FB\u5BD2\u51B7\u7FA4\u5CF6",
+        "Client": "\u65B0\u9032\u6C17\u92ED\u306E\u529B\u8005",
+        "Description": "\u308F\u3057\u306F\u4FEE\u884C\u4E2D\u306E\u529B\u8005\u3067\u3054\u308F\u3059\uFF01\r\n\u30E8\u30C4\u30DF\u30EF\u30C9\u30A6\u3068\u3044\u3046\u30E2\u30F3\u30B9\u30BF\u30FC\u306F\r\n\u307E\u308B\u3067\u6B66\u9053\u306E\u3088\u3046\u306A\u529B\u5F37\u3044\u6280\u3092\r\n\u7E70\u308A\u51FA\u3059\u3068\u805E\u3044\u305F\u3067\u3054\u308F\u3059\u3002\r\n\u7A3D\u53E4\u306B\u53D6\u308A\u5165\u308C\u305F\u3044\u3067\u3054\u308F\u3059\uFF01\r\n\u308F\u3057\u306B\u4EE3\u308F\u3063\u3066\u53D6\u308A\u7D44\u307F\u3057\u3066\u304D\u3066\r\n\u307B\u3057\u3044\u3067\u3054\u308F\u3059\uFF01",
+        "Target": "\u30E8\u30C4\u30DF\u30EF\u30C9\u30A6\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "The Frost Islands Arena",
+        "Client": "Up-and-coming Wrestler",
+        "Description": "Oh~yeah! You\u0027re going nowhere.\r\nI\u0027ve got you for fifty minutes...Fifty\r\nminutes of huntin\u0027 time! Heard this\r\nTetranadon was out there talkin\u0027\r\nsmack. You gonna stand there and\r\ntake that!? Or are ya gonna go out\r\nthere and put \u0027em in a world of hurt!?",
+        "Target": "Hunt a Tetranadon",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "L\u0027Ar\u00E8ne de l\u0027Archipel",
+        "Client": "Lutteur prometteur",
+        "Description": "Bon, tu vas suivre ce que je te\r\ndis pour les cinquante minutes \u00E0\r\nvenir... Yep, cinquante minutes de\r\nchasse ! Le Tetranadon fait des\r\nravages aux alentours. Tu comptes\r\nle laisser faire ou lui donner\r\nune bonne racl\u00E9e ?",
+        "Target": "Chasser un Tetranadon",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Arena delle Isole ghiacciate",
+        "Client": "Lottatore promettente",
+        "Description": "Eh no! Non vai da nessuna\r\nparte. Ti ho tenuto testa per\r\ncinquanta minuti... Cinquanta\r\nminuti di caccia. So che c\u0027\u00E8\r\nun Tetranadon in giro. Che fai\r\nancora l\u00EC?! Non vai a dargli\r\nuna bella lezione?",
+        "Target": "Caccia un Tetranadon",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Die Frostinsel-Arena",
+        "Client": "Aufstrebender Ringer",
+        "Description": "Du gehst nirgendwohin. Ich hab\r\ndich f\u00FCr f\u00FCnfzig Minuten Jagd-\r\nzeit! Der Tetranadon hat Leute\r\nbl\u00F6d angemacht. Willst du nur\r\nda stehen und das hinnehmen?\r\nOder ziehst du los und zeigst\r\nihm eine Welt voll Qual?!",
+        "Target": "Erjage einen Tetranadon.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Arena de las Islas heladas",
+        "Client": "Promesa de la lucha",
+        "Description": "\u00A1Luchador en pr\u00E1cticas,\r\npresente! Mi colega dice que\r\nel Tetranadon lucha muy bien.\r\nQuiz\u00E1 deber\u00EDa intentar imitar\r\nsu estilo en mi entrenamiento.\r\n\u00BFPodr\u00EDas v\u00E9rtelas con \u00E9l para\r\nque pueda estudiarlo?",
+        "Target": "Caza un Tetranadon",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0410\u0440\u0435\u043D\u0430 \u043D\u0430 \u041C\u043E\u0440\u043E\u0437\u043D\u044B\u0445 \u043E\u0441\u0442\u0440\u043E\u0432\u0430\u0445",
+        "Client": "\u041F\u0435\u0440\u0441\u043F\u0435\u043A\u0442\u0438\u0432\u043D\u044B\u0439 \u0431\u043E\u0440\u0435\u0446",
+        "Description": "\u0422\u0430\u043A! \u041D\u0435 \u0441\u043F\u0435\u0448\u0438-\u043A\u0430. \u041C\u043D\u0435 \u043E\u0442 \u0442\u0435\u0431\u044F\r\n\u043D\u0443\u0436\u043D\u043E \u043F\u044F\u0442\u044C\u0434\u0435\u0441\u044F\u0442 \u043C\u0438\u043D\u0443\u0442\r\n\u043E\u0445\u043E\u0442\u043D\u0438\u0447\u044C\u0435\u0433\u043E \u0432\u0440\u0435\u043C\u0435\u043D\u0438. \u042F \u0441\u043B\u044B\u0448\u0430\u043B,\r\n\u0442\u0443\u0442 \u0445\u043E\u0434\u0438\u0442 \u0422\u0435\u0442\u0440\u0430\u043D\u0430\u0434\u043E\u043D\r\n\u0438 \u0432\u0441\u044F\u0447\u0435\u0441\u043A\u0438 \u0432\u0440\u0435\u0434\u0438\u0442. \u041D\u0435\u0443\u0436\u0442\u043E \u0442\u044B\r\n\u0435\u043C\u0443 \u044D\u0442\u043E \u0441\u043F\u0443\u0441\u0442\u0438\u0448\u044C? \u0418\u043B\u0438 \u043F\u043E\u0439\u0434\u0435\u0448\u044C\r\n\u0438 \u043E\u0431\u0440\u0430\u0437\u0443\u043C\u0438\u0448\u044C \u043C\u043E\u043D\u0441\u0442\u0440\u0430?",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0422\u0435\u0442\u0440\u0430\u043D\u0430\u0434\u043E\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Arena Wysp Mro\u017Anych",
+        "Client": "Obiecuj\u0105cy zapa\u015Bnik",
+        "Description": "\u201EO, tak! Ju\u017C si\u0119 nie ruszysz!\r\nPi\u0119\u0107dziesi\u0105t minut b\u0119d\u0119 ci\u0119\r\ntrzyma\u0142...\u0022 Pi\u0119\u0107dziesi\u0105t minut\r\nz czasu polowania! Bezczelny\r\nby\u0142 ten Tetranadon. Zamierzasz\r\nsi\u0119 na to godzi\u0107?! Czy\r\np\u00F3jdziesz porachowa\u0107 mu ko\u015Bci?!",
+        "Target": "Upoluj Tetranadona",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Arena das Ilhas G\u00E9lidas",
+        "Client": "Lutador promissor",
+        "Description": "Ah-r\u00E1! Voc\u00EA n\u00E3o vai a lugar nenhum.\r\nVoc\u00EA \u00E9 \u003CLSNR {meu} {minha}\u003E por cinquenta minutos...\r\nCinquenta minutos de ca\u00E7a! Ouvi dizer\r\nque tinha um Tetranadon por a\u00ED cheio\r\nde nove horas. Voc\u00EA vai aceitar isso\r\n\u003CLSNR {quieto} {quieta}\u003E?! Ou voc\u00EA vai l\u00E1 mostrar pra ele\r\no que \u00E9 dor?",
+        "Target": "Cace um Tetranadon",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD55C\uB7AD \uAD70\uB3C4\uC5D0\uC11C\uC758 \uD55C\uD310",
+        "Client": "\uC2E0\uC9C4\uAE30\uC608\uC758 \uC7A5\uC0AC",
+        "Description": "\uB098\uB294 \uC7A5\uC0AC\uAC00 \uB418\uAE30 \uC704\uD574 \uC218\uD589\r\n\uC911\uC778 \uBAB8\uC774\uB124. \uC694\uCE20\uBBF8\uC640\uB450\uB77C\uB294\r\n\uBAAC\uC2A4\uD130\uB294 \uB9C8\uCE58 \uBB34\uC220\uC744 \uD558\uB4EF\r\n\uAC15\uB825\uD55C \uD798\uC744 \uBC14\uD0D5\uC73C\uB85C \uD55C \uAE30\uC220\uC744\r\n\uC4F4\uB2E4\uACE0 \uB4E4\uC5C8\uB124. \uD55C\uBC88 \uC2F8\uC6CC \uBCF4\uACE0\r\n\uC2F6\uC740\uB370\u2026 \uB0A0 \uB300\uC2E0\uD574\uC11C \uB140\uC11D\uACFC\r\n\uC2F8\uC6CC \uC8FC\uAE38 \uBC14\uB77C\uB124!",
+        "Target": "\uC694\uCE20\uBBF8\uC640\uB450 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u76DB\u5927\u7684\u76F8\u64B2\u821E\u53F0\uFF65\u5BD2\u51B7\u7FA4\u5CF6",
+        "Client": "\u5D84\u9732\u982D\u89D2\u7684\u529B\u58EB",
+        "Description": "\u5728\u4E0B\u4E43\u6B63\u5728\u4FEE\u884C\u7684\u529B\u58EB\u662F\u4E5F\uFF01\r\n\u807D\u8AAA\u6CB3\u7AE5\u86D9\u9019\u7A2E\u9B54\u7269\uFF0C\r\n\u80FD\u5920\u63A5\u4E8C\u9023\u4E09\u5730\u65BD\u5C55\r\n\u6709\u5982\u6B66\u8853\u7684\u5F37\u5927\u62DB\u5F0F\u662F\u4E5F\u3002\r\n\u5728\u4E0B\u60F3\u4F5C\u70BA\u7DF4\u7FD2\u7684\u53C3\u8003\u662F\u4E5F\uFF01\r\n\u5E0C\u671B\u95A3\u4E0B\u4EE3\u66FF\u5728\u4E0B\uFF0C\r\n\u548C\u7260\u4EA4\u624B\u4E00\u756A\u662F\u4E5F\uFF01",
+        "Target": "\u72E9\u73751\u982D\u6CB3\u7AE5\u86D9",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u76F8\u6251\u5927\u8D5B\u30FB\u51B0\u5C01\u7FA4\u5C9B",
+        "Client": "\u5D2D\u9732\u5934\u89D2\u7684\u529B\u58EB",
+        "Description": "\u6211\u662F\u4FEE\u884C\u4E2D\u7684\u76F8\u6251\u529B\u58EB\uFF01\r\n\u542C\u95FB\u540D\u53EB\u6CB3\u7AE5\u86D9\u7684\u602A\u7269\r\n\u80FD\u4F7F\u51FA\u6B66\u672F\u822C\u7684\u5F3A\u5927\u6280\u5DE7\u3002\r\n\u6211\u60F3\u8981\u7EC3\u4E60\u5B83\u7684\u62DB\u5F0F\u3002\r\n\u5E0C\u671B\u4F60\u80FD\u66FF\u6211\r\n\u53BB\u4E0E\u4E4B\u8F83\u91CF\u4E00\u756A\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u6CB3\u7AE5\u86D9",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u062D\u0644\u0628\u0629 \u0627\u0644\u062C\u064F\u0632\u0631 \u0627\u0644\u062B\u0644\u062C\u064A\u0629",
+        "Client": "\u0627\u0644\u0645\u0635\u0627\u0631\u0639 \u0627\u0644\u0635\u0627\u0639\u062F",
+        "Description": "\u0623\u0648\u0647 \u0623\u062C\u0644! \u0644\u0646 \u003CLSNR {\u062A\u0630\u0647\u0628} {\u062A\u0630\u0647\u0628\u064A}\u003E \u0625\u0644\u0649 \u0623\u064A \u0645\u0643\u0627\u0646.\r\n\u0644\u0642\u062F \u0642\u0628\u0636\u062A \u003CLSNR {\u0639\u0644\u064A\u0643} {\u0639\u0644\u064A\u0643\u0650}\u003E \u0644\u0645\u062F\u0629 \u062E\u0645\u0633\u064A\u0646\r\n\u062F\u0642\u064A\u0642\u0629 \u0645\u0646 \u0648\u0642\u062A \u0627\u0644\u0635\u064A\u062F! \u0633\u0645\u0639\u062A \u0647\u0630\u0627\r\n\u062A\u064A\u062A\u0631\u0627\u0646\u0627\u062F\u0648\u0646 \u0647\u0646\u0627\u0643 \u064A\u062A\u062D\u062F\u062B\r\n\u0628\u062B\u0642\u0629. \u003CLSNR {\u0633\u062A\u0642\u0641} {\u0633\u062A\u0642\u0641\u064A\u0646}\u003E \u0647\u0646\u0627\u0643\r\n\u003CLSNR {\u0645\u0633\u062A\u0645\u0639\u064B\u0627} {\u0645\u0633\u062A\u0645\u0639\u0629}\u003E!\u061F \u0623\u0645 \u003CLSNR {\u0633\u062A\u0630\u0647\u0628} {\u0633\u062A\u0630\u0647\u0628\u064A\u0646}\u003E \u0625\u0644\u0649\r\n\u0647\u0646\u0627\u0643 \u003CLSNR {\u0648\u062A\u0639\u0631\u0641\u0647\u0645} {\u0648\u062A\u0639\u0631\u0641\u064A\u0646\u0647\u0645}\u003E \u0645\u0639\u0646\u0649 \u0627\u0644\u0623\u0644\u0645!\u061F",
+        "Target": "\u0635\u064A\u062F \u062A\u064A\u062A\u0631\u0627\u0646\u0627\u062F\u0648\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 12,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 109,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 92,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 92,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 91,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 91,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 92,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 5040,
+      "Points": 110,
+      "HRP": 360
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      0,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 35,
+      "HealthTable": 97,
+      "AttackTable": 79,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

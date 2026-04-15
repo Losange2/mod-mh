@@ -1,0 +1,350 @@
+{
+  "QuestID": 507,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u30EA\u30AA\u30EC\u30A6\u30B9\u8B66\u5831\u767A\u4EE4\u4E2D",
+        "Client": "\u8077\u52D9\u306B\u52E4\u52C9\u306A\u89B3\u6E2C\u8005",
+        "Description": "\u6EB6\u5CA9\u6D1E\u3088\u308A\u5831\u544A\u3057\u307E\u3059\u3002\r\n\u4E0A\u7A7A\u304B\u3089\u964D\u308A\u6CE8\u3050\u706B\u306E\u96E8\u3092\u78BA\u8A8D\u3002\r\n\u3053\u308C\u306F\u3001\u96C4\u706B\u7ADC\u30EA\u30AA\u30EC\u30A6\u30B9\u306E\u5410\u304F\r\n\u708E\u3068\u307F\u3066\u9593\u9055\u3044\u3042\u308A\u307E\u305B\u3093\u3002\r\n\u72E9\u731F\u53EF\u80FD\u306A\u5B9F\u529B\u3092\u6301\u3064\u30CF\u30F3\u30BF\u30FC\u306F\r\n\u3059\u3050\u306B\u5411\u304B\u3063\u3066\u304F\u3060\u3055\u3044\u3002\r\n\u89B3\u6E2C\u6240\u3088\u308A\u304A\u4F1D\u3048\u3057\u307E\u3057\u305F\u3002",
+        "Target": "\u30EA\u30AA\u30EC\u30A6\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Rathalos Alert!",
+        "Client": "Eagle-eyed Observer",
+        "Description": "[REPORT BEGINS] Rathalos\r\nspotted in the Lava\r\nCaverns [STOP] Requesting\r\nsupport from all qualified\r\nhunters [STOP] Look out\r\nfor the rain of fire from\r\nthe sky [REPORT ENDS]",
+        "Target": "Hunt a Rathalos",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Alerte au Rathalos !",
+        "Client": "Observateur attentif",
+        "Description": "[D\u00C9BUT DU RAPPORT] Rathalos\r\naper\u00E7u dans les Cavernes de\r\nlave [POINT] Demande de\r\nrenforts de chasseurs\r\nqualifi\u00E9s [POINT] Attention au\r\nd\u00E9luge de feu [FIN DU RAPPORT]",
+        "Target": "Chasser un Rathalos",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Attenti al Rathalos!",
+        "Client": "Vedetta vigile",
+        "Description": "INIZIO RAPPORTO. Rathalos\r\navvistato nelle Caverne\r\nlaviche. STOP. Richiediamo il\r\nsupporto di cacciatori\r\nqualificati. STOP. Cercate la\r\npioggia di fuoco nel cielo\r\nFINE RAPPORTO.",
+        "Target": "Caccia un Rathalos",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Rathalos-Alarm!",
+        "Client": "Scharfer Beobachter",
+        "Description": "[BERICHT ANFANG] Rathalos in\r\nLavah\u00F6hlen gesichtet [STOPP]\r\nBitte alle qualifizierten\r\nJ\u00E4ger um Verst\u00E4rkung [STOPP]\r\nHaltet nach Feuerregen aus dem\r\nHimmel Ausschau [BERICHT ENDE]",
+        "Target": "Erjage einen Rathalos.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "\u00A1Alerta por Rathalos!",
+        "Client": "Observador avezado",
+        "Description": "Informo de una lluvia de\r\nfuego en las Grutas de lava.\r\nSe confirma que el incidente\r\nse dio en presencia de un\r\nRathalos, y solicitamos\r\nauxilio de un cazador capaz.\r\nFin del informe.",
+        "Target": "Caza un Rathalos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041E\u0441\u0442\u043E\u0440\u043E\u0436\u043D\u043E, \u0420\u0430\u0442\u0430\u043B\u043E\u0441!",
+        "Client": "\u0412\u043D\u0438\u043C\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u043D\u0430\u0431\u043B\u044E\u0434\u0430\u0442\u0435\u043B\u044C",
+        "Description": "[\u041D\u0410\u0427\u0410\u041B\u041E \u0414\u041E\u041A\u041B\u0410\u0414\u0410] \u0412 \u041B\u0430\u0432\u043E\u0432\u044B\u0445\r\n\u043F\u0435\u0449\u0435\u0440\u0430\u0445 \u043E\u0431\u043D\u0430\u0440\u0443\u0436\u0435\u043D \u0420\u0430\u0442\u0430\u043B\u043E\u0441\r\n[\u0422\u041E\u0427\u041A\u0410] \u041F\u0440\u043E\u0448\u0443 \u043F\u043E\u043C\u043E\u0449\u0438 \u0443 \u0432\u0441\u0435\u0445\r\n\u043E\u043F\u044B\u0442\u043D\u044B\u0445 \u043E\u0445\u043E\u0442\u043D\u0438\u043A\u043E\u0432 [\u0422\u041E\u0427\u041A\u0410]\r\n\u0411\u0435\u0440\u0435\u0433\u0438\u0442\u0435\u0441\u044C \u043E\u0433\u043D\u0435\u043D\u043D\u043E\u0433\u043E \u0434\u043E\u0436\u0434\u044F\r\n\u0441 \u043D\u0435\u0431\u0430 [\u041A\u041E\u041D\u0415\u0426 \u0414\u041E\u041A\u041B\u0410\u0414\u0410]",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0420\u0430\u0442\u0430\u043B\u043E\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Alarm! Rathalos!",
+        "Client": "Obserwator o sokolim oku",
+        "Description": "[POCZ\u0104TEK RAPORTU]\r\nW Jaskiniach Lawy widziano\r\nRathalosa [STOP] Potrzebne\r\nwsparcie wykwalifikowanych\r\n\u0142owc\u00F3w [STOP] Uwaga na\r\nognisty deszcz z nieba\r\n[KONIEC RAPORTU]",
+        "Target": "Upoluj Rathalosa",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Alerta de Rathalos!",
+        "Client": "Olhos de \u00E1guia",
+        "Description": "[IN\u00CDCIO DO RELAT\u00D3RIO] Rathalos\r\nAvistado nas Cavernas de Lava\r\n[PONTO] Solicito apoio de todos\r\nos ca\u00E7adores qualificados\r\n[PONTO] Fiquem atentos \u00E0 chuva\r\nde fogo do c\u00E9u\r\n[FIM DO RELAT\u00D3RIO]",
+        "Target": "Cace um Rathalos",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uB9AC\uC624\uB808\uC6B0\uC2A4 \uACBD\uBCF4 \uBC1C\uB839",
+        "Client": "\uADFC\uBA74 \uC131\uC2E4\uD55C \uAD00\uCE21\uC790",
+        "Description": "\uC6A9\uC554 \uB3D9\uAD74\uC5D0\uC11C \uBCF4\uACE0\uB4DC\uB9BD\uB2C8\uB2E4.\r\n\uC0C1\uACF5\uC5D0\uC11C \uBD88\uC758 \uBE44\uAC00 \uB0B4\uB9AC\uB294 \uAC83\uC744\r\n\uD655\uC778. \uC774\uAC83\uC740 \uD654\uB8E1 \uB9AC\uC624\uB808\uC6B0\uC2A4\uAC00\r\n\uBFDC\uB294 \uBD88\uAF43\uC774 \uD2C0\uB9BC\uC5C6\uC2B5\uB2C8\uB2E4.\r\n\uC0AC\uB0E5\uD560 \uC218 \uC788\uB294 \uC2E4\uB825\uC790 \uD5CC\uD130\uB4E4\uC740\r\n\uC6A9\uC554 \uB3D9\uAD74\uB85C \uD5A5\uD574 \uC8FC\uC2ED\uC2DC\uC624.\r\n\uAD00\uCE21\uC18C\uC5D0\uC11C \uC804\uD574 \uB4DC\uB9BD\uB2C8\uB2E4.",
+        "Target": "\uB9AC\uC624\uB808\uC6B0\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u706B\u9F8D\u8B66\u5831\u767C\u5E03\u4E2D",
+        "Client": "\u656C\u696D\u7684\u89C0\u6E2C\u8005",
+        "Description": "\u9019\u662F\u4F86\u81EA\u7194\u5CA9\u6D1E\u7684\u5831\u544A\u3002\r\n\u76EE\u524D\u78BA\u8A8D\u5230\u7A7A\u4E2D\u964D\u4E0B\u7684\u706B\u96E8\uFF0C\r\n\u80AF\u5B9A\u662F\u706B\u9F8D\u6240\u5410\u51FA\u7684\u706B\u7130\u3002\r\n\u8ACB\u64C1\u6709\u8DB3\u5920\u5BE6\u529B\u72E9\u7375\r\n\u6B64\u76EE\u6A19\u7684\u7375\u4EBA\u76E1\u901F\u524D\u53BB\u3002\r\n\u4EE5\u4E0A\u662F\u89C0\u6E2C\u6240\u50B3\u9054\u7684\u6D88\u606F\u3002",
+        "Target": "\u72E9\u73751\u982D\u706B\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u706B\u9F99\u8B66\u62A5\u53D1\u5E03\u4E2D",
+        "Client": "\u5DE5\u4F5C\u8BA4\u771F\u7684\u89C2\u6D4B\u5458",
+        "Description": "\u4ECE\u7194\u5CA9\u6D1E\u53D1\u56DE\u62A5\u544A\u3002\r\n\u786E\u8BA4\u5230\u4ECE\u7A7A\u4E2D\u964D\u4E0B\u7684\u706B\u96E8\u3002\r\n\u8FD9\u6BEB\u65E0\u7591\u95EE\u662F\r\n\u96C4\u706B\u9F99\u5410\u51FA\u7684\u706B\u7130\u3002\r\n\u8BF7\u5177\u5907\u72E9\u730E\u5B9E\u529B\u7684\u730E\u4EBA\r\n\u5373\u523B\u8D76\u5F80\u7194\u5CA9\u6D1E\u3002\r\n\u4EE5\u4E0A\u662F\u6765\u81EA\u89C2\u6D4B\u6240\u7684\u62A5\u544A\u3002",
+        "Target": "\u72E9\u730E1\u5934\u706B\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0631\u0627\u0630\u0627\u0644\u0648\u0633 \u0645\u0646\u062A\u0628\u0647!",
+        "Client": "\u0645\u0631\u0627\u0642\u0628 \u0628\u0639\u064A\u0646 \u0627\u0644\u0635\u0642\u0631",
+        "Description": "[\u0628\u062F\u0623 \u0627\u0644\u062A\u0642\u0631\u064A\u0631] \u0634\u064F\u0648\u0647\u062F \u0631\u0627\u0630\u0627\u0644\u0648\u0633\r\n\u0641\u064A \u0643\u0647\u0648\u0641\r\n\u0627\u0644\u062D\u0645\u0645 [\u062A\u0648\u0642\u0641] \u0646\u0637\u0644\u0628 \u0627\u0644\u062F\u0639\u0645\r\n\u0645\u0646 \u062C\u0645\u064A\u0639 \u0627\u0644\u0635\u064A\u0627\u062F\u064A\u0646\r\n\u0627\u0644\u0645\u0647\u0631\u0629 [\u062A\u0648\u0642\u0641] \u0627\u0646\u062A\u0638\u0631 \u0645\u0637\u0631\r\n\u0627\u0644\u0646\u064A\u0631\u0627\u0646 \u0645\u0646 \u0627\u0644\u0633\u0645\u0627\u0621\r\n[\u0627\u0646\u062A\u0647\u0649 \u0627\u0644\u062A\u0642\u0631\u064A\u0631]",
+        "Target": "\u0635\u064A\u062F \u0631\u0627\u0630\u0627\u0644\u0648\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      95,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 95,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 102,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 98,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 25,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 4500,
+      "Points": 90,
+      "HRP": 320
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      28,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 6,
+      "HealthTable": 32,
+      "AttackTable": 11,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

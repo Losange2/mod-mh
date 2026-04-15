@@ -1,0 +1,350 @@
+{
+  "QuestID": 60127,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u9AD8\u96E3\u5EA6\uFF1A\u8D6B\u8000\u52D5\u4E71",
+        "Client": "\u91CC\u306E\u53D7\u4ED8\u5B22\u30D2\u30CE\u30A8",
+        "Description": "\u53E4\u6587\u66F8\u306B\u300C\u51F6\u661F\u300D\u3068\u8A18\u3055\u308C\u308B\r\n\u5929\u5F57\u9F8D\u306E\u7570\u5F62\u3001\u5947\u3057\u304D\u8D6B\u8000\u2026\u3002\r\n\u8D6B\u304D\u8000\u304D\u306F\u65E5\u306B\u65E5\u306B\u5897\u5927\u3057\u7D9A\u3051\u3001\r\n\u5927\u5730\u3092\u7834\u58CA\u3057\u5C3D\u304F\u3059\u8105\u5A01\u3078\u3068\r\n\u76F8\u6210\u308A\u307E\u3057\u305F\u2026\u3002\u3053\u306E\u8105\u5A01\u306B\u6253\u3061\r\n\u514B\u3066\u308B\u306E\u306F\u3042\u306A\u305F\u69D8\u306E\u307F\u3002\u3069\u3046\u304B\r\n\u51F6\u661F\u3092\u589C\u3068\u3057\u3066\u304F\u3060\u3055\u3044\u307E\u305B\u3002",
+        "Target": "\u5947\u3057\u304D\u8D6B\u8000\u306E\u30D0\u30EB\u30D5\u30A1\u30EB\u30AF\uFF11\u4F53\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Advanced: Crimson Calamity",
+        "Client": "Hinoa the Quest Maiden",
+        "Description": "The ancient tomes say it is an evil\r\nstar\u2014a peculiar comet that glows\r\nan ominous red. Each coming day,\r\nthe crimson hue grows fiercer and\r\nsoon threatens to sunder the very\r\nearth. Only you hold the power to\r\nbring down this evil from the sky.",
+        "Target": "Slay a Crimson Glow Valstrax",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Avanc\u00E9 : Calamit\u00E9 \u00E9carlate",
+        "Client": "Hinoa la qu\u00EAtatrice",
+        "Description": "Les textes anciens parlent\r\nd\u0027une \u00E9toile mal\u00E9fique, une\r\ncom\u00E8te devenant de plus en plus\r\n\u00E9carlate au fil des jours, au\r\npoint de menacer le monde. Il\r\nn\u0027y a que toi qui puisse terrasser\r\nce terrible monstre.",
+        "Target": "Tuer un Valstrax \u00E9carlate",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Avanzata: Calamit\u00E0 cremisi",
+        "Client": "Hinoa la missionatrice",
+        "Description": "Gli antichi testi narrano di\r\nuna cometa malvagia che\r\nbrilla di un rosso nefasto.\r\nIl suo bagliore cremisi cresce\r\nogni giorno pi\u00F9 forte e presto\r\nminaccia di distruggere la\r\nterra. Solo tu puoi eliminarla!",
+        "Target": "Uccidi un Valstrax cremisi",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Kenner: Karmesinrotes Unheil",
+        "Client": "Hinoa das Quest-M\u00E4del",
+        "Description": "Antike Schriften sprechen \u00FCber\r\neinen b\u00F6sen Stern \u2013 einen\r\nKometen, der omin\u00F6s rot gl\u00FCht.\r\nMit jedem Tag wird das Gl\u00FChen\r\nintensiver und droht bald, die\r\nErde zu versengen. Nur du\r\nkannst das Unheil abwenden.",
+        "Target": "Erlege einen Karmesin-Valstrax.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Avanzada: calamidad carmes\u00ED",
+        "Client": "Hinoa, gestora de misiones",
+        "Description": "Los textos antiguos mencionan\r\nun astro mal\u00E9fico: un extra\u00F1o\r\ncometa de ominoso brillo rojo.\r\nCada d\u00EDa se intensifica su\r\nfulgor, y amenaza con desgarrar\r\npronto la misma tierra. Solo t\u00FA\r\npuedes acabar con este mal astral.",
+        "Target": "Abate un Valstrax Carmes\u00ED",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041D\u043E\u0432\u0430\u044F \u0441\u0442\u0443\u043F\u0435\u043D\u044C: \u0410\u043B\u0430\u044F \u043D\u0435\u0432\u0437\u0433\u043E\u0434\u0430",
+        "Client": "\u0420\u0430\u0437\u0434\u0430\u0442\u0447\u0438\u0446\u0430 \u0437\u0430\u0434\u0430\u043D\u0438\u0439 \u0425\u0438\u043D\u043E\u0430",
+        "Description": "\u0414\u0440\u0435\u0432\u043D\u0438\u0435 \u0440\u0443\u043A\u043E\u043F\u0438\u0441\u0438 \u0433\u043E\u0432\u043E\u0440\u044F\u0442, \u0447\u0442\u043E\r\n\u044D\u0442\u043E \u0437\u0432\u0435\u0437\u0434\u0430 \u0437\u043B\u0430, \u043A\u043E\u043C\u0435\u0442\u0430, \u0447\u0442\u043E\r\n\u0441\u0432\u0435\u0442\u0438\u0442\u0441\u044F \u0437\u043B\u043E\u0432\u0435\u0449\u0438\u043C \u043A\u0440\u0430\u0441\u043D\u044B\u043C\r\n\u0441\u0432\u0435\u0442\u043E\u043C. \u0421 \u043A\u0430\u0436\u0434\u044B\u043C \u0434\u043D\u0435\u043C \u0441\u0432\u0435\u0447\u0435\u043D\u0438\u0435\r\n\u0432\u0441\u0435 \u0441\u0438\u043B\u044C\u043D\u0435\u0435, \u043E\u043D\u043E \u0443\u0436\u0435 \u0443\u0433\u0440\u043E\u0436\u0430\u0435\u0442\r\n\u043D\u0430\u0448\u0435\u0439 \u043F\u043B\u0430\u043D\u0435\u0442\u0435. \u041B\u0438\u0448\u044C \u0442\u0435\u0431\u0435 \u043F\u043E\u0434\r\n\u0441\u0438\u043B\u0443 \u0441\u0432\u0435\u0440\u0433\u043D\u0443\u0442\u044C \u0437\u043B\u043E \u0441 \u043D\u0435\u0431\u0435\u0441.",
+        "Target": "\u0423\u0431\u0438\u0442\u044C \u0410\u043B\u043E\u0433\u043E \u0412\u0430\u043B\u0441\u0442\u0440\u0430\u043A\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Zaawansowane: Karmazynowa zmora",
+        "Client": "Szefowa zada\u0144 Hinoa",
+        "Description": "Wed\u0142ug dawnych \u017Ar\u00F3de\u0142 jest to z\u0142a\r\ngwiazda \u2013 osobliwa kometa l\u015Bni\u0105ca\r\nz\u0142owrog\u0105 czerwieni\u0105. Karmazynowa\r\npo\u015Bwiata z ka\u017Cdym dniem nasila\r\nsi\u0119 i zdaje si\u0119, \u017Ce rozpo\u0142owi\r\nwkr\u00F3tce ziemi\u0119. Tylko ty masz moc\r\nuwolnienia nieba od tego z\u0142a.",
+        "Target": "Zabij Karmazynowego Valstraxa",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Avan\u00E7ado: Calamidade Rubra",
+        "Client": "Hinoa, a recrutadora",
+        "Description": "Os tomos antigos dizem que \u00E9\r\numa estrela do mal \u2014 um cometa\r\npeculiar que brilha num tom\r\nrubro agourento. A tonalidade\r\nfica mais forte a cada dia e\r\namea\u00E7a fender a pr\u00F3pria terra.\r\nS\u00F3 voc\u00EA pode deter esse mal.",
+        "Target": "Mate um Valstrax do Lume Rubro",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uACE0\uB09C\uC774\uB3C4: \uD601\uC694\uB3D9\uB780",
+        "Client": "\uB9C8\uC744 \uC811\uC218\uC6D0 \uD788\uB178\uC5D0",
+        "Description": "\uACE0\uBB38\uC11C\uC5D0 \u300C\uD749\uC131\u300D\uC774\uB77C \uAE30\uB85D\uB41C\r\n\uC601\uBB18\uD55C \uAD11\uCC44\uC758 \uCC9C\uD61C\uB8E1\u2026\r\n\uADF8 \uAD11\uCC44\uB294 \uB0A0\uB85C \uAC15\uD574\uC838 \r\n\uC9C0\uAE08\uC740 \uC138\uC0C1\uC744 \uC704\uD611\uD558\uACE0\r\n\uC788\uC2B5\uB2C8\uB2E4\u2026\u2026 \uB2F9\uC2E0\uB9CC\uC774\r\n\uC774 \uC704\uAE30\uB97C \uC774\uACA8\uB0BC \uC218 \uC788\uC2B5\uB2C8\uB2E4.\r\n\uD749\uC131\uC744 \uB5A8\uC5B4\uB728\uB824 \uC8FC\uC138\uC694.",
+        "Target": "\uC601\uBB18\uD55C \uAD11\uCC44\uC758 \uBC1C\uD30C\uB8E8\uD06C 1\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u9AD8\u96E3\u5EA6\uFF1A\u8D6B\u8000\u4E4B\u4E82",
+        "Client": "\u6751\u838A\u63A5\u5F85\u54E1\u706B\u82BD",
+        "Description": "\u5929\u5F57\u9F8D\u7684\u7570\u5F62\u578B\u614B\u300C\u79D8\u7D05\u8D6B\u8000\u300D\uFF0C\r\n\u70BA\u53E4\u4EE3\u6587\u737B\u4E2D\u6240\u8F09\u7684\u300C\u51F6\u661F\u300D\u2026\u2026\r\n\u90A3\u80A1\u8D6B\u7136\u9583\u8000\u7684\u5149\u8292\u6703\u4E0D\u65B7\u589E\u5F37\uFF0C\r\n\u6700\u7D42\u6210\u9577\u70BA\u5C07\u6574\u7247\u5927\u5730\r\n\u7834\u58DE\u6B86\u76E1\u7684\u53EF\u6015\u5A01\u8105\u2026\u2026\r\n\u80FD\u5920\u963B\u6B62\u7260\u7684\u5C31\u53EA\u6709\u60A8\u4E86\u3002\r\n\u8ACB\u60A8\u633A\u8EAB\u64CA\u589C\u9019\u9846\u51F6\u661F\u5427\u3002",
+        "Target": "\u8A0E\u4F101\u982D\u79D8\u7D05\u8D6B\u8000\u7684\u5929\u5F57\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u9AD8\u96BE\u5EA6\uFF1A\u8D6B\u8000\u52A8\u4E71",
+        "Client": "\u6751\u5E84\u63A5\u5F85\u5458\u706B\u82BD",
+        "Description": "\u53E4\u6587\u732E\u4E2D\u88AB\u79F0\u4E3A\u201C\u51F6\u661F\u201D\u7684\r\n\u5929\u5F57\u9F99\u5F02\u5F62\uFF0C\u795E\u79D8\u7EA2\u5149\u2026\u2026\r\n\u8D64\u7EA2\u5149\u8000\u65E5\u6E10\u5F3A\u5927\uFF0C\r\n\u6700\u7EC8\u5316\u4F5C\u5C06\u4E16\u95F4\u4E07\u7269\r\n\u7834\u574F\u6B86\u5C3D\u7684\u5A01\u80C1\u2026\u2026\r\n\u552F\u6709\u60A8\uFF0C\u80FD\u4E0E\u4E4B\u6297\u8861\u3002\r\n\u6073\u8BF7\u60A8\u53BB\u51FB\u843D\u8FD9\u9897\u51F6\u661F\u5427\uFF01",
+        "Target": "\u8BA8\u4F101\u5934\u795E\u79D8\u7EA2\u5149\u5929\u5F57\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0645\u062A\u0642\u062F\u0645: \u0627\u0644\u0643\u0627\u0631\u062B\u0629 \u0627\u0644\u0642\u0631\u0645\u0632\u064A\u0629",
+        "Client": "\u0647\u064A\u0646\u0648\u0627 \u0641\u062A\u0627\u0629 \u0627\u0644\u0645\u0647\u0627\u0645",
+        "Description": "\u062A\u062E\u0628\u0631\u0646\u0627 \u0627\u0644\u0645\u062C\u0644\u062F\u0627\u062A \u0627\u0644\u0642\u062F\u064A\u0645\u0629 \u0639\u0646 \u0646\u062C\u0645\r\n\u0634\u0631\u064A\u0631\u061B \u0645\u0630\u0646\u0651\u0628 \u063A\u0631\u064A\u0628 \u0645\u0634\u0639 \u0628\u0627\u0644\u0644\u0648\u0646\r\n\u0627\u0644\u0623\u062D\u0645\u0631 \u0627\u0644\u0645\u0634\u0624\u0648\u0645. \u0641\u064A \u0643\u0644 \u064A\u0648\u0645 \u0622\u062A\u060C\r\n\u062A\u0635\u0628\u062D \u062F\u0631\u062C\u0629 \u0627\u0644\u0644\u0648\u0646 \u0627\u0644\u0642\u0631\u0645\u0632\u064A \u0623\u0643\u062B\u0631\r\n\u0639\u0646\u0641\u064B\u0627 \u0648\u062A\u0647\u062F\u062F \u0628\u062A\u0642\u0633\u064A\u0645 \u0627\u0644\u0623\u0631\u0636.\r\n\u0648\u0623\u0646\u062A \u0648\u062D\u062F\u0643 \u0645\u0646 \u064A\u0633\u062A\u0637\u064A\u0639 \u0625\u064A\u0642\u0627\u0641\r\n\u0647\u0630\u0627 \u0627\u0644\u0634\u0631 \u0627\u0644\u0642\u0627\u062F\u0645 \u0645\u0646 \u0627\u0644\u0633\u0645\u0627\u0621.",
+        "Target": "\u0642\u062A\u0644 \u0641\u0627\u0644\u0633\u062A\u0631\u0627\u0643\u0633 \u0642\u0631\u0645\u0632\u064A \u0644\u0627\u0645\u0639",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      8,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1852,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1852,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 28080,
+      "Points": 850,
+      "HRP": 2690
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      73,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 105,
+      "AttackTable": 87,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

@@ -1,0 +1,350 @@
+{
+  "QuestID": 10611,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u304B\u3051\u3063\u3053\u6CE5\u3093\u3053\u5927\u9A12\u304E\uFF01\u3000\u306E\u5DFB",
+        "Client": "\u8336\u5C4B\u306E\u30E8\u30E2\u30AE",
+        "Description": "\u3046\u3055\u56E3\u5B50\u3092\u304A\u3044\u3057\u304F\u3059\u308B\u9B5A\u3092\r\n\u91E3\u308A\u306B\u3001\u6C34\u6CA1\u6797\u307E\u3067\u884C\u3063\u305F\u306E\uFF01\r\n\u68EE\u306F\u30B6\u30EF\u30B6\u30EF\u3057\u3066\u69D8\u5B50\u304C\u5909\u3060\u3057\u3001\r\n\u304A\u307E\u3051\u306B\u6CE5\u3093\u3053\u304C\u98DB\u3093\u3067\u304F\u308B\u3057\u3001\r\n\u304A\u9B5A\u91E3\u308A\u3069\u3053\u308D\u3058\u3083\u306A\u3044\u3088\u30FC\uFF01\r\n\u3084\u3093\u3061\u3083\u306A\u30E2\u30F3\u30B9\u30BF\u30FC\u305F\u3061\u306B\r\n\u304A\u7078\u3092\u30AD\u30E5\u30C3\u3068\u3059\u3048\u3066\u3042\u3052\u3066\uFF01",
+        "Target": "\u30CA\u30EB\u30AC\u30AF\u30EB\u30AC\uFF11\u982D\u3068\u30B8\u30E5\u30E9\u30C8\u30C9\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Do It for the Dango!",
+        "Client": "Yomogi the Chef",
+        "Description": "Grrrr! Stupid. Monsters. Everywhere!\r\nWhy won\u0027t they leave me alone? I go\r\nto one fishing spot\u2014Monster. I go to\r\na different spot\u2014ANOTHER MONSTER.\r\nWhy are they so rude!? Can you go let\r\nthose meanies know just how mad I am!?",
+        "Target": "Hunt a Nargacuga and a Jyuratodus",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Au nom des dango !",
+        "Client": "Yomogi la chef",
+        "Description": "Grrr ! Ces fichus monstres veulent\r\npas me l\u00E2cher, bon sang ! Partout\r\no\u00F9 je vais p\u00EAcher, ils me suivent !\r\nQuelqu\u0027un doit leur apprendre\r\nla politesse, alors s\u0027il te pla\u00EEt,\r\nva leur donner une bonne le\u00E7on\r\npour moi !",
+        "Target": "Chasser un Nargacuga et un Jyuratodus",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "In nome dei dango!",
+        "Client": "Yomogi la chef",
+        "Description": "Grrrr. Stupidi mostri! Sono\r\novunque! Perch\u00E9 non mi\r\nlasciano stare? Vado a pesca\r\nin un posto ed ecco un mostro.\r\nVado altrove e ne spunta un\r\naltro. Puoi far sapere a quei\r\ncattivoni che sono furiosa?!",
+        "Target": "Caccia un Nargacuga e un Jyuratodus",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Tu es f\u00FCr die Dango!",
+        "Client": "Yomogi die K\u00F6chin",
+        "Description": "Grrr! Bl\u00F6de. Monster. \u00DCberall! Warum\r\nlassen die mich nicht in Ruhe? Ich gehe\r\nzur einen Angelstelle: Monster. Ich gehe\r\nzur N\u00E4chsten: NOCH EIN MONSTER. Was\r\nsind die denn so ungehobelt?! Kannst du\r\nden Fieslingen von mir ausrichten, wie\r\nsauer ich bin?!",
+        "Target": "Erjage einen Nargacuga und\r\neinen Jyuratodus.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "\u00A1Hazlo por los dango!",
+        "Client": "Yomogi la chef",
+        "Description": "Fui al bosque a pescar mi\r\nalmuerzo, \u00A1pero nooo! \u00A1Alguien\r\nten\u00EDa que lanzar fango justo\r\ncuando picaban, \u00BFeh?! \u00BFPuedes\r\ndarle una lecci\u00F3n al gamberro\r\nque arruin\u00F3 mi captura? \u00A1Que\r\nvea lo enfadada que estoy!",
+        "Target": "Caza un Nargacuga y un Jyuratodus",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0414\u0435\u043B\u0430\u0439 \u044D\u0442\u043E \u0440\u0430\u0434\u0438 \u0434\u0430\u043D\u0433\u043E!",
+        "Client": "\u041F\u043E\u0432\u0430\u0440 \u0419\u043E\u043C\u043E\u0433\u0438",
+        "Description": "\u0420-\u0440-\u0440! \u0413\u043B\u0443\u043F\u044B\u0435 \u043C\u043E\u043D\u0441\u0442\u0440\u044B! \u041E\u043D\u0438\r\n\u043F\u043E\u0432\u0441\u044E\u0434\u0443! \u041A\u043E\u0433\u0434\u0430 \u0436 \u043E\u043D\u0438 \u043E\u0441\u0442\u0430\u0432\u044F\u0442\r\n\u043C\u0435\u043D\u044F \u0432 \u043F\u043E\u043A\u043E\u0435? \u0418\u0434\u0443 \u0440\u044B\u0431\u0430\u0447\u0438\u0442\u044C \u2014\r\n\u0442\u0430\u043C \u043C\u043E\u043D\u0441\u0442\u0440. \u0412 \u0434\u0440\u0443\u0433\u043E\u0435 \u043C\u0435\u0441\u0442\u043E\r\n\u0438\u0434\u0443 \u2014 \u0418 \u0422\u0410\u041C \u041C\u041E\u041D\u0421\u0422\u0420! \u0427\u0442\u043E \u0437\u0430\r\n\u043C\u0430\u043D\u0435\u0440\u044B? \u0422\u044B \u043C\u043E\u0436\u0435\u0448\u044C \u0438\u043C\r\n\u043E\u0431\u044A\u044F\u0441\u043D\u0438\u0442\u044C, \u0447\u0442\u043E \u0442\u0430\u043A \u043D\u0435\u043B\u044C\u0437\u044F?",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u041D\u0430\u0440\u0433\u0430\u043A\u0443\u0433\u0443 \u0438 \u042E\u0440\u0430\u0442\u043E\u0434\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Zr\u00F3b to dla dango!",
+        "Client": "Kucharka Yomogi",
+        "Description": "Grrr! G\u0142upie potwory. Wsz\u0119dzie ich\r\npe\u0142no! Czemu nie dadz\u0105 mi\r\nspokoju? Id\u0119 na \u0142owisko \u2013 potw\u00F3r.\r\nId\u0119 na inne \u0142owisko \u2013 potw\u00F3r. Id\u0119\r\njeszcze gdzie indziej \u2013 ZNOWU\r\nPOTW\u00D3R. Co za prymitywy! Mo\u017Cesz\r\ni\u015B\u0107 i powiedzie\u0107 im do s\u0142uchu?",
+        "Target": "Upoluj Nargacuga i Jyuratodusa",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Fa\u00E7a isso pelo dango!",
+        "Client": "Yomogi, a chef",
+        "Description": "Grrr! Monstros. Idiotas. Em toda parte!\r\nPor que eles n\u00E3o me deixam em paz?\r\nEu vou pra um ponto de pesca: Monstro.\r\nEu vou pra um lugar diferente: OUTRO\r\nMONSTRO. Por que eles s\u00E3o t\u00E3o chatos?!\r\nVoc\u00EA pode ir l\u00E1 mostrar pra eles o\r\nquanto eu t\u00F4 furioso?!",
+        "Target": "Cace um Nargacuga e um Jyuratodus",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC9C4\uD759\uD0D5 \uB2EC\uB9AC\uAE30 \uB300\uC18C\uB3D9! \uD3B8",
+        "Client": "\uCC3B\uC9D1\uC758 \uC694\uBAA8\uAE30",
+        "Description": "\uB9DB\uC788\uB294 \uD1A0\uB07C \uACBD\uB2E8\uC744 \uB9CC\uB4E4\uB824\uACE0\r\n\uC218\uBAB0\uB41C \uC232\uC5D0 \uB09A\uC2DC\uB97C \uD558\uB7EC \uAC14\uC5B4!\r\n\uADF8\uB7F0\uB370 \uC660\uC9C0 \uBD84\uC704\uAE30\uB294 \uC774\uC0C1\uD558\uC9C0,\r\n\uC9C4\uD759\uC740 \uC5EC\uAE30\uC800\uAE30 \uB0A0\uC544\uB2E4\uB2C8\uC9C0\u2026\r\n\uB3C4\uC800\uD788 \uB09A\uC2DC\uB97C \uD560 \uC218\uAC00 \uC5C6\uC5B4!\r\n\uC790\uAFB8 \uC7A5\uB09C\uCE58\uB294 \uBAAC\uC2A4\uD130\uB4E4\uC5D0\uAC8C\r\n\uBCF8\uB54C\uB97C \uBCF4\uC5EC \uC918!",
+        "Target": "\uB098\uB974\uAC00\uCFE0\uB974\uAC00 1\uB9C8\uB9AC\uC640\r\n\uC96C\uB77C\uD1A0\uB3C4\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6CE5\u5DF4\u56DB\u6FFA\u5927\u9A37\u52D5\u4E4B\u5377",
+        "Client": "\u8336\u9928\u8001\u95C6\u827E\u8349",
+        "Description": "\u6211\u70BA\u4E86\u91E3\u80FD\u5920\u589E\u6DFB\u5154\u5154\u7CF0\u5B50\r\n\u98A8\u5473\u7684\u9B5A\uFF0C\u6240\u4EE5\u53BB\u4E86\u4E00\u8D9F\u6C34\u6C92\u6797\uFF01\r\n\u4F46\u662F\u68EE\u6797\u4E0D\u592A\u5BE7\u975C\uFF0C\u611F\u89BA\u602A\u602A\u7684\uFF0C\r\n\u800C\u4E14\u9084\u6709\u6CE5\u5DF4\u98DB\u904E\u4F86\uFF0C\r\n\u6839\u672C\u6C92\u8FA6\u6CD5\u91E3\u9B5A\u561B\uFF5E\uFF01\r\n\u8ACB\u4F60\u597D\u597D\u6559\u8A13\u4E00\u4E0B\r\n\u8ABF\u76AE\u6417\u86CB\u7684\u9B54\u7269\uFF01",
+        "Target": "\u72E9\u73751\u982D\u8FC5\u9F8D\u82071\u982D\u6CE5\u9B5A\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u201C\u8D5B\u8DD1\u6CE5\u5DF4\u5927\u9A9A\u52A8\uFF01\u201D\u4E4B\u5377",
+        "Client": "\u8336\u70B9\u5E97\u5E97\u4E3B\u827E\u8349",
+        "Description": "\u4E3A\u4E86\u9493\u5230\u8BA9\u5154\u56E2\u5B50\u53D8\u7F8E\u5473\u7684\u9C7C\uFF0C\r\n\u6211\u53BB\u4E86\u6C34\u6CA1\u6797\uFF01\r\n\u68EE\u6797\u91CC\u5F88\u5608\u6742\uFF0C\u4E0D\u592A\u5BF9\u52B2\uFF0C\r\n\u800C\u4E14\u8FD8\u6709\u6CE5\u5DF4\u5728\u98DE\uFF0C\r\n\u8FD9\u54EA\u8FD8\u987E\u5F97\u4E0A\u9493\u9C7C\u554A\u2014\u2014\uFF01\r\n\u9EBB\u70E6\u4F60\u53BB\u597D\u597D\u6559\u8BAD\u4E00\u4E0B\r\n\u8C03\u76AE\u7684\u602A\u7269\u4EEC\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u8FC5\u9F99\u548C1\u5934\u6CE5\u9C7C\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u003CLSNR {\u0627\u0641\u0639\u0644} {\u0627\u0641\u0639\u0644\u064A}\u003E \u0647\u0630\u0627 \u0645\u0646 \u0623\u062C\u0644 \u0627\u0644\u062F\u0627\u0646\u062C\u0648!",
+        "Client": "\u0627\u0644\u0637\u0628\u0627\u062E\u0629 \u064A\u0648\u0645\u0648\u062C\u064A",
+        "Description": "\u062C\u0631\u0631\u0631! \u0627\u0644\u0648\u062D\u0648\u0634. \u0627\u0644\u063A\u0628\u064A\u0629. \u0641\u064A \u0643\u0644\r\n\u0645\u0643\u0627\u0646! \u0644\u0645\u064E \u0644\u0627 \u064A\u062A\u0631\u0643\u0648\u0646\u064A \u0648\u0634\u0623\u0646\u064A\u061F \u0623\u0630\u0647\u0628\r\n\u0625\u0644\u0649 \u0645\u0648\u0642\u0639 \u0635\u064A\u062F\u060C \u0644\u0623\u062C\u062F \u0648\u062D\u0634\u064B\u0627. \u0623\u0630\u0647\u0628\r\n\u0644\u0645\u0648\u0642\u0639 \u0635\u064A\u062F \u0645\u062E\u062A\u0644\u0641\u060C \u0648\u062D\u0634 \u0622\u062E\u0631. \u0644\u0645\u0627\u0630\u0627\r\n\u0647\u0645 \u0648\u0642\u062D\u0648\u0646 \u062C\u062F\u064B\u0627!\u061F \u003CLSNR {\u0623\u064A\u0645\u0643\u0646\u0643} {\u0623\u064A\u0645\u0643\u0646\u0643\u0650}\u003E \u0623\u0646\r\n\u003CLSNR {\u062A\u064F\u0639\u0644\u0645} {\u062A\u064F\u0639\u0644\u0645\u064A}\u003E \u0647\u0624\u0644\u0627\u0621 \u0627\u0644\u062F\u0646\u064A\u0626\u064A\u0646 \u0645\u062F\u0649 \u063A\u0636\u0628\u064A\u061F",
+        "Target": "\u0635\u064A\u062F \u0646\u0627\u0631\u062C\u0627\u0643\u0648\u062C\u0627 \u0648\u062C\u064A\u0648\u0631\u0627\u062A\u0648\u062F\u0648\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 2,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      44,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 44,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 19,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 62,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1366,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 102,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 12240,
+      "Points": 250,
+      "HRP": 880
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      12,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 6,
+      "HealthTable": 101,
+      "AttackTable": 83,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

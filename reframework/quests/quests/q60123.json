@@ -1,0 +1,350 @@
+{
+  "QuestID": 60123,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u592B\u5A66\u3052\u3093\u304B\u306F\u30AC\u30EB\u30AF\u3082\u98DF\u308F\u306A\u3044",
+        "Client": "\u91CC\u9577\u30D5\u30B2\u30F3",
+        "Description": "\u6050\u308D\u3057\u304F\u5F37\u3044\u30CC\u30B7\u306E\u30EA\u30AA\u30EC\u30A6\u30B9\u3068\r\n\u30EA\u30AA\u30EC\u30A4\u30A2\u304C\u3001\u5927\u793E\u8DE1\u3067\u904E\u6FC0\u306A\r\n\u592B\u5A66\u3052\u3093\u304B\u3092\u7E70\u308A\u5E83\u3052\u3066\u3044\u308B\uFF01\r\n\u300C\u592B\u5A66\u3052\u3093\u304B\u306F\u72AC\u3082\u98DF\u308F\u306A\u3044\u300D\u3068\r\n\u8A00\u3046\u304C\u3001\u30E2\u30F3\u30B9\u30BF\u30FC\u540C\u58EB\u3068\u306A\u308C\u3070\r\n\u8A71\u306F\u5225\u3060\u3002\u91CC\u306B\u88AB\u5BB3\u304C\u53CA\u3076\u524D\u306B\u3001\r\n\u307E\u3068\u3081\u3066\u9000\u6CBB\u3057\u3066\u304F\u308C\uFF01",
+        "Target": "\u30CC\u30B7\u30FB\u30EA\u30AA\u30EC\u30A6\u30B9\uFF11\u982D\u3068\r\n\u30CC\u30B7\u30FB\u30EA\u30AA\u30EC\u30A4\u30A2\uFF11\u982D\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Trouble in Paradise",
+        "Client": "Fugen the Elder",
+        "Description": "An Apex Rathalos and Rathian\r\nare hollerin\u0027 at each other over in\r\nthe Shrine Ruins! They say don\u0027t\r\nget involved in a couple\u0027s fight,\r\nbut we better put a stop to this\r\none before it really heats up and\r\nburns the whole place down!",
+        "Target": "Slay an Apex Rathalos and\r\nan Apex Rathian",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Querelle de couple",
+        "Client": "Fugen l\u0027Ancien",
+        "Description": "Un Rathalos sup\u00E9rieur et une\r\nRathian se battent au Temple\r\noubli\u00E9 ! D\u0027ordinaire, je pr\u00E9f\u00E8re\r\n\u00E9viter les querelles de couple,\r\nmais l\u00E0, il faut intervenir avant\r\nqu\u0027ils ne d\u00E9truisent tout\r\nsur leur passage !",
+        "Target": "Tuer un Rathalos sup\u00E9rieur et\r\nune Rathian sup\u00E9rieure",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Problemi in paradiso",
+        "Client": "Fugen l\u0027anziano",
+        "Description": "Un Rathalos Apex e una Rathian\r\nApex si azzuffano alle Rovine\r\nsacre. Tra moglie e marito\r\nnon si dovrebbe mettere il dito,\r\nma stavolta faremmo meglio a\r\nintervenire prima che quei due\r\nriducano tutto in cenere!",
+        "Target": "Uccidi un Rathalos Apex e\r\nuna Rathian Apex",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "\u00C4rger im Paradies",
+        "Client": "Fogen der \u00C4lteste",
+        "Description": "Ein Apex-Rathalos und eine\r\nRathian br\u00FCllen sich in den\r\nHeiligen Ruinen an! Es hei\u00DFt,\r\nim Liebesstreit sollte man nicht\r\neingreifen, aber diesem machen\r\nwir lieber ein Ende, bevor sie\r\nalles hier verbrennen!",
+        "Target": "Erlege einen Apex-Rathalos\r\nund eine Apex-Rathian.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Problemas en el Para\u00EDso",
+        "Client": "Fugen el anciano",
+        "Description": "\u00A1Hay un Rathalos y una Rathian\r\nApex aull\u00E1ndose en el Templo\r\nolvidado! Dicen que no hay que\r\nmeterse en cosas de pareja,\r\npero si no ponemos fin a esto,\r\n\u00A1acabar\u00E1n inciner\u00E1ndonos en el\r\nproceso!",
+        "Target": "Abate un Rathalos Apex y\r\nuna Rathian Apex",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041D\u0435\u043F\u0440\u0438\u044F\u0442\u043D\u043E\u0441\u0442\u0438 \u0432 \u0440\u0430\u044E",
+        "Client": "\u0421\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u043D\u0430 \u0424\u0443\u0433\u044D\u043D",
+        "Description": "\u0412\u044B\u0441\u0448\u0438\u0439 \u0420\u0430\u0442\u0430\u043B\u043E\u0441 \u0438 \u0420\u0430\u0442\u0438\u0430\u043D\u0430\r\n\u0443\u0441\u0442\u0440\u043E\u0438\u043B\u0438 \u0431\u0443\u0447\u0443 \u043D\u0430 \u0420\u0443\u0438\u043D\u0430\u0445\r\n\u0441\u0432\u044F\u0442\u0438\u043B\u0438\u0449\u0430! \u041E\u0431\u044B\u0447\u043D\u043E \u0433\u043E\u0432\u043E\u0440\u044F\u0442,\r\n\u0447\u0442\u043E \u0432 \u0447\u0443\u0436\u0443\u044E \u0441\u0441\u043E\u0440\u0443 \u043B\u0435\u0437\u0442\u044C\r\n\u043D\u0435\u0433\u043E\u0436\u0435, \u043D\u043E \u044D\u0442\u0443 \u0434\u0440\u0430\u043A\u0443 \u043F\u043E\u0440\u0430\r\n\u043F\u0440\u0435\u043A\u0440\u0430\u0442\u0438\u0442\u044C, \u043F\u043E\u043A\u0430 \u043E\u043D\u0438 \u0442\u0430\u043C \u0432\u0441\u0435\r\n\u043D\u0435 \u0441\u043F\u0430\u043B\u0438\u043B\u0438!",
+        "Target": "\u0423\u0431\u0438\u0442\u044C \u0432\u044B\u0441\u0448\u0435\u0433\u043E \u0420\u0430\u0442\u0430\u043B\u043E\u0441\u0430 \u0438 \u0432\u044B\u0441\u0448\u0443\u044E \u0420\u0430\u0442\u0438\u0430\u043D\u0443",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "K\u0142opoty w raju",
+        "Client": "Starszy Fugen",
+        "Description": "Apeksy Rathalos i Rathiana maj\u0105\r\nsprzeczk\u0119 w Ruinach \u015Awi\u0105tynnych!\r\nPono\u0107 nie nale\u017Cy si\u0119 wtr\u0105ca\u0107 do\r\ndamsko-m\u0119skich k\u0142\u00F3tni, ale trzeba\r\nsi\u0119 tym zaj\u0105\u0107, zanim zrobi si\u0119\r\nnaprawd\u0119 gor\u0105co i wszystko\r\np\u00F3jdzie z dymem!",
+        "Target": "Zabij Apeksa Rathalosa i Apeksa Rathian\u0119",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Encrenca no Para\u00EDso",
+        "Client": "Fugen, o anci\u00E3o",
+        "Description": "Um Rathalos Alfa e uma Rathian\r\nAlfa est\u00E3o rosnando um pro\r\noutro nas Ru\u00EDnas do Templo!\r\nDizem que \u00E9 bom n\u00E3o se meter\r\nem briga de casal, mas acho\r\nmelhor por fim nisso antes que\r\nesquente demais!",
+        "Target": "Mate um Rathalos Alfa\r\ne uma Rathian Alfa",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uBD80\uBD80 \uC2F8\uC6C0\uC740 \uD0DC\uB3C4\uB85C \uBB3C \uBCA0\uAE30",
+        "Client": "\uCD0C\uC7A5 \uD6C4\uAC90",
+        "Description": "\uBB34\uC2DC\uBB34\uC2DC\uD55C \uC8FC\uC778 \uB9AC\uC624\uB808\uC6B0\uC2A4\uC640\r\n\uB9AC\uC624\uB808\uC774\uC544\uAC00 \uC0AC\uC6D0 \uD3D0\uD5C8\uC5D0\uC11C\r\n\uBD80\uBD80 \uC2F8\uC6C0\uC744 \uD558\uACE0 \uC788\uB2E4!\r\n\u300C\uBD80\uBD80 \uC2F8\uC6C0\uC740 \uCE7C\uB85C \uBB3C \uBCA0\uAE30\u300D\r\n\uB77C\uC9C0\uB9CC, \uBAAC\uC2A4\uD130\uB07C\uB9AC \uC2F8\uC6B0\uB294 \uAC74\r\n\uB610 \uB2E4\uB974\uC9C0. \uB9C8\uC744\uC5D0 \uD53C\uD574\uAC00\r\n\uC0DD\uAE30\uAE30 \uC804\uC5D0 \uD1F4\uCE58\uD558\uACE0 \uC640\uB77C!",
+        "Target": "\uC8FC\uC778 \uB9AC\uC624\uB808\uC6B0\uC2A4 1\uB9C8\uB9AC\uC640\r\n\uC8FC\uC778 \uB9AC\uC624\uB808\uC774\uC544 1\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5E8A\u982D\u5435\u5E8A\u5C3E\u548C",
+        "Client": "\u6751\u9577\u5085\u8CE2",
+        "Description": "\u5F37\u5927\u7684\u9996\u9818\u706B\u9F8D\u8207\u96CC\u706B\u9F8D\u592B\u5A66\r\n\u6B63\u5728\u5927\u793E\u907A\u8DE1\u5435\u5F97\u706B\u71B1\uFF01\r\n\u96D6\u7136\u4FD7\u8A71\u8AAA\u300C\u5E8A\u982D\u5435\u5E8A\u5C3E\u548C\u300D\uFF0C\r\n\u4F46\u5957\u7528\u5728\u9B54\u7269\u4E0A\u53EF\u5C31\u4E0D\u4E00\u6A23\u4E86\u3002\r\n\u8ACB\u4F60\u5728\u6751\u838A\u906D\u53D7\u6CE2\u53CA\u4E4B\u524D\r\n\u64CA\u9000\u7260\u5011\u5169\u500B\u5427\uFF01",
+        "Target": "\u8A0E\u4F101\u982D\u9996\u9818\u706B\u9F8D\r\n\u82071\u982D\u9996\u9818\u96CC\u706B\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6E05\u5B98\u96BE\u65AD\u706B\u9F99\u4E8B",
+        "Client": "\u6751\u957F\u666E\u8D24",
+        "Description": "\u53EF\u6015\u800C\u5F3A\u5927\u7684\u9738\u4E3B\u706B\u9F99\u4E0E\u96CC\u706B\u9F99\r\n\u5728\u5E9F\u795E\u793E\u5C55\u5F00\u4E86\u6FC0\u70C8\u7684\u592B\u59BB\u5435\u67B6\uFF01\r\n\u90FD\u8BF4\u201C\u6E05\u5B98\u96BE\u65AD\u5BB6\u52A1\u4E8B\u201D\uFF0C\r\n\u4F46\u5982\u679C\u5435\u67B6\u7684\u662F\u602A\u7269\u7684\u8BDD\uFF0C\r\n\u90A3\u53EF\u5C31\u53E6\u5F53\u522B\u8BBA\u4E86\u3002\r\n\u5728\u5371\u5BB3\u6CE2\u53CA\u5230\u6751\u5B50\u4E4B\u524D\uFF0C\r\n\u5C06\u5B83\u4EEC\u53CC\u53CC\u51FB\u9000\u5427\uFF01",
+        "Target": "\u8BA8\u4F101\u5934\u9738\u4E3B\u30FB\u706B\u9F99\u548C1\u5934\u9738\u4E3B\u30FB\u96CC\u706B\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0639\u0646\u0627\u0621 \u0641\u064A \u0627\u0644\u062C\u0646\u0629",
+        "Client": "\u0627\u0644\u0645\u0639\u0645\u0651\u0631 \u0641\u064A\u0648\u062C\u064A\u0646",
+        "Description": "\u064A\u0635\u0631\u062E \u0627\u0644\u0648\u062D\u0634\u0627\u0646 \u0627\u0644\u0639\u0644\u0648\u064A\u0627\u0646 \u0631\u0627\u0630\u0627\u0644\u0648\u0633\r\n\u0648\u0631\u0627\u062B\u064A\u0627\u0646 \u0639\u0644\u0649 \u0628\u0639\u0636\u0647\u0645\u0627 \u0641\u064A\r\n\u0623\u0637\u0644\u0627\u0644 \u0627\u0644\u0636\u0631\u064A\u062D! \u064A\u0642\u0648\u0644\u0648\u0646 \u0644\u0627 \u062A\u062F\u062E\u0644\r\n\u0641\u064A \u0642\u062A\u0627\u0644 \u0628\u064A\u0646 \u0627\u062B\u0646\u064A\u0646 \u0628\u064A\u0646\u0645\u0627 \u0645\u0646\r\n\u0627\u0644\u0623\u0641\u0636\u0644 \u0623\u0646 \u0646\u0636\u0639 \u062D\u0644\u064B\u0627 \u0644\u0648\u0642\u0641 \u0627\u0644\u0642\u062A\u0627\u0644\r\n\u0642\u0628\u0644 \u0623\u0646 \u064A\u0634\u062A\u0639\u0644 \u0648\u064A\u064F\u062D\u0631\u0642\r\n\u0627\u0644\u0645\u0643\u0627\u0646 \u0628\u0623\u0633\u0631\u0647!",
+        "Target": "\u0642\u062A\u0644 \u0627\u0644\u0648\u062D\u0634 \u0627\u0644\u0639\u0644\u0648\u064A \u0631\u0627\u0630\u0627\u0644\u0648\u0633 \u0648\r\n\u0627\u0644\u0648\u062D\u0634 \u0627\u0644\u0639\u0644\u0648\u064A \u0631\u0627\u062B\u064A\u0627\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      8,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1849,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1849,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 27360,
+      "Points": 830,
+      "HRP": 2060
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      72,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 105,
+      "AttackTable": 87,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

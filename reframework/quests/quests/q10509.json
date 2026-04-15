@@ -1,0 +1,350 @@
+{
+  "QuestID": 10509,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u5CA9\u306E\u4E0A\u306B\u3082\u4E09\u5E74",
+        "Client": "\u719F\u7DF4\u306E\u63A1\u6398\u8005",
+        "Description": "\u6700\u8FD1\u3001\u3046\u3061\u306E\u82E5\u3044\u3082\u3093\u304C\u80CC\u5F8C\u304B\u3089\r\n\u8972\u308F\u308C\u3066\u602A\u6211\u3057\u3066\u5E30\u3063\u3066\u6765\u308B\u3002\r\n\u3042\u308A\u3083\u3042\u3001\u30D0\u30B5\u30EB\u30E2\u30B9\u3060\u306A\u2026\u3002\r\n\u6C17\u3092\u4ED8\u3051\u308B\u306B\u3057\u3066\u3082\u9650\u754C\u306F\u3042\u308B\u3002\r\n\u305D\u3046\u3044\u3046\u308F\u3051\u3067\u72E9\u731F\u306E\u4F9D\u983C\u3060\u3002\r\n\u3053\u308C\u306F\u30CF\u30F3\u30BF\u30FC\u306B\u3057\u304B\u3067\u304D\u306A\u3044\r\n\u4ED5\u4E8B\u3060\u304B\u3089\u306A\u3001\u983C\u3093\u3060\u305E\u3002",
+        "Target": "\u30D0\u30B5\u30EB\u30E2\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Miner Problem",
+        "Client": "Veteran Miner",
+        "Description": "Had a new guy on the team get pretty\r\nmessed up by a Basarios. He came\r\nacross a boulder juttin\u0027 up out of the\r\nground and thought he hit the jackpot.\r\nPoor kid didn\u0027t know what he was\r\ndoing when he planted a pickaxe\r\nsquare in the monster\u0027s rocky rear.",
+        "Target": "Hunt a Basarios",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "La bonne pioche ?",
+        "Client": "Mineur de longue date",
+        "Description": "Un petit nouveau s\u0027est fait attaquer\r\npar un Basarios. Le pauvre a cru\r\nque c\u0027\u00E9tait un rocher de valeur\r\nquand il a d\u00E9cid\u00E9 de le frapper\r\navec sa pioche. Je t\u0027explique pas\r\nla surprise quand il a r\u00E9alis\u00E9 que\r\nc\u0027\u00E9tait le popotin d\u0027un Basarios.",
+        "Target": "Chasser un Basarios",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Il problema del minatore",
+        "Client": "Minatore esperto",
+        "Description": "Un nuovo lavoratore \u00E8 stato\r\nattaccato da un Basarios. Aveva\r\ntrovato un masso che spuntava\r\ndal terreno e pensava di aver\r\nfatto fortuna. Poverino, non\r\nsapeva di piantare il piccone\r\nnel didietro del mostro...",
+        "Target": "Caccia un Basarios",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Anf\u00E4ngerfehler",
+        "Client": "Erfahrener Bergarbeiter",
+        "Description": "Ein Neuer im Team wurde von einem\r\nBasarios \u00FCbel zugerichtet. Er kam an\r\neinem aus dem Boden ragenden\r\nFelsblock vorbei und hat sich schon die\r\nH\u00E4nde gerieben. Er hatte keine Ahnung,\r\nwas er da tat, als er die Spitzhacke\r\nvon hinten in das Monster trieb.",
+        "Target": "Erjage einen Basarios.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Problema minero",
+        "Client": "Minero veterano",
+        "Description": "Tenemos a un chico nuevo en el\r\nequipo que se las ha visto con\r\nun Basarios. Vio lo que pens\u00F3\r\nque era una roca enorme que\r\nsobresal\u00EDa del suelo y le dio\r\ncon todo el pico. Ya te puedes\r\nimaginar lo que pas\u00F3 luego.",
+        "Target": "Caza un Basarios",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041F\u0440\u043E\u0431\u043B\u0435\u043C\u0430 \u0448\u0430\u0445\u0442\u0435\u0440\u0430",
+        "Client": "\u0428\u0430\u0445\u0442\u0435\u0440-\u0432\u0435\u0442\u0435\u0440\u0430\u043D",
+        "Description": "\u041D\u043E\u0432\u0438\u0447\u043A\u0443 \u0441\u0438\u043B\u044C\u043D\u043E \u0434\u043E\u0441\u0442\u0430\u043B\u043E\u0441\u044C \u043E\u0442\r\n\u0411\u0430\u0437\u0430\u0440\u0438\u043E\u0441\u0430. \u041E\u043D \u043D\u0430\u0442\u043A\u043D\u0443\u043B\u0441\u044F \u043D\u0430\r\n\u043A\u0430\u043C\u0435\u043D\u044C, \u0442\u043E\u0440\u0447\u0430\u0449\u0438\u0439 \u0438\u0437 \u0437\u0435\u043C\u043B\u0438,\r\n\u0438 \u0440\u0435\u0448\u0438\u043B, \u0447\u0442\u043E \u0442\u0443\u0442-\u0442\u043E \u0435\u043C\u0443\r\n\u0438 \u043F\u043E\u0432\u0435\u0437\u043B\u043E. \u0411\u0435\u0434\u043E\u043B\u0430\u0433\u0430 \u043F\u0440\u043E\u0441\u0442\u043E \u043D\u0435\r\n\u0437\u043D\u0430\u043B, \u0432\u043E \u0447\u0442\u043E \u0432\u043F\u0443\u0442\u0430\u043B\u0441\u044F \u2014 \u043E\u043D\r\n\u0432\u0441\u0430\u0434\u0438\u043B \u043A\u0438\u0440\u043A\u0443 \u043F\u0440\u044F\u043C\u043E \u0432 \u043C\u043E\u043D\u0441\u0442\u0440\u0430.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0411\u0430\u0437\u0430\u0440\u0438\u043E\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "G\u00F3rniczy problem",
+        "Client": "Do\u015Bwiadczony g\u00F3rnik",
+        "Description": "Jeden nowy w naszym zespole\r\nzosta\u0142 nie\u017Ale za\u0142atwiony przez\r\nBasariosa. Natkn\u0105\u0142 si\u0119 na g\u0142az\r\nwystaj\u0105cy z ziemi i my\u015Bla\u0142, \u017Ce\r\ntrafi\u0142 jak na loterii. Nie\r\nwiedzia\u0142, \u017Ce wbija kilof\r\nw kamienny zadek potwora...",
+        "Target": "Upoluj Basariosa",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "O problema do mineiro",
+        "Client": "Mineiro veterano",
+        "Description": "Um cara novo na equipe ficou muito\r\nconfuso com um Basarios. Ele se deparou\r\ncom uma rocha se projetando do ch\u00E3o e\r\npensou que tinha tirado a sorte grande.\r\nO pobre rapaz n\u00E3o sabia o que tava\r\nfazendo quando plantou uma picareta na\r\nretaguarda rochosa do monstro.",
+        "Target": "Cace um Basarios",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uBC14\uC704 \uC704\uC5D0\uC11C\uB3C4 3\uB144",
+        "Client": "\uC219\uB828\uB41C \uAD11\uBD80",
+        "Description": "\uC694\uC998 \uC6B0\uB9AC \uC560\uB4E4\uC774 \uB4F1 \uB4A4\uC5D0\uC11C\r\n\uACF5\uACA9\uC744 \uBC1B\uACE0 \uB2E4\uCE5C \uCC44\uB85C \uB3CC\uC544\uC640.\r\n\uD2C0\uB9BC\uC5C6\uC774 \uBC14\uC0B4\uBAA8\uC2A4 \uC9D3\uC774\uC57C\u2026\r\n\uC870\uC2EC\uD558\uB294 \uAC83\uB9CC\uC73C\uB85C\uB294 \uBD80\uC871\uD574.\r\n\uADF8\uB798\uC11C \uC0AC\uB0E5\uD574 \uC92C\uC73C\uBA74 \uD55C\uB2E4.\r\n\uC774\uAC74 \uD5CC\uD130\uB9CC\uC774 \uD560 \uC218 \uC788\uB294\r\n\uC77C\uC774\uB2C8\uAE4C\u2026 \uBD80\uD0C1\uD55C\uB2E4.",
+        "Target": "\uBC14\uC0B4\uBAA8\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6709\u5FD7\u8005\u4E8B\u7ADF\u6210",
+        "Client": "\u719F\u7DF4\u7684\u63A1\u6398\u8005",
+        "Description": "\u6700\u8FD1\u6211\u624B\u4E0B\u7684\u5E74\u8F15\u4EBA\uFF0C\r\n\u5F9E\u80CC\u5F8C\u906D\u5230\u8972\u64CA\u800C\u8CA0\u50B7\u6B78\u4F86\u3002\r\n\u4F9D\u6211\u770B\uFF0C\u9019\u4E00\u5B9A\u662F\u5CA9\u9F8D\u641E\u7684\u9B3C\u2026\u2026\r\n\u5C31\u7B97\u518D\u600E\u9EBC\u5C0F\u5FC3\u4E5F\u7121\u6CD5\u5B8C\u5168\u9632\u7BC4\uFF0C\r\n\u6240\u4EE5\u6211\u60F3\u59D4\u8A17\u5176\u4ED6\u4EBA\u53BB\u72E9\u7375\u3002\r\n\u9019\u662F\u53EA\u6709\u7375\u4EBA\u624D\u80FD\u52DD\u4EFB\u7684\u5DE5\u4F5C\uFF0C\r\n\u842C\u4E8B\u62DC\u8A17\u4E86\u3002",
+        "Target": "\u72E9\u73751\u982D\u5CA9\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6EF4\u6C34\u7A7F\u5CA9",
+        "Client": "\u719F\u7EC3\u7684\u91C7\u6398\u8005",
+        "Description": "\u6700\u8FD1\uFF0C\u6211\u90A3\u513F\u7684\u5E74\u8F7B\u4EBA\r\n\u88AB\u80CC\u540E\u88AD\u51FB\uFF0C\u53D7\u4E86\u4F24\u56DE\u6765\u3002\r\n\u90A3\u5927\u6982\uFF0C\u662F\u5CA9\u9F99\u5E72\u7684\u554A\u2026\u2026\r\n\u5C31\u7B97\u518D\u8C28\u614E\uFF0C\u4EBA\u4E5F\u662F\u6709\u6781\u9650\u7684\u3002\r\n\u6240\u4EE5\u6211\u6765\u59D4\u6258\u4F60\u53BB\u72E9\u730E\u3002\r\n\u8FD9\u662F\u53EA\u6709\u730E\u4EBA\u624D\u80FD\u5B8C\u6210\u7684\u5DE5\u4F5C\uFF0C\r\n\u62DC\u6258\u4F60\u4E86\u3002",
+        "Target": "\u72E9\u730E1\u5934\u5CA9\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0645\u0634\u0643\u0644\u0629 \u0639\u0627\u0645\u0644 \u0627\u0644\u0645\u0646\u062C\u0645",
+        "Client": "\u0639\u0627\u0645\u0644 \u0645\u0646\u062C\u0645 \u0645\u062E\u0636\u0631\u0645",
+        "Description": "\u0623\u0635\u0627\u0628 \u0628\u0627\u0633\u0627\u0631\u064A\u0648\u0633 \u0623\u062D\u062F \u0627\u0644\u0631\u062C\u0627\u0644 \u0627\u0644\u062C\u062F\u062F\r\n\u0641\u064A \u0627\u0644\u0641\u0631\u064A\u0642 \u0648\u0623\u0635\u0628\u062D \u0641\u064A \u062D\u0627\u0644\u0629 \u0633\u064A\u0626\u0629. \r\n\u0639\u0628\u0631 \u062E\u0644\u0627\u0644 \u0635\u062E\u0631\u0629 \u0643\u0628\u064A\u0631\u0629 \u0628\u0627\u0631\u0632\u0629\r\n\u0645\u0646 \u0627\u0644\u0623\u0631\u0636 \u0648\u0638\u0646 \u0623\u0646\u0647 \u0641\u0627\u0632 \u0628\u0627\u0644\u062C\u0627\u0626\u0632\u0629\r\n\u0627\u0644\u0643\u0628\u0631\u0649. \u0644\u0645 \u064A\u0643\u0646 \u0627\u0644\u0645\u0633\u0643\u064A\u0646 \u064A\u0639\u0631\u0641\r\n\u0645\u0627\u0630\u0627 \u064A\u0641\u0639\u0644 \u0639\u0646\u062F\u0645\u0627 \u0636\u0631\u0628 \u0627\u0644\u0645\u0639\u0648\u0644 \u0641\u064A\r\n\u0645\u0624\u062E\u0631\u0629 \u0627\u0644\u0648\u062D\u0634 \u0627\u0644\u0635\u062E\u0631\u064A\u0629.",
+        "Target": "\u0635\u064A\u062F \u0628\u0627\u0633\u0627\u0631\u064A\u0648\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      2120,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 2120,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 7200,
+      "Points": 150,
+      "HRP": 470
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      112,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 99,
+      "AttackTable": 81,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

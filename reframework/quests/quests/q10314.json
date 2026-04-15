@@ -1,0 +1,350 @@
+{
+  "QuestID": 10314,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u92ED\u3044\u89D2\u306B\u3054\u6CE8\u610F\u3092",
+        "Client": "\u4E0D\u904B\u306A\u884C\u5546\u4EBA",
+        "Description": "\u3042\u3042\u3041\u2026\u672C\u5F53\u306B\u3064\u3044\u3066\u306A\u3044\u308F\u2026\u3002\r\n\u98A8\u3067\u98DB\u3070\u3055\u308C\u305F\u5E3D\u5B50\u3092\u53D6\u308A\u306B\u5C11\u3057\r\n\u7A4D\u8377\u304B\u3089\u96E2\u308C\u305F\u3060\u3051\u306A\u306E\u306B\u3002\u7206\u97F3\r\n\u304C\u3057\u3066\u623B\u3063\u305F\u3089\u3001\u5546\u54C1\u304C\u5730\u4E0B\u304B\u3089\r\n\u89D2\u3067\u8CAB\u3044\u305F\u3088\u3046\u306B\u30D0\u30E9\u30D0\u30E9\u306B\u2026\u3002\r\n\u6B21\u306F\u79C1\u304C\u30D0\u30E9\u30D0\u30E9\u306B\u3055\u308C\u306A\u3044\u3088\u3046\r\n\u72E9\u731F\u3092\u304A\u9858\u3044\u81F4\u3057\u307E\u3059\u2026\u3002",
+        "Target": "\u30C7\u30A3\u30A2\u30D6\u30ED\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "A Few Bumps Along the Way",
+        "Client": "Hapless Trader",
+        "Description": "A buddy of mine told me about this \u0022great\r\nshortcut\u0022 he found. The road was so bumpy\r\nI fell off my cart right into a cactus patch.\r\nAnd to make matters worse, a Diablos\r\nappeared out of nowhere and turned my\r\ncart into splinters... Why do these things\r\nalways happen to me!?",
+        "Target": "Hunt a Diablos",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Un raccourci mouvement\u00E9",
+        "Client": "Marchande malchanceuse",
+        "Description": "Je suis pass\u00E9e par un soi-disant\r\n\u0022super raccourci\u0022 conseill\u00E9 par un\r\npote, et cette route \u00E9tait tellement\r\ncaboss\u00E9e que j\u0027ai fini sur un cactus.\r\nEt c\u0027est l\u00E0 qu\u0027un Diablos sorti de\r\nnulle part a d\u00E9cid\u00E9 de r\u00E9duire mon\r\nchariot en miettes. Je suis maudite !",
+        "Target": "Chasser un Diablos",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Qualche sobbalzo sulla via",
+        "Client": "Mercante sfortunata",
+        "Description": "Un amico mi ha parlato di una\r\n\u0022fantastica scorciatoia\u0022, ma\r\nera cos\u00EC sconnessa che il mio\r\ncarro \u00E8 finito tra i cactus.\r\nIn pi\u00F9, un Diablos \u00E8 apparso\r\ndal nulla e ha distrutto il\r\ncarro. Perch\u00E9 sempre a me?!",
+        "Target": "Caccia un Diablos",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Es holpert und poltert",
+        "Client": "Gl\u00FCcklose H\u00E4ndlerin",
+        "Description": "Ein Freund hat mir diese \u0022tolle Abk\u00FCrzung\u0022\r\nempfohlen. Die Stra\u00DFe war so holprig, dass\r\nich von meinem Wagen gefallen bin, direkt\r\nin eine Haufen Kakteen. Zu allem \u00DCberfluss\r\nkam dann auch noch ein Diablos aus dem\r\nNichts und hat meinen Wagen zersplittert...\r\nWarum passiert so was immer mir?!",
+        "Target": "Erjage einen Diablos.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Cuernos puntiagudos m\u00E1s all\u00E1",
+        "Client": "Mercader desafortunada",
+        "Description": "Un amigo me habl\u00F3 de un atajo\r\nque quise usar, pero acab\u00E9 en\r\nuna zona de cactus y, para m\u00E1s\r\ninri, apareci\u00F3 un Diablos que\r\nhizo a\u00F1icos mi carro.\r\nEn serio, todo lo malo me pasa\r\nsiempre a m\u00ED.",
+        "Target": "Caza un Diablos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041F\u043E \u0432\u044B\u0431\u043E\u0438\u043D\u0430\u043C",
+        "Client": "\u041D\u0435\u0441\u0447\u0430\u0441\u0442\u043D\u0430\u044F \u0442\u043E\u0440\u0433\u043E\u0432\u043A\u0430",
+        "Description": "\u041C\u043E\u0439 \u0434\u0440\u0443\u0436\u043E\u043A \u043C\u043D\u0435 \u0442\u0443\u0442 \u0440\u0430\u0441\u0441\u043A\u0430\u0437\u0430\u043B\r\n\u043E \u0022\u043A\u043E\u0440\u043E\u0442\u043A\u043E\u043C \u043F\u0443\u0442\u0438\u0022. \u0421\u043A\u043E\u043B\u044C\u043A\u043E \u0436\u0435\r\n\u0442\u0430\u043C \u043A\u043E\u043B\u0434\u043E\u0431\u0438\u043D! \u042F \u0441 \u0442\u0435\u043B\u0435\u0433\u0438 \u0432\u044B\u043F\u0430\u043B\u0430\r\n\u043F\u0440\u044F\u043C\u043E \u0432 \u043A\u0430\u043A\u0442\u0443\u0441\u044B. \u0425\u0443\u0436\u0435 \u0442\u043E\u0433\u043E,\r\n\u043F\u043E\u0442\u043E\u043C \u043F\u0440\u0438\u0448\u0435\u043B \u0414\u0438\u0430\u0431\u043B\u043E\u0441 \u0438 \u0440\u0430\u0437\u0431\u0438\u043B\r\n\u043C\u043E\u044E \u0442\u0435\u043B\u0435\u0433\u0443 \u0432 \u0449\u0435\u043F\u043A\u0438... \u041D\u0443 \u0437\u0430\r\n\u0447\u0442\u043E \u043C\u043D\u0435 \u0432\u0441\u0435 \u044D\u0442\u043E?!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0414\u0438\u0430\u0431\u043B\u043E\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Nieco wyboista droga",
+        "Client": "Pechowa handlarka",
+        "Description": "Pojecha\u0142am \u201E\u015Bwietnym skr\u00F3tem\u201D, jaki\r\nznalaz\u0142 m\u00F3j znajomy. Droga by\u0142a tak\r\nwyboista, \u017Ce zlecia\u0142am z wozu prosto\r\nw kaktusy. Na domiar z\u0142ego jak spod\r\nziemi wyskoczy\u0142 Diablos i przerobi\u0142\r\nm\u00F3j w\u00F3z na drzazgi... Dlaczego ci\u0105gle\r\nmi si\u0119 co\u015B takiego przydarza?!",
+        "Target": "Upoluj Diablosa",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Solavancos no caminho",
+        "Client": "Comerciante desafortunada",
+        "Description": "Um amigo me contou sobre um \u0022\u00F3timo\r\natalho\u0022 que ele tinha encontrado.\r\nA estrada era t\u00E3o acidentada que eu ca\u00ED\r\nda carro\u00E7a bem em cima de um cacto.\r\nE pra piorar a situa\u00E7\u00E3o, um Diablos\r\napareceu do nada e despeda\u00E7ou minha\r\ncarro\u00E7a... Por que tanto azar na vida?!",
+        "Target": "Cace um Diablos",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uBFD4 \uC870\uC2EC",
+        "Client": "\uBD88\uC6B4\uD55C \uD589\uC0C1\uC778",
+        "Description": "\uC544\u2026 \uC815\uB9D0 \uC7AC\uC218\uB3C4 \uC5C6\uC9C0\u2026\r\n\uBC14\uB78C\uC5D0 \uB0A0\uC544\uAC04 \uBAA8\uC790\uB97C \uAC00\uC9C0\uB7EC\r\n\uAC14\uC744 \uBFD0\uC778\uB370\u2026 \uD070 \uC18C\uB9AC\uAC00 \uB098\uC11C\r\n\uB3CC\uC544\uC640 \uBCF4\uB2C8, \uC9D0\uC774 \uBFD4\uC5D0 \uCC14\uB9B0\r\n\uAC83\uCC98\uB7FC \uC0B0\uC0B0\uC870\uAC01 \uB0AC\uB124\uC694\u2026\r\n\uC774\uBC88\uC5D4 \uC81C\uAC00 \uC0B0\uC0B0\uC870\uAC01\uB098\uAE30 \uC804\uC5D0\r\n\uC0AC\uB0E5\uC744 \uBD80\uD0C1\uB4DC\uB9BD\uB2C8\uB2E4\u2026",
+        "Target": "\uB514\uC544\uBE14\uB85C\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7576\u5FC3\u92B3\u5229\u5C16\u89D2",
+        "Client": "\u5012\u6963\u7684\u65C5\u884C\u5546\u4EBA",
+        "Description": "\u5509\u2026\u2026\u771F\u662F\u5012\u6963\u900F\u9802\u3002\u6211\u70BA\u4E86\u64BF\u56DE\r\n\u88AB\u98A8\u5439\u8D70\u7684\u5E3D\u5B50\uFF0C\u6240\u4EE5\u7A0D\u5FAE\u96E2\u958B\u4E86\r\n\u6211\u7684\u8CA8\u7269\u3002\u7B49\u6211\u807D\u5230\u5DE8\u5927\u7684\u8072\u97FF\r\n\u6298\u56DE\u4F86\u5F8C\uFF0C\u767C\u73FE\u5546\u54C1\u5DF2\u56DB\u5206\u4E94\u88C2\uFF0C\r\n\u5C31\u50CF\u662F\u6709\u7284\u89D2\u5F9E\u5730\u9762\u4E0B\u8CAB\u7A7F\u4E86\u5B83\u5011\r\n\u4E00\u6A23\u3002\u5E0C\u671B\u4F60\u80FD\u524D\u53BB\u72E9\u7375\u7260\uFF0C\u4E0D\u7136\r\n\u4E0B\u6B21\u56DB\u5206\u4E94\u88C2\u7684\u53EF\u80FD\u5C31\u662F\u6211\u4E86\u2026\u2026",
+        "Target": "\u72E9\u73751\u982D\u89D2\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u8BF7\u5C0F\u5FC3\u5C16\u9510\u7684\u89D2",
+        "Client": "\u5012\u9709\u7684\u6E38\u5546",
+        "Description": "\u5509\u2026\u2026\u771F\u662F\u592A\u4E0D\u8D70\u8FD0\u4E86\u2026\u2026\r\n\u6211\u4E3A\u4E86\u53BB\u6361\u88AB\u98CE\u5439\u8D70\u7684\u5E3D\u5B50\uFF0C\r\n\u7A0D\u5FAE\u4ECE\u8D27\u7269\u65C1\u79BB\u5F00\u4E86\u4E00\u4F1A\u513F\u3002\r\n\u7A81\u7136\u542C\u5230\u8F70\u9E23\u58F0\uFF0C\u6211\u56DE\u53BB\u4E00\u770B\uFF0C\r\n\u5546\u54C1\u50CF\u88AB\u5730\u4E0B\u6765\u7684\u89D2\u7ED9\u523A\u7A7F\u4E00\u6837\uFF0C\r\n\u53D8\u5F97\u56DB\u5206\u4E94\u88C2\u7684\u2026\u2026\u6211\u53EF\u4E0D\u60F3\u53D8\u5F97\r\n\u56DB\u5206\u4E94\u88C2\u7684\uFF0C\u8BF7\u4F60\u53BB\u72E9\u730E\u5B83\u2026\u2026",
+        "Target": "\u72E9\u730E1\u5934\u89D2\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0628\u0639\u0636 \u0627\u0644\u0639\u0642\u0628\u0627\u062A \u0639\u0644\u0649 \u0637\u0648\u0644 \u0627\u0644\u0637\u0631\u064A\u0642",
+        "Client": "\u062A\u0627\u062C\u0631 \u0645\u0646\u062D\u0648\u0633",
+        "Description": "\u0623\u062E\u0628\u0631\u0646\u064A \u0635\u062F\u064A\u0642 \u0639\u0646 \u0647\u0630\u0627 \u0022\u0627\u0644\u0637\u0631\u064A\u0642\r\n\u0627\u0644\u0645\u062E\u062A\u0635\u0631 \u0627\u0644\u0631\u0627\u0626\u0639\u0022 \u0627\u0644\u0630\u064A \u0648\u062C\u062F\u0647.\r\n\u0643\u0627\u0646 \u0627\u0644\u0637\u0631\u064A\u0642 \u0648\u0639\u0631\u064B\u0627 \u0644\u0644\u063A\u0627\u064A\u0629 \u0648\u0633\u0642\u0637\u062A \u0645\u0646\r\n\u0639\u0631\u0628\u062A\u064A \u0641\u064A \u0631\u0642\u0639\u0629 \u0635\u0628\u0627\u0631. \u0648\u0638\u0647\u0631\r\n\u062F\u064A\u0627\u0628\u0644\u0648\u0633 \u0645\u0646 \u0627\u0644\u0639\u062F\u0645 \u0648\u062D\u0637\u0645 \u0639\u0631\u0628\u062A\u064A\r\n\u0644\u0634\u0638\u0627\u064A\u0627 \u0644\u064A\u0632\u064A\u062F \u0627\u0644\u0637\u064A\u0646 \u0628\u0644\u0629... \u0644\u0645\u064E\r\n\u062A\u062D\u062F\u062B \u0647\u0630\u0647 \u0627\u0644\u0623\u0634\u064A\u0627\u0621 \u0644\u064A \u062F\u0627\u0626\u0645\u064B\u0627!\u061F",
+        "Target": "\u0635\u064A\u062F \u062F\u064A\u0627\u0628\u0644\u0648\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 5,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      351,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 351,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 59,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 514,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 3,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 9360,
+      "Points": 190,
+      "HRP": 560
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      56,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 20,
+      "HealthTable": 85,
+      "AttackTable": 62,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

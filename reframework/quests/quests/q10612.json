@@ -1,0 +1,350 @@
+{
+  "QuestID": 10612,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u7814\u304E\u6F84\u307E\u305B\uFF01\u3000\u592A\u5200\u306E\u578B",
+        "Client": "\u30A6\u30C4\u30B7\u6559\u5B98",
+        "Description": "\u3084\u3042\u3001\u6211\u304C\u611B\u5F1F\u5B50\u3088\uFF01\r\n\u592A\u5200\u306E\u57FA\u672C\u306F\u3001\u7814\u304E\u6F84\u307E\u3055\u308C\u305F\r\n\u6D41\u9E97\u306A\u65AC\u6483\u3068\u56DE\u907F\u3002\u003CCOL RED\u003E\u30B8\u30F3\u30AA\u30A6\u30AC\u003C/COL\u003E\u306E\r\n\u5802\u3005\u305F\u308B\u632F\u821E\u3044\u3068\u3001\u003CCOL RED\u003E\u30BF\u30DE\u30DF\u30C4\u30CD\u003C/COL\u003E\u306E\r\n\u3057\u306A\u3084\u304B\u3067\u7F8E\u3057\u3044\u4F53\u634C\u304D\u2026\u3053\u308C\u3092\r\n\u592A\u5200\u306B\u751F\u304B\u3055\u306A\u3044\u624B\u306F\u306A\u3044\uFF01\r\n\u5FC5\u305A\u65B0\u3057\u3044\u6280\u306E\u4F1A\u5F97\u306B\u7E4B\u304C\u308B\u305E\uFF01",
+        "Target": "\u30B8\u30F3\u30AA\u30A6\u30AC\uFF11\u982D\u3068\u30BF\u30DE\u30DF\u30C4\u30CD\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Learn the Long Sword",
+        "Client": "Master Utsushi",
+        "Description": "Alright, Ace, lesson time!\r\nSharp, flowing strikes are the\r\nsoul of long sword combat. The\r\nfearlessness of a \u003CCOL RED\u003EZinogre\u003C/COL\u003E and\r\nthe elegance of a \u003CCOL RED\u003EMizutsune\u003C/COL\u003E\r\ncombined are just the thing\r\nyou\u0027ll need to master \u0027em!",
+        "Target": "Hunt a Zinogre and a Mizutsune",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "D\u00E9couverte de l\u0027\u00E9p\u00E9e longue",
+        "Client": "Utsushi le ma\u00EEtre",
+        "Description": "Bon, je t\u0027explique !\r\nPour l\u0027\u00E9p\u00E9e longue, les mots\r\nd\u0027ordre sont fluidit\u00E9 et\r\npr\u00E9cision. Combine t\u00E9m\u00E9rit\u00E9 du\r\n\u003CCOL RED\u003EZinogre\u003C/COL\u003E et \u00E9l\u00E9gance du\r\n\u003CCOL RED\u003EMizutsune\u003C/COL\u003E, si tu veux affiner\r\nta technique !",
+        "Target": "Chasser un Zinogre et un Mizutsune",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Scopri la spada lunga",
+        "Client": "Maestro Utsushi",
+        "Description": "OK, \u00E8 ora di imparare: colpi\r\ncontinui e diretti sono il\r\nsegreto per combattere con la\r\nspada lunga. Per affinare le\r\ntue mosse, ti serviranno il\r\ncoraggio dello \u003CCOL RED\u003EZinogre\u003C/COL\u003E e\r\nl\u0027eleganza del \u003CCOL RED\u003EMizutsune\u003C/COL\u003E.",
+        "Target": "Caccia uno Zinogre e un Mizutsune",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Lektion mit dem Langschwert",
+        "Client": "Meister Utsushi",
+        "Description": "Okay, Ass, aufgepasst! Harte,\r\nflie\u00DFende Schl\u00E4ge, das ist die\r\nSeele des Langschwerts. Was du\r\nf\u00FCr ihre Bew\u00E4ltigung brauchst,\r\nist eine Mischung aus dem Mut\r\neines \u003CCOL RED\u003EZinogre\u003C/COL\u003E und der\r\nEleganz eines \u003CCOL RED\u003EMizutsune\u003C/COL\u003E!",
+        "Target": "Erjage einen Zinogre und\r\neinen Mizutsune.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Dale a la espada larga",
+        "Client": "Maestro Utsushi",
+        "Description": "Hacha, \u00A1hora de aprender!\r\nLa esencia de la espada larga\r\nson los golpes fluidos y\r\npenetrantes. \u00A1Necesitas la\r\naudacia de un \u003CCOL RED\u003EZinogre\u003C/COL\u003E y la\r\nelegancia de un \u003CCOL RED\u003EMizutsune\u003C/COL\u003E\r\ncombinadas para dominarla!",
+        "Target": "Caza un Zinogre y un Mizutsune",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0411\u043E\u0435\u0432\u043E\u0439 \u0431\u0430\u0441\u0442\u0430\u0440\u0434",
+        "Client": "\u041C\u0430\u0441\u0442\u0435\u0440 \u0423\u0446\u0443\u0441\u0438",
+        "Description": "\u041D\u0443 \u0447\u0442\u043E, \u0430\u0441, \u043F\u043E\u0440\u0430 \u0443\u0447\u0438\u0442\u044C\u0441\u044F!\r\n\u0421\u0443\u0442\u044C \u0431\u043E\u044F \u043D\u0430 \u043C\u0435\u0447\u0430\u0445-\u0431\u0430\u0441\u0442\u0430\u0440\u0434\u0430\u0445 \u2014\r\n\u0432 \u0440\u0435\u0437\u043A\u0438\u0445 \u0438 \u043B\u043E\u0432\u043A\u0438\u0445 \u0443\u0434\u0430\u0440\u0430\u0445.\r\n\u0411\u0435\u0441\u0441\u0442\u0440\u0430\u0448\u0438\u0435 \u003CCOL RED\u003E\u0417\u0438\u043D\u043E\u0433\u0440\u0430\u003C/COL\u003E \u0438\r\n\u044D\u043B\u0435\u0433\u0430\u043D\u0442\u043D\u043E\u0441\u0442\u044C \u003CCOL RED\u003E\u041C\u0438\u0434\u0437\u0443\u0446\u0443\u043D\u044D\u003C/COL\u003E \u2014\r\n\u0432\u043E\u0442 \u043D\u0430 \u0447\u0442\u043E \u0442\u0443\u0442 \u043D\u0430\u0434\u043E \u0440\u0430\u0432\u043D\u044F\u0442\u044C\u0441\u044F!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0417\u0438\u043D\u043E\u0433\u0440\u0430 \u0438 \u041C\u0438\u0434\u0437\u0443\u0446\u0443\u043D\u044D",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Nauka miecza d\u0142ugiego",
+        "Client": "Mistrz Utsushi",
+        "Description": "Dobra, czas na nauk\u0119!\r\nMocne, p\u0142ynne ci\u0119cia to\r\nistota walki mieczem d\u0142ugim.\r\nOdwaga \u003CCOL RED\u003EZinogra\u003C/COL\u003E w\r\npo\u0142\u0105czeniu z elegancj\u0105\r\n\u003CCOL RED\u003EMizutsune\u003C/COL\u003E to co\u015B, czego\r\nwarto si\u0119 nauczy\u0107.",
+        "Target": "Upoluj Zinogra i Mizutsune",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Aprenda a espada longa",
+        "Client": "Mestre Utsushi",
+        "Description": "Beleza, Craque, hora da aula!\r\nGolpes afiados e fluidos s\u00E3o a\r\nalma do combate com espada\r\nlonga. O destemor de um\r\n\u003CCOL RED\u003EZinogre\u003C/COL\u003Ee a eleg\u00E2ncia de um\r\n\u003CCOL RED\u003EMizutsune\u003C/COL\u003E s\u00E3o exatamente o que\r\nvoc\u00EA precisa pra domin\u00E1-los!",
+        "Target": "Cace um Zinogre e um Mizutsune",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uAC08\uACE0\uB2E6\uC544\uB77C! \uD0DC\uB3C4\uC758 \uAE30\uC220",
+        "Client": "\uC6B0\uCE20\uC2DC \uAD50\uAD00",
+        "Description": "\uC790, \uB098\uC758 \uC560\uC81C\uC790\uC5EC!\r\n\uD0DC\uB3C4\uC758 \uAE30\uBCF8\uC740 \uBB3C \uD750\uB974\uB4EF\r\n\uAC08\uACE0\uB2E6\uC740 \uCC38\uACA9\uACFC \uD68C\uD53C\uB2E4.\r\n\u003CCOL RED\u003E\uC9C4\uC624\uC6B0\uAC70\u003C/COL\u003E\uC758 \uB2F9\uB2F9\uD55C \uBAA8\uC2B5\uACFC\r\n\u003CCOL RED\u003E\uD0C0\uB9C8\uBBF8\uCE20\uB124\u003C/COL\u003E\uC758 \uC544\uB984\uB2E4\uC6B4 \uBAB8\uC9D3\uC744\u2026\r\n\uB124 \uD0DC\uB3C4\uC5D0 \uB2F4\uC544\uB77C!\r\n\uC0C8\uB85C\uC6B4 \uAE30\uC220\uC744 \uC5BB\uC744 \uAC70\uB2E4!",
+        "Target": "\uC9C4\uC624\uC6B0\uAC70 1\uB9C8\uB9AC\uC640\r\n\uD0C0\uB9C8\uBBF8\uCE20\uB124 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u53BB\u856A\u5B58\u83C1\uFF01\u592A\u5200\u7684\u62DB\u5F0F",
+        "Client": "\u502A\u6CF0\u6559\u5B98",
+        "Description": "\u55E8\uFF0C\u6211\u7684\u611B\u5F92\u554A\uFF01\r\n\u592A\u5200\u7684\u57FA\u672C\uFF0C\u5728\u65BC\u4E0D\u5E36\u4E00\u7D72\u7D2F\u8D05\uFF0C\r\n\u884C\u96F2\u6D41\u6C34\u822C\u7684\u65AC\u64CA\u8207\u8FF4\u907F\u3002\r\n\u77A7\u77A7\u003CCOL RED\u003E\u96F7\u72FC\u9F8D\u003C/COL\u003E\u5A01\u98A8\u51DC\u51DC\u7684\u52D5\u4F5C\uFF0C\r\n\u4EE5\u53CA\u003CCOL RED\u003E\u6CE1\u72D0\u9F8D\u003C/COL\u003E\u67D4\u97CC\u512A\u7F8E\u7684\u67B6\u5F0F\u2026\u2026\r\n\u600E\u9EBC\u80FD\u4E0D\u628A\u5B83\u5011\u904B\u7528\u5728\u592A\u5200\u4E0A\uFF01\r\n\u9019\u4E00\u5B9A\u6709\u52A9\u65BC\u9818\u609F\u65B0\u7684\u62DB\u5F0F\uFF01",
+        "Target": "\u72E9\u73751\u982D\u96F7\u72FC\u9F8D\u82071\u982D\u6CE1\u72D0\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u78E8\u783A\u5427\uFF01\u592A\u5200\u4E4B\u578B",
+        "Client": "\u502A\u6CF0\u6559\u5B98",
+        "Description": "\u563F\uFF0C\u6211\u7684\u7231\u5F92\u554A\u3002\r\n\u592A\u5200\u7684\u57FA\u7840\uFF0C\u5C31\u662F\u7ECF\u8FC7\u78E8\u783A\u7684\r\n\u884C\u4E91\u6D41\u6C34\u822C\u7684\u65A9\u51FB\u4E0E\u56DE\u907F\u3002\r\n\u003CCOL RED\u003E\u96F7\u72FC\u9F99\u003C/COL\u003E\u5A01\u98CE\u51DB\u51DB\u7684\u4E3E\u6B62\r\n\u4E0E\u003CCOL RED\u003E\u6CE1\u72D0\u9F99\u003C/COL\u003E\u8F7B\u76C8\u4F18\u7F8E\u7684\u4F53\u6001\u2026\u2026\r\n\u5C82\u6709\u4E0D\u7528\u5728\u592A\u5200\u4E0A\u7684\u9053\u7406\uFF01\r\n\u8FD9\u4E0B\u5B9A\u80FD\u521B\u9020\u51FA\u65B0\u7684\u6280\u5DE7\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u96F7\u72FC\u9F99\u548C1\u5934\u6CE1\u72D0\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u062A\u0639\u0644\u0651\u0645 \u0627\u0644\u0633\u064A\u0641 \u0627\u0644\u0637\u0648\u064A\u0644",
+        "Client": "\u0627\u0644\u0633\u064A\u062F \u0623\u0648\u062A\u0633\u0648\u0634\u064A",
+        "Description": "\u062D\u0633\u0646\u064B\u0627 \u003CLSNR {\u0623\u064A\u0647\u0627 \u0627\u0644\u0628\u0627\u0631\u0639} {\u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0628\u0627\u0631\u0639\u0629}\u003E\u060C \u062D\u0627\u0646 \u0648\u0642\u062A\r\n\u0627\u0644\u062F\u0631\u0633! \u0627\u0644\u0636\u0631\u0628\u0627\u062A \u0627\u0644\u062D\u0627\u062F\u0629 \u0627\u0644\u0645\u062A\u062F\u0641\u0642\u0629\r\n\u0647\u064A \u0631\u0648\u062D \u0642\u062A\u0627\u0644 \u0627\u0644\u0633\u064A\u0641 \u0627\u0644\u0637\u0648\u064A\u0644. \u0644\u0646\r\n\u003CLSNR {\u062A\u062D\u062A\u0627\u062C} {\u062A\u062D\u062A\u0627\u062C\u064A}\u003E \u0633\u0648\u0649 \u0634\u062C\u0627\u0639\u0629 \u003CCOL RED\u003E\u0632\u064A\u0646\u062C\u0631\u003C/COL\u003E \u0648\r\n\u0623\u0646\u0627\u0642\u0629 \u003CCOL RED\u003E\u0645\u064A\u0632\u0648\u062A\u0633\u0648\u0646\u064A\u003C/COL\u003E\r\n\u0645\u0646\u062F\u0645\u062C\u064A\u0646 \u0644\u0625\u062A\u0642\u0627\u0646\r\n\u0627\u0633\u062A\u062E\u062F\u0627\u0645\u0647!",
+        "Target": "\u0635\u064A\u062F \u0632\u064A\u0646\u062C\u0631 \u0648\u0645\u064A\u0632\u0648\u062A\u0633\u0648\u0646\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 3,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      109,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 109,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 93,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 95,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 57,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 25,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 14040,
+      "Points": 290,
+      "HRP": 1050
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      37,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 32,
+      "HealthTable": 101,
+      "AttackTable": 83,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 101,
+        "AttackTable": 83,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

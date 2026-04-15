@@ -1,0 +1,350 @@
+{
+  "QuestID": 315301,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u6CE5\u7FC1\u7ADC\u306E\u8A66\u7DF4",
+        "Client": "\u83EF\u5962\u306A\u30CF\u30F3\u30BF\u30FC\u898B\u7FD2\u3044",
+        "Description": "\u4E00\u5BB6\u3092\u675F\u306D\u308B\u30D0\u30D0\u69D8\u304B\u3089\u300C\u8DE1\u7D99\u304E\r\n\u3068\u306A\u308B\u8A3C\u3068\u3057\u3066\u30AA\u30ED\u30DF\u30C9\u30ED\u3092\u72E9\u3063\r\n\u3066\u304D\u306A\u3055\u3044\u300D\u3068\u8A00\u308F\u308C\u305F\u3093\u3067\u3059\u3002\r\n\u3067\u3082\u6CE5\u58C1\u306B\u963B\u307E\u308C\u3001\u624B\u3082\u8DB3\u3082\u51FA\u306A\r\n\u304F\u3066\u2026\u2026\u3002\u304A\u9858\u3044\u3067\u3059\uFF01\r\n\u30AA\u30ED\u30DF\u30C9\u30ED\u653B\u7565\u306E\u7CF8\u53E3\u3092\u63B4\u3080\u305F\u3081\r\n\u306B\u3001\u72E9\u731F\u3092\u89B3\u5BDF\u3055\u305B\u3066\u304F\u3060\u3055\u3044\uFF01",
+        "Target": "\u30AA\u30ED\u30DF\u30C9\u30ED\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Trial of the Almudron",
+        "Client": "Frail Hunter Apprentice",
+        "Description": "I have to hunt an Almudron as\r\na \u0022test of courage,\u0022 but look at\r\nme! This armor weighs more than\r\nI do. Ugh... Why do they want ME,\r\nof all people, to test my courage?\r\nThere\u0027s none to test! Can you hunt\r\nthis stupid monster for me?",
+        "Target": "Hunt an Almudron",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "\u00C9preuve de l\u0027Almudron",
+        "Client": "Fr\u00EAle apprenti chasseur",
+        "Description": "Ma matriarche m\u0027a demand\u00E9 de \r\nchasser un Almudron pour prendre\r\nsa succession, mais je n\u0027arrive\r\npas \u00E0 passer les murs de boue.\r\nSi tu pouvais en chasser un...\r\n\u00C7a me permettrait d\u0027observer\r\nta technique pour m\u0027am\u00E9liorer !",
+        "Target": "Chasser un Almudron",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "La prova dell\u0027Almudron",
+        "Client": "Apprendista debole",
+        "Description": "La mia matriarca mi ha detto\r\ndi cacciare un Almudron per\r\ndiventare il suo successore,\r\nma non riesco a oltrepassare\r\nquei muri fangosi. Permettimi\r\ndi osservarti mentre ne cacci\r\nuno, mi sar\u00E0 utile.",
+        "Target": "Caccia un Almudron",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Pr\u00FCfung des Almudron",
+        "Client": "Zarter Jagdlehrling",
+        "Description": "Ich soll einen Almudron als\r\n\u0022Mutprobe\u0022 erjagen, aber schau\r\nmich mal an! Meine R\u00FCstung wiegt\r\nmehr als ich! Und ICH soll meinen\r\nMut beweisen? Da gibt es nichts,\r\nwas man beweisen kann!\r\nJagst du das Monster f\u00FCr mich?",
+        "Target": "Erjage einen Almudron.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "La prueba del Almudron",
+        "Client": "Aprendiz cazador endeble",
+        "Description": "Tengo que cazar un Almudron como\r\n\u0022prueba de valent\u00EDa\u0022, pero... \u00A1si\r\nesta armadura pesa m\u00E1s que yo!\r\nUgh. \u00BFQu\u00E9 tendr\u00E1n que comprobar\r\nde mi valent\u00EDa? \u00A1Si no tengo\r\nninguna! \u00BFPuedes cazar a ese\r\nmontruo tonto por m\u00ED?",
+        "Target": "Caza un Almudron",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0418\u0441\u043F\u044B\u0442\u0430\u043D\u0438\u0435 \u0410\u043B\u043C\u0443\u0434\u0440\u043E\u043D\u043E\u043C",
+        "Client": "\u0421\u043B\u0430\u0431\u044B\u0439 \u0443\u0447\u0435\u043D\u0438\u043A \u043E\u0445\u043E\u0442\u043D\u0438\u043A\u0430",
+        "Description": "\u041C\u043E\u044F \u043C\u0430\u0442\u0440\u0438\u0430\u0440\u0445 \u0432\u0435\u043B\u0435\u043B\u0430 \u043C\u043D\u0435\r\n\u0443\u0431\u0438\u0442\u044C \u0410\u043B\u043C\u0443\u0434\u0440\u043E\u043D\u0430, \u0447\u0442\u043E\u0431\u044B \u0441\u0442\u0430\u0442\u044C\r\n\u0435\u0435 \u043F\u0440\u0435\u0435\u043C\u043D\u0438\u043A\u043E\u043C, \u043D\u043E \u044F \u043D\u0435 \u043C\u043E\u0433\u0443\r\n\u043F\u0440\u0435\u043E\u0434\u043E\u043B\u0435\u0442\u044C \u044D\u0442\u0438 \u0433\u0440\u044F\u0437\u0435\u0432\u044B\u0435 \u0441\u0442\u0435\u043D\u044B.\r\n\u041F\u043E\u0437\u0432\u043E\u043B\u044C \u043C\u043D\u0435 \u043F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C, \u043A\u0430\u043A \u0442\u044B\r\n\u043E\u0445\u043E\u0442\u0438\u0448\u044C\u0441\u044F \u043D\u0430 \u0410\u043B\u043C\u0443\u0434\u0440\u043E\u043D\u0430! \u042D\u0442\u043E\r\n\u043F\u043E\u043C\u043E\u0436\u0435\u0442 \u043C\u043D\u0435 \u0432\u044B\u0431\u0440\u0430\u0442\u044C \u0442\u0430\u043A\u0442\u0438\u043A\u0443!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0410\u043B\u043C\u0443\u0434\u0440\u043E\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Pr\u00F3ba Almudrona",
+        "Client": "W\u0105t\u0142y kandydat na \u0142owc\u0119",
+        "Description": "Matrona rodu nakaza\u0142a mi\r\nz\u0142owi\u0107 Almudrona, abym sta\u0142\r\nsi\u0119 nast\u0119pc\u0105, ale nie mog\u0119\r\nprzej\u015B\u0107 przez te \u015Bciany\r\nb\u0142ota. Chc\u0119 zobaczy\u0107, jak ci\r\nsi\u0119 udaje go upolowa\u0107, co mi\r\npomo\u017Ce w mojej taktyce!",
+        "Target": "Upoluj Almudrona",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Julgamento de Almudron",
+        "Client": "Aprendiz Fr\u00E1gil de Ca\u00E7a",
+        "Description": "Minha matriarca me mandou\r\nca\u00E7ar um Almudron para\r\nsuced\u00EA-la, mas n\u00E3o consigo\r\nsuperar as paredes de lama.\r\nMe deixe observar voc\u00EA ca\u00E7ar\r\num deles! Vai me ajudar com\r\nas minhas t\u00E1ticas.",
+        "Target": "Cace um Almudron",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC774\uC639\uB8E1\uC758 \uC2DC\uB828",
+        "Client": "\uAC00\uB0D8\uD508 \uD5CC\uD130 \uACAC\uC2B5\uC0DD",
+        "Description": "\uC9D1\uC548 \uC5B4\uB974\uC2E0\uC778 \uD560\uBA38\uB2D8\uAED8\uC11C\r\n\uD6C4\uACC4\uC790\uC758 \uC99D\uD45C\uB85C \uC624\uB85C\uBBF8\uB3C4\uB85C\uB97C\r\n\uC0AC\uB0E5\uD558\uACE0 \uC624\uB77C\uACE0 \uD558\uC168\uC5B4\uC694.\r\n\uD558\uC9C0\uB9CC \uC9C4\uD759 \uBCBD\uC5D0 \uB9C9\uD600\r\n\uC18D\uC218\uBB34\uCC45\uC774\uB124\uC694\u2026\u2026 \uBD80\uD0C1\uC774\uC5D0\uC694!\r\n\uC624\uB85C\uBBF8\uB3C4\uB85C \uACF5\uB7B5\uBC95\uC744 \uCC3E\uAE30 \uC704\uD574\r\n\uC0AC\uB0E5\uC744 \uAD00\uCC30\uD558\uAC8C \uD574 \uC8FC\uC138\uC694!",
+        "Target": "\uC624\uB85C\uBBF8\uB3C4\uB85C 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6CE5\u7FC1\u9F8D\u7684\u8A66\u7149",
+        "Client": "\u7E96\u7626\u7684\u898B\u7FD2\u7375\u4EBA",
+        "Description": "\u7D71\u9818\u5BB6\u65CF\u7684\u7956\u6BCD\u5927\u4EBA\u5C0D\u6211\u8AAA\uFF1A\r\n\u300C\u70BA\u4E86\u8B49\u660E\u4F60\u6709\u8CC7\u683C\u6210\u70BA\u7E7C\u627F\u4EBA\uFF0C\r\n\u3000\u53BB\u72E9\u7375\u6CE5\u7FC1\u9F8D\u5427\u3002\u300D\r\n\u4F46\u6211\u537B\u88AB\u6CE5\u58C1\u7D66\u64CB\u4F4F\uFF0C\r\n\u5B8C\u5168\u675F\u624B\u7121\u7B56\u2026\u2026\u62DC\u8A17\u4F60\uFF01\r\n\u70BA\u4E86\u638C\u63E1\u6253\u5012\u6CE5\u7FC1\u9F8D\u7684\u8A23\u7AC5\uFF0C\r\n\u8ACB\u8B93\u6211\u89C0\u5BDF\u4F60\u7684\u72E9\u7375\u904E\u7A0B\u5427\uFF01",
+        "Target": "\u72E9\u73751\u982D\u6CE5\u7FC1\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6CE5\u7FC1\u9F99\u7684\u8003\u9A8C",
+        "Client": "\u7626\u5F31\u7684\u730E\u4EBA\u5B66\u5F92",
+        "Description": "\u4F5C\u4E3A\u4E00\u5BB6\u4E4B\u4E3B\u7684\u7238\u7238\u8BA9\u6211\u53BB\u72E9\u730E\u6CE5\r\n\u7FC1\u9F99\uFF0C\u4F5C\u4E3A\u6211\u7EE7\u627F\u5BB6\u4E1A\u7684\u8BC1\u660E\u3002\u4F46\r\n\u662F\u6CE5\u5899\u6321\u4F4F\u4E86\u6211\uFF0C\u6211\u6CA1\u6CD5\u5B50\u2026\u2026\r\n\u6C42\u4F60\u4E86\uFF01\u8BF7\u8BA9\u6211\u89C2\u5BDF\u4F60\u600E\u4E48\u72E9\u730E\uFF0C\r\n\u627E\u5230\u6253\u8D25\u6CE5\u7FC1\u9F99\u7684\u7EBF\u7D22\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u6CE5\u7FC1\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u062A\u062C\u0631\u0628\u0629 \u0623\u0644\u0645\u0648\u062F\u0631\u0648\u0646",
+        "Client": "\u0635\u064A\u0627\u062F \u0645\u062A\u062F\u0631\u0628 \u0636\u0639\u064A\u0641",
+        "Description": "\u0637\u0644\u0628\u062A \u0645\u0646\u064A \u0627\u0644\u0623\u0645 \u0627\u0644\u062D\u0627\u0643\u0645\u0629\r\n\u0623\u0646 \u0623\u0635\u0637\u0627\u062F \u0627\u0644\u0645\u0648\u062F\u0631\u0648\u0646 \u0644\u0643\u064A \u0623\u0635\u0628\u062D \u062E\u0644\u064A\u0641\u062A\u0647\u0627\u060C\r\n\u0644\u0643\u0646\u0646\u064A \u0644\u0627 \u0623\u0633\u062A\u0637\u064A\u0639 \u062A\u062C\u0627\u0648\u0632 \u062A\u0644\u0643\r\n\u0627\u0644\u062C\u062F\u0631\u0627\u0646 \u0627\u0644\u0637\u064A\u0646\u064A\u0629.\r\n\u0627\u0633\u0645\u062D \u0644\u064A \u0623\u0646 \u0623\u0634\u0627\u0647\u062F\u0643\r\n\u0648\u0623\u0646\u062A \u062A\u0635\u0637\u0627\u062F \u0623\u062D\u062F\u0647\u0645!\r\n\u0645\u0646 \u0627\u0644\u0645\u0641\u062A\u0631\u0636 \u0623\u0646 \u064A\u0633\u0627\u0639\u062F\u0646\u064A \u0630\u0644\u0643 \u0641\u064A \u062A\u0643\u062A\u064A\u0643\u0627\u062A\u064A \u0627\u0644\u062E\u0627\u0635\u0629!",
+        "Target": "\u0635\u064A\u062F \u0623\u0644\u0645\u0648\u062F\u0631\u0648\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      72,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 72,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 19440,
+      "Points": 390,
+      "HRP": 980
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      48,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 121,
+      "AttackTable": 126,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

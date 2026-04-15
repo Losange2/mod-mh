@@ -1,0 +1,350 @@
+{
+  "QuestID": 10404,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u53D6\u308A\u5DFB\u304F\u3064\u3080\u3058\u98A8",
+        "Client": "\u5927\u793E\u8DE1\u8FD1\u304F\u306B\u4F4F\u3080\u5973\u6027",
+        "Description": "\u5927\u5909\u3067\u3059\uFF01\u3000\u5927\u793E\u8DE1\u306B\u30AA\u30B5\u30A4\u30BA\u30C1\r\n\u304C\u73FE\u308C\u3066\u3057\u307E\u3044\u307E\u3057\u305F\u2026\uFF01\r\n\u30AA\u30B5\u30A4\u30BA\u30C1\u306F\u5B50\u5206\u3068\u306E\u9023\u643A\u3092\u5F97\u610F\r\n\u3068\u3059\u308B\u30E2\u30F3\u30B9\u30BF\u30FC\u3060\u3068\u805E\u304D\u307E\u3059\u3002\r\n\u3082\u3057\u3001\u53D6\u308A\u56F2\u307E\u308C\u3066\u3057\u307E\u3063\u305F\u3089\r\n\u79C1\u306E\u8DB3\u3067\u9003\u3052\u5207\u308C\u308B\u304B\u3069\u3046\u304B\u2026\u3002\r\n\u304A\u9858\u3044\u3067\u3059\u3001\u3069\u3046\u304B\u72E9\u731F\u3092\uFF01",
+        "Target": "\u30AA\u30B5\u30A4\u30BA\u30C1\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "The Swirling Gale",
+        "Client": "Woman Living By the Ruins",
+        "Description": "For crying out loud! I moved near the\r\nShrine Ruins because it was a nice\r\nand quiet neighborhood... Now there\u0027s\r\na Great Izuchi and its little gang making\r\na ruckus. I tried to give \u0027em a piece of\r\nmy mind but they pulled their blades\r\non me! Hunter, please get rid of \u0027em!",
+        "Target": "Hunt a Great Izuchi",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Bourrasque enrag\u00E9e",
+        "Client": "Femme pr\u00E8s du Temple",
+        "Description": "Bon sang ! J\u0027ai d\u00E9cid\u00E9 de\r\nm\u0027installer pr\u00E8s du Temple\r\noubli\u00E9 parce que c\u0027\u00E9tait cens\u00E9\r\n\u00EAtre un coin au calme... avant\r\nqu\u0027un Grand Izuchi et son gang\r\nd\u00E9cident d\u0027y mettre le boxon !\r\nD\u00E9barrasse-toi d\u0027eux !",
+        "Target": "Chasser un Grand Izuchi",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "La burrasca vorticosa",
+        "Client": "Donna che vive alle rovine",
+        "Description": "Santo cielo! Ho traslocato\r\nvicino alle rovine perch\u00E9 era\r\nuna zona tranquilla. Ma ora un\r\nGran Izuchi e la sua banda\r\ncreano guai. Ho provato a far\r\nloro una filippica, ma hanno\r\nestratto gli artigli. Cacciali!",
+        "Target": "Caccia un Gran Izuchi",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Wirbelnder Sturm",
+        "Client": "Anwohnerin der Ruinen",
+        "Description": "Verdammte Axt! Ich bin an die Heiligen\r\nRuinen gezogen, weil die Gegend so\r\nsch\u00F6n ruhig ist... Jetzt sorgen da ein\r\nGro\u00DF-Izuchi und seine Meute f\u00FCr Radau.\r\nIch wollte ihnen den Marsch blasen,\r\naber sie haben mir mit ihren Krallen\r\ngedroht! Bitte lass sie verschwinden!",
+        "Target": "Erjage einen Gro\u00DF-Izuchi.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Vendaval turbulento",
+        "Client": "Mujer del Templo olvidado",
+        "Description": "\u00A1Hay que ver qu\u00E9 mala suerte!\r\nMe mud\u00E9 cerca del Templo\r\nolvidado porque lo ten\u00EDa por\r\nun sitio tranquilo, \u00A1y resulta\r\nque hay un Gran Izuchi con su\r\nmanada li\u00E1ndola!\r\n\u00BFTe librar\u00EDas de ellos por m\u00ED?",
+        "Target": "Caza un Gran Izuchi",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0421\u0438\u043B\u044C\u043D\u044B\u0439 \u0441\u043C\u0435\u0440\u0447",
+        "Client": "\u0416\u0435\u043D\u0449\u0438\u043D\u0430, \u0436\u0438\u0432\u0443\u0449\u0430\u044F \u0443 \u0420\u0443\u0438\u043D",
+        "Description": "\u0414\u0430 \u0447\u0442\u043E \u0436\u0435 \u044D\u0442\u043E \u0442\u0430\u043A\u043E\u0435! \u042F \u043F\u0435\u0440\u0435\u0441\u0435\u043B\u0438\u043B\u0430\u0441\u044C\r\n\u043A \u0420\u0443\u0438\u043D\u0430\u043C \u0441\u0432\u044F\u0442\u0438\u043B\u0438\u0449\u0430, \u0432 \u0442\u0438\u0445\u0438\u0439 \u0438 \u043F\u0440\u0438\u044F\u0442\u043D\u044B\u0439\r\n\u0440\u0430\u0439\u043E\u043D... \u0410 \u0442\u0435\u043F\u0435\u0440\u044C \u0442\u0443\u0442 \u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u0418\u0434\u0437\u0443\u0442\u0438,\r\n\u0435\u0449\u0435 \u0438 \u0441 \u0448\u0430\u0439\u043A\u043E\u0439 \u0441\u0432\u043E\u0435\u0439. \u042F \u0438\u0445 \u043F\u044B\u0442\u0430\u043B\u0430\u0441\u044C\r\n\u0443\u0441\u043F\u043E\u043A\u043E\u0438\u0442\u044C, \u0430 \u043E\u043D\u0438 \u0443\u0433\u0440\u043E\u0436\u0430\u0442\u044C \u043D\u0430\u0447\u0430\u043B\u0438!\r\n\u041F\u0440\u043E\u0448\u0443, \u0438\u0437\u0431\u0430\u0432\u044C\u0441\u044F \u043E\u0442 \u043D\u0438\u0445!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0418\u0434\u0437\u0443\u0442\u0438",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Wiruj\u0105cy wicher",
+        "Client": "Mieszkanka Ruin",
+        "Description": "To nie do zniesienia!\r\nPrzeprowadzi\u0142am si\u0119 w pobli\u017Ce Ruin\r\n\u015Awi\u0105tynnych, bo by\u0142o tam mi\u0142o i\r\ncicho... A teraz Wielki Izuchi z band\u0105\r\nwszczyna tam burdy. Chcia\u0142am ich\r\nupomnie\u0107, ale zacz\u0119li macha\u0107\r\nswoimi ostrzami. Zrobisz co\u015B z tym?",
+        "Target": "Upoluj Wielkiego Izuchiego",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "O vendaval rodopiante",
+        "Client": "Mulher vizinha das Ru\u00EDnas",
+        "Description": "Tenha santa paci\u00EAncia! Eu me mudei pra\r\nperto das Ru\u00EDnas do Templo porque era\r\num lugar legal e tranquilo. Agora tem\r\num Grande Izuchi e sua gangue fazendo\r\nalgazarra. Eu tentei confront\u00E1-los, mas\r\neles me amea\u00E7aram! \u003CLSNR {Ca\u00E7ador} {Ca\u00E7adora}\u003E,\r\npor favor, livre-se deles!",
+        "Target": "Cace um Grande Izuchi",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD718\uBAB0\uC544\uCE58\uB294 \uD68C\uC624\uB9AC \uBC14\uB78C",
+        "Client": "\uC0AC\uC6D0 \uD3D0\uD5C8 \uADFC\uCC98\uC5D0 \uC0AC\uB294 \uC5EC\uC131",
+        "Description": "\uD070\uC77C \uB0AC\uC5B4\uC694! \uC0AC\uC6D0 \uD3D0\uD5C8\uC5D0\r\n\uC624\uC0AC\uC774\uC988\uCE58\uAC00 \uB098\uD0C0\uB0AC\uC5B4\uC694\u2026!\r\n\uC624\uC0AC\uC774\uC988\uCE58\uB294 \uBD80\uD558\uB4E4\uACFC\uC758 \uC5F0\uACC4\uAC00\r\n\uD2B9\uC9D5\uC778 \uBAAC\uC2A4\uD130\uB77C\uACE0 \uB4E4\uC5C8\uC2B5\uB2C8\uB2E4.\r\n\uB9CC\uC57D \uB458\uB7EC\uC2F8\uC778\uB2E4\uBA74 \uC81C \uD798\uC73C\uB85C\r\n\uB3C4\uB9DD\uCE60 \uC218 \uC788\uC744\uC9C0 \uBAA8\uB974\uACA0\uB124\uC694\u2026\r\n\uBD80\uB514 \uC0AC\uB0E5\uD574 \uC8FC\uC138\uC694!",
+        "Target": "\uC624\uC0AC\uC774\uC988\uCE58 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5C64\u5C64\u5305\u570D\u7684\u65CB\u98A8",
+        "Client": "\u4F4F\u5728\u5927\u793E\u907A\u8DE1\u9644\u8FD1\u7684\u5973\u6027",
+        "Description": "\u7CDF\u7CD5\u4E86\uFF01\u942E\u9F2C\u9F8D\u738B\u51FA\u73FE\u5728\r\n\u5927\u793E\u907A\u8DE1\u2026\u2026\uFF01\r\n\u6211\u807D\u8AAA\u942E\u9F2C\u9F8D\u738B\u9019\u7A2E\u9B54\u7269\r\n\u64C5\u9577\u548C\u624B\u4E0B\u4E00\u540C\u5C55\u958B\u806F\u624B\u653B\u64CA\u3002\r\n\u842C\u4E00\u88AB\u7260\u5011\u5305\u570D\uFF0C\r\n\u4E0D\u77E5\u9053\u6191\u6211\u7684\u8173\u529B\u80FD\u4E0D\u80FD\u9003\u6389\u2026\u2026\r\n\u62DC\u8A17\uFF0C\u8ACB\u53BB\u72E9\u7375\u7260\uFF01",
+        "Target": "\u72E9\u73751\u982D\u942E\u9F2C\u9F8D\u738B",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u5305\u56F4\u800C\u6765\u7684\u65CB\u98CE",
+        "Client": "\u4F4F\u5728\u5E9F\u795E\u793E\u9644\u8FD1\u7684\u5973\u6027",
+        "Description": "\u4E0D\u597D\u4E86\uFF01\u9570\u9F2C\u9F99\u738B\r\n\u51FA\u73B0\u5728\u5E9F\u795E\u793E\u4E86\u2026\u2026\uFF01\r\n\u6211\u542C\u8BF4\u9570\u9F2C\u9F99\u738B\u662F\u79CD\r\n\u64C5\u957F\u548C\u5C0F\u5F1F\u5408\u4F5C\u7684\u602A\u7269\u3002\r\n\u8981\u662F\u88AB\u5B83\u4EEC\u5305\u56F4\u4E86\uFF0C\r\n\u4E0D\u77E5\u9053\u6211\u8DD1\u5F97\u6389\u5417\u2026\u2026\r\n\u62DC\u6258\u4E86\uFF0C\u8BF7\u53BB\u72E9\u730E\u5B83\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u9570\u9F2C\u9F99\u738B",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0625\u0639\u0635\u0627\u0631 \u0627\u0644\u062F\u0648\u0627\u0631",
+        "Client": "\u0633\u064A\u062F\u0629 \u062A\u0639\u064A\u0634 \u0628\u062C\u0648\u0627\u0631 \u0627\u0644\u0623\u0637\u0644\u0627\u0644",
+        "Description": "\u0627\u0644\u0644\u0639\u0646\u0629! \u0627\u0646\u062A\u0642\u0644\u062A \u0628\u0627\u0644\u0642\u0631\u0628 \u0645\u0646 \u0623\u0637\u0644\u0627\u0644\r\n\u0627\u0644\u0636\u0631\u064A\u062D \u0644\u0623\u0646\u0647 \u0643\u0627\u0646 \u062D\u064A\u064B\u0627 \u0644\u0637\u064A\u0641\u064B\u0627\r\n\u0648\u0647\u0627\u062F\u0626\u064B\u0627... \u0648\u0627\u0644\u0622\u0646 \u064A\u0633\u0628\u0628 \u0625\u064A\u0632\u0648\u062A\u0634\u064A\r\n\u0627\u0644\u0639\u0638\u064A\u0645 \u0648\u0639\u0635\u0627\u0628\u062A\u0647 \u0627\u0644\u0635\u063A\u064A\u0631\u0629\r\n\u0627\u0644\u0641\u0648\u0636\u0649. \u062D\u0627\u0648\u0644\u062A \u0625\u0639\u0637\u0627\u0621\u0647\u0645 \u062C\u0632\u0621\u064B\u0627\r\n\u0645\u0646 \u0639\u0642\u0644\u064A \u0644\u0643\u0646\u0647\u0645 \u0633\u062D\u0628\u0648\u0627 \u0634\u0641\u0631\u0627\u062A\u0647\u0645\r\n\u0639\u0644\u064A\u0651! \u003CLSNR {\u0623\u064A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F\u060C \u0623\u0631\u062C\u0648\u0643 \u062A\u062E\u0644\u0635} {\u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F\u0629\u060C \u0623\u0631\u062C\u0648\u0643\u0650 \u062A\u062E\u0644\u0635\u064A}\u003E \u0645\u0646\u0647\u0645!",
+        "Target": "\u0635\u064A\u062F \u0625\u064A\u0632\u0648\u062A\u0634\u064A \u0627\u0644\u0639\u0638\u064A\u0645",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 5,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      107,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 107,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 94,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 3,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 351,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 3240,
+      "Points": 70,
+      "HRP": 160
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      35,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 5,
+      "HealthTable": 97,
+      "AttackTable": 79,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

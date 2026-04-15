@@ -1,0 +1,350 @@
+{
+  "QuestID": 508,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u96A0\u3057\u5473\u306F\u3046\u305F\u305F\u5BDD\uFF1F\u3000\u306E\u5DFB",
+        "Client": "\u8336\u5C4B\u306E\u30E8\u30E2\u30AE",
+        "Description": "\u79C1\u3001\u9583\u3044\u3061\u3083\u3063\u305F\u3093\u3060\uFF01\r\n\u805E\u3044\u305F\u3089\u7720\u304F\u306A\u308B\u3063\u3066\u3044\u3046\u3001\r\n\u003CCOL RED\u003E\u30A4\u30BD\u30CD\u30DF\u30AF\u30CB\u003C/COL\u003E\u306E\u6B4C\uFF01\u3000\u305D\u306E\u6B4C\u3092\r\n\u53C2\u8003\u306B\u3059\u308C\u3070\u3001\u304A\u663C\u5BDD\u306E\u3088\u3046\u306A\r\n\u30B9\u30C3\u30AD\u30EA\u611F\u304C\u5473\u308F\u3048\u308B\u30B9\u30B4\u30A4\r\n\u3046\u3055\u56E3\u5B50\u304C\u4F5C\u308C\u308B\u306F\u305A\uFF01\u3000\u6355\u7372\u3001\r\n\u304A\u9858\u3044\u3057\u3066\u3082\u3044\u3044\u304B\u306A\uFF1F",
+        "Target": "\u30A4\u30BD\u30CD\u30DF\u30AF\u30CB\uFF11\u982D\u306E\u6355\u7372",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\u3001\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7\r\n\u6355\u7372\u5BFE\u8C61\u306E\u8A0E\u4F10"
+      },
+      {
+        "Language": "ENG",
+        "Name": "The Secret Ingredient",
+        "Client": "Yomogi the Chef",
+        "Description": "So my idea is to make these\r\nnew Bunny Dango that\u0027ll\r\nrefresh you just like a power\r\nnap would. But to do that, I need\r\nyou to capture a \u003CCOL RED\u003ESomnacanth\u003C/COL\u003E\r\nso I can use its song to make\r\na recipe! I love you and please!",
+        "Target": "Capture a Somnacanth",
+        "Fail": "Reward hits 0, time expires,\r\nor capture target slain"
+      },
+      {
+        "Language": "FRE",
+        "Name": "L\u0027ingr\u00E9dient secret",
+        "Client": "Yomogi la chef",
+        "Description": "J\u0027aimerais pr\u00E9parer des dango\r\nqui puissent te revigorer\r\ncomme une bonne sieste. Mais\r\npour \u00E7a, il va falloir que tu\r\nme captures un \u003CCOLS RED\u003ESomnacanth\u003C/COL\u003E.\r\nJ\u0027ai besoin de son chant pour\r\nma recette ! S\u0027il te pla\u00EEt ?",
+        "Target": "Capturer un Somnacanth",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9\r\nCible tu\u00E9e"
+      },
+      {
+        "Language": "ITA",
+        "Name": "L\u0027ingrediente segreto",
+        "Client": "Yomogi la chef",
+        "Description": "Vorrei creare dei nuovi dango\r\na coniglietto che mettano\r\nin forze quanto un sonnellino,\r\nma ho bisogno che mi catturi\r\nun \u003CCOLS RED\u003ESomnacanth\u003C/COL\u003E, cos\u00EC potr\u00F2\r\nusare la sua canzone per la\r\nricetta. Grazie, ti adoro!",
+        "Target": "Cattura un Somnacanth",
+        "Fail": "Premio a zero, tempo scaduto\r\no mostro da catturare ucciso"
+      },
+      {
+        "Language": "GER",
+        "Name": "Die Geheimzutat",
+        "Client": "Yomogi die K\u00F6chin",
+        "Description": "Ich will neue Dango kreieren,\r\ndie genauso belebend sind wie\r\nein Nickerchen. Deshalb m\u00F6chte\r\nich dich bitten, einen\r\n\u003CCOLS RED\u003ESomnacanth\u003C/COL\u003E zu fangen, damit\r\nich sein Lied f\u00FCr das Rezept\r\nverwenden kann! Bitte!",
+        "Target": "Fange einen Somnacanth.",
+        "Fail": "Belohnung auf 0, Zeit l\u00E4uft ab\r\noder Fangziel erlegt."
+      },
+      {
+        "Language": "SPA",
+        "Name": "El ingrediente secreto",
+        "Client": "Yomogi la chef",
+        "Description": "Hay quien dice que el canto\r\ndel \u003CCOLS RED\u003ESomnacanth\u003C/COL\u003E hace dormir.\r\nSi lo usase como inspiraci\u00F3n,\r\n\u00A1podr\u00EDa hacer dango que\r\nsentasen como una relajante\r\nsiesta! \u00BFPodr\u00EDas capturarme\r\nuno?",
+        "Target": "Captura un Somnacanth",
+        "Fail": "La recompensa cae a 0, agotas\r\nel tiempo o el objetivo muere."
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0421\u0435\u043A\u0440\u0435\u0442\u043D\u044B\u0439 \u0438\u043D\u0433\u0440\u0435\u0434\u0438\u0435\u043D\u0442",
+        "Client": "\u041F\u043E\u0432\u0430\u0440 \u0419\u043E\u043C\u043E\u0433\u0438",
+        "Description": "\u042F \u0445\u043E\u0447\u0443 \u0434\u0435\u043B\u0430\u0442\u044C \u043D\u043E\u0432\u044B\u0435 \u0434\u0430\u043D\u0433\u043E,\r\n\u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u0431\u0443\u0434\u0443\u0442 \u043F\u0440\u0438\u0434\u0430\u0432\u0430\u0442\u044C \u0441\u0438\u043B \u043D\u0435\r\n\u0445\u0443\u0436\u0435 \u0445\u043E\u0440\u043E\u0448\u0435\u0433\u043E \u0441\u043D\u0430. \u041D\u043E \u0434\u043B\u044F\r\n\u044D\u0442\u043E\u0433\u043E \u043D\u0430\u0434\u043E \u043F\u043E\u0439\u043C\u0430\u0442\u044C\r\n\u003CCOL RED\u003E\u0421\u043E\u043C\u043D\u0430\u043A\u0430\u043D\u0442\u0430\u003C/COL\u003E, \u0438\u0437 \u0435\u0433\u043E \u043F\u0435\u0441\u043D\u0438\r\n\u044F \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044E \u0440\u0435\u0446\u0435\u043F\u0442! \u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430!",
+        "Target": "\u041F\u043E\u0439\u043C\u0430\u0442\u044C \u0421\u043E\u043C\u043D\u0430\u043A\u0430\u043D\u0442\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0,\r\n\u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F, \u0443\u043C\u0438\u0440\u0430\u0435\u0442 \u0446\u0435\u043B\u044C"
+      },
+      {
+        "Language": "POL",
+        "Name": "Sekretny sk\u0142adnik",
+        "Client": "Kucharka Yomogi",
+        "Description": "Mam pomys\u0142 na nowe dango,\r\nkt\u00F3re od\u015Bwie\u017Ca\u0142yby jak kr\u00F3tka\r\ndrzemka. Jednym ze sk\u0142adnik\u00F3w\r\njest \u015Bpiew \u003CCOLS RED\u003ESomnacantha\u003C/COL\u003E, wi\u0119c\r\npotrzebna mi jest jedna taka\r\nbestia. Z\u0142apiesz j\u0105 dla mnie?\r\nWiesz, \u017Ce ci\u0119 uwielbiam!",
+        "Target": "Z\u0142ap Somnacantha",
+        "Fail": "Nagroda = 0 lub koniec\r\nczasu, lub z\u0142apany cel ginie"
+      },
+      {
+        "Language": "POR",
+        "Name": "O ingrediente secreto",
+        "Client": "Yomogi, a chef",
+        "Description": "Ent\u00E3o, minha ideia \u00E9 fazer novos\r\ndangos de coelho que te revigorem\r\ncomo uma soneca. Mas, pra isso,\r\npreciso que voc\u00EA capture uma\r\n\u003CCOLS RED\u003ESomnacanth\u003C/COL\u003E, para que eu possa\r\nusar a m\u00FAsica dela pra fazer uma\r\nreceita! Eu te amo e por favor!",
+        "Target": "Cace um Somnacanth",
+        "Fail": "Rec. chega a 0, tempo expira\r\nou alvo de captura \u00E9 morto"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uB9DB\uC758 \uBE44\uACB0\uC740 \uC120\uC7A0? \uD3B8",
+        "Client": "\uCC3B\uC9D1\uC758 \uC694\uBAA8\uAE30",
+        "Description": "\uB098 \uC88B\uC740 \uC0DD\uAC01\uC774 \uB0AC\uC5B4!\r\n\uB4E4\uC73C\uBA74 \uC878\uB9B0\uB2E4\uACE0 \uD558\uB294\r\n\u003CCOL RED\u003E\uC774\uC18C\uB124\uBBF8\uCFE0\uB2C8\u003C/COL\u003E\uC758 \uB178\uB798!\r\n\uADF8 \uB178\uB798\uB97C \uCC38\uACE0\uD558\uBA74 \uB0AE\uC7A0\uCC98\uB7FC\r\n\uC0C1\uCF8C\uD55C \uB9DB\uC774 \uB098\uB294 \uD1A0\uB07C \uACBD\uB2E8\uC744\r\n\uB9CC\uB4E4 \uC218 \uC788\uC744 \uAC70\uC57C!\r\n\uD3EC\uD68D\uD574 \uC904 \uC218 \uC788\uC5B4?",
+        "Target": "\uC774\uC18C\uB124\uBBF8\uCFE0\uB2C8 1\uB9C8\uB9AC \uD3EC\uD68D",
+        "Fail": "\uBCF4\uC218\uAE08 0, \uC2DC\uAC04 \uCD08\uACFC\r\n\uD3EC\uD68D \uB300\uC0C1 \uD1A0\uBC8C"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u63D0\u5473\u79D8\u65B9\u6B63\u662F\u5C0F\u7761\uFF1F\u4E4B\u5377",
+        "Client": "\u8336\u9928\u8001\u95C6\u827E\u8349",
+        "Description": "\u6211\u60F3\u5230\u4E86\u4E00\u500B\u9EDE\u5B50\uFF01\r\n\u64DA\u8AAA\u4EBA\u5728\u807D\u4E86\u003CCOL RED\u003E\u4EBA\u9B5A\u9F8D\u003C/COL\u003E\u4E4B\u6B4C\u5F8C\uFF0C\r\n\u5C31\u6703\u9677\u5165\u7761\u7720\uFF01\u53EA\u8981\u53C3\u8003\u90A3\u9996\u6B4C\uFF0C\r\n\u61C9\u8A72\u5C31\u80FD\u505A\u51FA\u80FD\u8B93\u4EBA\u611F\u53D7\u5230\u5B9B\u5982\r\n\u5348\u7761\u5F8C\u795E\u6E05\u6C23\u723D\u6ECB\u5473\u7684\u5154\u5154\u7CF0\u5B50\uFF01\r\n\u6240\u4EE5\uFF0C\u80FD\u8ACB\u4F60\u5E6B\u6211\u6355\u7372\u7260\u55CE\uFF1F",
+        "Target": "\u6355\u73721\u982D\u4EBA\u9B5A\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\u3001\u6642\u9593\u7D50\u675F\r\n\u8A0E\u4F10\u6355\u7372\u5C0D\u8C61"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u201C\u79D8\u65B9\u662F\u6253\u778C\u7761\uFF1F\u201D\u4E4B\u5377",
+        "Client": "\u8336\u70B9\u5E97\u5E97\u4E3B\u827E\u8349",
+        "Description": "\u6211\u6709\u7075\u611F\u5566\uFF01\r\n\u542C\u4E86\u5C31\u4F1A\u60F3\u7761\u7684\uFF0C\r\n\u003CCOL RED\u003E\u4EBA\u9C7C\u9F99\u003C/COL\u003E\u7684\u6B4C\uFF01\r\n\u53EA\u8981\u53C2\u8003\u5B83\u7684\u6B4C\u58F0\uFF0C\r\n\u5E94\u8BE5\u5C31\u80FD\u505A\u51FA\u8BA9\u4EBA\u611F\u53D7\u5230\r\n\u5348\u7761\u822C\u8212\u723D\u7684\u8D85\u68D2\u5154\u56E2\u5B50\uFF01\r\n\u80FD\u9EBB\u70E6\u4F60\u53BB\u6355\u83B7\u5B83\u5417\uFF1F",
+        "Target": "\u6355\u83B71\u5934\u4EBA\u9C7C\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\u3001\u65F6\u95F4\u8017\u5C3D\uFF0C\r\n\u6216\u8BA8\u4F10\u4E86\u6355\u83B7\u76EE\u6807"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0645\u0643\u0648\u0651\u0646 \u0627\u0644\u0633\u0631\u064A",
+        "Client": "\u0627\u0644\u0637\u0628\u0627\u062E\u0629 \u064A\u0648\u0645\u0648\u062C\u064A",
+        "Description": "\u0623\u0646\u0627 \u0623\u0641\u0643\u0631 \u0641\u064A \u0625\u0639\u062F\u0627\u062F \u0648\u0635\u0641\u0629 \u062F\u0627\u0646\u062C\u0648\r\n\u0627\u0644\u0623\u0631\u0627\u0646\u0628 \u0627\u0644\u062C\u062F\u064A\u062F\u0629 \u0627\u0644\u062A\u064A \u003CLSNR {\u0633\u062A\u0646\u0639\u0634\u0643} {\u0633\u062A\u0646\u0639\u0634\u0643\u0650}\u003E\r\n\u0645\u062B\u0644\u0645\u0627 \u062A\u0641\u0639\u0644 \u0627\u0644\u0642\u064A\u0644\u0648\u0644\u0629 \u0627\u0644\u0642\u0648\u064A\u0629.\r\n\u0648\u0644\u0643\u0646 \u0644\u0644\u0642\u064A\u0627\u0645 \u0628\u0630\u0644\u0643\u060C \u0623\u062D\u062A\u0627\u062C\r\n\u0644\u0627\u0635\u0637\u064A\u0627\u062F \u003CCOL RED\u003E\u0633\u0648\u0645\u0646\u0627\u0643\u0627\u0646\u062B\u003C/COL\u003E\r\n\u0644\u0643\u064A \u0623\u062A\u0645\u0643\u0646 \u0645\u0646 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0623\u063A\u0646\u064A\u062A\u0647\r\n\u0644\u0625\u0639\u062F\u0627\u062F \u0648\u0635\u0641\u0629! \u003CLSNR {\u0623\u062D\u0628\u0643 \u0623\u0631\u062C\u0648\u0643} {\u0623\u062D\u0628\u0643\u0650 \u0623\u0631\u062C\u0648\u0643\u0650}\u003E!",
+        "Target": "\u0627\u0635\u0637\u064A\u0627\u062F \u0633\u0648\u0645\u0646\u0627\u0643\u0627\u0646\u062B",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u062A\u0647\u064A\r\n\u0627\u0644\u0648\u0642\u062A\u060C \u0623\u0648 \u0625\u0645\u0633\u0627\u0643 \u0647\u062F\u0641 \u0627\u0644\u0642\u062A\u0644"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 13,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      349,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 349,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 134,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 133,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 62,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 350,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 133,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 346,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 4680,
+      "Points": 100,
+      "HRP": 350
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      54,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 10,
+      "HealthTable": 32,
+      "AttackTable": 11,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 32,
+        "AttackTable": 11,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

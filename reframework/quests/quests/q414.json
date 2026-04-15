@@ -1,0 +1,350 @@
+{
+  "QuestID": 414,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u89AA\u5B50\u306E\u7CF8",
+        "Client": "\u5BB6\u65CF\u601D\u3044\u306E\u5973\u306E\u5B50",
+        "Description": "\u3060\u3044\u3059\u304D\u306A\u304A\u3068\u3046\u3055\u3093\u306B\r\n\u3066\u3076\u304F\u308D\u3092\u3064\u304F\u308A\u305F\u3044\u3067\u3059\u3002\r\n\u304A\u304B\u3042\u3055\u3093\u304C\u3001\u3064\u3051\u3072\u3070\u304D\u306E\r\n\u3044\u3068\u306F\u3059\u3054\u304F\u3058\u3087\u3046\u3076\u3060\u3001\u3063\u3066\r\n\u3044\u3063\u3066\u307E\u3057\u305F\u3002\u3044\u3068\u304C\u307B\u3057\u3044\r\n\u3067\u3059\u3002\u3064\u3051\u3072\u3070\u304D\u3092\u305F\u304A\u3057\u3066\r\n\u304F\u3060\u3055\u3044\u3002\u304A\u306D\u304C\u3044\u3057\u307E\u3059\u3002",
+        "Target": "\u30C4\u30B1\u30D2\u30D0\u30AD\uFF11\uFF10\u5339\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "THE BEST Quest",
+        "Client": "Thoughtful Girl",
+        "Description": "My daddy\u0027s THE BEST and I want\r\nto make THE BEST gloves for him.\r\nMommy says that Rachnoid thread\r\nis THE BEST for making gloves so...\r\nCan you go and fight a few for me\r\nand bring me the thread? You\u0027d be\r\nTHE BEST if you did!",
+        "Target": "Slay 10 Rachnoid",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Ce qu\u0027il y a de mieux !",
+        "Client": "Fille attentionn\u00E9e",
+        "Description": "Mon papa c\u0027est le meilleur !\r\nEt je veux faire les meilleurs\r\ngants pour lui ! Maman m\u0027a dit\r\nqu\u0027il n\u0027y a pas mieux que la\r\nsoie de Rachnoid pour faire\r\ndes gants... Tu pourrais en\r\nr\u00E9cup\u00E9rer... S\u0027IL TE PLA\u00CET ?!",
+        "Target": "Tuer 10 Rachnoid",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "La missione MIGLIORE",
+        "Client": "Bambina premurosa",
+        "Description": "Mio pap\u00E0 \u00E8 IL MIGLIORE e io\r\nvoglio fargli i guanti\r\nMIGLIORI del mondo! Mamma dice\r\nche le tele di Rachnoid sono\r\nLE MIGLIORI, quindi puoi\r\ncacciarne qualcuno per me e\r\nportarmi la tela? Grazie!",
+        "Target": "Uccidi 10 Rachnoid",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "DIE BESTE Quest",
+        "Client": "Nachdenkliches M\u00E4dchen",
+        "Description": "Mein Papa ist DER BESTE und\r\nich will DIE BESTEN Handschuhe\r\nf\u00FCr ihn machen. Mama sagt,\r\nRachnoid-Garn ist DAS BESTE,\r\nalso... Kannst du ein paar f\u00FCr\r\nmich jagen und mir das Garn\r\nbringen? Das w\u00E4r DAS BESTE!",
+        "Target": "T\u00F6te 10 Rachnoiden.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Amor de hija",
+        "Client": "Chica considerada",
+        "Description": "Quiero hacer guantes para\r\npap\u00E1. Mam\u00E1 dice que los hilos\r\nde Rachnoid son muy fuertes,\r\nas\u00ED que \u00BFpodr\u00EDas enfrentarte a\r\nlos Rachnoid y conseguirme\r\nhilos, porfi?",
+        "Target": "Abate 10 Rachnoid",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0421\u0410\u041C\u041E\u0415 \u041B\u0423\u0427\u0428\u0415\u0415 \u0437\u0430\u0434\u0430\u043D\u0438\u0435",
+        "Client": "\u0417\u0430\u0431\u043E\u0442\u043B\u0438\u0432\u0430\u044F \u0434\u0435\u0432\u043E\u0447\u043A\u0430",
+        "Description": "\u041C\u043E\u0439 \u043F\u0430\u043F\u0430 \u0421\u0410\u041C\u042B\u0419 \u041B\u0423\u0427\u0428\u0418\u0419, \u044F \u0445\u043E\u0447\u0443\r\n\u0441\u0434\u0435\u043B\u0430\u0442\u044C \u0435\u043C\u0443 \u0421\u0410\u041C\u042B\u0415 \u041B\u0423\u0427\u0428\u0418\u0415 \u043F\u0435\u0440\u0447\u0430\u0442\u043A\u0438.\r\n\u041C\u0430\u043C\u0430 \u0433\u043E\u0432\u043E\u0440\u0438\u0442, \u0421\u0410\u041C\u0410\u042F \u041B\u0423\u0427\u0428\u0410\u042F \u043D\u0438\u0442\u044C\r\n\u0434\u043B\u044F \u043F\u0435\u0440\u0447\u0430\u0442\u043E\u043A \u2014 \u043F\u0430\u0443\u0442\u0438\u043D\u0430 \u0420\u0430\u0445\u043D\u043E\u0438\u0434\u043E\u0432.\r\n\u041C\u043E\u0436\u0435\u0448\u044C \u043F\u043E\u043E\u0445\u043E\u0442\u0438\u0442\u044C\u0441\u044F \u043D\u0430 \u043D\u0438\u0445 \u0438\r\n\u043F\u0440\u0438\u043D\u0435\u0441\u0442\u0438 \u043C\u043D\u0435 \u043F\u0430\u0443\u0442\u0438\u043D\u0443? \u041F\u0440\u0430\u0432\u0434\u0430?\r\n\u0422\u044B \u003CLSNR {\u0421\u0410\u041C\u042B\u0419 \u041B\u0423\u0427\u0428\u0418\u0419} {\u0421\u0410\u041C\u0410\u042F \u041B\u0423\u0427\u0428\u0410\u042F}\u003E!",
+        "Target": "\u0423\u0431\u0438\u0442\u044C 10 \u0420\u0430\u0445\u043D\u043E\u0438\u0434\u043E\u0432",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Zadanie na TIP-TOP",
+        "Client": "Troskliwa dziewczynka",
+        "Description": "M\u00F3j tato jest po prostu\r\nTIP-TOP i chc\u0119 mu sprawi\u0107\r\nTIP-TOP r\u0119kawice. Mama m\u00F3wi,\r\n\u017Ce TIP-TOP materia\u0142em na\r\nr\u0119kawice jest ni\u0107 Rachnoid\u00F3w.\r\nP\u00F3jdziesz na nie zapolowa\u0107, by\r\nto zdoby\u0107? B\u0119dziesz TIP-TOP!",
+        "Target": "Zabij 10 Rachnoid\u00F3w",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "A MELHOR Miss\u00E3o",
+        "Client": "Garota atenciosa",
+        "Description": "Meu pai \u00E9 o MELHOR, e eu quero\r\nfazer as MELHORES luvas pra ele.\r\nMam\u00E3e diz que fios de Rachnoid\r\ns\u00E3o os melhores pra luvas,\r\nent\u00E3o... Voc\u00EA pode lutar com\r\nalguns por mim e me trazer o\r\nfio por favor?",
+        "Target": "Mate 10 Rachnoids",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uAC00\uC871\uC758 \uC2E4",
+        "Client": "\uAC00\uC871\uC744 \uC0DD\uAC01\uD558\uB294 \uC544\uC774",
+        "Description": "\uC88B\uC544\uD558\uB294 \uC544\uBE60\uB97C \uC704\uD574\r\n\uC7A5\uAC11\uC744 \uB9CC\uB4E4\uC5B4 \uC8FC\uACE0 \uC2F6\uC5B4\uC694.\r\n\uC5C4\uB9C8\uAC00 \uCE20\uCF00\uD788\uBC14\uD0A4\uC758 \uC2E4\uC774\r\n\uC5C4\uCCAD \uD2BC\uD2BC\uD558\uB2E4\uACE0 \uADF8\uB7AC\uC5B4\uC694.\r\n\uC2E4\uC774 \uD544\uC694\uD574\uC694. \uCE20\uCF00\uD788\uBC14\uD0A4\uB97C\r\n\uC4F0\uB7EC\uB728\uB9AC\uACE0 \uC2E4\uC744 \uAC00\uC838\uB2E4\uC8FC\uC138\uC694.",
+        "Target": "\uCE20\uCF00\uD788\uBC14\uD0A4 10\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u9023\u63A5\u89AA\u5B50\u9593\u7684\u7DDA",
+        "Client": "\u9AD4\u8CBC\u5BB6\u4EBA\u7684\u5973\u5B69",
+        "Description": "\u6211\u60F3\u5E6B\u7238\u7238\u505A\u624B\u5957\u3002\r\n\u5ABD\u5ABD\u8AAA\uFF0C\u81E3\u8718\u86DB\u7684\u7D72\u7DDA\u975E\u5E38\u5805\u56FA\u3002\r\n\u6240\u4EE5\u6211\u60F3\u8981\u7260\u7684\u7D72\u7DDA\u3002\r\n\u62DC\u8A17\u4F60\uFF0C\u8ACB\u4F60\u5E6B\u6211\u6253\u5012\u7260\u5427\u3002",
+        "Target": "\u8A0E\u4F1010\u96BB\u81E3\u8718\u86DB",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7236\u5973\u4E4B\u4E1D",
+        "Client": "\u4F53\u8D34\u5BB6\u4EBA\u7684\u5973\u5B69",
+        "Description": "\u6211\u60F3\u4E3A\u6700\u7231\u7684\u7238\u7238\r\n\u505A\u4E00\u53CC\u624B\u5957\u3002\r\n\u5988\u5988\u8DDF\u6211\u8BF4\uFF0C\r\n\u81E3\u8718\u86DB\u7684\u4E1D\u975E\u5E38\u575A\u97E7\u3002\r\n\u6211\u60F3\u8981\u8FD9\u4E2A\u4E1D\u3002\r\n\u8BF7\u4F60\u53BB\u6253\u5012\u81E3\u8718\u86DB\u3002\r\n\u62DC\u6258\u4E86\u3002",
+        "Target": "\u8BA8\u4F1010\u53EA\u81E3\u8718\u86DB",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0645\u0647\u0645\u0629 \u0627\u0644\u0623\u0641\u0636\u0644",
+        "Client": "\u0627\u0644\u0641\u062A\u0627\u0629 \u0627\u0644\u0631\u0635\u064A\u0646\u0629",
+        "Description": "\u0623\u0628\u064A \u0647\u0648 \u0627\u0644\u0623\u0641\u0636\u0644 \u0648\u0623\u0631\u064A\u062F \u0623\u0646 \u0623\u0635\u0646\u0639\r\n\u0623\u0641\u0636\u0644 \u0627\u0644\u0642\u0641\u0627\u0632\u0627\u062A \u0644\u0647. \u062A\u0642\u0648\u0644\r\n\u0623\u0645\u064A \u0625\u0646 \u062E\u064A\u0648\u0637 \u0631\u0627\u0643\u0646\u0648\u064A\u062F\r\n\u0647\u064A \u0627\u0644\u0623\u0641\u0636\u0644 \u0644\u0635\u0646\u0639 \u0627\u0644\u0642\u0641\u0627\u0632\u0627\u062A...\r\n\u003CLSNR {\u0623\u064A\u0645\u0643\u0646\u0643} {\u0623\u064A\u0645\u0643\u0646\u0643\u0650}\u003E \u0645\u062D\u0627\u0631\u0628\u0629 \u0628\u0639\u0636\u0647\u0645 \u0645\u0646 \u0623\u062C\u0644\u064A\r\n\u0648\u062C\u0644\u0628 \u0627\u0644\u062E\u064A\u0648\u0637 \u0644\u064A\u061F \u003CLSNR {\u0633\u062A\u0643\u0648\u0646} {\u0633\u062A\u0643\u0648\u0646\u064A\u0646}\u003E\r\n\u0627\u0644\u0623\u0641\u0636\u0644 \u0625\u0646 \u003CLSNR {\u0641\u0639\u0644\u062A\u064E} {\u0641\u0639\u0644\u062A\u0650}\u003E \u0630\u0644\u0643!",
+        "Target": "\u0627\u0642\u062A\u0644 10 \u0645\u0646 \u0631\u0627\u0643\u0646\u0648\u064A\u062F",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 5,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      20,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 20,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1369,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 351,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 89,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 2100,
+      "Points": 50,
+      "HRP": 120
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      44,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 25,
+      "HealthTable": 29,
+      "AttackTable": 10,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

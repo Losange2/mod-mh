@@ -1,0 +1,350 @@
+{
+  "QuestID": 315417,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u5343\u306B\u5207\u308A\u88C2\u304D\u3001\u5FAE\u5875\u306B\u3064\u3076\u3059",
+        "Client": "\u6B66\u5668\u30DE\u30CB\u30A2\u306E\u7537",
+        "Description": "\u92ED\u3044\u5203\u3067\u5207\u308A\u88C2\u304F\u5343\u5203\u7ADC\u3001\u5727\u5012\u7684\r\n\u306A\u529B\u3067\u53E9\u304D\u6F70\u3059\u525B\u7E8F\u7363\uFF01\r\n\u3053\u306E\u9B45\u529B\u3001\u30AD\u30DF\u306A\u3089\u308F\u304B\u308B\u3060\u308D\uFF1F\r\n\u305D\u3046\u307E\u3055\u306B\u5263\u3068\u69CC\u3002\u7570\u306A\u308B\u6B66\u5668\u3092\r\n\u8C61\u5FB4\u3059\u308B\u304B\u306E\u3088\u3046\u306A\uFF12\u982D\u306B\u3001\u6B66\u5668\r\n\u306E\u5C02\u9580\u5BB6\u305F\u308B\u30CF\u30F3\u30BF\u30FC\u306E\u30AD\u30DF\u306A\u3089\r\n\u3069\u3046\u5BFE\u51E6\u3059\u308B\uFF1F",
+        "Target": "\u30BB\u30EB\u30EC\u30AE\u30AA\u30B9\uFF11\u982D\u3068\u30AC\u30E9\u30F3\u30B4\u30EB\u30E0\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Thousand Cuts, Totally Crushed",
+        "Client": "Weapon Fanatic Guy",
+        "Description": "Seregios cleaves with sharp\r\nblades, Garangolm crushes with\r\noverwhelming might! You see how\r\nawesome they are, right? They\u0027re\r\nlike a living sword and hammer!\r\nHow would a weapon specialist\r\nlike you handle them?",
+        "Target": "Hunt a Seregios and a Garangolm",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Couper ou \u00E9craser ?",
+        "Client": "Fana d\u0027armes",
+        "Description": "Le Seregios tranche,\r\nle Garangolm \u00E9crase...\r\nCes monstres sont incroyables,\r\ntu ne trouves pas ? L\u0027incarnation\r\nd\u0027une \u00E9p\u00E9e et d\u0027un marteau...\r\n\u00C7a te dirait de t\u0027y attaquer ?",
+        "Target": "Chasser un Seregios\r\net un Garangolm",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Squarcia e schiaccia",
+        "Client": "Fanatico di armi",
+        "Description": "I Seregios squarciano con lame\r\naffilate, i Garangolm annientano\r\ncon enorme potenza. Splendido,\r\nnon \u00E8 vero? Sono come una spada\r\ne un martello viventi! Tu sai\r\ntutto sulle armi. Mi chiedo\r\ncome li affronteresti.",
+        "Target": "Caccia un Seregios e un Garangolm",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Tausend Schnitte, Zerschmettert",
+        "Client": "Waffennarr",
+        "Description": "Seregios spaltet mit scharfen\r\nKlingen, Garangolm zerschmettert\r\nmit \u00FCberw\u00E4ltigender Macht!\r\nDu siehst ihre Herrlichkeit, oder?\r\nWie lebendes Schwert und Hammer!\r\nWie w\u00FCrde ein Waffenspezialist\r\nwie du mit ihnen umgehen?",
+        "Target": "Erjage einen Seregios und einen Garangolm.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Mil cortes y aplastamiento",
+        "Client": "Loco por las armas",
+        "Description": "El Seregios corta con afiladas\r\nhojas; el Garangolm aplasta\r\ncon poder devastador. \u00A1A que\r\nson algo alucinante! \u00A1Como una\r\nespada y martillo vivientes!\r\nT\u00FA que sabes de armas, \u00BFc\u00F3mo\r\nlidiar\u00EDas con ellos?",
+        "Target": "Caza un Seregios y un Garangolm",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0422\u044B\u0441\u044F\u0447\u0430 \u0440\u0430\u043D, \u0441\u043E\u043A\u0440\u0443\u0448\u0430\u044E\u0449\u0430\u044F \u043C\u043E\u0449\u044C",
+        "Client": "\u0424\u0430\u043D\u0430\u0442 \u043E\u0440\u0443\u0436\u0438\u044F",
+        "Description": "\u0421\u0435\u0440\u0435\u0433\u0438\u043E\u0441 \u0430\u0442\u0430\u043A\u0443\u0435\u0442 \u043E\u0441\u0442\u0440\u044B\u043C\u0438\r\n\u043A\u043B\u0438\u043D\u043A\u0430\u043C\u0438, \u0413\u0430\u0440\u0430\u043D\u0433\u043E\u043B\u044C\u043C \u043A\u0440\u0443\u0448\u0438\u0442\r\n\u0432\u0441\u0435 \u0441\u0432\u043E\u0435\u0439 \u043D\u0435\u0432\u0435\u0440\u043E\u044F\u0442\u043D\u043E\u0439 \u043C\u043E\u0449\u044C\u044E!\r\n\u041E\u043D\u0438 \u043A\u0440\u0443\u0442\u044B\u0435, \u0432\u0435\u0440\u043D\u043E? \u0421\u043B\u043E\u0432\u043D\u043E\r\n\u043E\u0436\u0438\u0432\u0448\u0438\u0435 \u043C\u0435\u0447 \u0438 \u043C\u043E\u043B\u043E\u0442!\r\n\u041A\u0430\u043A \u0441 \u043D\u0438\u043C\u0438 \u0441\u043F\u0440\u0430\u0432\u0438\u0442\u0441\u044F \u0442\u0430\u043A\u043E\u0439\r\n\u043C\u0430\u0441\u0442\u0435\u0440 \u043E\u0440\u0443\u0436\u0438\u044F, \u043A\u0430\u043A \u0442\u044B?",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0421\u0435\u0440\u0435\u0433\u0438\u043E\u0441\u0430 \u0438 \u0413\u0430\u0440\u0430\u043D\u0433\u043E\u043B\u044C\u043C\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Tysi\u0105c ci\u0119\u0107 i zmia\u017Cd\u017Cony",
+        "Client": "Fanatyk broni",
+        "Description": "Seregios roz\u0142upuje ostrymi\r\nklingami, Garangolm mia\u017Cd\u017Cy z\r\nniebywa\u0142\u0105 si\u0142\u0105! Widzisz, jacy\r\ns\u0105 rewelacyjni, tak? S\u0105 jak\r\n\u017Cywy miecz i m\u0142ot! B\u0119d\u0105c\r\nspecjalist\u0105 od broni,\r\njak si\u0119 z nimi uporasz?",
+        "Target": "Upoluj Seregiosa i Garangolma",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Mil Cortes, Muito Esmagado",
+        "Client": "Cara Fan\u00E1tico das Armas",
+        "Description": "Seregios cliva com gume\r\nafiado, Garangolm esmaga com\r\npoder absoluto! Voc\u00EA viu como\r\neles s\u00E3o incr\u00EDveis, n\u00E9? S\u00E3o\r\numa espada e um martelo! Como\r\num especialista em armas que\r\nnem voc\u00EA lidaria com eles?",
+        "Target": "Cace um Seregios e o Garangolm",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC798\uAC8C \uBCA0\uACE0 \uC0B0\uC0B0\uC870\uAC01 \uB0B8\uB2E4",
+        "Client": "\uBB34\uAE30 \uB9C8\uB2C8\uC544\uC778 \uB0A8\uC131",
+        "Description": "\uB0A0\uCE74\uB85C\uC6B4 \uCE7C\uB0A0\uB85C \uBCA0\uC5B4 \uBC84\uB9AC\uB294\r\n\uCC9C\uC778\uB8E1. \uC555\uB3C4\uC801\uC778 \uD798\uC73C\uB85C\r\n\uBB49\uAC1C \uBC84\uB9AC\uB294 \uAC15\uC804\uC218! \uB108\uB77C\uBA74\r\n\uC774 \uB9E4\uB825\uC744 \uC54C\uACA0\uC9C0? \uB9C8\uCE58\r\n\uAC80\uACFC \uB9DD\uCE58 \uAC19\uC544. \uAC01 \uBB34\uAE30\uB97C \uC0C1\uC9D5\r\n\uD558\uB294 \uB4EF\uD55C 2\uB9C8\uB9AC\uB97C \uBB34\uAE30 \uC804\uBB38\uAC00\r\n\uD5CC\uD130\uC778 \uB108\uB77C\uBA74 \uC5B4\uB5BB\uAC8C \uB300\uCC98\uD560\uB798?",
+        "Target": "\uC140\uB808\uAE30\uC624\uC2A4 1\uB9C8\uB9AC\uC640 \uAC00\uB780\uACE0\uB974\uBB34 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u65AC\u88C2\u5343\u6BB5\uFF0C\u788E\u5982\u5FAE\u5875",
+        "Client": "\u71B1\u611B\u6B66\u5668\u7684\u7537\u6027",
+        "Description": "\u4EE5\u92B3\u5229\u5200\u5203\u65AC\u88C2\u842C\u7269\u7684\u5343\u5203\u9F8D\uFF0C\r\n\u9084\u6709\u4EE5\u58D3\u5012\u6027\u529B\u91CF\u64CA\u6F70\u4E00\u5207\u7684\u525B\u7E8F\u7378\uFF01\r\n\u4F60\u61C9\u8A72\u80FD\u5920\u7406\u89E3\u9019\u7B87\u4E2D\u9B45\u529B\u5427\uFF1F\r\n\u6C92\u932F\uFF0C\u5C31\u50CF\u528D\u8207\u9318\u4E00\u6A23\u3002\r\n\u90192\u982D\u9B54\u7269\u5F77\u5F7F\u8C61\u5FB5\u8457\u4E0D\u540C\u7684\r\n\u6B66\u5668\u3002\u7375\u4EBA\u554A\uFF0C\u4F60\u8EAB\u70BA\u6B66\u5668\u5C08\u5BB6\uFF0C\r\n\u6703\u5982\u4F55\u61C9\u5C0D\u7260\u5011\u5462\uFF1F",
+        "Target": "\u72E9\u73751\u982D\u5343\u5203\u9F8D\u82071\u982D\u525B\u7E8F\u7378",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u788E\u5C38\u4E07\u6BB5\uFF0C\u78BE\u4E3A\u5FAE\u5C18",
+        "Client": "\u6B66\u5668\u8FF7",
+        "Description": "\u7528\u5229\u5203\u6495\u88C2\u5BF9\u624B\u7684\u5343\u5203\u9F99\uFF0C\u7528\u538B\u5012\r\n\u6027\u529B\u91CF\u6253\u70C2\u5BF9\u624B\u7684\u521A\u7F20\u517D\uFF01\u4F60\u5E94\u8BE5\r\n\u660E\u767D\u8FD9\u79CD\u9B45\u529B\u5427\uFF1F\u5BF9\uFF0C\u5C31\u50CF\u5251\u548C\u9524\r\n\u4E00\u6837\u3002\u8FD9\u4E24\u5934\u602A\u7269\u5C31\u50CF\u662F\u4E24\u79CD\u4E0D\u540C\r\n\u7684\u6B66\u5668\uFF0C\u730E\u4EBA\uFF0C\u4F60\u8FD9\u4E2A\u6B66\u5668\u4E13\u5BB6\u4F1A\r\n\u5982\u4F55\u5E94\u5BF9\uFF1F",
+        "Target": "\u72E9\u730E1\u5934\u5343\u5203\u9F99\u548C1\u5934\u521A\u7F20\u517D",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0623\u0644\u0641 \u062C\u0631\u062D\u060C \u062A\u0645 \u0633\u062D\u0642\u0647 \u0643\u0644\u064A\u0651\u064B\u0627",
+        "Client": "\u0627\u0644\u0631\u062C\u0644 \u0627\u0644\u0645\u062A\u0639\u0635\u0628 \u0644\u0644\u0623\u0633\u0644\u062D\u0629",
+        "Description": "\u064A\u0634\u0642 \u0633\u064A\u0631\u064A\u062C\u0648\u0633 \u0628\u0627\u0644\u0646\u0635\u0627\u0644 \u0627\u0644\u062D\u0627\u062F\u0629\u060C\r\n\u0648\u064A\u0633\u062D\u0642 \u062C\u0627\u0631\u0627\u0646\u062C\u0648\u0644\u0645 \u0628\u0627\u0644\u0642\u0648\u0629\r\n\u0627\u0644\u0633\u0627\u062D\u0642\u0629! \u064A\u0645\u0643\u0646\u0643 \u0631\u0624\u064A\u0629 \u0645\u062F\u0649 \r\n\u0631\u0648\u0639\u062A\u0647\u0645\u0627\u060C \u0623\u0644\u064A\u0633 \u0643\u0630\u0644\u0643\u061F \u0625\u0646\u0647\u0645\u0627\r\n\u0628\u0645\u0646\u0632\u0644\u0629 \u0633\u064A\u0641 \u062D\u064A \u0648\u0645\u0637\u0631\u0642\u0629!\r\n\u0643\u064A\u0641 \u064A\u0645\u0643\u0646 \u0644\u0645\u062A\u062E\u0635\u0635 \u0623\u0633\u0644\u062D\u0629\r\n\u0645\u062B\u0644\u0643 \u0623\u0646 \u064A\u062A\u0639\u0627\u0645\u0644 \u0645\u0639\u0647\u0645\u061F",
+        "Target": "\u0627\u0635\u0637\u062F \u0633\u064A\u0631\u064A\u062C\u0648\u0633 \u0648\u062C\u0627\u0631\u0627\u0646\u062C\u0648\u0644\u0645",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 5,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1369,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1369,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1412,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 4,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 48960,
+      "Points": 980,
+      "HRP": 1570
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      52,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 7,
+      "HealthTable": 124,
+      "AttackTable": 128,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

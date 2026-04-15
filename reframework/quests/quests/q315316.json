@@ -1,0 +1,350 @@
+{
+  "QuestID": 315316,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u5148\u8F29\u72E9\u4EBA\u306F\u80CC\u4E2D\u3067\u8A9E\u308B",
+        "Client": "\u30CF\u30F3\u30BF\u30FC\u3092\u76EE\u6307\u3059\u7537\u306E\u5B50",
+        "Description": "\u30CF\u30F3\u30BF\u30FC\u3092\u76EE\u6307\u3057\u3066\u3001\u3088\u304F\u5927\u793E\u8DE1\r\n\u3067\u7A3D\u53E4\u3057\u3066\u3093\u3060\uFF01\u3000\u3067\u3082\u3055\u3001\u305D\u3053\r\n\u306B\u6700\u8FD1\u30E2\u30F3\u30B9\u30BF\u30FC\u304C\u4F55\u982D\u3082\u51FA\u3061\u3083\r\n\u3063\u3066\u3001\u5168\u7136\u7A3D\u53E4\u306B\u884C\u3051\u306A\u3044\u3093\u3060\u3002\r\n\u306A\u3042\u3001\u3042\u3044\u3064\u3089\u3092\u5168\u90E8\u9000\u6CBB\u3057\u3066\r\n\u304F\u308C\u3088\uFF01\u3000\u3059\u3054\u3044\u72E9\u731F\u30C6\u30AF\u30CB\u30C3\u30AF\r\n\u3082\u898B\u305F\u3044\u3057\u3055\uFF01\u3000\u306A\u3001\u3044\u3044\u3060\u308D\uFF1F",
+        "Target": "\u5168\u3066\u306E\u30BF\u30FC\u30B2\u30C3\u30C8\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "In His Master\u0027s Footsteps",
+        "Client": "Aspiring Hunter Boy",
+        "Description": "Someday I wanna be just like\r\nmy master so I train every day\r\nin the Shrine Ruins. Well, I used\r\nto train every day, until all those\r\nmonsters showed up. Can you\r\nget rid of \u0027em so I can get back\r\nto training?",
+        "Target": "Hunt all target monsters",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Sur les traces du ma\u00EEtre",
+        "Client": "Petit chasseur novice",
+        "Description": "Je m\u0027entra\u00EEne au Temple oubli\u00E9\r\npour devenir chasseur ! Mais\r\ndes monstres sont arriv\u00E9s, je\r\nsuis bloqu\u00E9 ! Tu peux les tuer ?\r\nEt puis j\u0027aimerais voir\r\nta technique. Allez !!!",
+        "Target": "Chasser tous les monstres",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Sui passi dei veterani",
+        "Client": "Aspirante cacciatore",
+        "Description": "Mi alleno alle Rovine sacre per\r\ndiventare un cacciatore, ma\r\nsono apparsi alcuni mostri e\r\nultimamente non ho avuto modo\r\ndi allenarmi. Ti prego, uccidili\r\ntutti. Ah, e lasciami osservare\r\nla tua tecnica. Ci stai?",
+        "Target": "Caccia tutti i mostri assegnati",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "In seines Meisters Fu\u00DFstapfen",
+        "Client": "Angehender J\u00E4ger",
+        "Description": "Eines Tages m\u00F6chte ich so sein\r\nwie mein Meister, deshalb\r\ntrainiere ich jeden Tag in den\r\nHeiligen Ruinen. Nun, ich habe\r\njeden Tag trainiert, bis diese\r\nMonster aufgetaucht sind.\r\nKannst du sie loswerden, damit\r\nich wieder trainieren kann?",
+        "Target": "Erjage alle Zielmonster.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Tras los pasos de su mentor",
+        "Client": "Joven aspirante a cazador",
+        "Description": "Alg\u00FAn d\u00EDa quiero llegar a ser\r\ncomo mi maestro. Por eso entreno\r\ncada d\u00EDa en el Templo olvidado.\r\nBueno, o eso hac\u00EDa, hasta que\r\naparecieron todos esos monstruos.\r\n\u00BFPodr\u00EDas ocuparte de ellos,\r\npara que pueda volver a entrenar?",
+        "Target": "Caza todos los objetivos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041F\u043E \u0441\u0442\u043E\u043F\u0430\u043C \u043F\u0440\u0435\u0434\u043A\u043E\u0432",
+        "Client": "\u0426\u0435\u043B\u0435\u0443\u0441\u0442\u0440\u0435\u043C\u043B\u0435\u043D\u043D\u044B\u0439 \u043E\u0445\u043E\u0442\u043D\u0438\u043A",
+        "Description": "\u042F \u0442\u0440\u0435\u043D\u0438\u0440\u0443\u044E\u0441\u044C \u0432 \u0420\u0443\u0438\u043D\u0430\u0445\r\n\u0441\u0432\u044F\u0442\u0438\u043B\u0438\u0449\u0430, \u0447\u0442\u043E\u0431\u044B \u0441\u0442\u0430\u0442\u044C\r\n\u043E\u0445\u043E\u0442\u043D\u0438\u043A\u043E\u043C! \u041D\u043E \u0442\u0430\u043C \u043E\u0431\u044A\u044F\u0432\u0438\u043B\u0438\u0441\u044C\r\n\u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432, \u0438 \u044F\r\n\u043D\u0435 \u043C\u043E\u0433\u0443 \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u0442\u044C \u0442\u0440\u0435\u043D\u0438\u0440\u043E\u0432\u043A\u0438.\r\n\u041F\u0440\u043E\u0448\u0443, \u0438\u0437\u0431\u0430\u0432\u044C\u0441\u044F \u043E\u0442 \u043D\u0438\u0445! \u0410 \u044F\r\n\u043F\u043E\u0441\u043C\u043E\u0442\u0440\u044E \u043D\u0430 \u0442\u0432\u043E\u0438 \u043F\u0440\u0438\u0435\u043C\u044B! \u041C\u043E\u043B\u044E!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0432\u0441\u0435 \u0446\u0435\u043B\u0438",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Pod\u0105\u017Caj\u0105c za swym starszym",
+        "Client": "M\u0142ody aspirant na \u0142owc\u0119",
+        "Description": "Trenuj\u0119 w Ruinach\r\n\u015Awi\u0105tynnych, aby zosta\u0107 \u0142owc\u0105!\r\nAle pojawi\u0142o si\u0119 kilka\r\npotwor\u00F3w, wi\u0119c nie mog\u0119\r\nostatnio \u0107wiczy\u0107. Prosz\u0119,\r\npokonaj je wszystkie. Mog\u0119\r\nte\u017C spojrze\u0107 na twoje techniki?",
+        "Target": "Upoluj wszystkie cele",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Nos Passos do Mestre",
+        "Client": "Ca\u00E7ador Aspirante",
+        "Description": "Treino nas Ru\u00EDnas do Templo\r\npara virar ca\u00E7ador! S\u00F3 que\r\napareceram monstros, ent\u00E3o\r\nn\u00E3o pude mais ir l\u00E1. Por\r\nfavor, extermine todos eles!\r\nQuero ver sua t\u00E9cnica,\r\ntamb\u00E9m. Por favorzinho?",
+        "Target": "Cace todos os monstros-alvo",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC120\uBC30 \uD5CC\uD130\uB294 \uB4F1\uC73C\uB85C \uB9D0\uD55C\uB2E4",
+        "Client": "\uD5CC\uD130\uAC00 \uBAA9\uD45C\uC778 \uB0A8\uC790\uC544\uC774",
+        "Description": "\uD5CC\uD130\uB97C \uBAA9\uD45C\uB85C \uC0AC\uC6D0 \uD3D0\uD5C8\uC5D0\uC11C\r\n\uC5F4\uC2EC\uD788 \uC218\uD589 \uC911\uC774\uC57C! \uADF8\uB7F0\uB370\r\n\uC694\uC998 \uBAAC\uC2A4\uD130\uAC00 \uC5EC\uB7EC \uB9C8\uB9AC\r\n\uB098\uC640\uC11C \uC218\uD589\uC744 \uD560 \uC218\uAC00 \uC5C6\uC5B4.\r\n\uB140\uC11D\uB4E4\uC744 \uC804\uBD80 \uD1F4\uCE58\uD574 \uC918! \r\n\uBA4B\uC9C4 \uC0AC\uB0E5 \uAE30\uC220\uB3C4\r\n\uBCF4\uACE0 \uC2F6\uC73C\uB2C8\uAE4C! \uC5B4\uB54C?",
+        "Target": "\uBAA8\uB4E0 \uD0C0\uAC9F \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7375\u4EBA\u524D\u8F29\u8981\u8EAB\u5148\u58EB\u5352",
+        "Client": "\u60F3\u6210\u70BA\u7375\u4EBA\u7684\u7537\u5B69",
+        "Description": "\u6211\u5E0C\u671B\u672A\u4F86\u80FD\u6210\u70BA\u7375\u4EBA\uFF0C\r\n\u6240\u4EE5\u7D93\u5E38\u5728\u5927\u793E\u907A\u8DE1\u9032\u884C\u935B\u934A\uFF01\r\n\u53EF\u662F\u6700\u8FD1\u90A3\u88E1\u51FA\u73FE\u4E86\u597D\u5E7E\u982D\u9B54\u7269\uFF0C\r\n\u5BB3\u6211\u5B8C\u5168\u6C92\u8FA6\u6CD5\u935B\u934A\u4E86\u3002\r\n\u4F60\u53BB\u5E6B\u6211\u628A\u7260\u5011\u5168\u90E8\u64CA\u9000\u5427\uFF01\r\n\u6211\u4E5F\u60F3\u898B\u8B58\u4E00\u4E0B\u9AD8\u8D85\u7684\u72E9\u7375\u6280\u5DE7\uFF01\r\n\u600E\u9EBC\u6A23\uFF0C\u53EF\u4EE5\u5427\uFF1F",
+        "Target": "\u72E9\u7375\u6240\u6709\u76EE\u6A19",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u730E\u4EBA\u524D\u8F88\u7684\u9B45\u529B\u80CC\u5F71",
+        "Client": "\u60F3\u5F53\u730E\u4EBA\u7684\u5C0F\u7537\u5B69",
+        "Description": "\u6211\u60F3\u5F53\u730E\u4EBA\uFF0C\u5E38\u5728\u5E9F\u795E\u793E\u7EC3\u4E60\uFF01\u53EF\r\n\u662F\u6700\u8FD1\u5192\u51FA\u6765\u597D\u591A\u5934\u602A\u7269\uFF0C\u6211\u6839\u672C\r\n\u6CA1\u6CD5\u53BB\u7EC3\u4E60\u4E86\u3002\u6211\u8BF4\uFF0C\u4F60\u53BB\u5E2E\u6211\u628A\r\n\u5B83\u4EEC\u90FD\u7ED9\u51FB\u9000\u4E86\u5427\uFF01\u6211\u4E5F\u60F3\u770B\u770B\u9AD8\r\n\u660E\u7684\u72E9\u730E\u6280\u5DE7\u5462\uFF01\u4F60\u5C31\u7B54\u5E94\u6211\u5427\uFF01",
+        "Target": "\u72E9\u730E\u6240\u6709\u76EE\u6807",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u064A\u062D\u0630\u0648 \u062D\u0630\u0648 \u0645\u0639\u0644\u0645\u0647",
+        "Client": "\u0637\u0641\u0644 \u0635\u064A\u0627\u062F \u0637\u0645\u0648\u062D",
+        "Description": "\u0625\u0646\u0646\u064A \u0623\u062A\u062F\u0631\u0628 \u0641\u064A \u0623\u0637\u0644\u0627\u0644 \u0627\u0644\u0636\u0631\u064A\u062D\r\n\u0644\u0623\u0635\u0628\u062D \u0635\u064A\u0627\u062F\u064B\u0627! \u0644\u0643\u0646\r\n\u0638\u0647\u0631\u062A \u0628\u0639\u0636 \u0627\u0644\u0648\u062D\u0648\u0634\u060C \u0644\u0630\u0627 \u0644\u0645\r\n\u0623\u062A\u0645\u0643\u0646 \u0645\u0646 \u0627\u0644\u062A\u062F\u0631\u064A\u0628 \u0645\u0624\u062E\u0631\u064B\u0627!\r\n\u0645\u0646 \u0641\u0636\u0644\u0643\u060C \u0642\u0645 \u0628\u0625\u0628\u0627\u062F\u062A\u0647\u0645 \u062C\u0645\u064A\u0639\u064B\u0627!\r\n\u0623\u0631\u064A\u062F \u0623\u0646 \u0623\u0631\u0649 \u062A\u0642\u0646\u064A\u062A\u0643 \u0623\u064A\u0636\u064B\u0627!\r\n\u0645\u0646 \u0641\u0636\u0644\u0643\u061F",
+        "Target": "\u0635\u064A\u062F \u0643\u0644 \u0627\u0644\u0648\u062D\u0648\u0634 \u0627\u0644\u0645\u0633\u062A\u0647\u062F\u0641\u0629",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      60,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 60,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 95,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 77,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 90,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 109,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 118,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 514,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 41040,
+      "Points": 830,
+      "HRP": 1210
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      17,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 22,
+      "HealthTable": 121,
+      "AttackTable": 126,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

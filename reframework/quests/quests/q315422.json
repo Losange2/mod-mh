@@ -1,0 +1,350 @@
+{
+  "QuestID": 315422,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u6211\u3089\u8352\u91CE\u306E\u4E09\u51F6\u7ADC",
+        "Client": "\u5B57\u304C\u3046\u307E\u3044\u5C11\u5E74",
+        "Description": "\u3064\u3088\u3044\u30CF\u30F3\u30BF\u30FC\u3055\u3093\u3078\r\n\u307C\u304F\u306E\u5BB6\u65CF\u306F\u3001\u7802\u539F\u306E\u6751\u306B\u4F4F\u3093\u3067\r\n\u3044\u307E\u3059\u3002\u6751\u306E\u307F\u3093\u306A\u304C\u4F7F\u3046\u6C34\u5834\u306B\r\n\u3053\u308F\u3044\u30E2\u30F3\u30B9\u30BF\u30FC\u304C\u3044\u3063\u3071\u3044\u3044\u3066\r\n\u8FD1\u3065\u3051\u307E\u305B\u3093\u3002\u307F\u3093\u306A\u6C34\u304C\u98F2\u3081\u306A\r\n\u304F\u3066\u3053\u307E\u3063\u3066\u3044\u307E\u3059\u3002\u30E2\u30F3\u30B9\u30BF\u30FC\r\n\u3092\u3084\u3063\u3064\u3051\u3066\u304F\u3060\u3055\u3044\u3002",
+        "Target": "\u5168\u3066\u306E\u30BF\u30FC\u30B2\u30C3\u30C8\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Wicked Wyvern Trilogy",
+        "Client": "Boy with Great Penmanship",
+        "Description": "Dear mighty Hunter,\r\n\r\nMy family lives in a village near\r\nthe Sandy Plains. There are a\r\nlot of scary monsters lurking\r\naround the water hole. Please\r\nmake them go away! Regards.",
+        "Target": "Hunt all target monsters",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Trilogie wyverne d\u00E9moniaque",
+        "Client": "Gar\u00E7on calligraphe",
+        "Description": "\u003CLSNR {Cher Chasseur}{Ch\u00E8re Chasseuse}\u003E, ma famille\r\nvit dans un village des Plaines\r\nde sable. Il y a tout un tas de\r\nmonstres horribles\r\npr\u00E8s du point d\u0027eau,\r\non ne peut pas y acc\u00E9der.\r\nMerci de leur r\u00E9gler leur compte.",
+        "Target": "Chasser tous les monstres",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Trilogia del wyvern empio",
+        "Client": "Ragazzo con bella grafia",
+        "Description": "La mia famiglia vive in un\r\nvillaggio nelle Piane sabbiose.\r\nCi sono tanti mostri spaventosi\r\nal laghetto e nessuno riesce\r\nad avvicinarsi. Ti prego, rendi\r\nquel posto sicuro per noi.",
+        "Target": "Caccia tutti i mostri assegnati",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "B\u00F6se Wyvern-Trilogie",
+        "Client": "Schreibkunst-Junge",
+        "Description": "\u003CLSNR {Lieber starker J\u00E4ger} {Liebe starke J\u00E4gerin}\u003E,\r\nmeine Familie wohnt in einem\r\nDorf nahe der Sandebene. Dort\r\ngibt es viele gruselige Monster\r\nam Wasserloch und niemand\r\nkann dorthin. Bitte sorge daf\u00FCr,\r\ndass es wieder sicher f\u00FCr uns ist.",
+        "Target": "Erjage alle Zielmonster.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Trilog\u00EDa wyv\u00E9rnida",
+        "Client": "Joven cal\u00EDgrafo",
+        "Description": "\u003CLSNR {Estimado cazador} {Estimada cazadora}\u003E:\r\nMi familia vive en una aldea de\r\nlos Llanos arenosos. Cerca del\r\npozo hay monstruos terribles,\r\ny nadie puede acercarse a \u00E9l.\r\nPor favor, \u00BFpodr\u00EDas eliminar\r\neste peligro? Saludos.",
+        "Target": "Caza todos los objetivos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0422\u0440\u0438\u043B\u043E\u0433\u0438\u044F \u0437\u043B\u043E\u0431\u043D\u043E\u0433\u043E \u0437\u043C\u0435\u044F",
+        "Client": "\u041C\u0430\u043B\u044C\u0447\u0438\u043A-\u043A\u0430\u043B\u043B\u0438\u0433\u0440\u0430\u0444",
+        "Description": "\u0414\u043E\u0440\u043E\u0433\u043E\u0439 \u043E\u0445\u043E\u0442\u043D\u0438\u043A, \u043C\u043E\u044F \u0441\u0435\u043C\u044C\u044F\r\n\u0436\u0438\u0432\u0435\u0442 \u0432 \u0434\u0435\u0440\u0435\u0432\u043D\u0435 \u043D\u0430 \u041F\u0435\u0441\u0447\u0430\u043D\u044B\u0445\r\n\u0440\u0430\u0432\u043D\u0438\u043D\u0430\u0445. \u0423 \u0432\u043E\u0434\u043E\u0435\u043C\u0430 \u043E\u0447\u0435\u043D\u044C\r\n\u043C\u043D\u043E\u0433\u043E \u0441\u0442\u0440\u0430\u0448\u043D\u044B\u0445 \u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432, \u0438\r\n\u043D\u0438\u043A\u0442\u043E \u043D\u0435 \u043C\u043E\u0436\u0435\u0442 \u043F\u0440\u0438\u0431\u043B\u0438\u0437\u0438\u0442\u044C\u0441\u044F.\r\n\u041F\u0440\u043E\u0448\u0443, \u0441\u0434\u0435\u043B\u0430\u0439 \u0435\u0433\u043E \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u044B\u043C.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0432\u0441\u0435 \u0446\u0435\u043B\u0438",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Trylogia z\u0142ego smoka",
+        "Client": "Ch\u0142opiec kaligraf",
+        "Description": "\u003CLSNR {Drogi mocarny \u0142owco} {Droga mocarna \u0142owczyni}\u003E, moja\r\nrodzina mieszka na R\u00F3wninach\r\nPiasku. Wok\u00F3\u0142 wodopoju jest\r\nwiele strasznych potwor\u00F3w i\r\nnikt tam nie mo\u017Ce podej\u015B\u0107.\r\nProsz\u0119, spraw, \u017Ceby znowu\r\nby\u0142o tam bezpiecznie.",
+        "Target": "Upoluj wszystkie cele",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Trilogia Serpe Maligna",
+        "Client": "Menino de \u00D3tima Caligrafia",
+        "Description": "Prezados ca\u00E7adores, minha\r\nfam\u00EDlia vive numa aldeia na\r\nPlan\u00EDcie Arenosa. Tem muitos\r\nmonstros assustadores no po\u00E7o,\r\ne ningu\u00E9m pode chegar perto.\r\nPor favor, libere o po\u00E7o\r\nde novo.",
+        "Target": "Cace todos os monstros-alvo",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC6B0\uB9AC\uB294 \uD669\uC57C\uC758 \uC0BC\uD749\uB8E1",
+        "Client": "\uAE00\uC528\uB97C \uC798 \uC4F0\uB294 \uC18C\uB144",
+        "Description": "\uAC15\uD55C \uD5CC\uD130\uB2D8\uAED8.\r\n\uC6B0\uB9AC \uAC00\uC871\uC740 \uBAA8\uB798 \uD3C9\uC6D0 \uB9C8\uC744\uC5D0\r\n\uC0B4\uC544\uC694. \uB9C8\uC744 \uC0AC\uB78C\uB4E4\uC774 \uC0AC\uC6A9\uD558\uB294\r\n\uC0D8\uD130\uC5D0 \uBB34\uC11C\uC6B4 \uBAAC\uC2A4\uD130\uB4E4\uC774 \uBAB0\uB824\r\n\uC640\uC11C \uAC08 \uC218\uAC00 \uC5C6\uC5B4\uC694. \uB2E4\uB4E4\r\n\uBB3C\uC774 \uC5C6\uC5B4 \uACE4\uACBD\uC5D0 \uBE60\uC84C\uC5B4\uC694.\r\n\uBAAC\uC2A4\uD130\uB97C \uC4F0\uB7EC\uB728\uB824 \uC8FC\uC138\uC694.",
+        "Target": "\uBAA8\uB4E0 \uD0C0\uAC9F \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6211\u5011\u662F\u8352\u91CE\u4E09\u60E1\u9F8D",
+        "Client": "\u5B57\u8DE1\u7AEF\u6B63\u7684\u5C11\u5E74",
+        "Description": "\u53B2\u5BB3\u7684\u7375\u4EBA\uFF1A\r\n\u6211\u7684\u5BB6\u5728\u6C99\u539F\u7684\u6751\u5B50\u88E1\uFF0C\r\n\u4F46\u6751\u5B50\u7684\u53D6\u6C34\u8655\u9644\u8FD1\r\n\u805A\u96C6\u4E86\u5F88\u591A\u53EF\u6015\u7684\u9B54\u7269\uFF0C\r\n\u5BB3\u6211\u5011\u90FD\u4E0D\u6562\u9760\u8FD1\u3002\r\n\u5927\u5BB6\u73FE\u5728\u90FD\u6C92\u6C34\u53EF\u4EE5\u559D\uFF0C\u5F88\u56F0\u64FE\u3002\r\n\u8ACB\u4F60\u628A\u90A3\u4E9B\u9B54\u7269\u901A\u901A\u8D95\u8D70\u5427\u3002",
+        "Target": "\u72E9\u7375\u6240\u6709\u76EE\u6A19",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6211\u7B49\u8352\u91CE\u4E09\u51F6\u9F99",
+        "Client": "\u5199\u5B57\u597D\u770B\u7684\u5C11\u5E74",
+        "Description": "\u5F3A\u5927\u7684\u730E\u4EBA\uFF1A\r\n\u6211\u4EEC\u4E00\u5BB6\u4F4F\u5728\u6C99\u539F\u7684\u6751\u5B50\u91CC\u3002\u6751\u91CC\r\n\u5927\u4F19\u513F\u7528\u7684\u53D6\u6C34\u5904\u6709\u5F88\u591A\u53EF\u6015\u7684\u602A\r\n\u7269\uFF0C\u6CA1\u6CD5\u9760\u8FD1\u3002\u6CA1\u6C34\u559D\u5927\u5BB6\u90FD\u5F88\u4E3A\r\n\u96BE\uFF0C\u8BF7\u4F60\u5E2E\u5FD9\u6D88\u706D\u602A\u7269\u5427\u3002",
+        "Target": "\u72E9\u730E\u6240\u6709\u76EE\u6807",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u062B\u0644\u0627\u062B\u064A\u0629 \u0648\u064A\u0631\u0645 \u0627\u0644\u0634\u0631\u064A\u0631\u0629",
+        "Client": "\u0627\u0644\u0635\u0628\u064A \u0641\u0646\u0627\u0646 \u0627\u0644\u062E\u0637 \u0627\u0644\u0631\u0627\u0626\u0639",
+        "Description": "\u0639\u0632\u064A\u0632\u064A \u0627\u0644\u0635\u064A\u0627\u062F \u0627\u0644\u0642\u0648\u064A\u060C \u062A\u0639\u064A\u0634\r\n\u0639\u0627\u0626\u0644\u062A\u064A \u0641\u064A \u0627\u0644\u0633\u0647\u0648\u0644 \u0627\u0644\u0631\u0645\u0644\u064A\u0629.\r\n\u0647\u0646\u0627\u0643 \u0627\u0644\u0643\u062B\u064A\u0631 \u0645\u0646 \u0627\u0644\u0648\u062D\u0648\u0634\r\n\u0627\u0644\u0645\u062E\u064A\u0641\u0629 \u0639\u0646\u062F \u062D\u0641\u0631\u0629 \u0627\u0644\u0645\u0627\u0621\u060C\r\n\u0648\u0644\u0627 \u064A\u0645\u0643\u0646 \u0644\u0623\u062D\u062F \u0627\u0644\u0627\u0642\u062A\u0631\u0627\u0628 \u0645\u0646\u0647\u0627.\r\n\u0645\u0646 \u0641\u0636\u0644\u0643 \u0627\u062C\u0639\u0644\u0647\u0627 \u0622\u0645\u0646\u0629\r\n\u0644\u0646\u0627 \u0645\u0631\u0629 \u0623\u062E\u0631\u0649.",
+        "Target": "\u0635\u064A\u062F \u0643\u0644 \u0627\u0644\u0648\u062D\u0648\u0634 \u0627\u0644\u0645\u0633\u062A\u0647\u062F\u0641\u0629",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      107,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 107,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 2,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 81,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 77,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1351,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 78840,
+      "Points": 1580,
+      "HRP": 2370
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      35,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 1,
+      "HealthTable": 124,
+      "AttackTable": 128,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

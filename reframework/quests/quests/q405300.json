@@ -1,0 +1,350 @@
+{
+  "QuestID": 405300,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u66B4\u8D70\u3059\u308B\u602A\u529B\u306E\u5316\u8EAB",
+        "Client": "\u63D0\u7763\u30AC\u30EC\u30A2\u30B9",
+        "Description": "\u2026\u2026\u738B\u56FD\u306E\u9818\u57DF\u5916\u306B\u51FA\u308B\u3053\u3068\u306A\u3069\r\n\u6EC5\u591A\u306B\u306A\u3044\u30AC\u30E9\u30F3\u30B4\u30EB\u30E0\u306E\u66B4\u8D70\u3002\r\n\u8ABF\u3079\u308C\u3070\u738B\u57DF\u751F\u7269\u306E\u7E04\u5F35\u308A\u62E1\u5927\u306E\r\n\u624B\u304C\u304B\u308A\u306B\u306A\u308B\u304B\u3082\u3057\u308C\u306C\u2026\u3002\r\n\u307E\u305A\u306F\u3001\u8FD1\u96A3\u96C6\u843D\u306E\u5B89\u5168\u3092\u78BA\u4FDD\u3057\r\n\u30D5\u30A3\u30AA\u30EC\u30FC\u30CD\u3068\u5171\u306B\u3001\u3059\u307F\u3084\u304B\u306B\r\n\u30AC\u30E9\u30F3\u30B4\u30EB\u30E0\u3092\u72E9\u731F\u305B\u3088\u3002",
+        "Target": "\u30AC\u30E9\u30F3\u30B4\u30EB\u30E0\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "A Rocky Rampage",
+        "Client": "Admiral Galleus",
+        "Description": "It\u0027s rare to hear of Garangolm\r\nwander outside the Kingdom and\r\neven rarer to hear of them acting\r\naggressively. There are still many\r\nquestions that need answers, but\r\nin the meantime, go with Fiorayne\r\nand put a stop to this threat.",
+        "Target": "Hunt a Garangolm",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Calamit\u00E9 rocailleuse",
+        "Client": "Amiral Galleus",
+        "Description": "Les Garangolm sont rarement\r\naper\u00E7us hors du Royaume, mais\r\nl\u0027un d\u0027eux fait des ravages.\r\nL\u0027\u00E9tudier pourrait expliquer\r\npourquoi son esp\u00E8ce \u00E9tend son\r\nterritoire, mais commencez par\r\nle vaincre, Fiorayne et toi.",
+        "Target": "Chasser un Garangolm",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Una furia rocciosa",
+        "Client": "Ammiraglio Galleus",
+        "Description": "I Garangolm vengono raramente\r\navvistati al di fuori del regno,\r\neppure ora ce n\u0027\u00E8 uno a piede\r\nlibero. Bisogna capire la causa\r\ndell\u0027espansione territoriale di\r\nspecie simili. Ma prima, elimina\r\nla minaccia con Fiorayne.",
+        "Target": "Caccia un Garangolm",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Rabiate Randale",
+        "Client": "Galleus",
+        "Description": "Es ist selten, dass man einen\r\nGarangolm au\u00DFerhalb des K\u00F6nig-\r\nreichs sieht \u2013 noch seltener,\r\ndass er aggressiv ist. Es gibt\r\nnoch viele offene Fragen, aber\r\nzuerst solltest du mit Fiorayne\r\ndiese Bedrohung beenden.",
+        "Target": "Erjage einen Garangolm.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Frenes\u00ED pedregoso",
+        "Client": "Almirante Galleus",
+        "Description": "No se oye a menudo decir que un\r\nGarangolm se haya aventurado\r\nfuera del reino, y a\u00FAn menos que\r\nest\u00E9 atacando all\u00ED. Necesitamos\r\nrespuestas... pero, mientras\r\ntanto, ve con Fiorayne y\r\nterminad con esa amenaza.",
+        "Target": "Caza un Garangolm",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041E\u0441\u043E\u0431\u043E \u0431\u0443\u0439\u043D\u044B\u0439 \u043C\u043E\u043D\u0441\u0442\u0440",
+        "Client": "\u0410\u0434\u043C\u0438\u0440\u0430\u043B \u0413\u0430\u043B\u043B\u0435\u0443\u0441",
+        "Description": "\u0413\u0430\u0440\u0430\u043D\u0433\u043E\u043B\u044C\u043C \u0440\u0435\u0434\u043A\u043E \u043F\u043E\u043A\u0438\u0434\u0430\u0435\u0442\r\n\u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u044E \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u0442\u0432\u0430, \u043D\u043E\r\n\u044D\u0442\u043E\u0442 \u2014 \u043E\u0441\u043E\u0431\u043E \u0431\u0443\u0439\u043D\u044B\u0439.\r\n\u0421 \u0435\u0433\u043E \u043F\u043E\u043C\u043E\u0449\u044C\u044E \u043C\u044B \u043C\u043E\u0436\u0435\u043C \u0443\u0437\u043D\u0430\u0442\u044C,\r\n\u043F\u043E\u0447\u0435\u043C\u0443 \u043C\u043E\u043D\u0441\u0442\u0440\u044B \u0440\u0430\u0441\u0448\u0438\u0440\u044F\u044E\u0442 \u0441\u0432\u043E\u044E\r\n\u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u044E. \u041D\u043E \u0441\u043D\u0430\u0447\u0430\u043B\u0430 \u0432\u043E\u0437\u044C\u043C\u0438\r\n\u0424\u0438\u043E\u0440\u0430\u0439\u043D\u0443 \u0438 \u043F\u0440\u0438\u043A\u043E\u043D\u0447\u0438\u0442\u0435 \u0435\u0433\u043E.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0413\u0430\u0440\u0430\u043D\u0433\u043E\u043B\u044C\u043C\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Rozko\u0142ysana Furia",
+        "Client": "Admira\u0142 Galleus",
+        "Description": "Garangolmy poza terytorium\r\nKr\u00F3lestwa to rzadki widok,\r\nale mamy tutaj teraz jednego\r\nw\u015Bciek\u0142ego. Mo\u017Ce dowiemy si\u0119,\r\ndlaczego ten gatunek poszerza\r\nswoje terytorium. Ale najpierw\r\nza\u017Cegnaj t\u0119 gro\u017Ab\u0119 z Fiorayne.",
+        "Target": "Upoluj Garangolma",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Um Frenesi Inst\u00E1vel",
+        "Client": "Almirante Galleus",
+        "Description": "\u00C9 raro ver um Garangolm fora\r\ndo territ\u00F3rio do Reino, mas\r\nagora temos um ensandecido.\r\nPode ajudar a explicar por que\r\nesta esp\u00E9cie est\u00E1 expandindo\r\nsua \u00E1rea. Mas, antes, v\u00E1 com\r\nFiorayne e acabe com esta amea\u00E7a.",
+        "Target": "Cace um Garangolm",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD3ED\uC8FC\uD558\uB294 \uAD34\uB825\uC758 \uD654\uC2E0",
+        "Client": "\uC81C\uB3C5 \uAC08\uB808\uC544\uC2A4",
+        "Description": "\u2026\u2026\uC655\uAD6D \uC601\uD1A0 \uBC16\uC73C\uB85C \uB098\uAC00\uC9C0\r\n\uC54A\uB294 \uAC00\uB780\uACE0\uB974\uBB34\uC758 \uD3ED\uC8FC.\r\n\uC774 \uC870\uC0AC\uB85C \uC655\uC5ED\uC0DD\uBB3C\uC758 \uC601\uC5ED\r\n\uD655\uB300\uC5D0 \uB300\uD55C \uB2E8\uC11C\uB97C \uC5BB\uC744 \uC218\r\n\uC788\uC744\uC9C0 \uBAA8\uB978\uB2E4\u2026 \uC778\uADFC \uB9C8\uC744\uC758\r\n\uC548\uC804\uC744 \uBA3C\uC800 \uD655\uBCF4\uD558\uACE0,\r\n\uD53C\uC624\uB808\uB124\uC640 \uD568\uAED8 \uC0AC\uB0E5\uD574\uB77C.",
+        "Target": "\uAC00\uB780\uACE0\uB974\uBB34 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5931\u63A7\u7684\u602A\u529B\u5316\u8EAB",
+        "Client": "\u52A0\u96F7\u4E9E\u65AF\u63D0\u7763",
+        "Description": "\u2026\u2026\u5E7E\u4E4E\u4E0D\u66FE\u96E2\u958B\u738B\u570B\u5730\u5340\u7684\r\n\u525B\u7E8F\u7378\u5931\u63A7\u4E86\u3002\u82E5\u8A73\u52A0\u8ABF\u67E5\uFF0C\r\n\u6216\u8A31\u80FD\u85C9\u6B64\u7372\u5F97\u738B\u57DF\u751F\u7269\u64F4\u5927\r\n\u5730\u76E4\u7684\u7DDA\u7D22\u2026\u2026\u9996\u5148\u8ACB\u4F60\u53BB\u78BA\u4FDD\r\n\u9130\u8FD1\u6751\u843D\u7684\u5B89\u5168\uFF0C\u76E1\u901F\u548C\r\n\u83F2\u6B50\u8389\u5C3C\u4E00\u540C\u524D\u53BB\u72E9\u7375\u525B\u7E8F\u7378\u3002",
+        "Target": "\u72E9\u73751\u982D\u525B\u7E8F\u7378",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u53D1\u72C2\u7684\u602A\u529B\u5316\u8EAB",
+        "Client": "\u63D0\u7763\u52A0\u96F7\u4E9A\u65AF",
+        "Description": "\u2026\u2026\u5F88\u5C11\u79BB\u5F00\u738B\u56FD\u9886\u57DF\u7684\u521A\u7F20\u517D\u53D1\r\n\u72C2\u4E86\u3002\u8C03\u67E5\u4E00\u756A\uFF0C\u6216\u8BB8\u4F1A\u67E5\u51FA\u738B\u57DF\r\n\u751F\u7269\u6269\u5F20\u9886\u5730\u7684\u7EBF\u7D22\u2026\u2026\u9601\u4E0B\u5148\u548C\r\n\u83F2\u5965\u83B1\u5A1C\u4E00\u8D77\u5C3D\u5FEB\u72E9\u730E\u521A\u7F20\u517D\uFF0C\u786E\r\n\u4FDD\u9644\u8FD1\u6751\u843D\u7684\u5B89\u5168\u5427\u3002",
+        "Target": "\u72E9\u730E1\u5934\u521A\u7F20\u517D",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u063A\u0636\u0628 \u0631\u0648\u0643\u064A \u0627\u0644\u0639\u0627\u0631\u0645",
+        "Client": "\u0627\u0644\u0623\u062F\u0645\u064A\u0631\u0627\u0644 \u062C\u0627\u0644\u064A\u0648\u0633",
+        "Description": "\u0646\u0627\u062F\u0631\u064B\u0627 \u0645\u0627 \u064A\u062A\u0648\u0627\u062C\u062F \u062C\u0627\u0631\u0627\u0646\u062C\u0648\u0644\u0645\r\n\u062E\u0627\u0631\u062C \u0623\u0631\u0627\u0636\u064A \u0627\u0644\u0645\u0645\u0644\u0643\u0629\u060C\r\n\u0644\u0643\u0646 \u0644\u062F\u064A\u0646\u0627 \u0648\u0627\u062D\u062F \u0647\u0627\u0626\u062C \u0627\u0644\u0622\u0646.\r\n\u0642\u062F \u064A\u0633\u0627\u0639\u062F \u0641\u064A \u062A\u0641\u0633\u064A\u0631\r\n\u0627\u0644\u0633\u0628\u0628 \u0627\u0644\u0630\u064A \u064A\u062C\u0639\u0644 \u062A\u0644\u0643 \u0627\u0644\u0641\u0635\u0627\u0626\u0644 \u062A\u0648\u0633\u0639 \u0623\u0631\u0627\u0636\u064A\u0647\u0627.\r\n\u0644\u0643\u0646 \u0623\u0648\u0644\u064B\u0627\u061B \u0627\u0630\u0647\u0628 \u0645\u0639\r\n\u0641\u064A\u0648\u0631\u0627\u064A\u0646 \u0648\u0627\u0642\u0636\u0650 \u0639\u0644\u0649 \u0647\u0630\u0627 \u0627\u0644\u062A\u0647\u062F\u064A\u062F.",
+        "Target": "\u0627\u0635\u0637\u062F \u062C\u0627\u0631\u0627\u0646\u062C\u0648\u0644\u0645",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      99,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 99,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 15120,
+      "Points": 310,
+      "HRP": 820
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      32,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 121,
+      "AttackTable": 126,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

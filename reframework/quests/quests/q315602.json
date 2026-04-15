@@ -1,0 +1,350 @@
+{
+  "QuestID": 315602,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u9006\u5DFB\u304F\u56E0\u679C",
+        "Client": "\u63D0\u7763\u30AC\u30EC\u30A2\u30B9",
+        "Description": "\u2026\u2026\u5468\u8FBA\u3092\u8B66\u6212\u4E2D\u306E\u56E3\u54E1\u3088\u308A\u3001\r\n\u98A8\u795E\u9F8D\u51FA\u73FE\u306E\u5831\u304C\u5165\u3063\u305F\u3002\r\n\u91CC\u3084\u8CB4\u6BBF\u3068\u3082\u56E0\u7E01\u6DF1\u3044\u53E4\u9F8D\u3060\u304C\r\n\u4ECA\u56DE\u73FE\u308C\u305F\u500B\u4F53\u306F\u3001\u4EE5\u524D\u8CB4\u6BBF\u304C\r\n\u5012\u3057\u305F\u3082\u306E\u3068\u306F\u6BD4\u8F03\u306B\u306A\u3089\u306C\r\n\u5A01\u98A8\u3092\u307E\u3068\u3063\u3066\u3044\u308B\u3088\u3046\u3060\u3002\r\n\u2026\u2026\u304F\u308C\u3050\u308C\u3082\u6CE8\u610F\u305B\u3088\u3002",
+        "Target": "\u30A4\u30D6\u30B7\u30DE\u30AD\u30D2\u30B3\uFF11\u4F53\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Retribution",
+        "Client": "Admiral Galleus",
+        "Description": "A group on patrol in the area\r\nhave reported a Wind Serpent\r\nIbushi. They have noted that\r\nit seems even more powerful\r\nthan before. Your orders are\r\nclear. Be careful out there\r\nand get it done.",
+        "Target": "Slay a Wind Serpent Ibushi",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Ch\u00E2timent",
+        "Client": "Amiral Galleus",
+        "Description": "Un groupe patrouillant dans le\r\ncoin a rep\u00E9r\u00E9 un Ibushi du\r\nvent. Ce sp\u00E9cimen semble avoir\r\nquelque chose de plus...\r\nmajestueux que celui que tu as\r\naffront\u00E9 auparavant. Fais\r\nbien attention.",
+        "Target": "Tuer un Ibushi du vent",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Castigo",
+        "Client": "Ammiraglio Galleus",
+        "Description": "Un gruppo di pattuglia nella\r\nzona ha segnalato la presenza\r\ndi un Ibushi del vento. Pare\r\nche questo esemplare abbia un\r\naspetto pi\u00F9 maestoso rispetto\r\na quello che hai ucciso in\r\npassato. Fai attenzione.",
+        "Target": "Uccidi un Ibushi del vento",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Vergeltung",
+        "Client": "Galleus",
+        "Description": "Eine Patrouilleneinheit hat eine\r\nWindschlange Ibushi gesichtet.\r\nSie scheint m\u00E4chtiger als die\r\ndavor zu sein. Deine Befehle\r\nsind klar. Sei vorsichtig und\r\nk\u00FCmmere dich um sie!",
+        "Target": "Erlege eine Windschlange Ibushi.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Represalias",
+        "Client": "Almirante Galleus",
+        "Description": "Una patrulla nos ha avisado de\r\nque hay un Ibushi de viento en\r\nla zona. Este ejemplar parece\r\nser a\u00FAn m\u00E1s majestuoso que el\r\nque venciste con anterioridad.\r\nTen mucho cuidado...",
+        "Target": "Abate a Ibushi de viento",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0412\u043E\u0437\u043C\u0435\u0437\u0434\u0438\u0435",
+        "Client": "\u0410\u0434\u043C\u0438\u0440\u0430\u043B \u0413\u0430\u043B\u043B\u0435\u0443\u0441",
+        "Description": "\u041C\u0435\u0441\u0442\u043D\u044B\u0439 \u043F\u0430\u0442\u0440\u0443\u043B\u044C \u0434\u043E\u043B\u043E\u0436\u0438\u043B\r\n\u043E \u0417\u043C\u0435\u0435 \u0432\u0435\u0442\u0440\u0430 \u0418\u0431\u0443\u0441\u0438. \u041F\u043E\u0445\u043E\u0436\u0435,\r\n\u044D\u0442\u043E\u0442 \u0437\u0432\u0435\u0440\u044C \u043E\u0442\u043B\u0438\u0447\u0430\u0435\u0442\u0441\u044F \u043E\u0442 \u0442\u043E\u0433\u043E,\r\n\u0441 \u043A\u043E\u0442\u043E\u0440\u044B\u043C \u0442\u0435\u0431\u0435 \u0443\u0436\u0435 \u0434\u043E\u0432\u043E\u0434\u0438\u043B\u043E\u0441\u044C\r\n\u0431\u0438\u0442\u044C\u0441\u044F.\r\n...\u041D\u0435 \u0442\u0435\u0440\u044F\u0439 \u0431\u0434\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u0438.",
+        "Target": "\u0423\u0431\u0438\u0442\u044C \u0417\u043C\u0435\u044F \u0432\u0435\u0442\u0440\u0430 \u0418\u0431\u0443\u0441\u0438",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Odwet",
+        "Client": "Admira\u0142 Galleus",
+        "Description": "Nasz patrol zauwa\u017Cy\u0142 W\u0119\u017Ca\r\nWiatru Ibushiego. Wydaje si\u0119,\r\n\u017Ce jest bardziej majestatyczny\r\nni\u017C ostatni pokonany przez\r\nciebie osobnik. Zachowaj\r\nostro\u017Cno\u015B\u0107.",
+        "Target": "Zabij W\u0119\u017Ca Wiatru Ibushiego",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Retribui\u00E7\u00E3o",
+        "Client": "Almirante Galleus",
+        "Description": "Uma patrulha na \u00E1rea avistou\r\numa Serpente do Vento Ibushi.\r\nH\u00E1 algo de mais majestoso\r\nnesse esp\u00E9cimen do que naquele\r\nque voc\u00EA matou antes.\r\nMuito cuidado l\u00E1 fora.",
+        "Target": "Mate uma Serpente do Vento Ibushi",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uAC70\uC2AC\uB7EC \uAD7D\uC774\uCE58\uB294 \uC778\uACFC",
+        "Client": "\uC81C\uB3C5 \uAC08\uB808\uC544\uC2A4",
+        "Description": "\uC8FC\uBCC0\uC744 \uACBD\uACC4\uD558\uB358 \uB2E8\uC6D0\uC5D0\uAC8C\uC11C\r\n\uD48D\uC2E0\uB8E1 \uCD9C\uD604 \uBCF4\uACE0\uAC00 \uB4E4\uC5B4\uC654\uB2E4.\r\n\uB9C8\uC744\uACFC \uADC0\uACF5\uC5D0\uAC90 \uC9C8\uAE34 \uC778\uC5F0\uC744\r\n\uAC00\uC9C4 \uACE0\uB8E1\uC774\uC9C0\uB9CC, \uC774\uBC88\uC5D4 \uADC0\uACF5\uC774\r\n\uD1A0\uBC8C\uD55C \uAC1C\uCCB4\uC640\uB294 \uBE44\uAD50\uB3C4 \uC548 \uB418\uB294\r\n\uC704\uC555\uAC10\uC744 \uB0B4\uBFDC\uACE0 \uC788\uB294 \uBAA8\uC591\uC774\uB2E4.\r\n\u2026\u2026\uBD80\uB514 \uC870\uC2EC\uD558\uB3C4\uB85D.",
+        "Target": "\uC774\uBD80\uC2DC\uB9C8\uD0A4\uD788\uCF54 1\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6D36\u6E67\u4E4B\u56E0\u679C",
+        "Client": "\u52A0\u96F7\u4E9E\u65AF\u63D0\u7763",
+        "Description": "\u2026\u2026\u6839\u64DA\u8CA0\u8CAC\u8B66\u6212\u5468\u906D\u7684\r\n\u5718\u54E1\u5831\u544A\uFF0C\u98A8\u795E\u9F8D\u73FE\u8EAB\u4E86\u3002\r\n\u7260\u662F\u8207\u4F60\u548C\u795E\u706B\u6751\u6709\u8457\r\n\u6DF1\u539A\u6DF5\u6E90\u7684\u53E4\u9F8D\uFF0C\r\n\u4F46\u672C\u6B21\u7684\u98A8\u795E\u9F8D\u633E\u5E36\u5F37\u70C8\u66B4\u98A8\uFF0C\r\n\u5F37\u5EA6\u66F4\u52DD\u4F60\u904E\u53BB\u6253\u5012\u7684\u500B\u9AD4\u2026\u2026\r\n\u52D9\u5FC5\u8B39\u614E\u884C\u4E8B\u3002",
+        "Target": "\u8A0E\u4F101\u982D\u98A8\u795E\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7FFB\u817E\u7684\u56E0\u679C",
+        "Client": "\u63D0\u7763\u52A0\u96F7\u4E9A\u65AF",
+        "Description": "\u2026\u2026\u6536\u5230\u5728\u5468\u8FB9\u8B66\u6212\u7684\u56E2\u5458\u62A5\u544A\uFF0C\r\n\u98CE\u795E\u9F99\u51FA\u73B0\u4E86\u3002\u8FD9\u5934\u53E4\u9F99\u4E0E\u708E\u706B\u6751\r\n\u53CA\u9601\u4E0B\u7684\u6E0A\u6E90\u9887\u6DF1\uFF0C\u4F46\u8FD9\u6B21\u51FA\u73B0\u7684\r\n\u4E2A\u4F53\u5A01\u98CE\u5341\u8DB3\uFF0C\u4E0D\u662F\u9601\u4E0B\u4E4B\u524D\u6253\u8D25\r\n\u7684\u90A3\u5934\u53EF\u6BD4\u7684\u2026\u2026\u8BF7\u5343\u4E07\u5C0F\u5FC3\u3002",
+        "Target": "\u8BA8\u4F101\u5934\u98CE\u795E\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0639\u0642\u0627\u0628",
+        "Client": "\u0627\u0644\u0623\u062F\u0645\u064A\u0631\u0627\u0644 \u062C\u0627\u0644\u064A\u0648\u0633",
+        "Description": "\u0623\u0641\u0627\u062F\u062A \u0645\u062C\u0645\u0648\u0639\u0629 \u0641\u064A \u062F\u0648\u0631\u064A\u0629\r\n\u0641\u064A \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0639\u0646 \u0648\u062C\u0648\u062F \u0623\u0641\u0639\u0649 \u0627\u0644\u0631\u064A\u0627\u062D\r\n\u0625\u064A\u0628\u0648\u0634\u064A. \u064A\u0628\u062F\u0648 \u0623\u0646 \u0647\u0646\u0627\u0643 \u0634\u064A\u0626\u064B\u0627\r\n\u0645\u0647\u064A\u0628\u064B\u0627 \u0641\u064A \u062A\u0644\u0643 \u0627\u0644\u0639\u064A\u0646\u0629\r\n\u0623\u0643\u062B\u0631 \u0645\u0646 \u0627\u0644\u0630\u064A\r\n\u0642\u062A\u0644\u062A\u0647 \u0645\u0646 \u0642\u0628\u0644.\r\n...\u0643\u0646 \u062D\u0630\u0631\u064B\u0627 \u0647\u0646\u0627\u0643.",
+        "Target": "\u0627\u0642\u062A\u0644 \u0623\u0641\u0639\u0649 \u0627\u0644\u0631\u064A\u0627\u062D \u0625\u064A\u0628\u0648\u0634\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 5,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      22,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      132,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 132,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 118,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 4,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 107,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1366,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 62,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 27,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 23760,
+      "Points": 480,
+      "HRP": 1150
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      58,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 49,
+      "HealthTable": 132,
+      "AttackTable": 132,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

@@ -1,0 +1,350 @@
+{
+  "QuestID": 10723,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u731B\u304D\u708E\u3088\u3001\u6012\u9AEA\u3092\u93AE\u3081\u3088",
+        "Client": "\u91CC\u9577\u30D5\u30B2\u30F3",
+        "Description": "\u3044\u304B\u306A\u308B\u4E0D\u6E2C\u306E\u4E8B\u614B\u306B\u3082\u5BFE\u5FDC\u3057\u3066\r\n\u3053\u305D\u771F\u306E\u30C4\u30EF\u30E2\u30CE\uFF01\u3000\u305D\u3093\u306A\u529B\u304C\r\n\u8EAB\u306B\u3064\u304F\u30AF\u30A8\u30B9\u30C8\u3092\u7528\u610F\u3055\u305B\u305F\uFF01\r\n\u731B\u304D\u708E\u3088\uFF01\u3000\u8352\u308C\u72C2\u3046\u91D1\u7345\u5B50\u3092\r\n\u6355\u7372\u3057\u3066\u3001\u3088\u308A\u9AD8\u307F\u3092\u76EE\u6307\u305B\uFF01\r\n\u4E57\u308A\u8D8A\u3048\u305F\u6681\u306B\u306F\u3001\u8912\u7F8E\u3068\u3057\u3066\u3001\r\n\u7279\u6B8A\u306A\u82B1\u7D50\u3092\u6388\u3051\u308B\u305E\uFF01",
+        "Target": "\u30E9\u30FC\u30B8\u30E3\u30F3\uFF11\u982D\u306E\u6355\u7372",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\u3001\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7\r\n\u6355\u7372\u5BFE\u8C61\u306E\u8A0E\u4F10"
+      },
+      {
+        "Language": "ENG",
+        "Name": "May Fire Quell Fury",
+        "Client": "Fugen the Elder",
+        "Description": "Bein\u0027 flexible in any situation\u0027s\r\nthe mark of a true hunter, and\r\nI\u0027ve got just the quest to test ya!\r\nIf you can capture me a Rajang,\r\nyou pass\u2014and ya get yourself\r\na new Petalace too! Now, go\r\nget to it!",
+        "Target": "Capture a Rajang",
+        "Fail": "Reward hits 0, time expires,\r\nor capture target slain"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Feu et fureur",
+        "Client": "Fugen l\u0027Ancien",
+        "Description": "On reconna\u00EEt les vrais chasseurs\r\n\u00E0 leur capacit\u00E9 \u00E0 g\u00E9rer toutes\r\nles situations. Cette fois,\r\ncapture-moi un Rajang pour\r\nr\u00E9ussir la qu\u00EAte et gagner\r\nun nouveau Florelet. Allez,\r\nau boulot !",
+        "Target": "Capturer un Rajang",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9\r\nCible tu\u00E9e"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Il fuoco che domina la furia",
+        "Client": "Fugen l\u0027anziano",
+        "Description": "I veri cacciatori devono\r\nadattarsi a ogni situazione\r\ne questa missione dimostrer\u00E0\r\nse hai questa abilit\u00E0. Se\r\nriesci a catturare un Rajang,\r\ncompleti la missione e ottieni\r\nun nuovo floretto. Su, vai!",
+        "Target": "Cattura un Rajang",
+        "Fail": "Premio a zero, tempo scaduto\r\no mostro da catturare ucciso"
+      },
+      {
+        "Language": "GER",
+        "Name": "Zorn mit Feuer bek\u00E4mpfen",
+        "Client": "Fogen der \u00C4lteste",
+        "Description": "Wahre J\u00E4ger sind in jeder\r\nSituation flexibel, und genau\r\ndas sollst du bei dieser Quest\r\nbeweisen. Du bestehst, wenn du\r\nmir einen Rajang f\u00E4ngst \u2013 ein\r\nganz besonderes Flollier gibt\u0027s\r\nnoch obendrauf! Auf geht\u0027s!",
+        "Target": "Fange einen Rajang.",
+        "Fail": "Belohnung auf 0, Zeit l\u00E4uft ab\r\noder Fangziel erlegt."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Sofoque el fuego a la furia",
+        "Client": "Fugen el anciano",
+        "Description": "La capacidad para responder\r\nante cualquier situaci\u00F3n es\r\nse\u00F1a de buen cazador, y tengo\r\nalgo con que medirte. Logra\r\ncapturar un Rajang para ver\r\nde qu\u00E9 eres capaz. Adem\u00E1s,\r\n\u00A1te dar\u00E9 un nuevo petalazo!",
+        "Target": "Captura un Rajang",
+        "Fail": "La recompensa cae a 0, agotas\r\nel tiempo o el objetivo muere."
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041E\u0433\u043E\u043D\u044C \u0443\u0441\u043C\u0438\u0440\u0438\u0442 \u044F\u0440\u043E\u0441\u0442\u044C",
+        "Client": "\u0421\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u043D\u0430 \u0424\u0443\u0433\u044D\u043D",
+        "Description": "\u0423\u043C\u0435\u043D\u0438\u0435 \u043F\u0440\u0438\u0441\u043F\u043E\u0441\u043E\u0431\u0438\u0442\u044C\u0441\u044F \u043A\r\n\u043B\u044E\u0431\u043E\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438 \u2014 \u0437\u043D\u0430\u043A\r\n\u0438\u0441\u0442\u0438\u043D\u043D\u043E\u0433\u043E \u043E\u0445\u043E\u0442\u043D\u0438\u043A\u0430. \u0423 \u043C\u0435\u043D\u044F\r\n\u0435\u0441\u0442\u044C \u0434\u043B\u044F \u0442\u0435\u0431\u044F \u0437\u0430\u0434\u0430\u043D\u0438\u0435.\r\n\u041F\u043E\u0439\u043C\u0430\u0435\u0448\u044C \u043C\u043D\u0435 \u0420\u0430\u044F\u043D\u0433\u0430 \u2014 \u043F\u043E\u043B\u0443\u0447\u0438\u0448\u044C\r\n\u043D\u043E\u0432\u044B\u0439 \u041B\u0435\u043F\u0435\u0441\u0442\u0440\u0435\u0442\u0438\u043A! \u041D\u0443 \u0436\u0435,\r\n\u0432\u043F\u0435\u0440\u0435\u0434!",
+        "Target": "\u041F\u043E\u0439\u043C\u0430\u0442\u044C \u0420\u0430\u044F\u043D\u0433\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0,\r\n\u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F, \u0443\u043C\u0438\u0440\u0430\u0435\u0442 \u0446\u0435\u043B\u044C"
+      },
+      {
+        "Language": "POL",
+        "Name": "Niechaj ogie\u0144 st\u0142umi Furi\u0119",
+        "Client": "Starszy Fugen",
+        "Description": "Zdolno\u015B\u0107 dopasowania si\u0119 do\r\nsytuacji to cecha dobrego\r\n\u0142owcy, a ja mam zadanie w sam\r\nraz, \u017Ceby to przetestowa\u0107.\r\nZ\u0142ap Rajanga, a je\u015Bli\r\npodo\u0142asz, dam ci specjaln\u0105\r\nflori\u0119! Do dzie\u0142a!",
+        "Target": "Z\u0142ap Rajanga",
+        "Fail": "Nagroda = 0 lub koniec\r\nczasu, lub z\u0142apany cel ginie"
+      },
+      {
+        "Language": "POR",
+        "Name": "Que o fogo reprima a f\u00FAria",
+        "Client": "Fugen, o anci\u00E3o",
+        "Description": "Ser flex\u00EDvel em qualquer situa\u00E7\u00E3o\r\n\u00E9 a marca de um verdadeiro ca\u00E7ador,\r\ne eu tenho a miss\u00E3o ideal pra\r\nte testar! Se voc\u00EA capturar um\r\nRajang, voc\u00EA passa \u2014 e ainda\r\nganha um Petalar novo! Agora,\r\nvai nessa!",
+        "Target": "Capture um Rajang",
+        "Fail": "Rec. chega a 0, tempo expira\r\nou alvo de captura \u00E9 morto"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uBD84\uB178\uB97C \uC7A0\uC7AC\uC6CC\uB77C, \uB9F9\uB82C\uD55C \uBD88\uAF43",
+        "Client": "\uCD0C\uC7A5 \uD6C4\uAC90",
+        "Description": "\uC608\uCE21\uD558\uC9C0 \uBABB\uD55C \uC0AC\uD0DC\uC5D0 \uB300\uCC98\uD560 \uC904\r\n\uC54C\uC544\uC57C \uC9C4\uC815\uD55C \uAC15\uC790\uC778 \uBC95!\r\n\uADF8\uB798\uC11C \uD018\uC2A4\uD2B8\uB97C \uC900\uBE44\uD588\uB2E4!\r\n\uB9F9\uB82C\uD55C \uBD88\uAF43\uC774\uC5EC! \uB0A0\uB6F0\uB294\r\n\uAE08\uC0AC\uC790\uB97C \uD3EC\uD68D\uD558\uC5EC \uB192\uC740 \uACBD\uC9C0\uC5D0\r\n\uC62C\uB77C\uC11C\uB77C! \uADF8\uB7EC\uBA74 \uC0C1\uC73C\uB85C\r\n\uD2B9\uC218\uD55C \uAF43\uD314\uCC0C\uB97C \uC8FC\uB9C8!",
+        "Target": "\uB77C\uC794 1\uB9C8\uB9AC \uD3EC\uD68D",
+        "Fail": "\uBCF4\uC218\uAE08 0, \uC2DC\uAC04 \uCD08\uACFC\r\n\uD3EC\uD68D \uB300\uC0C1 \uD1A0\uBC8C"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u70C8\u706B\u554A\uFF0C\u64AB\u5E73\u6C96\u5929\u7684\u6012\u9AEE\u5427",
+        "Client": "\u6751\u9577\u5085\u8CE2",
+        "Description": "\u80FD\u5920\u61C9\u4ED8\u4EFB\u4F55\u7A81\u767C\u72C0\u6CC1\u7684\u7375\u4EBA\uFF0C\r\n\u624D\u662F\u771F\u6B63\u7684\u5F37\u8005\uFF01\u6211\u6240\u6E96\u5099\u7684\r\n\u4EFB\u52D9\uFF0C\u80FD\u5920\u8B93\u4F60\u5177\u5099\u9019\u6A23\u7684\u80FD\u529B\uFF01\r\n\u70C8\u706B\u554A\uFF01\u53BB\u6355\u7372\u72C2\u66B4\u7684\u91D1\u7345\u5B50\uFF0C\r\n\u9081\u5411\u66F4\u9AD8\u7684\u5883\u754C\u5427\uFF01\r\n\u7576\u4F60\u514B\u670D\u8003\u9A57\u5F8C\uFF0C\u6211\u5C07\u6388\u4E88\u4F60\r\n\u7279\u6B8A\u7684\u7D50\u82B1\u74B0\u4F5C\u70BA\u734E\u8CDE\uFF01",
+        "Target": "\u6355\u73721\u982D\u91D1\u7345\u5B50",
+        "Fail": "\u5831\u916C\u91D10\u3001\u6642\u9593\u7D50\u675F\r\n\u8A0E\u4F10\u6355\u7372\u5C0D\u8C61"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u70C8\u7130\u554A\uFF0C\u5E73\u606F\u6012\u53D1\u5427",
+        "Client": "\u6751\u957F\u666E\u8D24",
+        "Description": "\u80FD\u591F\u4ECE\u5BB9\u5E94\u5BF9\u4EFB\u4F55\u4E0D\u6D4B\u7684\u4EBA\uFF0C\r\n\u624D\u7B97\u5F97\u4E0A\u662F\u771F\u6B63\u7684\u5F3A\u8005\uFF01\u6211\u4E3A\u4F60\r\n\u51C6\u5907\u4E86\u638C\u63E1\u6B64\u7B49\u5F3A\u8005\u4E4B\u529B\u7684\u4EFB\u52A1\uFF01\r\n\u70C8\u7130\u554A\uFF01\u6355\u83B7\u72C2\u66B4\u7684\u91D1\u72EE\u5B50\uFF0C\r\n\u52C7\u6500\u9AD8\u5CF0\u5427\uFF01\r\n\u4F5C\u4E3A\u5B8C\u6210\u4EFB\u52A1\u7684\u5956\u8D4F\uFF0C\r\n\u6211\u4F1A\u6388\u4E88\u4F60\u7279\u6B8A\u7684\u82B1\u94FE\uFF01",
+        "Target": "\u6355\u83B71\u5934\u91D1\u72EE\u5B50",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\u3001\u65F6\u95F4\u8017\u5C3D\uFF0C\r\n\u6216\u8BA8\u4F10\u4E86\u6355\u83B7\u76EE\u6807"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0642\u062F \u064A\u064F\u0637\u0644\u0642 \u0642\u0645\u0639 \u0627\u0644\u063A\u0636\u0628",
+        "Client": "\u0627\u0644\u0645\u0639\u0645\u0651\u0631 \u0641\u064A\u0648\u062C\u064A\u0646",
+        "Description": "\u0623\u0646 \u003CLSNR {\u062A\u0643\u0648\u0646 \u0645\u0631\u0646\u064B\u0627} {\u062A\u0643\u0648\u0646\u064A \u0645\u0631\u0646\u0629}\u003E \u0641\u064A \u0623\u064A \u0645\u0648\u0642\u0641 \u0647\u064A\r\n\u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u0635\u064A\u0651\u0627\u062F \u0627\u0644\u062D\u0642\u064A\u0642\u064A\u060C \u0648\u0644\u062F\u064A\r\n\u0645\u0647\u0645\u0629 \u003CLSNR {\u0644\u0627\u062E\u062A\u0628\u0627\u0631\u0643} {\u0644\u0627\u062E\u062A\u0628\u0627\u0631\u0643\u0650}\u003E! \u0625\u0630\u0627 \u003CLSNR {\u062A\u0645\u0643\u0646\u062A} {\u062A\u0645\u0643\u0646\u062A\u0650}\u003E \u0645\u0646\r\n\u0623\u0633\u0631 \u0631\u0627\u062C\u0627\u0646\u062C\u060C \u003CLSNR {\u0633\u062A\u0646\u062C\u062D} {\u0633\u062A\u0646\u062C\u062D\u064A\u0646}\u003E\u060C\r\n\u0648\u003CLSNR {\u0633\u062A\u062D\u0635\u0644} {\u0633\u062A\u062D\u0635\u0644\u064A\u0646}\u003E \u0639\u0644\u0649 \u0628\u064A\u062A\u0627\u0644\u064A\u0633\r\n\u062C\u062F\u064A\u062F \u0623\u064A\u0636\u064B\u0627! \u0627\u0644\u0622\u0646\u060C\r\n\u003CLSNR {\u0627\u0630\u0647\u0628 \u0648\u0646\u0641\u0651\u0630} {\u0627\u0630\u0647\u0628\u064A \u0648\u0646\u0641\u0651\u0630\u064A}\u003E \u0627\u0644\u0645\u0647\u0645\u0629!",
+        "Target": "\u0623\u0633\u0631 \u0631\u0627\u062C\u0627\u0646\u062C",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u062A\u0647\u064A\r\n\u0627\u0644\u0648\u0642\u062A\u060C \u0623\u0648 \u0625\u0645\u0633\u0627\u0643 \u0647\u062F\u0641 \u0627\u0644\u0642\u062A\u0644"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 13,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      8,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      25,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 25,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 349,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 349,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 349,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 24,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 18000,
+      "Points": 360,
+      "HRP": 1000
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      7,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 37,
+      "HealthTable": 105,
+      "AttackTable": 87,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

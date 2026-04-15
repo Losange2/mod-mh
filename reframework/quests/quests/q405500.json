@@ -1,0 +1,350 @@
+{
+  "QuestID": 405500,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u6708\u5149\u306E\u4E0B",
+        "Client": "\u63D0\u7763\u30AC\u30EC\u30A2\u30B9",
+        "Description": "\u2026\u2026\u57CE\u585E\u9AD8\u5730\u3067\u30E1\u30EB\u30FB\u30BC\u30CA\u304C\u6355\u6349\r\n\u3055\u308C\u305F\u3002\u3053\u306E\u6A5F\u3092\u9003\u3059\u306A\u3002\u304B\u306E\u5730\r\n\u3067\u30E1\u30EB\u30FB\u30BC\u30CA\u3092\u8A0E\u4F10\u3057\u3001\u60B2\u9858\u3092\u679C\r\n\u3059\u305E\u3002\u3060\u304C\u3001\u5FD8\u308C\u308B\u306A\u3002\u7121\u4E8B\u306B\r\n\u623B\u308B\u3053\u3068\u3082\u4EFB\u52D9\u306E\u3072\u3068\u3064\u3060\u3002\r\n\u2026\u2026\u5065\u95D8\u3092\u7948\u308B\uFF01",
+        "Target": "\u30E1\u30EB\u30FB\u30BC\u30CA\uFF11\u4F53\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Witness by Moonlight",
+        "Client": "Admiral Galleus",
+        "Description": "Malzeno has been spotted\r\nin the Citadel. We cannot\r\nmiss this opportunity. Your\r\norders are clear: Go with\r\nFiorayne and defeat Malzeno\r\nonce and for all! ...And do\r\nreturn to us alive.",
+        "Target": "Slay Malzeno",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "T\u00E9moin au clair de lune",
+        "Client": "Amiral Galleus",
+        "Description": "Nous avons aper\u00E7u un Malzeno\r\n\u00E0 la Citadelle. Nous devons saisir\r\ncette opportunit\u00E9. \u00C9limine-le\r\nune bonne fois pour toutes !\r\nMais attention, il est aussi\r\nde ton devoir de revenir en\r\nvie ! Bonne chance !",
+        "Target": "Tuer le Malzeno",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Testimone al chiaro di luna",
+        "Client": "Ammiraglio Galleus",
+        "Description": "Abbiamo avvistato il Malzeno\r\nalla cittadella. Non possiamo\r\nperdere questa opportunit\u00E0.\r\nSconfiggilo una volta per\r\ntutte e ricorda: \u00E8 tuo dovere\r\ntornare incolume. Buona\r\nfortuna!",
+        "Target": "Uccidi il Malzeno",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Zeuge im Mondlicht",
+        "Client": "Galleus",
+        "Description": "Ein Malzeno wurde in der\r\nZitadelle gesichtet. Wir d\u00FCrfen\r\ndiese Gelegenheit nicht ver-\r\npassen! Deine Befehle sind klar:\r\nGeh mit Fiorayne und besiege\r\nden Malzeno ein f\u00FCr alle Mal!\r\nUnd kehre lebend zu uns zur\u00FCck.",
+        "Target": "Erlege Malzeno.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Testimonio a la luz de la luna",
+        "Client": "Almirante Galleus",
+        "Description": "Hemos visto a Malzeno en el\r\nBasti\u00F3n. \u00A1No podemos dejar pasar\r\nesta oportunidad! Tus \u00F3rdenes\r\nson claras: \u00A1ve con Fiorayne y\r\nderr\u00F3talo de una vez por todas!\r\nY vuelve con vida, por favor.",
+        "Target": "Abate a Malzeno",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041B\u0443\u043D\u0430 \u0432\u0441\u0435\u043C\u0443 \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043B\u044C",
+        "Client": "\u0410\u0434\u043C\u0438\u0440\u0430\u043B \u0413\u0430\u043B\u043B\u0435\u0443\u0441",
+        "Description": "\u041C\u044B \u0437\u0430\u043C\u0435\u0442\u0438\u043B\u0438 \u041C\u0430\u043B\u0437\u0435\u043D\u043E \u0432\r\n\u0426\u0438\u0442\u0430\u0434\u0435\u043B\u0438. \u042D\u0442\u043E \u043D\u0430\u0448 \u0448\u0430\u043D\u0441.\r\n\u041F\u0440\u0438\u043A\u043E\u043D\u0447\u0438 \u0435\u0433\u043E \u043F\u0440\u044F\u043C\u043E \u0442\u0430\u043C \u2014\r\n\u043F\u043E\u043A\u043E\u043D\u0447\u0438\u043C \u0441 \u044D\u0442\u0438\u043C! \u041D\u043E \u043F\u043E\u043C\u043D\u0438:\r\n\u0442\u0432\u043E\u0439 \u0434\u043E\u043B\u0433 \u2014 \u0432\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F\r\n\u003CLSNR {\u0436\u0438\u0432\u044B\u043C \u0438 \u0437\u0434\u043E\u0440\u043E\u0432\u044B\u043C} {\u0436\u0438\u0432\u043E\u0439 \u0438 \u0437\u0434\u043E\u0440\u043E\u0432\u043E\u0439}\u003E! \u0423\u0434\u0430\u0447\u0438!",
+        "Target": "\u0423\u0431\u0438\u0442\u044C \u041C\u0430\u043B\u0437\u0435\u043D\u043E",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "\u015Awiadek w blasku ksi\u0119\u017Cyca",
+        "Client": "Admira\u0142 Galleus",
+        "Description": "W Cytadeli widziano Malzeno.\r\nNie mo\u017Cemy przegapi\u0107 takiej\r\nokazji. Pokonaj go tam i\r\nzako\u0144cz to! Ale pami\u0119taj:\r\nmasz obowi\u0105zek wr\u00F3ci\u0107 ca\u0142o!\r\nPowodzenia!",
+        "Target": "Zabij Malzeno",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Testemunhado pelo Luar",
+        "Client": "Almirante Galleus",
+        "Description": "Avistamos um Malzeno no Forte.\r\nN\u00E3o podemos perder esta\r\noportunidade. Derrote-o e\r\nacabe com isso! Mas lembre-se:\r\nvoc\u00EA tamb\u00E9m tem a obriga\u00E7\u00E3o de\r\nvoltar com vida! Boa Sorte!",
+        "Target": "Mate o Malzeno",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uB2EC\uBE5B \uC544\uB798",
+        "Client": "\uC81C\uB3C5 \uAC08\uB808\uC544\uC2A4",
+        "Description": "\u2026\u2026\uC694\uC0C8\uACE0\uC6D0\uC5D0\uC11C \uBA5C-\uC81C\uB098\uAC00\r\n\uD3EC\uCC29\uB418\uC5C8\uB2E4. \uC774 \uAE30\uD68C\uB97C \uB193\uCE58\uC9C0\r\n\uB9C8\uB77C. \uBA5C-\uC81C\uB098\uB97C \uD1A0\uBC8C\uD574 \uC219\uC6D0\uC744\r\n\uC774\uB8E8\uC790. \uD558\uC9C0\uB9CC \uC78A\uC9C0 \uB9C8\uB77C. \uBB34\uC0AC\uD788\r\n\uADC0\uD658\uD558\uB294 \uAC83 \uB610\uD55C \uD558\uB098\uC758 \uC784\uBB34.\r\n\u2026\u2026\uAC74\uD22C\uB97C \uBE48\uB2E4!",
+        "Target": "\uBA5C-\uC81C\uB098 1\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6708\u5149\u4E4B\u4E0B",
+        "Client": "\u52A0\u96F7\u4E9E\u65AF\u63D0\u7763",
+        "Description": "\u2026\u2026\u5DF2\u78BA\u8A8D\u7235\u9280\u9F8D\u4F4D\u65BC\u57CE\u585E\u9AD8\u5730\uFF0C\r\n\u4E0D\u80FD\u932F\u5931\u6B64\u5927\u597D\u826F\u6A5F\u3002\r\n\u8ACB\u524D\u5F80\u8A72\u8655\u8A0E\u4F10\u7235\u9280\u9F8D\uFF0C\r\n\u4E86\u7D50\u6211\u5011\u7684\u5919\u9858\u5427\u3002\r\n\u4F46\u5207\u52FF\u5FD8\u8A18\uFF0C\u5E73\u5B89\u6B78\u4F86\u4E5F\u662F\r\n\u4EFB\u52D9\u7684\u4E00\u74B0\u2026\u2026\u795D\u4E00\u5E06\u98A8\u9806\uFF01",
+        "Target": "\u8A0E\u4F101\u982D\u7235\u9280\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6708\u5149\u4E4B\u4E0B",
+        "Client": "\u63D0\u7763\u52A0\u96F7\u4E9A\u65AF",
+        "Description": "\u2026\u2026\u5728\u57CE\u585E\u9AD8\u5730\u53D1\u73B0\u4E86\u7235\u94F6\u9F99\u3002\u4E0D\r\n\u8981\u9519\u8FC7\u8FD9\u4E2A\u673A\u4F1A\u3002\u8981\u5728\u90A3\u91CC\u8BA8\u4F10\u7235\r\n\u94F6\u9F99\uFF0C\u8FBE\u6210\u5919\u613F\u3002\u4F46\u4E0D\u8981\u5FD8\u8BB0\u4E86\uFF0C\r\n\u5E73\u5B89\u56DE\u6765\u4E5F\u662F\u4EFB\u52A1\u4E4B\u4E00\u2026\u2026\u795D\u9601\u4E0B\r\n\u65D7\u5F00\u5F97\u80DC\uFF01",
+        "Target": "\u8BA8\u4F101\u5934\u7235\u94F6\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0634\u0647\u0627\u062F\u0629 \u0636\u0648\u0621 \u0627\u0644\u0642\u0645\u0631",
+        "Client": "\u0627\u0644\u0623\u062F\u0645\u064A\u0631\u0627\u0644 \u062C\u0627\u0644\u064A\u0648\u0633",
+        "Description": "\u0644\u0642\u062F \u0631\u0623\u064A\u0646\u0627 \u0645\u0627\u0644\u0632\u064A\u0646\u0648 \u0641\u064A \u0627\u0644\u0642\u0644\u0639\u0629.\r\n\u0644\u0627 \u064A\u0645\u0643\u0646\u0646\u0627 \u062A\u0641\u0648\u064A\u062A \u0647\u0630\u0647 \u0627\u0644\u0641\u0631\u0635\u0629.\r\n\u0627\u0647\u0632\u0645\u0647 \u0647\u0646\u0627\u0643 \u0648\u0623\u0646\u0647\u0650 \u0647\u0630\u0627 \u0627\u0644\u0623\u0645\u0631!\r\n\u0644\u0643\u0646 \u062A\u0630\u0643\u0651\u064E\u0631:\r\n\u062A\u0634\u0645\u0644 \u0645\u0647\u0645\u062A\u0643 \u0623\u0646 \u062A\u0639\u0648\u062F \u062D\u064A\u0651\u064B\u0627 \u0623\u064A\u0636\u064B\u0627!\r\n\u062D\u0638\u0651\u064B\u0627 \u0637\u064A\u0628\u064B\u0627!",
+        "Target": "\u0627\u0642\u062A\u0644 \u0645\u0627\u0644\u0632\u064A\u0646\u0648",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      132,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 132,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 89,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 77,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 107,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1412,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1366,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 31320,
+      "Points": 630,
+      "HRP": 1460
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      58,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 25,
+      "HealthTable": 128,
+      "AttackTable": 130,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

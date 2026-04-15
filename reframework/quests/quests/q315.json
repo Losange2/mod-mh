@@ -1,0 +1,350 @@
+{
+  "QuestID": 315,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u6C34\u3082\u6EF4\u308B\u3044\u3044\u5973",
+        "Client": "\u7F8E\u3057\u3044\u5965\u65B9",
+        "Description": "\u6C34\u6CA1\u6797\u3067\u3001\u306F\u3050\u308C\u305F\u592B\u3092\u63A2\u3057\u3066\r\n\u3044\u305F\u3089\u3001\u9EC4\u8272\u3044\u3054\u5A66\u4EBA\u65B9\u306B\u8972\u308F\u308C\r\n\u3073\u3057\u3087\u6FE1\u308C\u3067\u3059\u308F\u3002\u79C1\u306E\u5834\u5408\u306F\u3001\r\n\u300C\u7F8E\u5973\u6FE1\u308C\u300D\u304B\u3057\u3089\uFF1F\u3000\u3046\u3075\u3075\u3002\r\n\u4F55\u306B\u305B\u3088\u3001\u3042\u306E\u9EC4\u8272\u3044\u3054\u5A66\u4EBA\u65B9\u304C\r\n\u3044\u3066\u306F\u3001\u79C1\u2026\u592B\u306B\u4F1A\u3048\u307E\u305B\u3093\u308F\u3002\r\n\u8FFD\u3044\u6255\u3063\u3066\u306F\u3044\u305F\u3060\u3051\u307E\u305B\u3093\u304B\uFF1F",
+        "Target": "\u30EB\u30C9\u30ED\u30B9\uFF11\uFF10\u982D\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Ladies of the Lake",
+        "Client": "Gorgeous Lady",
+        "Description": "I was looking for my lost husband\r\nin the Flooded Forest when I was\r\nattacked. I had heard tales of sirens\r\ndressed in yellow in the waters there.\r\nIf I am to ever find my husband, I will\r\nneed them gone.",
+        "Target": "Slay 10 Ludroth",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Dames du Lac",
+        "Client": "Belle dame",
+        "Description": "Je cherchais mon mari \u00E0 la\r\nFor\u00EAt inond\u00E9e, quand j\u0027ai \u00E9t\u00E9\r\nattaqu\u00E9e. La l\u00E9gende raconte\r\nque ces eaux sont habit\u00E9es par\r\ndes sir\u00E8nes v\u00EAtues de jaune.\r\nAide-moi \u00E0 retrouver mon mari\r\nen te d\u00E9barrassant d\u0027elles.",
+        "Target": "Tuer 10 Ludroth",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Le dame del lago",
+        "Client": "Donna favolosa",
+        "Description": "Stavo cercando mio marito\r\nnella Foresta inondata, quando\r\nsono stata attaccata. So di\r\nsirene in abiti gialli che\r\nsi celano in queste acque...\r\nHo bisogno che te ne liberi,\r\ncos\u00EC potr\u00F2 trovare mio marito.",
+        "Target": "Uccidi 10 Ludroth",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Die Frauen aus dem See",
+        "Client": "Wundersch\u00F6ne Dame",
+        "Description": "Ich habe im Flutwald meinen\r\nMann gesucht, als ich ange-\r\ngriffen wurde. Dort soll es\r\ngelb gekleidete Sirenen geben.\r\nDie m\u00FCssen verschwinden, damit\r\nich meinen Mann finden kann.",
+        "Target": "Erlege 10 Ludroth.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Las damas del lago",
+        "Client": "Dama despampanante",
+        "Description": "Estaba buscando a mi marido en\r\nel Bosque inundado, \u00A1pero algo\r\nme atac\u00F3! He o\u00EDdo que hay\r\nsirenas vestidas de amarillo\r\nen sus aguas. Si quiero hallar\r\na mi marido, necesito que\r\ndesaparezcan.",
+        "Target": "Abate a 10 Ludroth",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0412\u043B\u0430\u0434\u044B\u0447\u0438\u0446\u044B \u041E\u0437\u0435\u0440\u0430",
+        "Client": "\u041F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u0430\u044F \u0436\u0435\u043D\u0449\u0438\u043D\u0430",
+        "Description": "\u042F \u0438\u0441\u043A\u0430\u043B\u0430 \u043F\u043E\u0442\u0435\u0440\u044F\u0432\u0448\u0435\u0433\u043E\u0441\u044F \u043C\u0443\u0436\u0430\r\n\u0432 \u0417\u0430\u0442\u043E\u043F\u043B\u0435\u043D\u043D\u043E\u043C \u043B\u0435\u0441\u0443, \u0438 \u0442\u0443\u0442\r\n\u043D\u0430 \u043C\u0435\u043D\u044F \u043D\u0430\u043F\u0430\u043B\u0438. \u042F \u0441\u043B\u044B\u0448\u0430\u043B\u0430,\r\n\u0431\u0443\u0434\u0442\u043E \u0432 \u0442\u0430\u043C\u043E\u0448\u043D\u0438\u0445 \u0432\u043E\u0434\u0430\u0445 \u043E\u0431\u0438\u0442\u0430\u044E\u0442\r\n\u0440\u0443\u0441\u0430\u043B\u043A\u0438 \u0432 \u0436\u0435\u043B\u0442\u043E\u0439 \u043E\u0434\u0435\u0436\u0434\u0435. \u041D\u0443\u0436\u043D\u043E\r\n\u043E\u0442 \u043D\u0438\u0445 \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044C\u0441\u044F, \u0438\u043D\u0430\u0447\u0435 \u043C\u0443\u0436\u0430\r\n\u043C\u043D\u0435 \u043D\u0435 \u043D\u0430\u0439\u0442\u0438.",
+        "Target": "\u0423\u0431\u0438\u0442\u044C 10 \u041B\u0443\u0434\u0440\u043E\u0442\u043E\u0432",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Panie jeziora",
+        "Client": "Ol\u015Bniewaj\u0105ca pani",
+        "Description": "M\u00F3j m\u0105\u017C zagin\u0105\u0142. Szukaj\u0105c go\r\nw Zatopionym Lesie, zosta\u0142am\r\nzaatakowana. S\u0142ysza\u0142am\r\nju\u017C historie o widywanych tam\r\nodzianych na \u017C\u00F3\u0142to syrenach.\r\nJe\u015Bli mam odnale\u017A\u0107 m\u0119\u017Ca,\r\nmusz\u0119 si\u0119 ich pozby\u0107.",
+        "Target": "Zabij 10 Ludroth\u00F3w",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Damas do lago",
+        "Client": "Dama deslumbrante",
+        "Description": "Eu estava procurando meu marido\r\nperdido na Selva Inundada quando\r\nfui atacada. Eu j\u00E1 ouvi hist\u00F3rias\r\nde sereias vestidas de amarelo\r\nnaquelas \u00E1guas. Se eu quiser\r\nencontrar o meu marido,\r\npreciso que elas sumam.",
+        "Target": "Mate 10 Ludroths",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC544\uB984\uB2F5\uACE0 \uCC38\uD55C \uC5EC\uC790",
+        "Client": "\uC544\uB984\uB2E4\uC6B4 \uBD80\uC778",
+        "Description": "\uC218\uBAB0\uB41C \uC232\uC5D0\uC11C \uB0A8\uD3B8\uC744 \uCC3E\uB2E4\uAC00\r\n\uB178\uB780 \uBD80\uC778\uC5D0\uAC8C \uC2B5\uACA9\uB2F9\uD574\uC11C\r\n\uD760\uBED1 \uC816\uC5C8\uC9C0 \uBB50\uC608\uC694. \uC6B0\uD6C4\uD6C4.\r\n\uC5B4\uCA0C\uB4E0. \uADF8 \uB178\uB780 \uBD80\uC778\uC774 \uC788\uC73C\uBA74\r\n\uC800 \uD63C\uC790\uC11C\uB294\u2026 \uB0A8\uD3B8\uC744 \uCC3E\uC73C\uB7EC\r\n\uAC08 \uC218\uAC00 \uC5C6\uC5B4\uC694.\r\n\uBD80\uB514 \uCAD3\uC544 \uC8FC\uC2E4 \uC218 \uC788\uC744\uAE4C\uC694?",
+        "Target": "\uB8E8\uB4DC\uB85C\uC2A4 10\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5B0C\u8C54\u6B32\u6EF4\u7684\u7F8E\u5973",
+        "Client": "\u7F8E\u9E97\u7684\u592B\u4EBA",
+        "Description": "\u6211\u5728\u6C34\u6C92\u6797\u5C0B\u627E\u8D70\u6563\u7684\u4E08\u592B\u6642\uFF0C\r\n\u906D\u5230\u4E00\u7FA4\u8EAB\u7A7F\u9EC3\u8863\u7684\u5A66\u4EBA\u5011\u653B\u64CA\uFF0C\r\n\u6DEA\u70BA\u4E86\u843D\u6E6F\u96DE\u3002\u4E0D\u904E\u5957\u5728\u6211\u8EAB\u4E0A\uFF0C\r\n\u61C9\u8A72\u53EB\u505A\u300C\u51FA\u6C34\u8299\u84C9\u300D\u5427\uFF1F\u5475\u5475\u3002\r\n\u7E3D\u4E4B\uFF0C\u53EA\u8981\u90A3\u7FA4\u8EAB\u7A7F\u9EC3\u8863\u7684\u5A66\u4EBA\u5011\r\n\u9084\u5728\u2026\u2026\u6211\u5C31\u7121\u6CD5\u898B\u5230\u6211\u7684\u4E08\u592B\u3002\r\n\u80FD\u8ACB\u4F60\u66FF\u6211\u9A45\u9010\u5979\u5011\u55CE\uFF1F",
+        "Target": "\u8A0E\u4F1010\u982D\u6C34\u751F\u7378",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6C34\u7075\u7075\u7684\u597D\u5973\u4EBA",
+        "Client": "\u7F8E\u4E3D\u7684\u592A\u592A",
+        "Description": "\u6211\u5728\u6C34\u6CA1\u6797\u5BFB\u627E\u8D70\u6563\u7684\u4E08\u592B\u65F6\uFF0C\r\n\u7A81\u7136\u88AB\u4E00\u7FA4\u9EC4\u8272\u7684\u5987\u4EBA\u88AD\u51FB\uFF0C\r\n\u5168\u8EAB\u90FD\u6E7F\u900F\u4E86\u3002\r\n\u8FD9\u5C31\u53EB\u505A\u201C\u7F8E\u5973\u6E7F\u8EAB\u201D\u5417\uFF1F\r\n\u65E0\u8BBA\u5982\u4F55\uFF0C\u53EA\u8981\u90A3\u7FA4\u9EC4\u8272\u7684\u5987\u4EBA\r\n\u8FD8\u5728\uFF0C\u6211\u2026\u2026\u5C31\u89C1\u4E0D\u5230\u4E08\u592B\u3002\r\n\u80FD\u5426\u8BF7\u60A8\u628A\u5B83\u4EEC\u7ED9\u8D76\u8D70\u5462\uFF1F",
+        "Target": "\u8BA8\u4F1010\u5934\u6C34\u751F\u517D",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0633\u064A\u062F\u0627\u062A \u0627\u0644\u0628\u062D\u064A\u0631\u0629",
+        "Client": "\u0633\u064A\u062F\u0629 \u0631\u0627\u0626\u0639\u0629",
+        "Description": "\u0644\u0642\u062F \u0643\u0646\u062A \u0623\u0628\u062D\u062B \u0639\u0646 \u0632\u0648\u062C\u064A \u0627\u0644\u0645\u0641\u0642\u0648\u062F\r\n\u0641\u064A \u0627\u0644\u063A\u0627\u0628\u0629 \u0627\u0644\u0645\u063A\u0645\u0648\u0631\u0629\u060C \u0639\u0646\u062F\u0645\u0627\r\n\u062A\u0645\u062A \u0645\u0647\u0627\u062C\u0645\u062A\u064A. \u0644\u0642\u062F \u0633\u0645\u0639\u062A \u062D\u0643\u0627\u064A\u0627\u062A \u0639\u0646\r\n\u0627\u0644\u062D\u0648\u0631\u064A\u0627\u062A \u0645\u0631\u062A\u062F\u064A\u0627\u062A \u0627\u0644\u0644\u0648\u0646 \u0627\u0644\u0623\u0635\u0641\u0631\r\n\u0647\u0646\u0627\u0643. \u0625\u0630\u0627 \u0623\u0631\u062F\u062A \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u0649 \u0632\u0648\u062C\u064A\u060C\r\n\u0633\u0623\u062D\u062A\u0627\u062C \u0625\u0644\u0649 \u0627\u0644\u0642\u0636\u0627\u0621 \u0639\u0644\u064A\u0647\u0646.",
+        "Target": "\u0627\u0642\u062A\u0644 10 \u0645\u0646 \u0644\u0648\u062F\u0631\u0648\u062B",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 5,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      94,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 94,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 514,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 3,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 47,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 514,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 2,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 89,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 1500,
+      "Points": 30,
+      "HRP": 80
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      27,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 49,
+      "HealthTable": 26,
+      "AttackTable": 8,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 26,
+        "AttackTable": 8,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

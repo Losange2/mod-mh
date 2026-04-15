@@ -1,0 +1,350 @@
+{
+  "QuestID": 10751,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u30A6\u30C4\u30B7\u6559\u5B98\u306E\u6311\u6226\u72B6\u30FB\u5176\u306E\u56DB",
+        "Client": "",
+        "Description": "",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "ENG",
+        "Name": "Master Utsushi\u0027s Challenge Part 4",
+        "Client": "",
+        "Description": "",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "FRE",
+        "Name": "D\u00E9fi d\u0027Utsushi le ma\u00EEtre 4",
+        "Client": "",
+        "Description": "",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "ITA",
+        "Name": "Sfida del maestro Utsushi parte 4",
+        "Client": "",
+        "Description": "",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "GER",
+        "Name": "Utsushis Aufgabe Teil 4",
+        "Client": "",
+        "Description": "",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "SPA",
+        "Name": "El desaf\u00EDo de Utsushi, parte 4",
+        "Client": "",
+        "Description": "",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0418\u0441\u043F\u044B\u0442\u0430\u043D\u0438\u0435 \u041C\u0430\u0441\u0442\u0435\u0440\u0430 \u0423\u0446\u0443\u0441\u0438 \u0447. 4",
+        "Client": "",
+        "Description": "",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "POL",
+        "Name": "Wyzwanie Mistrza Utsushiego, cz. 4",
+        "Client": "",
+        "Description": "",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "POR",
+        "Name": "Desafio do Mestre Utsushi Parte 4",
+        "Client": "",
+        "Description": "",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC6B0\uCE20\uC2DC \uAD50\uAD00\uC758 \uB3C4\uC804\uC7A5 \uB124 \uBC88\uC9F8",
+        "Client": "",
+        "Description": "",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u502A\u6CF0\u6559\u5B98\u7684\u6311\u6230\u66F8\uFF65\u56DB",
+        "Client": "",
+        "Description": "",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u502A\u6CF0\u6559\u5B98\u7684\u6311\u6218\u4E66\u30FB\u5176\u56DB",
+        "Client": "",
+        "Description": "",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u062C\u0632\u0621 4 \u0645\u0646 \u062A\u062D\u062F\u064A \u0627\u0644\u0633\u064A\u062F \u0623\u0648\u062A\u0633\u0648\u0634\u064A",
+        "Client": "",
+        "Description": "",
+        "Target": "",
+        "Fail": ""
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      8,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1849,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1849,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 21240,
+      "Points": 430,
+      "HRP": 1430
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      72,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 105,
+      "AttackTable": 87,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

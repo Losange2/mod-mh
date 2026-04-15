@@ -1,0 +1,350 @@
+{
+  "QuestID": 10748,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u30A6\u30C4\u30B7\u6559\u5B98\u306E\u6311\u6226\u72B6\u30FB\u5176\u306E\u4E00",
+        "Client": "",
+        "Description": "\u3084\u3042\u3001\u611B\u5F1F\u5B50\uFF01\r\n\u6700\u8FD1\u3001\u30E1\u30AD\u30E1\u30AD\u3068\u8155\u3092\u4E0A\u3052\u3066\u3044\u308B\r\n\u3088\u3046\u3060\u306D\uFF01\u3000\u30AD\u30DF\u3092\u935B\u3048\u4E0A\u3052\u305F\r\n\u6559\u5B98\u3068\u3057\u3066\u3082\u8A87\u3089\u3057\u3044\u9650\u308A\u3060\uFF01\r\n\u3055\u3066\u3001\u305D\u3093\u306A\u611B\u5F1F\u5B50\u306B\u30D4\u30C3\u30BF\u30EA\u306E\r\n\u30AF\u30A8\u30B9\u30C8\u3092\u7528\u610F\u3057\u305F\u305E\uFF01\r\n\u8155\u8A66\u3057\u306B\u6311\u6226\u3057\u3066\u307F\u308B\u3068\u3044\u3044\uFF01",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "ENG",
+        "Name": "Master Utsushi\u0027s Challenge Part 1",
+        "Client": "",
+        "Description": "Yo, Ace! You\u0027ve been making\r\nsome totally gnarly progress\r\nrecently! Does a man good to\r\nsee his pupil train so hard!\r\nIn fact, let\u0027s kick it up a notch!\r\nGot just the quest for you, \r\nand it\u0027s a real banger!",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "FRE",
+        "Name": "D\u00E9fi d\u0027Utsushi le ma\u00EEtre 1",
+        "Client": "",
+        "Description": "Yo, l\u0027artiste ! T\u0027as fait de\r\nsacr\u00E9s progr\u00E8s ces derniers\r\ntemps ! \u00C7a fait plaisir \u00E0\r\nvoir ! Je pense qu\u0027il est\r\ntemps de passer aux choses\r\ns\u00E9rieuses ! Et \u00E7a tombe bien,\r\nj\u0027ai la qu\u00EAte id\u00E9ale pour \u00E7a !",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "ITA",
+        "Name": "Sfida del maestro Utsushi parte 1",
+        "Client": "",
+        "Description": "Ehi, \u003CLSNR {campione} {campionessa}\u003E! Hai fatto\r\ndegli ottimi progressi\r\nultimamente! \u00C8 un piacere\r\nvederti allenare cos\u00EC tanto,\r\nma dovresti osare di pi\u00F9! Ho\r\nla missione giusta per te\r\ned \u00E8 proprio fenomenale!",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "GER",
+        "Name": "Meister Utsushis Herausforderung Teil 1",
+        "Client": "",
+        "Description": "Moin, Ass! Du hast in letzter\r\nZeit echt Hammerfortschritte\r\ngemacht! Toll, wenn man seinen\r\nSch\u00FCler so hart trainieren\r\nsieht! Steigern wir das noch!\r\nIch hab die richtige Quest f\u00FCr\r\ndich, das wird ein Spa\u00DF!",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "SPA",
+        "Name": "El desaf\u00EDo de Utsushi, parte 1",
+        "Client": "",
+        "Description": "\u00A1Ey, hacha! Veo que has hecho\r\ngrandes progresos. No te haces\r\nidea de lo que le anima a uno\r\nque sus alumnos se lo curren\r\ntanto. De hecho, \u00BFsabes qu\u00E9?\r\n\u00A1Vamos a complicar las cosas\r\ncon una misi\u00F3n m\u00E1s ca\u00F1era!",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0418\u0441\u043F\u044B\u0442\u0430\u043D\u0438\u0435 \u041C\u0430\u0441\u0442\u0435\u0440\u0430 \u0423\u0446\u0443\u0441\u0438 \u0447. 1",
+        "Client": "",
+        "Description": "\u041F\u0440\u0438\u0432\u0435\u0442, \u0430\u0441! \u0422\u044B \u043A\u0440\u0443\u0442\u043E\r\n\u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u0448\u044C\u0441\u044F! \u0422\u0430\u043A \u043F\u0440\u0438\u044F\u0442\u043D\u043E\r\n\u0432\u0438\u0434\u0435\u0442\u044C, \u0447\u0442\u043E \u0443\u0447\u0435\u043D\u0438\u043A \u0441\u0442\u0430\u0440\u0430\u0435\u0442\u0441\u044F\r\n\u043F\u0440\u0435\u0432\u0437\u043E\u0439\u0442\u0438 \u0443\u0447\u0438\u0442\u0435\u043B\u044F! \u0414\u0430\u0432\u0430\u0439\r\n\u043F\u043E\u0434\u043D\u0430\u0436\u043C\u0435\u043C! \u0415\u0441\u0442\u044C \u0434\u043B\u044F \u0442\u0435\u0431\u044F\r\n\u0437\u0430\u0434\u0430\u043D\u0438\u0435, \u0442\u0435\u0431\u0435 \u043F\u043E\u043D\u0440\u0430\u0432\u0438\u0442\u0441\u044F!",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "POL",
+        "Name": "Wyzwanie Mistrza Utsushiego, cz. 1",
+        "Client": "",
+        "Description": "Siemanko! Niekiepsko sobie\r\nostatnio poczynasz! Mi\u0142o\r\npopatrze\u0107, jak narybek ci\u0119\u017Cko\r\ntrenuje. Mo\u017Ce podniesiemy\r\nnieco poprzeczk\u0119. Mam zadanie\r\nw sam raz dla ciebie, naprawd\u0119\r\nkonkret!",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "POR",
+        "Name": "Desafio do Mestre Utsushi Parte 1",
+        "Client": "",
+        "Description": "A\u00ED, Craque! Seu progresso t\u00E1\r\nsendo irado! Qualquer mestre\r\nficaria orgulhoso! Na real, t\u00E1\r\nna hora de subir o n\u00EDvel!\r\nEu tenho a miss\u00E3o perfeita pra\r\nvoc\u00EA, uma pauleira pra valer!",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC6B0\uCE20\uC2DC \uAD50\uAD00\uC758 \uB3C4\uC804\uC7A5 \uCCAB \uBC88\uC9F8",
+        "Client": "",
+        "Description": "\uC560\uC81C\uC790\uC5EC!\r\n\uC694\uC998 \uC2E4\uB825\uC774 \uBD80\uCA4D \uB294 \uAC83 \uAC19\uAD6C\uB098!\r\n\uB108\uB97C \uB2E8\uB828\uC2DC\uD0A8 \uAD50\uAD00\uC73C\uB85C\uC11C\r\n\uB9E4\uC6B0 \uC790\uB791\uC2A4\uB7FD\uB2E8\uB2E4!\r\n\uADF8\uB7F0 \uC560\uC81C\uC790\uC5D0\uAC8C \uB531 \uB9DE\uB294\r\n\uD018\uC2A4\uD2B8\uB97C \uC900\uBE44\uD574 \uB480\uB2E4!\r\n\uC2E4\uB825 \uD14C\uC2A4\uD2B8 \uC0BC\uC544 \uB3C4\uC804\uD574 \uBCF4\uC544\uB77C!",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u502A\u6CF0\u6559\u5B98\u7684\u6311\u6230\u66F8\uFF65\u4E00",
+        "Client": "",
+        "Description": "\u55E8\uFF0C\u611B\u5F92\uFF01\r\n\u4F60\u7684\u8EAB\u624B\u6700\u8FD1\u4F3C\u4E4E\u5927\u6709\u9577\u9032\u5594\uFF01\r\n\u6211\u8EAB\u70BA\u8CA0\u8CAC\u935B\u934A\u4F60\u7684\u6559\u5B98\uFF0C\r\n\u4E5F\u89BA\u5F97\u8207\u6709\u69AE\u7109\uFF01\r\n\u8A00\u6B78\u6B63\u50B3\uFF0C\r\n\u6211\u6E96\u5099\u4E86\u4E00\u500B\u9069\u5408\u4F60\u7684\u4EFB\u52D9\uFF01\r\n\u53BB\u6311\u6230\u770B\u770B\uFF0C\u8A66\u8A66\u81EA\u5DF1\u7684\u672C\u9818\u5427\uFF01",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u502A\u6CF0\u6559\u5B98\u7684\u6311\u6218\u4E66\u30FB\u5176\u4E00",
+        "Client": "",
+        "Description": "\u563F\uFF0C\u7231\u5F92\uFF01\r\n\u6700\u8FD1\u4F60\u7684\u8EAB\u624B\u662F\u7A81\u98DE\u731B\u8FDB\u554A\uFF01\r\n\u4F5C\u4E3A\u8BAD\u7EC3\u4F60\u7684\u6559\u5B98\uFF0C\r\n\u6211\u771F\u7684\u611F\u5230\u975E\u5E38\u81EA\u8C6A\uFF01\r\n\u6240\u4EE5\uFF0C\u6211\u5C31\u4E13\u95E8\u4E3A\u7231\u5F92\u4F60\r\n\u51C6\u5907\u4E86\u4E00\u4E2A\u7B26\u5408\u4F60\u6C34\u5E73\u7684\u4EFB\u52A1\uFF01\r\n\u6765\u6311\u6218\u4E00\u4E0B\uFF0C\u8BD5\u8BD5\u81EA\u5DF1\u7684\u8EAB\u624B\u5427\uFF01",
+        "Target": "",
+        "Fail": ""
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u062C\u0632\u0621 1 \u0645\u0646 \u062A\u062D\u062F\u064A \u0627\u0644\u0633\u064A\u062F \u0623\u0648\u062A\u0633\u0648\u0634\u064A",
+        "Client": "",
+        "Description": "\u003CLSNR {\u0623\u064A\u0647\u0627 \u0627\u0644\u0628\u0627\u0631\u0639} {\u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0628\u0627\u0631\u0639\u0629}\u003E! \u0644\u0642\u062F\r\n\u003CLSNR {\u0623\u062D\u0631\u0632\u062A} {\u0623\u062D\u0631\u0632\u062A\u0650}\u003E \u0628\u0639\u0636\r\n\u0627\u0644\u062A\u0642\u062F\u0645 \u0627\u0644\u0631\u0627\u0626\u0639 \u0645\u0624\u062E\u0631\u064B\u0627! \u064A\u0634\u0639\u0631\r\n\u0627\u0644\u0645\u0631\u0621 \u0628\u0627\u0644\u0641\u062E\u0631 \u0639\u0646\u062F\u0645\u0627 \u064A\u0631\u0649\r\n\u062A\u0644\u0645\u064A\u0630\u0647 \u064A\u062A\u062F\u0631\u0628 \u0628\u062C\u0650\u062F! \u0641\u064A \u0627\u0644\u0648\u0627\u0642\u0639\u060C\r\n\u0644\u0646\u0631\u0641\u0639 \u0627\u0644\u062A\u062D\u062F\u064A \u0642\u0644\u064A\u0644\u064B\u0627! \u0644\u062F\u064A \u0627\u0644\u0645\u0647\u0645\u0629\r\n\u0627\u0644\u0645\u0646\u0627\u0633\u0628\u0629 \u003CLSNR {\u0644\u0643} {\u0644\u0643\u0650}\u003E\u060C \u062A\u062D\u062F\u064D \u062D\u0642\u064A\u0642\u064A!",
+        "Target": "",
+        "Fail": ""
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 4,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      8,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      97,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 97,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 91,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 93,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 82,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 92,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 19080,
+      "Points": 390,
+      "HRP": 1420
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      30,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 6,
+      "HealthTable": 105,
+      "AttackTable": 87,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 105,
+        "AttackTable": 87,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

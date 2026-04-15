@@ -1,0 +1,350 @@
+{
+  "QuestID": 60138,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u718A\u3068\u6CB3\u7AE5\u306E\u63C3\u3044\u8E0F\u307F",
+        "Client": "\u30AE\u30EB\u30C9\u306E\u30D9\u30C6\u30E9\u30F3\u4E8B\u52D9\u54E1",
+        "Description": "\u3042\u3044\u305F\u305F\u305F\u2026\u3002\u9577\u5E74\u306E\u5EA7\u308A\u4ED5\u4E8B\u3067\r\n\u8170\u306B\u60AA\u5F71\u97FF\u304C\u2026\u3002\u6642\u306B\u306F\u7ACB\u3063\u3066\u3001\r\n\u9069\u5EA6\u306A\u904B\u52D5\u3092\u3057\u306A\u3051\u308C\u3070\u306D\u3002\r\n\u3042\u3001\u305D\u3046\u305D\u3046\u3002\u79C1\u304C\u62C5\u5F53\u3059\u308B\u3053\u306E\r\n\u4F9D\u983C\u3001\u6210\u529F\u3057\u305F\u65B9\u306B\u306F\u7279\u5225\u306B\u3001\r\n\u79C1\u304C\u4ED5\u4E8B\u3067\u8EAB\u306B\u3064\u3051\u305F\u69D8\u3005\u306A\u5EA7\u308A\r\n\u30DD\u30FC\u30BA\u3092\u6559\u3048\u307E\u3059\u3088\u3002",
+        "Target": "\u30A2\u30AA\u30A2\u30B7\u30E9\uFF11\u982D\u3068\u30E8\u30C4\u30DF\u30EF\u30C9\u30A6\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": " Wrestling with Pain",
+        "Client": "Veteran Guild Clerk",
+        "Description": "Ow-ow-ow... Sittin\u0027 down at work\r\nall these years has done a number\r\non my back... Your back\u0027s gonna\r\nbe busted too if you don\u0027t learn to\r\nsit right! Look at ya slouchin\u0027! Tell\r\nyou what, do this here quest and\r\nI\u0027ll teach ya all about posture!",
+        "Target": "Hunt an Arzuros and a Tetranadon",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Question de posture",
+        "Client": "Employ\u00E9 de la Guilde",
+        "Description": "A\u00EFe... Toutes ces ann\u00E9es \u00E0 travailler\r\nassis m\u0027ont bien ab\u00EEm\u00E9 le dos...\r\nCrois-moi, ton dos est pas \u00E0 l\u0027abri\r\nnon plus si t\u0027apprends pas \u00E0 bien\r\nt\u0027assoir ! Allez, occupe-toi de cette\r\nqu\u00EAte et je t\u0027apprendrai comment\r\narranger ta posture !",
+        "Target": "Chasser un Arzuros et un Tetranadon",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Lotta contro il dolore",
+        "Client": "Impiegato di Gilda esperto",
+        "Description": "Che dolore! Tutti questi anni\r\ndi lavoro sedentario non hanno\r\ngiovato alla mia schiena. Anche\r\nla tua si roviner\u00E0 se non impari\r\na sederti bene! Raddrizzati!\r\nCompleta questa missione e ti\r\ninsegner\u00F2 tutto sulla postura!",
+        "Target": "Caccia un Arzuros e un Tetranadon",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Kampf mit dem Schmerz",
+        "Client": "Veteran-Gildenangestellter",
+        "Description": "Au-au... Das viele Sitzen bei\r\nder Arbeit ruiniert meinen\r\nR\u00FCcken. Deiner wird auch\r\nruiniert sein, wenn du immer\r\nso l\u00FCmmelst! Vorschlag: Mach\r\ndiese Quest, dann bringe ich\r\ndir eine gute Haltung bei!",
+        "Target": "Erjage einen Arzuros und\r\neinen Tetranadon.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Luchando contra el dolor",
+        "Client": "Trabajador del gremio",
+        "Description": "Au, qu\u00E9 dolor m\u00E1s grande...\r\nTrabajar tantos a\u00F1os sentado\r\nme ha destrozado la espalda.\r\nY lo mismo te va a pasar a ti\r\ncomo no aprendas a sentarte\r\nbien. Si cumples esta misi\u00F3n,\r\nte ense\u00F1o la postura correcta.",
+        "Target": "Caza un Arzuros y un Tetranadon",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0411\u043E\u0440\u044C\u0431\u0430 \u0441 \u0431\u043E\u043B\u044C\u044E",
+        "Client": "\u041A\u043B\u0435\u0440\u043A \u2014 \u0432\u0435\u0442\u0435\u0440\u0430\u043D \u0413\u0438\u043B\u044C\u0434\u0438\u0438",
+        "Description": "\u041E\u0439-\u043E\u0439... \u041F\u043E\u0441\u0442\u043E\u044F\u043D\u043D\u043E\u0435 \u0441\u0438\u0434\u0435\u043D\u0438\u0435 \u043D\u0430\r\n\u0440\u0430\u0431\u043E\u0442\u0435 \u043D\u0435 \u043F\u0440\u0438\u043D\u0435\u0441\u043B\u043E \u043F\u043E\u043B\u044C\u0437\u044B \u043C\u043E\u0435\u0439\r\n\u0441\u043F\u0438\u043D\u0435... \u041D\u0435 \u043D\u0430\u0443\u0447\u0438\u0448\u044C\u0441\u044F \u0441\u0438\u0434\u0435\u0442\u044C\r\n\u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u043E \u2014 \u0438 \u0442\u0432\u043E\u044F \u0441\u043F\u0438\u043D\u0430\r\n\u0437\u0430\u0431\u043E\u043B\u0438\u0442! \u0414\u0430\u0432\u0430\u0439 \u0434\u043E\u0433\u043E\u0432\u043E\u0440\u0438\u043C\u0441\u044F,\r\n\u0432\u044B\u043F\u043E\u043B\u043D\u0438 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u2014 \u043D\u0430\u0443\u0447\u0443\r\n\u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u043E\u0439 \u043E\u0441\u0430\u043D\u043A\u0435!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0410\u0440\u0437\u0443\u0440\u043E\u0441\u0430 \u0438 \u0422\u0435\u0442\u0440\u0430\u043D\u0430\u0434\u043E\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Zapasy z b\u00F3lem",
+        "Client": "Zas\u0142u\u017Cony urz\u0119dnik Gildii",
+        "Description": "Au, au, au... Ci\u0105g\u0142e siedzenie w pracy\r\nwesz\u0142o mi w kr\u0119gos\u0142up... Te\u017C si\u0119\r\nnabawisz takich problem\u00F3w, je\u015Bli\r\nsi\u0119 nie nauczysz poprawnie\r\nsiedzie\u0107! Strasznie si\u0119 garbisz!\r\nWiesz co \u2013 wykonaj to zadanie,\r\na naucz\u0119 ci\u0119 prawid\u0142owej postawy!",
+        "Target": "Upoluj Arzurosa i Tetranadona",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Lutando com a Dor",
+        "Client": "Atendente Veterano",
+        "Description": "Ai, ai, ai... Trabalhar sentado todos\r\nesses anos afetou as minhas costas...\r\nAs suas tamb\u00E9m v\u00E3o arrebentar se voc\u00EA\r\nn\u00E3o aprender a se sentar direito!\r\nOlha s\u00F3 o seu desleixo! Me faz esse\r\nfavor, e eu vou te ensinar tudo sobre\r\npostura!",
+        "Target": "Mate um Arzuros e um Tetranadon",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uACF0\uACFC \uCE87\uD30C\uC758 \uB300\uACA9\uB3CC!",
+        "Client": "\uAE38\uB4DC\uC758 \uBCA0\uD14C\uB791 \uC0AC\uBB34\uC6D0",
+        "Description": "\uC544\uC57C\uC57C\u2026 \uACC4\uC18D \uC549\uC544\uC11C \uC77C\uB9CC \uD558\uB2C8\r\n\uD5C8\uB9AC\uAC00\u2026 \uAC00\uB054 \uC801\uB2F9\uD55C \uC6B4\uB3D9\uC744\r\n\uD574\uC57C\uC9C0. \uC544, \uB9DE\uC544. \uC81C\uAC00 \uB2F4\uB2F9\uD55C\r\n\uC774 \uC758\uB8B0\uB97C \uC131\uACF5\uD558\uC2E0 \uBD84\uAED8\uB294\r\n\uD2B9\uBCC4\uD788, \uC77C\uD558\uBA74\uC11C \uD130\uB4DD\uD55C \uC549\uAE30\r\n\uD3EC\uC988\uB97C \uC54C\uB824 \uB4DC\uB9AC\uC8E0.",
+        "Target": "\uC544\uC624\uC544\uC2DC\uB77C 1\uB9C8\uB9AC\uC640\r\n\uC694\uCE20\uBBF8\uC640\uB450 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u718A\u8207\u6CB3\u7AE5\u9593\u7684\u8DFA\u5730\u8868\u6F14\uFF01",
+        "Client": "\u516C\u6703\u7684\u8CC7\u6DF1\u8077\u54E1",
+        "Description": "\u75DB\u75DB\u75DB\u2026\u2026\u9577\u5E74\u5750\u8457\u5DE5\u4F5C\uFF0C\r\n\u5C0D\u6211\u7684\u8170\u9020\u6210\u4E86\u4E0D\u597D\u7684\u5F71\u97FF\u2026\u2026\r\n\u770B\u4F86\u6211\u5F97\u591A\u8D77\u8EAB\u6D3B\u52D5\u6D3B\u52D5\u4E86\u3002\r\n\u554A\uFF0C\u5C0D\u4E86\u5C0D\u4E86\uFF0C\u5982\u679C\u4F60\u80FD\r\n\u6210\u529F\u5B8C\u6210\u6211\u8CA0\u8CAC\u7684\u9019\u9805\u59D4\u8A17\uFF0C\r\n\u6211\u5C31\u7279\u5225\u628A\u9019\u5E7E\u5E74\u5728\u5DE5\u4F5C\u4E0A\r\n\u5B78\u6703\u7684\u5404\u7A2E\u5750\u4E0B\u59FF\u52E2\u6559\u7D66\u4F60\u3002",
+        "Target": "\u72E9\u73751\u982D\u9752\u718A\u7378\u82071\u982D\u6CB3\u7AE5\u86D9",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u718A\u4E0E\u6CB3\u7AE5\u7684\u8E0F\u5730\u8868\u6F14",
+        "Client": "\u516C\u4F1A\u7684\u8D44\u6DF1\u4E1A\u52A1\u5458",
+        "Description": "\u597D\u75DB\u597D\u75DB\u2026\u2026\u957F\u5E74\u5DE5\u4F5C\u4E45\u5750\u4E0D\u52A8\uFF0C\r\n\u628A\u8170\u7ED9\u641E\u574F\u4E86\u2026\u2026\u5076\u5C14\u4E5F\u5F97\r\n\u7AD9\u8D77\u6765\u9002\u5F53\u8FD0\u52A8\u4E00\u4E0B\u624D\u884C\u3002\r\n\u554A\uFF0C\u5BF9\u4E86\u5BF9\u4E86\u3002\u53EA\u8981\u80FD\u591F\u5B8C\u6210\r\n\u6211\u8D1F\u8D23\u7684\u8FD9\u4EFD\u59D4\u6258\uFF0C\u6211\u5C31\u6559\u4F60\r\n\u6211\u5DE5\u4F5C\u65F6\u5B66\u4F1A\u7684\u5404\u79CD\u5750\u59FF\u3002",
+        "Target": "\u72E9\u730E1\u5934\u9752\u718A\u517D\u548C1\u5934\u6CB3\u7AE5\u86D9",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0645\u0635\u0627\u0631\u0639\u0629 \u0645\u0639 \u0627\u0644\u0623\u0644\u0645",
+        "Client": "\u0643\u0627\u062A\u0628 \u0627\u0644\u0646\u0642\u0627\u0628\u0629 \u0627\u0644\u0645\u062E\u0636\u0631\u0645",
+        "Description": "\u0648\u0627\u0648... \u0642\u0636\u0627\u0621 \u0643\u0644 \u062A\u0644\u0643 \u0627\u0644\u0633\u0646\u0648\u0627\u062A \u0641\u064A \u0627\u0644\u0639\u0645\u0644\r\n\u0642\u062F \u062E\u0644\u0651\u0641 \u0622\u062B\u0627\u0631\u0647 \u0639\u0644\u0649 \u0638\u0647\u0631\u064A.\r\n\u0648\u0633\u064A\u062E\u0644\u0641 \u0622\u062B\u0627\u0631\u0647 \u0639\u0644\u0649 \u0638\u0647\u0631\u0643 \u0623\u064A\u0636\u064B\u0627\r\n\u0625\u0630 \u0644\u0645 \u062A\u062A\u0639\u0644\u0645 \u0637\u0631\u064A\u0642\u0629 \u0627\u0644\u062C\u0644\u0648\u0633 \u0627\u0644\u0635\u062D\u064A\u062D\u0629!\r\n\u0627\u0646\u0638\u0631 \u0625\u0644\u0649 \u003CLSNR {\u062A\u0631\u0647\u0644\u0643\u064E} {\u062A\u0631\u0647\u0644\u0643\u0650}\u003E! \u0646\u0641\u0651\u0630 \u0647\u0630\u0647 \u0627\u0644\u0645\u0647\u0627\u0645\r\n\u0645\u0646 \u0623\u062C\u0644\u064A \u0648\u0633\u0623\u0639\u0644\u0645\u0643\r\n\u0643\u0644 \u0634\u064A\u0621 \u0639\u0646 \u0627\u0644\u0648\u0636\u0639\u064A\u0627\u062A!",
+        "Target": "\u0635\u064A\u062F \u0623\u0631\u0632\u0648\u0631\u0648\u0633 \u0648\u062A\u064A\u062A\u0631\u0627\u0646\u0627\u062F\u0648\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 4,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1398,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1398,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 91,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 349,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 32,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1366,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 92,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 133,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 7200,
+      "Points": 150,
+      "HRP": 520
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      57,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 15,
+      "HealthTable": 99,
+      "AttackTable": 81,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

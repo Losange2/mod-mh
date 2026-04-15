@@ -1,0 +1,350 @@
+{
+  "QuestID": 10204,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u3057\u3063\u307D\u3067\u3050\u308B\u3050\u308B",
+        "Client": "\u5922\u898B\u308B\u30A2\u30A4\u30EB\u30FC",
+        "Description": "\u30CF\u30F3\u30BF\u30FC\u3055\u3093\u3001\u77E5\u3063\u3066\u308B\u304B\u30CB\u30E3\uFF1F\r\n\u5929\u72D7\u7363\u306F\u3001\u5C3B\u5C3E\u3067\u7ACB\u3064\u3093\u3060\u30CB\u30E3\u3002\r\n\u305D\u308C\u3067\u3001\u3050\u308B\u3050\u308B\u56DE\u308B\u3093\u3060\u30CB\u30E3\uFF01\r\n\u4E00\u4F53\u3069\u3046\u3084\u3063\u3066\u308B\u306E\u304B\u30CB\u30E3\u2026\uFF1F\r\n\u30DC\u30AF\u3082\u3084\u3063\u3066\u307F\u305F\u3044\u30CB\u30E3\uFF5E\uFF01\r\n\u3088\u30FC\u304F\u89B3\u5BDF\u3057\u3066\u307F\u305F\u3044\u304B\u3089\u3001\r\n\u5929\u72D7\u7363\u3092\u72E9\u731F\u3057\u3066\u307B\u3057\u3044\u306E\u30CB\u30E3\uFF01",
+        "Target": "\u30D3\u30B7\u30E5\u30C6\u30F3\u30B4\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "I Want Off This Ride",
+        "Client": "Spinning Felyne",
+        "Description": "I was coming home FUR-OM WORK\r\nwhen suddenly I SAW A BISHATEN\r\nspinning on its TAIL AND SUDDENLY\r\nit started spinning AROUND ME!\r\nThen everything STARTED SPINNING!\r\nAnd then I started SPINNING! AND\r\nmeow I can\u0027t stop! PLEASE HELP!",
+        "Target": "Hunt a Bishaten",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Bisha-t\u00EAte qui tourne",
+        "Client": "Felyne d\u00E9sorient\u00E9",
+        "Description": "Je rentrais du travail quand j\u0027ai vu\r\nun Bishaten tourner sur sa queue !\r\nJe t\u0027assure ! IL TOURNAIT SUR SA\r\nQUEUE ! Et il s\u0027est mis \u00E0 tourner\r\nautour de moi, puis tout s\u0027est mis \u00E0\r\ntourner, et puis moi aussi... MOI\r\nAUSSI ! AIDEEE-MIAOU !",
+        "Target": "Chasser un Bishaten",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Fatemi scendere",
+        "Client": "Felyne rotante",
+        "Description": "Mentre tornavo dal LAVORO,\r\nall\u0027improvviso ho visto un\r\nBISHATEN che faceva roteare la\r\nCODA che, AD UN TRATTO, ha\r\niniziato a GIRARMI intorno.\r\nPoi TUTTO GIRAVA, io GIRAVO!\r\nNon riesco a fermiaormi AIUTO!",
+        "Target": "Caccia un Bishaten",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Drehwurm-Alarm",
+        "Client": "Spinnender Felyne",
+        "Description": "Ich war auf dem NACHHAUSEWEG,\r\nda hab ich pl\u00F6tzlich EINEN BISHATEN\r\nauf seinem Schwanz KREISEN SEHEN\r\nund pl\u00F6tzlich kreiste er UM MICH!\r\nDann hat sich ALLES GEDREHT!\r\nUnd dann hab ich MICH GEDREHT!\r\nIch kann nicht anhalten! HILF MIR!",
+        "Target": "Erjage einen Bishaten.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Cola anillada",
+        "Client": "Felyne so\u00F1ador",
+        "Description": "Iba de camino a casa cuando\r\napareci\u00F3 un Bishaten que se\r\npuso a dar vueltas con su cola\r\na mi alrededor, \u00A1y no veas qu\u00E9\r\nmareo pill\u00E9! De hecho, \u00A1a\u00FAn\r\nme parece que yo est\u00E9 dando\r\nvueltas! \u00A1Ayuda, por favor!",
+        "Target": "Caza un Bishaten",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0421 \u043C\u0435\u043D\u044F \u0445\u0432\u0430\u0442\u0438\u0442",
+        "Client": "\u0412\u0440\u0430\u0449\u0430\u044E\u0449\u0438\u0439\u0441\u044F \u041A\u043E\u0442\u0442",
+        "Description": "\u042F \u0432\u043E\u0437\u0432\u0440\u0430\u0449\u0430\u043B\u0441\u044F \u0421 \u0420\u0410\u0411\u041E\u0422\u042B\r\n\u0438 \u0432\u0434\u0440\u0443\u0433 \u0423\u0412\u0418\u0414\u0415\u041B \u0411\u0418\u0421\u042F\u0422\u0415\u041D\u0410, \u043E\u043D\r\n\u0432\u0440\u0430\u0449\u0430\u043B\u0441\u044F \u043D\u0430 \u0425\u0412\u041E\u0421\u0422\u0415, \u0418 \u0412\u0414\u0420\u0423\u0413\r\n\u043D\u0430\u0447\u0430\u043B \u043A\u0440\u0443\u0442\u0438\u0442\u044C\u0441\u044F \u0412\u041E\u041A\u0420\u0423\u0413 \u041C\u0415\u041D\u042F!\r\n\u041F\u043E\u0442\u043E\u043C \u0432\u0441\u0435 \u041D\u0410\u0427\u0410\u041B\u041E \u0412\u0420\u0410\u0429\u0410\u0422\u042C\u0421\u042F!\r\n\u042F \u0441\u0430\u043C \u043D\u0430\u0447\u0430\u043B \u0412\u0420\u0410\u0429\u0410\u0422\u042C\u0421\u042F\r\n\u0438 \u043E\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C\u0441\u044F \u043D\u0435 \u043C\u043E\u0433\u0443! \u0410\u0419!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0411\u0438\u0441\u044F\u0442\u044D\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Chc\u0119 zej\u015B\u0107 z tej karuzeli",
+        "Client": "Wiruj\u0105cy felin",
+        "Description": "Wraca\u0142em w\u0142a\u015Bnie Z PRACY, kiedy\r\nMIAU-JRZA\u0141EM BISHATENA wiruj\u0105cego\r\nna OGONIE. NAGLE zacz\u0105\u0142 wirowa\u0107\r\nWOK\u00D3\u0141 MNIE! Wtedy wszystko\r\nZACZ\u0118\u0141O WIROWA\u0106! A potem ja\r\nzacz\u0105\u0142em WIROWA\u0106! I nie mog\u0119\r\nprzesta\u0107! MIAU-TUNKU, POMOCY!",
+        "Target": "Upoluj Bishatena",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Para que eu quero descer",
+        "Client": "Felyno girat\u00F3rio",
+        "Description": "Eu tava voltando do TRABALHO pra casa\r\nquando, de repente, EU VI UM BISHATEN\r\ngirando a CAUDA E, DE REPENTE, ele\r\ncome\u00E7ou a girar AO MEU REDOR! Da\u00ED,\r\ntudo COME\u00C7OU A GIRAR! Da\u00ED eu comecei\r\na GIRAR! E agora n\u00E3o consigo parar!\r\nMIAU-JUDA!",
+        "Target": "Cace um Bishaten",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uAF2C\uB9AC\uB85C \uBE59\uAE00\uBE59\uAE00",
+        "Client": "\uAFC8\uAFB8\uB294 \uC544\uC774\uB8E8",
+        "Description": "\uD5CC\uD130 \uC528 \uC54C\uACE0 \uC788\uB0E5?\r\n\uCC9C\uAD6C\uC218\uB294 \uAF2C\uB9AC\uB85C \uC124 \uC218 \uC788\uB2E4\uB0E5.\r\n\uADF8\uB7EC\uACE0\uC120 \uBE59\uAE00\uBE59\uAE00 \uB3C8\uB2E4\uB0E5!\r\n\uB3C4\uB300\uCCB4 \uC5B4\uB5BB\uAC8C \uD558\uB294 \uAC78\uAE4C\uB0E5?\r\n\uB098\uB3C4 \uD574 \uBCF4\uACE0 \uC2F6\uB2E4\uB0E5!\r\n\uC790\uC138\uD788 \uAD00\uCC30\uD558\uACE0 \uC2F6\uC73C\uB2C8\uAE4C\r\n\uCC9C\uAD6C\uC218\uB97C \uC0AC\uB0E5\uD574 \uC92C\uC73C\uBA74 \uD55C\uB2E4\uB0E5!",
+        "Target": "\uBE44\uC288\uD150\uACE0 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7528\u5C3E\u5DF4\u5718\u5718\u8F49",
+        "Client": "\u5145\u6EFF\u5922\u60F3\u7684\u827E\u8DEF",
+        "Description": "\u7375\u4EBA\uFF0C\u4F60\u77E5\u9053\u55CE\u55B5\uFF1F\r\n\u5929\u72D7\u7378\u6703\u7528\u5C3E\u5DF4\u7AD9\u7ACB\u55B5\u3002\r\n\u800C\u4E14\u9084\u6703\u7528\u5C3E\u5DF4\u5718\u5718\u8F49\u55B5\uFF01\r\n\u7260\u5230\u5E95\u662F\u600E\u9EBC\u505A\u5230\u7684\u55B5\u2026\u2026\uFF1F\r\n\u6211\u4E5F\u60F3\u6A21\u4EFF\u770B\u770B\u55B5\uFF5E\uFF01\r\n\u6211\u60F3\u8981\u597D\u597D\u5730\u89C0\u5BDF\u5929\u72D7\u7378\uFF0C\r\n\u6240\u4EE5\u5E0C\u671B\u4F60\u80FD\u53BB\u72E9\u7375\u7260\u55B5\uFF01",
+        "Target": "\u72E9\u73751\u982D\u5929\u72D7\u7378",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7528\u5C3E\u5DF4\u8F6C\u5708\u5708",
+        "Client": "\u7231\u68A6\u60F3\u7684\u827E\u9732\u732B",
+        "Description": "\u730E\u4EBA\uFF0C\u4F60\u77E5\u9053\u55B5\uFF1F\r\n\u5929\u72D7\u517D\u80FD\u7528\u5C3E\u5DF4\u6765\u76F4\u7ACB\u55B5\u3002\r\n\u8FD8\u80FD\u9AA8\u788C\u788C\u5730\u65CB\u8F6C\u55B5\uFF01\r\n\u5230\u5E95\u662F\u600E\u4E48\u505A\u5230\u7684\u55B5\u2026\u2026\uFF1F\r\n\u6211\u4E5F\u60F3\u8BD5\u8BD5\u770B\u55B5\uFF5E\uFF01\r\n\u6211\u60F3\u597D\uFF5E\u597D\u89C2\u5BDF\u4E00\u4E0B\u5B83\uFF0C\r\n\u6240\u4EE5\u8BF7\u4F60\u53BB\u72E9\u730E\u5929\u72D7\u517D\u55B5\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u5929\u72D7\u517D",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0623\u0631\u064A\u062F \u062A\u0631\u0643 \u0647\u0630\u0647 \u0627\u0644\u062C\u0648\u0644\u0629",
+        "Client": "\u0641\u064A\u0644\u0627\u064A\u0646 \u0627\u0644\u062F\u0648\u0651\u0627\u0631",
+        "Description": "\u0644\u0642\u062F \u0643\u0646\u062A \u0639\u0627\u0626\u062F\u064B\u0627 \u0645\u0646 \u0627\u0644\u0639\u0645\u0644\r\n\u0639\u0646\u062F\u0645\u0627 \u0631\u0623\u064A\u062A \u0628\u064A\u0634\u0627\u062A\u0646 \u064A\u062F\u0648\u0631 \u0639\u0644\u0649\r\n\u0630\u064A\u0644\u0647 \u0648\u0628\u062F\u0623 \u0641\u062C\u0623\u0629 \u0641\u064A\r\n\u0627\u0644\u062F\u0648\u0631\u0627\u0646 \u062D\u0648\u0644\u064A!\r\n\u062B\u0645 \u0628\u062F\u0623 \u0643\u0644 \u0634\u064A\u0621 \u0628\u0627\u0644\u062F\u0648\u0631\u0627\u0646!\r\n\u062B\u0645 \u0628\u062F\u0623\u062A \u0623\u0646\u0627 \u0628\u0627\u0644\u062F\u0648\u0631\u0627\u0646! \u0648\u0644\u0645\r\n\u0623\u0633\u062A\u0637\u0639 \u0627\u0644\u062A\u0648\u0642\u0641! \u003CLSNR {\u0633\u0627\u0639\u062F\u0646\u064A} {\u0633\u0627\u0639\u062F\u064A\u0646\u064A}\u003E \u0631\u062C\u0627\u0621\u064B!",
+        "Target": "\u0635\u064A\u062F \u0628\u064A\u0634\u0627\u062A\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      118,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 118,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 59,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 57,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 514,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 95,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1412,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 5400,
+      "Points": 110,
+      "HRP": 310
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      38,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 27,
+      "HealthTable": 71,
+      "AttackTable": 52,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 71,
+        "AttackTable": 52,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

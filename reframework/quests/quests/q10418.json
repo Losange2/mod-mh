@@ -1,0 +1,350 @@
+{
+  "QuestID": 10418,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u614E\u91CD\u6D3E\u3068\u7A81\u9032\u6D3E",
+        "Client": "\u304A\u3064\u304B\u3044\u5E30\u308A\u306E\u5C11\u5E74",
+        "Description": "\u304A\u3064\u304B\u3044\u306E\u5E30\u308A\u9053\u306B\u5927\u793E\u8DE1\u3092\r\n\u901A\u3063\u305F\u3093\u3060\u3051\u3069\u3001\u3069\u3063\u304B\u3067\u8CA1\u5E03\u3092\r\n\u843D\u3068\u3057\u3061\u3083\u3063\u305F\u307F\u305F\u3044\u3067\u3055\u3002\r\n\u63A2\u3057\u305F\u304F\u3066\u3082\u5927\u52E2\u306E\u30E2\u30F3\u30B9\u30BF\u30FC\u304C\r\n\u51FA\u3066\u6765\u305F\u305B\u3044\u3067\u623B\u308C\u306A\u3044\u3093\u3060\u3002\r\n\u30D0\u30EC\u305F\u3089\u6BCD\u3061\u3083\u3093\u306B\u6012\u3089\u308C\u308B\u2026\uFF01\r\n\u30CF\u30F3\u30BF\u30FC\u3055\u3093\u3001\u9000\u6CBB\u3057\u3066\u304F\u308C\u3088\uFF01",
+        "Target": "\u30B8\u30E3\u30B0\u30E9\u30B9\u3068\u30D6\u30EB\u30D5\u30A1\u30F3\u30B4\r\n\u5408\u8A08\uFF12\uFF10\u982D\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Lost and Found",
+        "Client": "Boy Running Errands",
+        "Description": "Oh, man... On my way home,\r\nI dropped my wallet somewhere\r\nnear the Ruins. My mom\u0027s gonna\r\nbe SO mad if I don\u0027t bring it back,\r\nbut there\u0027re too many monsters\r\naround there to go look for it...\r\nPlease help me, Hunter!",
+        "Target": "Slay a total of 20 Jagras or Bullfango",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Objets trouv\u00E9s",
+        "Client": "Gar\u00E7on faisant les courses",
+        "Description": "Sur le chemin du retour, j\u0027ai\r\nperdu mon portefeuille pr\u00E8s du\r\nTemple oubli\u00E9. Si je le ram\u00E8ne\r\npas, maman va me tuer !\r\nJe peux pas y retourner,\r\nil y a des monstres partout.\r\nAide-moi, je t\u0027en prie !",
+        "Target": "Tuer 20 Jagras ou Bullfango",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Un oggetto smarrito",
+        "Client": "Ragazzo indaffarato",
+        "Description": "Accidenti! Di ritorno a casa,\r\nmi \u00E8 caduto il portafogli\r\nvicino alle rovine. Mia mamma\r\nsi arrabbier\u00E0 MOLTISSIMO se\r\nnon lo riporto, ma ci sono\r\ntroppi mostri in quella zona.\r\nTi prego, aiutami!",
+        "Target": "Uccidi 20 Jagras o Bullfango in totale",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Verloren und gefunden",
+        "Client": "Laufbursche",
+        "Description": "Oh Mann... Auf dem Heimweg\r\nhab ich bei den Heiligen Ruinen\r\nmeinen Geldbeutel verloren.\r\nMeine Mama wird SO w\u00FCtend sein,\r\nwenn ich ohne ihn ankomme, ich\r\nkann aber nicht zur\u00FCck bei all\r\nden Monstern... Bitte hilf mir!",
+        "Target": "Erlege insgesamt 20 Jagras\r\noder Bullfango.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Perdido y encontrado",
+        "Client": "Chico recadero",
+        "Description": "Se me cay\u00F3 la cartera cerca\r\ndel Templo olvidado, de camino\r\na casa. Mam\u00E1 se va a cabrear\r\nun mont\u00F3n si no la recupero,\r\npero hay demasiados monstruos\r\ncomo para que vaya a por ella.\r\n\u00A1Ayuda, por favor!",
+        "Target": "Abate un total de 20 Jagras o Bullfango",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0411\u044E\u0440\u043E \u043D\u0430\u0445\u043E\u0434\u043E\u043A",
+        "Client": "\u041C\u0430\u043B\u044C\u0447\u0438\u043A \u043D\u0430 \u043F\u043E\u0441\u044B\u043B\u043A\u0430\u0445",
+        "Description": "\u041E\u0445... \u042F \u043F\u043E\u0442\u0435\u0440\u044F\u043B \u043A\u043E\u0448\u0435\u043B\u0435\u043A \u043F\u043E\r\n\u043F\u0443\u0442\u0438 \u0434\u043E\u043C\u043E\u0439, \u0443\u0440\u043E\u043D\u0438\u043B \u0433\u0434\u0435-\u0442\u043E \u0443\r\n\u0420\u0443\u0438\u043D \u0441\u0432\u044F\u0442\u0438\u043B\u0438\u0449\u0430. \u041C\u0430\u043C\u0430 \u0442\u0430\u043A\r\n\u0440\u0430\u0441\u0441\u0435\u0440\u0434\u0438\u0442\u0441\u044F, \u0435\u0441\u043B\u0438 \u044F \u0435\u0433\u043E\r\n\u043D\u0435 \u043F\u0440\u0438\u043D\u0435\u0441\u0443! \u041D\u043E \u0442\u0430\u043C \u0441\u043B\u0438\u0448\u043A\u043E\u043C\r\n\u043C\u043D\u043E\u0433\u043E \u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432, \u044F \u043D\u0435 \u043C\u043E\u0433\u0443 \u0435\u0433\u043E\r\n\u0438\u0441\u043A\u0430\u0442\u044C. \u041F\u043E\u043C\u043E\u0433\u0438, \u043F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430!",
+        "Target": "\u0423\u0431\u0438\u0442\u044C 20 \u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432\r\n(\u042F\u0433\u0440\u0430\u0441\u043E\u0432 \u0438\u043B\u0438 \u0411\u0443\u043B\u043B\u0444\u0430\u043D\u0433\u043E)",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Zguba",
+        "Client": "Ch\u0142opiec na posy\u0142ki",
+        "Description": "O rany... W drodze do domu\r\nupu\u015Bci\u0142em portfel gdzie\u015B\r\nniedaleko Ruin. Mama b\u0119dzie\r\nw\u015Bciek\u0142a, jak go nie znajd\u0119,\r\nale tam jest za du\u017Co\r\npotwor\u00F3w, \u017Cebym m\u00F3g\u0142 go\r\nposzuka\u0107... Prosz\u0119, pom\u00F3\u017C mi!",
+        "Target": "Zabij \u0142\u0105cznie 20 Jagras\u00F3w\r\nlub Bullfango",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Achados e perdidos",
+        "Client": "Menino cumprindo tarefas",
+        "Description": "Ah, cara... Eu perdi minha\r\ncarteira em algum lugar perto\r\ndas Ru\u00EDnas do Templo voltando\r\npra casa. A mam\u00E3e vai ficar\r\numa fera! S\u00F3 que tem monstros\r\ndemais l\u00E1 pra eu procurar...\r\nPor favor, me ajuda, \u003CLSNR {ca\u00E7ador} {ca\u00E7adora}\u003E!",
+        "Target": "Mate um total de 20 Jagras ou Bullfangos",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC2E0\uC911\uD30C\uC640 \uB3CC\uACA9\uD30C",
+        "Client": "\uC2EC\uBD80\uB984\uC744 \uB9C8\uCE5C \uC18C\uB144",
+        "Description": "\uC2EC\uBD80\uB984 \uB05D\uB0B4\uACE0 \uC0AC\uC6D0 \uD3D0\uD5C8\uB97C\r\n\uC9C0\uB098\uAC14\uB294\uB370\u2026 \uC5B4\uB514\uC11C \uC9C0\uAC11\uC744\r\n\uB5A8\uC5B4\uB728\uB9B0 \uAC83 \uAC19\uC544. \uCC3E\uACE0 \uC2F6\uC5B4\uB3C4\r\n\uBAAC\uC2A4\uD130\uAC00 \uC794\uB729 \uD280\uC5B4 \uB098\uC640\uC11C\r\n\uAC08 \uC218\uAC00 \uC5C6\uC5B4\u2026 \uD639\uC2DC\uB77C\uB3C4\r\n\uC5C4\uB9C8\uD55C\uD14C \uB4E4\uD0A4\uBA74 \uD63C\uB0A0 \uAC70\uC57C\u2026!\r\n\uD5CC\uD130 \uC528, \uD1F4\uCE58\uD574 \uC918!",
+        "Target": "\uC7C8\uADF8\uB77C\uC2A4\uC640 \uBD88\uD33D\uACE0\r\n\uD569\uACC4 20\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u614E\u91CD\u6D3E\u8207\u7A81\u64CA\u6D3E",
+        "Client": "\u525B\u8DD1\u5B8C\u817F\u7684\u5C11\u5E74",
+        "Description": "\u6211\u4E0A\u6B21\u8DD1\u5B8C\u817F\u6B63\u8981\u56DE\u5BB6\uFF0C\r\n\u8DEF\u4E0A\u7D93\u904E\u5927\u793E\u907A\u8DE1\u6642\uFF0C\r\n\u597D\u50CF\u628A\u9322\u5305\u6389\u5728\u67D0\u500B\u5730\u65B9\u4E86\u3002\r\n\u96D6\u7136\u6211\u60F3\u56DE\u982D\u53BB\u627E\uFF0C\u4F46\u56E0\u70BA\u90A3\u88E1\u6709\r\n\u5927\u91CF\u9B54\u7269\u51FA\u6C92\uFF0C\u6240\u4EE5\u6839\u672C\u56DE\u4E0D\u53BB\u3002\r\n\u8981\u662F\u88AB\u5ABD\u5ABD\u77E5\u9053\uFF0C\u80AF\u5B9A\u6703\u6328\u7F75\u7684\uFF01\r\n\u62DC\u8A17\u7375\u4EBA\uFF0C\u53BB\u64CA\u6557\u90A3\u4E9B\u9B54\u7269\u5427\uFF01",
+        "Target": "\u8A0E\u4F10\u51F6\u8C7A\u9F8D\u548C\u91CE\u8C6C\r\n\u517120\u982D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u614E\u91CD\u6D3E\u4E0E\u51B2\u950B\u6D3E",
+        "Client": "\u8DD1\u5B8C\u817F\u56DE\u5BB6\u7684\u5C11\u5E74",
+        "Description": "\u6211\u8DD1\u5B8C\u817F\u56DE\u5BB6\u7684\u8DEF\u4E0A\r\n\u7ECF\u8FC7\u4E86\u5E9F\u795E\u793E\uFF0C\u7136\u540E\u597D\u50CF\r\n\u628A\u94B1\u5305\u6389\u5728\u4EC0\u4E48\u5730\u65B9\u4E86\u3002\r\n\u6211\u60F3\u56DE\u53BB\u627E\uFF0C\u4F46\u6709\u5F88\u591A\u602A\u7269\r\n\u8DD1\u4E86\u51FA\u6765\uFF0C\u6839\u672C\u53BB\u4E0D\u4E86\u3002\r\n\u5988\u5988\u77E5\u9053\u4E86\u4E00\u5B9A\u4F1A\u8BAD\u65A5\u6211\u7684\u2026\u2026\uFF01\r\n\u730E\u4EBA\uFF0C\u5E2E\u6211\u53BB\u51FB\u9000\u602A\u7269\u5427\uFF01",
+        "Target": "\u5408\u8BA1\u8BA8\u4F1020\u5934\r\n\u8D3C\u9F99\u548C\u91CE\u732A",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0645\u0641\u0642\u0648\u062F\u0627\u062A \u0648\u0627\u0644\u0645\u0648\u062C\u0648\u062F\u0627\u062A",
+        "Client": "\u0635\u0628\u064A \u062A\u0634\u063A\u064A\u0644 \u0627\u0644\u0645\u0647\u0627\u0645",
+        "Description": "\u064A\u0627 \u0625\u0644\u0647\u064A... \u0641\u064A \u0637\u0631\u064A\u0642\u064A \u0625\u0644\u0649\r\n\u0627\u0644\u0645\u0646\u0632\u0644\u060C \u062A\u0631\u0643\u062A \u0645\u062D\u0641\u0638\u062A\u064A \u0641\u064A \u0645\u0643\u0627\u0646 \u0645\u0627\r\n\u0628\u0627\u0644\u0642\u0631\u0628 \u0645\u0646 \u0627\u0644\u0623\u0637\u0644\u0627\u0644. \u0633\u062A\u063A\u0636\u0628 \u0623\u0645\u064A\r\n\u0643\u062B\u064A\u0631\u064B\u0627 \u0625\u0630\u0627 \u0644\u0645 \u0623\u0639\u062F\u0647\u0627\u060C \u0644\u0643\u0646 \u064A\u0648\u062C\u062F\r\n\u0627\u0644\u0643\u062B\u064A\u0631 \u0645\u0646 \u0627\u0644\u0648\u062D\u0648\u0634 \u0647\u0646\u0627\u0643...\r\n\u003CLSNR {\u0633\u0627\u0639\u062F\u0646\u064A} {\u0633\u0627\u0639\u062F\u064A\u0646\u064A}\u003E \u0631\u062C\u0627\u0621\u064B \u003CLSNR {\u0623\u064A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F} {\u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0635\u064A\u0651\u0627\u062F\u0629}\u003E!",
+        "Target": "\u0642\u062A\u0644 \u0645\u0627 \u0645\u062C\u0645\u0648\u0639\u0647 20 \u062C\u0627\u062C\u0631\u0627\u0633 \u0623\u0648 \u0628\u0648\u0644\u0641\u0627\u0646\u062C\u0648",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 4,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      3,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 3,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 93,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 91,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 349,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 89,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 82,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 2520,
+      "Points": 60,
+      "HRP": 120
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      2,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 9,
+      "HealthTable": 97,
+      "AttackTable": 79,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

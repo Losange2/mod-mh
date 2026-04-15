@@ -1,0 +1,350 @@
+{
+  "QuestID": 455206,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u30A2\u30F3\u30B8\u30E3\u30CA\u30D5\u306E\u8ABF\u67FB",
+        "Client": "\u738B\u56FD\u9A0E\u58EB\u30D5\u30A3\u30AA\u30EC\u30FC\u30CD",
+        "Description": "\u003CPL\u003E\u3001\u738B\u56FD\u304B\u3089\u306E\r\n\u8ABF\u67FB\u4F9D\u983C\u304C\u5C4A\u3044\u305F\u305E\u3002\r\n\u306A\u308B\u3079\u304F\u591A\u89D2\u7684\u306A\u8ABF\u67FB\u7D50\u679C\u304C\r\n\u6C42\u3081\u3089\u308C\u308B\u305F\u3081\u3001\u76DF\u52C7\u3068\u5171\u306B\r\n\u30AF\u30A8\u30B9\u30C8\u306B\u6311\u3093\u3067\u3082\u3089\u3044\u305F\u3044\u3002\r\n\u8CB4\u6BBF\u3068\u76DF\u52C7\u306E\u5065\u95D8\u3092\u7948\u308B\u3002\r\n\u304F\u308C\u3050\u308C\u3082\u6CB9\u65AD\u306A\u304D\u3088\u3046\u306B\u306A\u3002",
+        "Target": "\u30A2\u30F3\u30B8\u30E3\u30CA\u30D5\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Operation Anjanath",
+        "Client": "Dame Fiorayne",
+        "Description": "\u003CPL\u003E, you\u0027ve\r\nreceived orders from The Kingdom\r\nto commence an investigation.\r\nIt must be thorough, so enlist allies\r\nto aid you. I wish you and your\r\nchosen comrades the best of luck.\r\nDo not let your guard down.",
+        "Target": "Hunt an Anjanath",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Op\u00E9ration Anjanath",
+        "Client": "Dame Fiorayne",
+        "Description": "\u003CPL\u003E, nous avons\r\nre\u00E7u des ordres du Royaume\r\nconcernant une t\u00E2che. Tu n\u0027as\r\npas le droit \u00E0 l\u0027erreur, donc\r\nrecrute des alli\u00E9s. Je vous\r\nsouhaite \u00E0 tous bonne chance,\r\net faites attention !",
+        "Target": "Chasser un Anjanath",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Operazione Anjanath",
+        "Client": "Dama Fiorayne",
+        "Description": "Salve, \u003CPL\u003E, hai\r\nricevuto ordini dal regno di\r\navviare un\u0027indagine. Dovr\u00E0\r\nessere approfondita, dunque\r\narruola alleati al tuo fianco.\r\nAuguro buona fortuna a te e ai\r\ntuoi colleghi. State all\u0027erta.",
+        "Target": "Caccia un Anjanath",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Operation Anjanath",
+        "Client": "Fiorayne",
+        "Description": "\u003CPL\u003E, das K\u00F6nigreich\r\nbefiehlt dir, eine Unter-\r\nsuchung einzuleiten. Suche dir\r\nhierf\u00FCr die Unterst\u00FCtzung von\r\nVerb\u00FCndeten. Ich w\u00FCnsche dir\r\nund den von dir gew\u00E4hlten Kame-\r\nraden viel Gl\u00FCck. Sei wachsam!",
+        "Target": "Erjage einen Anjanath.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Operaci\u00F3n Anjanath",
+        "Client": "Fiorayne",
+        "Description": "El reino te ha dado \u00F3rdenes de\r\nemprender una investigaci\u00F3n,\r\n\u003CPL\u003E.\r\nLa misi\u00F3n es compleja, por lo\r\nque debes rodearte de aliados.\r\nOs deseo buena suerte a ti y a\r\ntus camaradas. Estad alerta.",
+        "Target": "Caza un Anjanath",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041E\u043F\u0435\u0440\u0430\u0446\u0438\u044F \u0022\u0410\u043D\u044C\u044F\u043D\u0430\u0442\u0022",
+        "Client": "\u0420\u044B\u0446\u0430\u0440\u044C \u0424\u0438\u043E\u0440\u0430\u0439\u043D\u0430",
+        "Description": "\u003CPL\u003E, \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u0442\u0432\u043E\r\n\u043F\u0440\u0438\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442 \u0432\u0430\u043C \u043D\u0430\u0447\u0430\u0442\u044C\r\n\u0440\u0430\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0435. \u041E\u043D\u043E \u0434\u043E\u043B\u0436\u043D\u043E \u0431\u044B\u0442\u044C\r\n\u0432\u0441\u0435\u0441\u0442\u043E\u0440\u043E\u043D\u043D\u0438\u043C, \u043F\u043E\u044D\u0442\u043E\u043C\u0443 \u0432\u0430\u043C\r\n\u043F\u043E\u043D\u0430\u0434\u043E\u0431\u0438\u0442\u0441\u044F \u043F\u043E\u043C\u043E\u0449\u044C. \u0416\u0435\u043B\u0430\u044E\r\n\u0443\u0434\u0430\u0447\u0438 \u0432\u0430\u043C \u0438 \u0432\u0430\u0448\u0438\u043C \u0441\u043E\u0440\u0430\u0442\u043D\u0438\u043A\u0430\u043C.\r\n\u041D\u0435 \u0442\u0435\u0440\u044F\u0439\u0442\u0435 \u0431\u0434\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u0438.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0410\u043D\u044C\u044F\u043D\u0430\u0442\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Operacja Anjanath",
+        "Client": "Pani Fiorayne",
+        "Description": "\u003CPL\u003E, Kr\u00F3lestwo\r\nwys\u0142a\u0142o rozkazy, aby rozpocz\u0105\u0107\r\ndochodzenie. Musi by\u0107 dok\u0142adne,\r\nwi\u0119c zwerbuj sojusznik\u00F3w do\r\npomocy. \u017Bycz\u0119 tobie i twoim\r\ntowarzyszom powodzenia.\r\nB\u0105d\u017Acie czujni.",
+        "Target": "Upoluj Anjanatha",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Opera\u00E7\u00E3o Anjanath",
+        "Client": "Dama Fiorayne",
+        "Description": "\u003CPL\u003E, voc\u00EA recebeu\r\nordens do Reino para iniciar\r\numa investiga\u00E7\u00E3o. Ela tem que\r\nser meticulosa, ent\u00E3o recrute\r\naliados para ajudar voc\u00EA.\r\nDesejo toda a sorte a voc\u00EAs.\r\nN\u00E3o baixem a guarda.",
+        "Target": "Cace um Anjanath",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC548\uC7C8\uB098\uD504 \uC870\uC0AC",
+        "Client": "\uC655\uAD6D \uAE30\uC0AC \uD53C\uC624\uB808\uB124",
+        "Description": "\u003CPL\u003E, \uC655\uAD6D\uC73C\uB85C\uBD80\uD130\r\n\uC870\uC0AC \uC758\uB8B0\uAC00 \uB3C4\uCC29\uD588\uB2E4.\r\n\uB418\uB3C4\uB85D \uB2E4\uC591\uD55C \uC870\uC0AC \uACB0\uACFC\uB97C\r\n\uC5BB\uC744 \uC218 \uC788\uB3C4\uB85D, \uB9F9\uC6B0\uC640 \uD568\uAED8\r\n\uD018\uC2A4\uD2B8\uC5D0 \uC784\uD574 \uC8FC\uACA0\uB098?\r\n\uADC0\uACF5\uACFC \uB9F9\uC6B0\uC758 \uAC74\uD22C\uB97C \uBE48\uB2E4.\r\n\uBD80\uB514 \uBC29\uC2EC\uD558\uC9C0 \uB9D0\uB3C4\uB85D.",
+        "Target": "\uC548\uC7C8\uB098\uD504 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u8ABF\u67E5\u883B\u984E\u9F8D",
+        "Client": "\u738B\u570B\u9A0E\u58EB\u83F2\u6B50\u8389\u5C3C",
+        "Description": "\u003CPL\u003E\uFF0C\r\n\u6211\u5011\u6536\u5230\u4E86\u4F86\u81EA\u738B\u570B\u7684\u8ABF\u67E5\u59D4\u8A17\u3002\r\n\u4ED6\u5011\u60F3\u7372\u5F97\u591A\u5143\u7684\u8ABF\u67E5\u7D50\u679C\uFF0C\r\n\u6240\u4EE5\u5E0C\u671B\u7375\u4EBA\u80FD\u8207\u76DF\u53CB\r\n\u4E00\u540C\u524D\u5F80\u6311\u6230\u4EFB\u52D9\u3002\r\n\u795D\u4F60\u8207\u76DF\u53CB\u4E00\u8DEF\u9806\u98A8\uFF0C\r\n\u5343\u842C\u5225\u6389\u4EE5\u8F15\u5FC3\u4E86\u3002",
+        "Target": "\u72E9\u73751\u982D\u883B\u984E\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u8C03\u67E5\u86EE\u989A\u9F99",
+        "Client": "\u738B\u56FD\u9A91\u58EB\u83F2\u5965\u83B1\u5A1C",
+        "Description": "\u003CPL\u003E\uFF0C\r\n\u738B\u56FD\u53D1\u6765\u8C03\u67E5\u59D4\u6258\u3002\u4E3A\u4E86\u80FD\u83B7\u5F97\u591A\r\n\u65B9\u9762\u7684\u8C03\u67E5\u7ED3\u679C\uFF0C\u60F3\u8BA9\u4F60\u548C\u76DF\u53CB\u4E00\r\n\u8D77\u6311\u6218\u4EFB\u52A1\u3002\u795D\u613F\u4F60\u548C\u76DF\u53CB\u80FD\u65D7\u5F00\r\n\u5F97\u80DC\u3002\u8BF7\u5343\u4E07\u4E0D\u8981\u5927\u610F\u3002",
+        "Target": "\u72E9\u730E1\u5934\u86EE\u989A\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0639\u0645\u0644\u064A\u0629 \u0623\u0646\u062C\u0627\u0646\u0627\u062B",
+        "Client": "\u0627\u0644\u0633\u064A\u062F\u0629 \u0641\u064A\u0648\u0631\u0627\u064A\u0646",
+        "Description": "\u003CPL\u003E \u0644\u0642\u062F \u062A\u0644\u0642\u064A\u062A \u0623\u0648\u0627\u0645\u0631\r\n\u0645\u0646 \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0644\u0628\u062F\u0621 \u0627\u0644\u062A\u062D\u0642\u064A\u0642.\r\n\u064A\u062C\u0628 \u0623\u0646 \u064A\u0643\u0648\u0646 \u062A\u062D\u0642\u064A\u0642\u064B\u0627 \u0634\u0627\u0645\u0644\u064B\u0627\u060C\r\n\u0644\u0630\u0627 \u0627\u0637\u0644\u0628 \u0645\u0646 \u0627\u0644\u062D\u0644\u0641\u0627\u0621 \u0645\u0633\u0627\u0639\u062F\u062A\u0643.\r\n\u0623\u062A\u0645\u0646\u0649 \u0644\u0643 \u0648\u0644\u0631\u0641\u0627\u0642\u0643 \u0627\u0644\u0645\u062E\u062A\u0627\u0631\u064A\u0646\r\n\u062D\u0638\u0651\u064B\u0627 \u0633\u0639\u064A\u062F\u064B\u0627.\r\n\u0644\u0627 \u062A\u062A\u062E\u0644\u064E \u0639\u0646 \u062D\u0630\u0631\u0643.",
+        "Target": "\u0635\u064A\u062F \u0623\u0646\u062C\u0627\u0646\u0627\u062B",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 5,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      29
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      351,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 351,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 107,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 94,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 20,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 10800,
+      "Points": 220,
+      "HRP": 890
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      56,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 4,
+      "HealthTable": 118,
+      "AttackTable": 124,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

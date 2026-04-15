@@ -1,0 +1,350 @@
+{
+  "QuestID": 411,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u30C9\u30AF\u30BF\u30FC\u306E\u5B64\u72EC\u306A\u6BD2\u7814\u7A76",
+        "Client": "\u7814\u7A76\u71B1\u5FC3\u306A\u533B\u5E2B",
+        "Description": "\u4EBA\u751F\u306F\u65E5\u3005\u7814\u7A76\u3060\uFF01\r\n\u79C1\u306F\u3001\u65B0\u305F\u306A\u89E3\u6BD2\u85AC\u3092\u4F5C\u308B\u3079\u304F\r\n\u4E00\u4EBA\u7814\u7A76\u3092\u9032\u3081\u3066\u3044\u308B\u3002\r\n\u305D\u3053\u3067\u3001\u6B21\u306A\u308B\u7814\u7A76\u5BFE\u8C61\u3067\u3042\u308B\r\n\u30D7\u30B1\u30D7\u30B1\u306E\u72E9\u731F\u3092\u983C\u307F\u305F\u3044\u3002\r\n\u3042\u3001\u65B0\u85AC\u306F\u307E\u3060\u958B\u767A\u4E2D\u3060\u304B\u3089\u3001\r\n\u89E3\u6BD2\u85AC\u3092\u3061\u3083\u3093\u3068\u6301\u3063\u3066\u884C\u3051\u3088\uFF01",
+        "Target": "\u30D7\u30B1\u30D7\u30B1\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "A Poisonous Project",
+        "Client": "Antidote Researcher",
+        "Description": "My research is everything to me!\r\nAnd this new antidote research\r\nshall be my legacy! In order to\r\ncontinue my work, I\u0027ll need you\r\nto fetch me a Pukei-Pukei\r\nspecimen. But you\u0027ll need to\r\nbring your own antidotes...",
+        "Target": "Hunt a Pukei-Pukei",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Projet empoisonn\u00E9",
+        "Client": "Chercheur d\u0027antidote",
+        "Description": "Mes recherches comptent plus\r\nque tout, et je rentrerai dans\r\nles annales avec cet antidote.\r\nMais pour y parvenir, j\u0027ai\r\nbesoin que tu me ram\u00E8nes un\r\nPukei-Pukei. Mais compte pas\r\nsur moi pour des antidotes...",
+        "Target": "Chasser un Pukei-Pukei",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Un progetto velenoso",
+        "Client": "Ricercatore di antidoti",
+        "Description": "La ricerca \u00E8 tutto per me!\r\nQuesto nuovo antidoto sar\u00E0 il\r\nmio lascito! Per continuare a\r\nlavorarci, ho bisogno che mi\r\nporti un esemplare\r\ndi Pukei-Pukei. Dovrai portare\r\ni tuoi antidoti, per\u00F2!",
+        "Target": "Caccia un Pukei-Pukei",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Ein giftiges Unterfangen",
+        "Client": "Gegengift-Forscher",
+        "Description": "Forschung ist mein Leben! Und\r\ndieses neue Gegengift wird\r\nmein Durchbruch! Daf\u00FCr brauche\r\nich einen Pukei-Pukei, also\r\nbring mir einen. Zur Jagd\r\nmusst du aber deine eigenen\r\nGegengifte mitbringen!",
+        "Target": "Erjage einen Pukei-Pukei.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Un proyecto venenoso",
+        "Client": "Inventor de ant\u00EDdotos",
+        "Description": "La investigaci\u00F3n es mi vida,\r\ny mi nuevo prop\u00F3sito consiste\r\nen crear un nuevo ant\u00EDdoto.\r\nPero necesito un Pukei-Pukei\r\npara ello. \u00BFPodr\u00EDas cazar uno\r\npor m\u00ED? Recuerda llevar unos\r\ncuantos ant\u00EDdotos.",
+        "Target": "Caza un Pukei-Pukei",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u042F\u0434\u043E\u0432\u0438\u0442\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
+        "Client": "\u0418\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u043F\u0440\u043E\u0442\u0438\u0432\u043E\u044F\u0434\u0438\u0439",
+        "Description": "\u041C\u043E\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0434\u043B\u044F \u043C\u0435\u043D\u044F \u0432\u0441\u0435!\r\n\u0418\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u044F \u043D\u043E\u0432\u043E\u0433\u043E \u043F\u0440\u043E\u0442\u0438\u0432\u043E\u044F\u0434\u0438\u044F\r\n\u0441\u0442\u0430\u043D\u0443\u0442 \u043C\u043E\u0438\u043C \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u0435\u043C! \u0427\u0442\u043E\u0431\u044B \u044F\r\n\u043C\u043E\u0433 \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C \u0440\u0430\u0431\u043E\u0442\u0443, \u043F\u0440\u0438\u043D\u0435\u0441\u0438\r\n\u043C\u043D\u0435 \u043E\u0441\u043E\u0431\u044C \u041F\u043E\u043A\u0438-\u041F\u043E\u043A\u0438. \u0422\u043E\u043B\u044C\u043A\u043E \u0432\u043E\u0437\u044C\u043C\u0438\r\n\u0441 \u0441\u043E\u0431\u043E\u0439 \u0441\u0432\u043E\u0435 \u043F\u0440\u043E\u0442\u0438\u0432\u043E\u044F\u0434\u0438\u0435...",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u041F\u043E\u043A\u0438-\u041F\u043E\u043A\u0438",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Truj\u0105cy projekt",
+        "Client": "Badacz antidot\u00F3w",
+        "Description": "Badania to moje \u017Cycie!\r\nAntidotum, nad kt\u00F3rym w\u0142a\u015Bnie\r\npracuj\u0119, zapisze si\u0119 w\r\nhistorii. Potrzebuj\u0119 do niego\r\nPukei-Pukei, przyniesiesz mi\r\njedn\u0105 sztuk\u0119? Tylko musisz\r\nzadba\u0107 o w\u0142asne antidota...",
+        "Target": "Upoluj Pukei-Pukei",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Um projeto t\u00F3xico",
+        "Client": "Pesquisador do Ant\u00EDdoto",
+        "Description": "Minha pesquisa \u00E9 tudo pra mim!\r\nE essa nova pesquisa de ant\u00EDdotos\r\nser\u00E1 meu legado! Pra continuar\r\nmeu trabalho, preciso que voc\u00EA\r\ntraga uma amostra de Pukei-Pukei.\r\nMas voc\u00EA precisa levar seus\r\npr\u00F3prios ant\u00EDdotos...",
+        "Target": "Cace um Pukei-Pukei",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC758\uC0AC\uC758 \uACE0\uB3C5\uD55C \uB3C5 \uC5F0\uAD6C",
+        "Client": "\uC5F0\uAD6C\uAC00 \uD55C\uCC3D\uC778 \uC758\uC0AC",
+        "Description": "\uC778\uC0DD\uC740 \uB9E4\uC77C\uC774 \uC5F0\uAD6C\uC9C0!\r\n\uB098\uB294 \uC0C8\uB85C\uC6B4 \uD574\uB3C5\uC57D\uC744 \uB9CC\uB4E4\uAE30\r\n\uC704\uD574 \uD63C\uC790 \uC5F0\uAD6C\uD558\uACE0 \uC788\uC5B4.\r\n\uADF8\uB798\uC11C \uB2E4\uC74C \uC5F0\uAD6C \uB300\uC0C1\uC778\r\n\uD478\uCF00\uD478\uCF00\uC758 \uC0AC\uB0E5\uC744 \uBD80\uD0C1\uD558\uACE0\r\n\uC2F6\uC5B4. \uC2E0\uC57D\uC740 \uC544\uC9C1 \uAC1C\uBC1C\r\n\uB2E8\uACC4\uB2C8\uAE4C \uD574\uB3C5\uC57D\uC744 \uAF2D \uCC59\uACA8 \uAC00!",
+        "Target": "\uD478\uCF00\uD478\uCF00 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u91AB\u751F\u5C0D\u6BD2\u7684\u5B64\u7368\u7814\u7A76",
+        "Client": "\u71B1\u8877\u7814\u7A76\u7684\u91AB\u751F",
+        "Description": "\u4EBA\u751F\u5C31\u662F\u8981\u5929\u5929\u7814\u7A76\uFF01\r\n\u6211\u70BA\u4E86\u88FD\u4F5C\u65B0\u7684\u89E3\u6BD2\u85E5\uFF0C\u6B63\u5728\u7368\u81EA\r\n\u9032\u884C\u7814\u7A76\u3002\u6240\u4EE5\u6211\u60F3\u59D4\u8A17\u4F60\u5E6B\u5FD9\r\n\u72E9\u7375\u4E0B\u4E00\u500B\u7814\u7A76\u5C0D\u8C61\u2500\u2500\u6BD2\u5996\u9CE5\u3002\r\n\u5C0D\u4E86\uFF0C\u7531\u65BC\u6211\u7684\u65B0\u85E5\u9084\u5728\u958B\u767C\u4E2D\uFF0C\r\n\u4F60\u53EF\u8981\u8A18\u5F97\u5E36\u4E0A\u89E3\u6BD2\u85E5\u5594\uFF01",
+        "Target": "\u72E9\u73751\u982D\u6BD2\u5996\u9CE5",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u533B\u751F\u5B64\u72EC\u7684\u6BD2\u7814\u7A76",
+        "Client": "\u70ED\u7231\u7814\u7A76\u7684\u533B\u751F",
+        "Description": "\u4EBA\u751F\u5728\u4E16\u5C31\u662F\u8981\u6BCF\u5929\u505A\u7814\u7A76\uFF01\r\n\u4E3A\u4E86\u5236\u4F5C\u65B0\u7684\u89E3\u6BD2\u836F\uFF0C\r\n\u6211\u6B63\u5728\u4E00\u4E2A\u4EBA\u8FDB\u884C\u7814\u7A76\u3002\r\n\u56E0\u6B64\uFF0C\u6211\u60F3\u59D4\u6258\u4F60\u53BB\u72E9\u730E\r\n\u4E0B\u4E00\u4E2A\u7814\u7A76\u5BF9\u8C61\u2014\u2014\u6BD2\u5996\u9E1F\u3002\r\n\u5BF9\u4E86\uFF0C\u65B0\u836F\u8FD8\u5728\u5F00\u53D1\u4E2D\uFF0C\r\n\u53BB\u7684\u65F6\u5019\u522B\u5FD8\u4E86\u5E26\u89E3\u6BD2\u836F\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u6BD2\u5996\u9E1F",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0645\u0634\u0631\u0648\u0639 \u0645\u0633\u0645\u0648\u0645",
+        "Client": "\u0628\u0627\u062D\u062B \u0639\u0646 \u0627\u0644\u062A\u0631\u064A\u0627\u0642",
+        "Description": "\u0623\u0628\u062D\u0627\u062B\u064A \u0647\u064A \u0643\u0644 \u0645\u0627 \u064A\u0647\u0645\u0646\u064A! \u0648\u0647\u0630\u0627 \u0627\u0644\u0628\u062D\u062B\r\n\u0627\u0644\u062C\u062F\u064A\u062F \u0639\u0646 \u0627\u0644\u062A\u0631\u064A\u0627\u0642 \u0633\u064A\u0643\u0648\u0646\r\n\u0627\u0644\u0625\u0631\u062B \u0627\u0644\u0630\u064A \u0633\u0623\u062A\u0631\u0643\u0647! \u0648\u0644\u0627\u0633\u062A\u0643\u0645\u0627\u0644\r\n\u0639\u0645\u0644\u064A\u060C \u0633\u0623\u062D\u062A\u0627\u062C \u0625\u0644\u0649 \u0623\u0646\r\n\u003CLSNR {\u062A\u062C\u0644\u0628} {\u062A\u062C\u0644\u0628\u064A}\u003E \u0644\u064A \u0639\u064A\u0646\u0627\u062A\r\n\u0628\u0648\u0643\u064A-\u0628\u0648\u0643\u064A. \u0648\u0644\u0643\u0646 \u003CLSNR {\u0633\u062A\u062D\u062A\u0627\u062C} {\u0633\u062A\u062D\u062A\u0627\u062C\u064A\u0646}\u003E \u0625\u0644\u0649 \u062C\u0644\u0628\r\n\u003CLSNR {\u062A\u0631\u064A\u0627\u0642\u0643} {\u062A\u0631\u064A\u0627\u0642\u0643\u0650}\u003E \u0627\u0644\u062E\u0627\u0635...",
+        "Target": "\u0635\u064A\u062F \u0628\u0648\u0643\u064A-\u0628\u0648\u0643\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      131,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 131,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 3000,
+      "Points": 60,
+      "HRP": 220
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      112,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 29,
+      "AttackTable": 10,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 29,
+        "AttackTable": 10,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

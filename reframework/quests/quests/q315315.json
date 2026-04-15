@@ -1,0 +1,350 @@
+{
+  "QuestID": 315315,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u51B7\u305F\u3044\u306E\u71B1\u3044\u306E\u6295\u3052\u30CB\u30E3\u3044\u3067\uFF01",
+        "Client": "\u30D0\u30C6\u30D0\u30C6\u306E\u30A2\u30A4\u30EB\u30FC",
+        "Description": "\u30CB\u30E3\u2026\u57CE\u585E\u9AD8\u5730\u306E\u6E29\u5EA6\u5DEE\u2026\u6700\u8FD1\u3001\r\n\u6FC0\u3057\u304F\u306A\u3044\u304B\u30CB\u30E3\u2026\u3042\u3061\u3053\u3061\u304B\u3089\r\n\u6C37\u306E\u584A\u3084\u2026\u71C3\u3048\u3066\u308B\u677E\u307C\u3063\u304F\u308A\u304C\r\n\u98DB\u3093\u3067\u304F\u308B\u3057\u2026\u3002\u3053\u308C\u3058\u3083\u3042\u7A4D\u8377\r\n\u304C\u30C0\u30E1\u306B\u306A\u3063\u3061\u3083\u3044\u307E\u3059\u30CB\u30E3\u2026\u3002\r\n\u6E29\u5EA6\u306F\u7121\u7406\u3067\u3082\u2026\u3001\u8272\u3005\u98DB\u3093\u3067\r\n\u304F\u308B\u306E\u3092\u3069\u3046\u306B\u304B\u3057\u3066\u30CB\u30E3\u2026\u2026\u3002",
+        "Target": "\u30B4\u30B7\u30E3\u30CF\u30AE\uFF11\u982D\u3068\r\n\u30D3\u30B7\u30E5\u30C6\u30F3\u30B4\u4E9C\u7A2E\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "The Hot and Cold Treatment",
+        "Client": "Knackered Felyne",
+        "Description": "Hasn\u0027t the tem-purr-ature in\r\nthe Citadel been all over the\r\nplace lately? Ice chunks and\r\nflaming pinecones flying all\r\nover... My cargo\u0027s done fur at\r\nthis rate. Do something about\r\nthe purr-rojectiles at least!",
+        "Target": "Hunt a Goss Harag and\r\na Blood Orange Bishaten",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Chaud et froid",
+        "Client": "Felyne harass\u00E9",
+        "Description": "Qu\u0027est-ce qui se passe avec\r\nla temp\u00E9rature \u00E0 la Citadelle ?\r\nOn passe d\u0027un extr\u00EAme \u00E0 l\u0027autre\r\nen permanence... C\u0027est pas\r\nbon pour mes marchandises,\r\n\u00E7a. Si tu pouvais t\u0027occuper\r\ndes pommes de pin au moins...",
+        "Target": "Chasser un Goss Harag\r\net un Bishaten sanguin",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Sbalzo termico",
+        "Client": "Felyne distrutta",
+        "Description": "La temperatura alla cittadella\r\n\u00E8 impazzita, non trovi? Volano\r\npezzi di ghiaccio e pigne di\r\nfuoco... Di questo passo, il\r\nmio carico pu\u00F2 considerarsi\r\nperso. Fai qualcosa, almeno\r\nper fermare i proiettili, miao!",
+        "Target": "Caccia un Goss Harag\r\ne un Bishaten sanguigno",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Feuer und Eis",
+        "Client": "Todm\u00FCde Felyne",
+        "Description": "Ist die Temperatur in der Zita-\r\ndelle in letzter Zeit nicht au\u00DFer\r\nRand und Band? Eisbrocken\r\nund Tannenzapfen fliegen \u00FCberall\r\nherum... Wenn das so weiter-\r\ngeht, ist es aus mit meiner Ware.\r\nTu was gegen die Projektile!",
+        "Target": "Erjage einen Goss Harag\r\nund einen Blut-Bishaten.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Tratamiento de calor y fr\u00EDo",
+        "Client": "Felyne exhausto",
+        "Description": "\u00BFNo cambia la temperatura del\r\nBasti\u00F3n mucho \u00FAltimamente? Hay\r\ntrozos de hielo y pi\u00F1as en\r\nllamas por doquier. A este\r\npaso, me quedo sin mercanc\u00EDas.\r\n\u00A1Arregla al menos lo de esos\r\nproyectiles, miau!",
+        "Target": "Caza un Goss Harag\r\ny un Bishaten Sanguina",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041A\u043E\u043D\u0442\u0440\u0430\u0441\u0442\u043D\u044B\u0439 \u0434\u0443\u0448",
+        "Client": "\u0423\u0441\u0442\u0430\u0432\u0448\u0438\u0439 \u041A\u043E\u0442\u0442",
+        "Description": "\u0427\u0442\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0434\u0438\u0442 \u0441 \u0442\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440\u043E\u0439\r\n\u0432 \u0426\u0438\u0442\u0430\u0434\u0435\u043B\u0438 \u0432 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0435\u0435 \u0432\u0440\u0435\u043C\u044F?\r\n\u0413\u043B\u044B\u0431\u044B \u043B\u044C\u0434\u0430 \u0438 \u043E\u0433\u043D\u0435\u043D\u043D\u044B\u0435 \u0448\u0438\u0448\u043A\u0438\r\n\u0442\u0430\u043A \u0438 \u043B\u0435\u0442\u0430\u044E\u0442... \u0422\u0430\u043A\u0438\u043C\u0438 \u0442\u0435\u043C\u043F\u0430\u043C\u0438\r\n\u043E\u0442 \u043C\u044F\u0443\u0435\u0433\u043E \u0433\u0440\u0443\u0437\u0430 \u043D\u0438\u0447\u0435\u0433\u043E \u043D\u0435\r\n\u043E\u0441\u0442\u0430\u043D\u0435\u0442\u0441\u044F. \u0421\u0434\u0435\u043B\u0430\u0439 \u0447\u0442\u043E-\u043D\u0438\u0431\u0443\u0434\u044C!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0413\u043E\u0441\u0441-\u0425\u0430\u0440\u0430\u0433\u0430\r\n\u0438 \u041A\u0440\u043E\u0432\u0430\u0432\u043E\u0433\u043E \u0411\u0438\u0441\u044F\u0442\u044D\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Leczenie zimnem i gor\u0105cem",
+        "Client": "Zm\u0119czona felinka",
+        "Description": "Czy ostatnio w Cytadeli nie ma\r\nrozchwiania pogody? Fruwaj\u0105\r\nkawa\u0142ki lodu i ogniste szyszki.\r\nStrac\u0119 wszelkie swoje towary.\r\nZr\u00F3b co\u015B przy-miau-mniej\r\nz tymi pociskami!",
+        "Target": "Upoluj Goss Haraga\r\ni Krwistopomara\u0144czowego Bishatena",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Tratamento Quente e Frio",
+        "Client": "Felyno Exausto",
+        "Description": "A temperatura do Forte est\u00E1\r\ninconstante ultimamente?\r\nBlocos de gelo e pinhas fla-\r\nmejantes por todo lado...\r\nAssim, minha carga j\u00E1 era.\r\nFa\u00E7a alguma coisa quanto a\r\nesses proj\u00E9teis, pelo menos!",
+        "Target": "Cace um Goss Harag e o Bishaten Laranja",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uCC2C \uAC70 \uB728\uAC70\uC6B4 \uAC70 \uB358\uC9C0\uC9C0\uB9D0\uB77C\uB0E5",
+        "Client": "\uD53C\uACE4\uD55C \uC544\uC774\uB8E8",
+        "Description": "\uB0E5\u2026 \uC694\uC0C8\uACE0\uC6D0\uC758 \uC628\uB3C4 \uCC28\uAC00\u2026\r\n\uC694\uC998 \uB4E4\uC5B4 \uC2EC\uD574\uC84C\uB2E4\uB0E5\u2026\uC0AC\uBC29\uC5D0\uC11C\r\n\uC5BC\uC74C\uB369\uC5B4\uB9AC\uC640\u2026\uBD88\uD0C0\uB294 \uC194\uBC29\uC6B8\uC774\r\n\uB0A0\uC544\uC624\uACE0\u2026 \uC774\uB7EC\uB2E4\uAC04 \uBB3C\uC790\uAC00\r\n\uC0C1\uD560 \uAC70\uB2E4\uB0E5\u2026 \uC628\uB3C4\uB294 \uBAB0\uB77C\uB3C4\u2026\r\n\uB0A0\uC544\uC624\uB294 \uAC83\uB9CC\uC774\uB77C\uB3C4\r\n\uD574\uACB0\uD574 \uB2EC\uB77C\uB0E5\u2026",
+        "Target": "\uACE0\uC0E4\uD558\uAE30 1\uB9C8\uB9AC\uC640\r\n\uBE44\uC288\uD150\uACE0 \uC544\uC885 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5225\u4E82\u4E1F\u51B0\u7684\u548C\u71B1\u7684\u6771\u897F\u55B5\uFF01",
+        "Client": "\u6194\u60B4\u7684\u827E\u8DEF",
+        "Description": "\u55B5\u2026\u2026\u57CE\u585E\u9AD8\u5730\u7684\u6EAB\u5DEE\u8B8A\u5316\u2026\u2026\r\n\u6700\u8FD1\u597D\u50CF\u8D8A\u4F86\u8D8A\u5287\u70C8\u4E86\u55B5\u2026\u2026\r\n\u56DB\u9762\u516B\u65B9\u90FD\u6709\u51B0\u584A\u2026\u2026\r\n\u548C\u71C3\u71D2\u7684\u6BEC\u679C\u98DB\u904E\u4F86\u2026\u2026\r\n\u9019\u6A23\u4E0B\u53BB\u6211\u7684\u8CA8\u7269\u6703\u88AB\u5F04\u58DE\u55B5\u2026\u2026\r\n\u96D6\u7136\u6EAB\u5EA6\u7121\u6CD5\u63A7\u5236\u2026\u2026\u4F46\u5E0C\u671B\u6709\u4EBA\r\n\u80FD\u5920\u8655\u7406\u4E00\u4E0B\u90A3\u4E9B\u98DB\u884C\u7269\u55B5\u2026\u2026",
+        "Target": "\u72E9\u73751\u982D\u96EA\u9B3C\u7378\u82071\u982D\u7DCB\u5929\u72D7\u7378",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u522B\u6254\u51B7\u7684\u70ED\u7684\u8FC7\u6765\u55B5\uFF01",
+        "Client": "\u7CBE\u75B2\u529B\u5C3D\u7684\u827E\u9732\u732B",
+        "Description": "\u55B5\u2026\u2026\u4F60\u4E0D\u89C9\u5F97\u6700\u8FD1\u2026\u2026\u57CE\u585E\u9AD8\u5730\r\n\u7684\u6E29\u5DEE\u5F88\u5389\u5BB3\u55B5\u2026\u2026\u56DB\u9762\u516B\u65B9\u98DE\u6765\r\n\u51B0\u5757\u2026\u2026\u8FD8\u6709\u70E7\u7740\u7684\u677E\u679C\u2026\u2026\u8FD9\u6837\r\n\u8D27\u7269\u4F1A\u574F\u6389\u7684\u55B5\u2026\u2026\u5C31\u7B97\u6E29\u5EA6\u4E0D\u80FD\r\n\u53D8\u2026\u2026\u4E5F\u8BF7\u60F3\u529E\u6CD5\u89E3\u51B3\u90A3\u4E9B\u98DE\u8FC7\u6765\r\n\u7684\u4E1C\u897F\u55B5\u2026\u2026",
+        "Target": "\u72E9\u730E1\u5934\u96EA\u9B3C\u517D\u548C1\u5934\u7EEF\u5929\u72D7\u517D",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0645\u0639\u0627\u0644\u062C\u0629 \u0627\u0644\u0633\u0627\u062E\u0646\u0629 \u0648\u0627\u0644\u0628\u0627\u0631\u062F\u0629",
+        "Client": "\u0627\u0644\u0641\u064A\u0644\u0627\u064A\u0646 \u0627\u0644\u0645\u062A\u0639\u0628",
+        "Description": "\u0623\u0644\u0645 \u062A\u0646\u062A\u0634\u0631 \u0627\u0644\u062D\u0631\u0627\u0631\u0629 \u0641\u064A \u0627\u0644\u0642\u0644\u0639\u0629\r\n\u0641\u064A \u0643\u0644 \u0645\u0643\u0627\u0646 \u0645\u0624\u062E\u0631\u064B\u0627\u061F\r\n\u0648\u062A\u0637\u0627\u064A\u0631\u062A \u0642\u0637\u0639 \u0627\u0644\u062C\u0644\u064A\u062F \u0648\u0623\u0643\u0648\u0627\u0632 \u0627\u0644\u0635\u0646\u0648\u0628\u0631\r\n\u0627\u0644\u0645\u0634\u062A\u0639\u0644\u0629 \u0641\u064A \u0643\u0644 \u0645\u0643\u0627\u0646...\r\n\u0627\u0646\u062A\u0647\u062A \u0634\u062D\u0646\u062A\u064A \u0628\u0647\u0630\u0627 \u0627\u0644\u0645\u0639\u062F\u0644.\r\n\u0627\u0641\u0639\u0644\r\n\u0634\u064A\u0626\u064B\u0627 \u0645\u0627 \u062D\u064A\u0627\u0644 \u062A\u0644\u0643 \u0627\u0644\u0623\u0634\u064A\u0627\u0621 \u0627\u0644\u0645\u062A\u0637\u0627\u064A\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0623\u0642\u0644!",
+        "Target": "\u0627\u0635\u0637\u062F \u062C\u0648\u0633 \u062D\u0631\u0627\u062C\r\n\u0648\u0628\u064A\u0634\u0627\u062A\u0646 \u0630\u0627 \u0627\u0644\u062F\u0645 \u0627\u0644\u0628\u0631\u062A\u0642\u0627\u0644\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 2,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      19,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 19,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 62,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 27,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 95,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 118,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 39960,
+      "Points": 800,
+      "HRP": 1280
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      43,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 11,
+      "HealthTable": 121,
+      "AttackTable": 126,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

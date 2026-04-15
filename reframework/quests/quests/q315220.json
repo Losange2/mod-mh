@@ -1,0 +1,350 @@
+{
+  "QuestID": 315220,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u7DCB\u8272\u5929\u72D7\u306E\u6765\u653B",
+        "Client": "\u738B\u56FD\u9A0E\u58EB\u30D5\u30A3\u30AA\u30EC\u30FC\u30CD",
+        "Description": "\u30D3\u30B7\u30E5\u30C6\u30F3\u30B4\u4E9C\u7A2E\u304C\u3001\u5927\u793E\u8DE1\u3067\r\n\u4ED6\u306E\u30E2\u30F3\u30B9\u30BF\u30FC\u3092\u6FC0\u3057\u304F\u653B\u6483\u3059\u308B\r\n\u73FE\u5834\u304C\u983B\u7E41\u306B\u76EE\u6483\u3055\u308C\u3066\u3044\u308B\u3002\r\n\u30D3\u30B7\u30E5\u30C6\u30F3\u30B4\u4E9C\u7A2E\u3081\u2026\u5927\u793E\u8DE1\u3092\r\n\u7E04\u5F35\u308A\u306B\u3059\u308B\u3064\u3082\u308A\u306E\u3088\u3046\u3060\u306A\u3002\r\n\u30AB\u30E0\u30E9\u306E\u91CC\u3068\u751F\u614B\u7CFB\u3092\u5B88\u308B\u305F\u3081\u3001\r\n\u8CB4\u6BBF\u306B\u72E9\u731F\u3092\u983C\u3081\u308B\u3060\u308D\u3046\u304B\uFF1F",
+        "Target": "\u30D3\u30B7\u30E5\u30C6\u30F3\u30B4\u4E9C\u7A2E\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "The Assault of the Scarlet Tengu",
+        "Client": "Dame Fiorayne",
+        "Description": "A Blood Orange Bishaten has\r\nbeen frequently attacking other\r\nmonsters in the Shrine Ruins.\r\nThey are fiercely territorial species\r\nand if this one makes its nest here,\r\nI\u0027m afraid it will attract more of\r\nthem. Deal with the beast at once!",
+        "Target": "Hunt a Blood Orange Bishaten",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "L\u0027assaut du Tengu \u00E9carlate",
+        "Client": "Dame Fiorayne",
+        "Description": "Des Bishaten sanguins attaquent\r\nsouvent d\u0027autres monstres\r\nau Temple oubli\u00E9. Comme s\u0027ils\r\ncomptaient s\u0027installer l\u00E0-bas,\r\ny faire leur nid... Tu pourrais\r\nleur r\u00E9gler leur compte ?",
+        "Target": "Chasser un Bishaten sanguin",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "L\u0027attacco del tengu rosso",
+        "Client": "Dama Fiorayne",
+        "Description": "Ci sono stati avvistamenti\r\nfrequenti di Bishaten sanguigni\r\nche attaccano altri mostri alle\r\nRovine sacre. Sembra che\r\nvogliano creare una specie\r\ndi nido. Puoi cacciarli?",
+        "Target": "Caccia un Bishaten sanguigno",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Angriff des Scharlach-Tengu",
+        "Client": "Fiorayne",
+        "Description": "Es wurde h\u00E4ufig beobachtet,\r\nwie ein Blut-Bishaten andere\r\nMonster in den Heiligen Ruinen\r\nangegriffen hat. Errichtet er\r\ndort sein Nest, wird er weitere\r\nExemplare anziehen. Bitte\r\nverhindere das!",
+        "Target": "Erjage einen Blut-Bishaten.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Asalto del Tengu escarlata",
+        "Client": "Fiorayne",
+        "Description": "Es habitual ver Bishaten\r\nSanguina atacando a otros\r\nmonstruos en el Templo\r\nolvidado. Parece que quieren\r\nanidar all\u00ED. \u00BFNos har\u00EDas el\r\nfavor de cazarlos?",
+        "Target": "Caza un Bishaten Sanguina",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041D\u0430\u043F\u0430\u0434\u0435\u043D\u0438\u0435 \u0430\u043B\u043E\u0433\u043E \u0422\u044D\u043D\u0433\u0443",
+        "Client": "\u0420\u044B\u0446\u0430\u0440\u044C \u0424\u0438\u043E\u0440\u0430\u0439\u043D\u0430",
+        "Description": "\u041A\u0440\u043E\u0432\u0430\u0432\u044B\u0439 \u0411\u0438\u0441\u044F\u0442\u044D\u043D \u043F\u043E\u0432\u0430\u0434\u0438\u043B\u0441\u044F\r\n\u043D\u0430\u043F\u0430\u0434\u0430\u0442\u044C \u043D\u0430 \u0434\u0440\u0443\u0433\u0438\u0445 \u043C\u043E\u043D\u0441\u0442\u0440\u043E\u0432\r\n\u0432 \u0420\u0443\u0438\u043D\u0430\u0445 \u0441\u0432\u044F\u0442\u0438\u043B\u0438\u0449\u0430. \u042D\u0442\u0438 \u0442\u0432\u0430\u0440\u0438\r\n\u043D\u0435 \u0442\u0435\u0440\u043F\u044F\u0442 \u043A\u043E\u043D\u043A\u0443\u0440\u0435\u043D\u0446\u0438\u0438, \u0438 \u0435\u0441\u043B\u0438\r\n\u043E\u043D \u043E\u0431\u0443\u0441\u0442\u0440\u043E\u0438\u0442\u0441\u044F \u0442\u0443\u0442, \u043D\u0430\u043F\u0430\u0434\u0435\u043D\u0438\u044F\r\n\u0443\u0447\u0430\u0441\u0442\u044F\u0442\u0441\u044F. \u0421\u043A\u043E\u0440\u0435\u0435 \u0440\u0430\u0437\u0431\u0435\u0440\u0438\u0441\u044C\r\n\u0441 \u043D\u0438\u043C!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u043A\u0440\u043E\u0432\u0430\u0432\u043E\u0433\u043E \u0411\u0438\u0441\u044F\u0442\u044D\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Atak czerwonego Tengu",
+        "Client": "Pani Fiorayne",
+        "Description": "Krwistopomara\u0144czowy Bishaten\r\ncz\u0119sto atakuje inne potwory w Ruinach\r\n\u015Awi\u0105tynnych. To bardzo terytorialny\r\ngatunek. Je\u015Bli bestia za\u0142o\u017Cy tam\r\ngniazdo, pojawi si\u0119 ich wi\u0119cej.\r\nRozpraw si\u0119 z tym potworem\r\njak najszybciej!",
+        "Target": "Upoluj Krwistopomara\u0144czowego Bishatena",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "O Ataque do Tengu Escarlate",
+        "Client": "Dama Fiorayne",
+        "Description": "Um Bishaten Laranja anda\r\natacando outros monstros nas\r\nRu\u00EDnas do Templo. Essa esp\u00E9cie\r\n\u00E9 muito territorialista e se\r\nele fizer um ninho aqui, temo\r\nque atraia outros deles.\r\nLide com essa fera de imediato!",
+        "Target": "Cace um Bishaten Laranja",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC8FC\uD64D\uBE5B \uCC9C\uAD6C\uC758 \uC2B5\uACA9",
+        "Client": "\uC655\uAD6D \uAE30\uC0AC \uD53C\uC624\uB808\uB124",
+        "Description": "\uBE44\uC288\uD150\uACE0 \uC544\uC885\uC774 \uC0AC\uC6D0 \uD3D0\uD5C8\uC5D0\uC11C\r\n\uB2E4\uB978 \uBAAC\uC2A4\uD130\uB97C \uACA9\uB82C\uD558\uAC8C \uACF5\uACA9\uD558\uB294\r\n\uBAA8\uC2B5\uC774 \uBE48\uBC88\uD788 \uBAA9\uACA9\uB418\uACE0 \uC788\uC5B4.\r\n\uBE44\uC288\uD150\uACE0 \uC544\uC885\uC740\u2026 \uC0AC\uC6D0 \uD3D0\uD5C8\uB97C\r\n\uC601\uC5ED\uC73C\uB85C \uC0BC\uC73C\uB824\uB294 \uBAA8\uC591\uC774\uB2E4.\r\n\uCE74\uBB34\uB77C \uB9C8\uC744\uACFC \uC0DD\uD0DC\uACC4\uB97C \uC704\uD574\r\n\uADC0\uACF5\uC5D0\uAC8C \uC0AC\uB0E5\uC744 \uBD80\uD0C1\uD574\uB3C4 \uB420\uAE4C?",
+        "Target": "\uBE44\uC288\uD150\uACE0 \uC544\uC885 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u7DCB\u8272\u5929\u72D7\u4F86\u8972",
+        "Client": "\u738B\u570B\u9A0E\u58EB\u83F2\u6B50\u8389\u5C3C",
+        "Description": "\u6709\u8A31\u591A\u4EBA\u5728\u5927\u793E\u907A\u8DE1\u983B\u7E41\u76EE\u64CA\u5230\r\n\u7DCB\u5929\u72D7\u7378\u731B\u70C8\u653B\u64CA\u5176\u4ED6\u9B54\u7269\u3002\r\n\u7DCB\u5929\u72D7\u7378\u90A3\u50A2\u4F19\u2026\u2026\u4F3C\u4E4E\u662F\u6253\u7B97\r\n\u5C07\u5927\u793E\u907A\u8DE1\u7576\u4F5C\u81EA\u5DF1\u7684\u5730\u76E4\u4E86\u3002\r\n\u70BA\u4E86\u4FDD\u8B77\u795E\u706B\u6751\u53CA\u5468\u906D\u7684\u751F\u614B\uFF0C\r\n\u80FD\u9EBB\u7169\u4F60\u524D\u53BB\u72E9\u7375\u7260\u55CE\uFF1F",
+        "Target": "\u72E9\u73751\u982D\u7DCB\u5929\u72D7\u7378",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7EEF\u8272\u5929\u72D7\u6765\u88AD",
+        "Client": "\u738B\u56FD\u9A91\u58EB\u83F2\u5965\u83B1\u5A1C",
+        "Description": "\u9891\u7E41\u53D1\u73B0\u7EEF\u5929\u72D7\u517D\u5728\u5E9F\u795E\u793E\u731B\u70C8\u653B\r\n\u51FB\u5176\u4ED6\u602A\u7269\u3002\u8BE5\u6B7B\u7684\u7EEF\u5929\u72D7\u517D\u2026\u2026\r\n\u597D\u50CF\u628A\u5E9F\u795E\u793E\u5F53\u4F5C\u81EA\u5DF1\u7684\u9886\u5730\u4E86\u3002\r\n\u4E3A\u4E86\u4FDD\u62A4\u708E\u706B\u6751\u548C\u751F\u6001\u7CFB\u7EDF\uFF0C\u80FD\u9EBB\r\n\u70E6\u4F60\u53BB\u8FDB\u884C\u72E9\u730E\u5417\uFF1F",
+        "Target": "\u72E9\u730E1\u5934\u7EEF\u5929\u72D7\u517D",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0647\u062C\u0648\u0645 \u062A\u064A\u0646\u063A\u0648 \u0627\u0644\u0642\u0631\u0645\u0632\u064A",
+        "Client": "\u0627\u0644\u0633\u064A\u062F\u0629 \u0641\u064A\u0648\u0631\u0627\u064A\u0646",
+        "Description": "\u064A\u0647\u0627\u062C\u0645 \u0628\u064A\u0634\u0627\u062A\u0646 \u0630\u0648 \u0627\u0644\u062F\u0645 \u0627\u0644\u0628\u0631\u062A\u0642\u0627\u0644\u064A\r\n\u0627\u0644\u0648\u062D\u0648\u0634 \u0627\u0644\u0623\u062E\u0631\u0649 \u0641\u064A \u0623\u0637\u0644\u0627\u0644 \u0627\u0644\u0636\u0631\u064A\u062D\r\n\u0645\u0631\u0627\u0631\u064B\u0627 \u0648\u062A\u0643\u0631\u0627\u0631\u064B\u0627.\r\n\u0625\u0646\u0647\u0627 \u0641\u0635\u064A\u0644\u0629 \u0645\u062A\u0639\u0644\u0642\u0629 \u0628\u0648\u0637\u0646\u0647\u0627 \u0644\u0644\u063A\u0627\u064A\u0629\u060C\r\n\u0648\u0625\u0630\u0627 \u0623\u0642\u0627\u0645 \u0647\u0630\u0627 \u0627\u0644\u0648\u062D\u0634 \u0639\u0634\u0647 \u0647\u0646\u0627\u060C\r\n\u0623\u062E\u0634\u0649 \u0623\u0646 \u0630\u0644\u0643 \u0633\u064A\u062C\u0630\u0628 \u0627\u0644\u0645\u0632\u064A\u062F\r\n\u0645\u0646\u0647\u0645.\u003CLSNR {\u062A\u0635\u0631\u0641} {\u062A\u0635\u0631\u0641\u064A}\u003E \u0645\u0639 \u0647\u0630\u0627 \u0627\u0644\u0648\u062D\u0634 \u0641\u0648\u0631\u064B\u0627!",
+        "Target": "\u0627\u0635\u0637\u062F \u0628\u064A\u0634\u0627\u062A\u0646 \u0630\u0627 \u0627\u0644\u062F\u0645 \u0627\u0644\u0628\u0631\u062A\u0642\u0627\u0644\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      72,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 72,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 13680,
+      "Points": 280,
+      "HRP": 700
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      48,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 118,
+      "AttackTable": 124,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 118,
+        "AttackTable": 124,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

@@ -1,0 +1,350 @@
+{
+  "QuestID": 315100,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u9759\u5BC2\u3092\u5207\u308A\u88C2\u304F\u3082\u306E",
+        "Client": "\u91CC\u9577\u30D5\u30B2\u30F3",
+        "Description": "\u9060\u304D\u7570\u56FD\u306E\u5730\u306B\u751F\u606F\u3059\u308B\u76FE\u87F9\u304C\u3001\r\n\u307E\u3055\u304B\u5927\u793E\u8DE1\u306B\u73FE\u308C\u308B\u3068\u306F\u306A\u2026\u3002\r\n\u305D\u306E\u540D\u304C\u793A\u3059\u901A\u308A\u3001\u5974\u306E\u7532\u6BBB\u306F\r\n\u304B\u306A\u308A\u306E\u786C\u5EA6\u3092\u8A87\u308B\u3068\u805E\u304F\u3002\u3060\u304C\r\n\u3044\u304B\u306B\u786C\u304D\u76FE\u3082\u3001\u5F37\u976D\u306A\u77DB\u306A\u3089\u3070\r\n\u8CAB\u3051\u3088\u3046\u3002\u003CPL\u003E\u3088\u3002\r\n\u3053\u306E\u8ABF\u67FB\u3001\u30AA\u30DE\u30A8\u306B\u4EFB\u305B\u308B\u305E\u3002",
+        "Target": "\u30C0\u30A4\u30DF\u30E7\u30A6\u30B6\u30B6\u30DF\uFF11\u5339\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Uninvited Guest",
+        "Client": "Fugen the Elder",
+        "Description": "So a Daimyo Hermitaur found its way\r\ninto the Shrine Ruins, huh? Well, time\r\nfor a little Kamura welcome. But be\r\ncareful, I hear that shell of theirs is\r\ndarn near impossible to penetrate. \r\nNot a problem for a smart hunter\r\nlike you! Bwahaha! Now go get to it!",
+        "Target": "Hunt a Daimyo Hermitaur",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "H\u00F4te ind\u00E9sirable",
+        "Client": "Fugen l\u0027Ancien",
+        "Description": "Un Hermitaur Daimyo est\r\nentr\u00E9 dans le Temple oubli\u00E9 :\r\nc\u0027est l\u0027heure d\u0027un petit\r\naccueil \u00E0 la Kamura. On dit\r\nque sa carapace est quasi\r\nimp\u00E9n\u00E9trable, mais c\u0027est pas\r\nun probl\u00E8me pour toi. Vas-y !",
+        "Target": "Chasser un Hermitaur Daimyo",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Ospite imbucato",
+        "Client": "Fugen l\u0027anziano",
+        "Description": "Quindi un Daimyo Hermitaur \u00E8 arrivato\r\nfino alle Rovine sacre, eh? Bene,\r\ndiamogli il benvenuto. Fai attenzione\r\nper\u00F2, ho sentito che il loro guscio \u00E8\r\nquasi impossibile da penetrare. Non\r\nsar\u00E0 un problema per \u003CLSNR {un cacciatore} {una cacciatrice}\u003E\r\nabile come te. Buahahah! Al lavoro!",
+        "Target": "Caccia un Daimyo Hermitaur",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Unerbetener Gast",
+        "Client": "Fogen der \u00C4lteste",
+        "Description": "Ein Daimyo Hermitaur hat also seinen\r\nWeg in die Heiligen Ruinen gefunden,\r\nhm? Nun, hei\u00DFe ihn willkommen!\r\nAber vorsichtig, sein Panzer scheint\r\nfast unm\u00F6glich zu durchbrechen\r\nzu sein. Kein Problem f\u00FCr \u003CLSNR {einen} {eine}\u003E\r\n\u003CLSNR {schlauen J\u00E4ger} {schlaue J\u00E4gerin}\u003E wie dich! Bwahaha!",
+        "Target": "Erjage einen Daimyo Hermitaur.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Invitado indeseado",
+        "Client": "Fugen el anciano",
+        "Description": "As\u00ED que un Daimyo Hermitaur ha\r\nllegado hasta el Templo olvidado, \u00BFeh?\r\nHabr\u00E1 que darle una bienvenida a lo\r\nKamura. Pero, cuidado: dicen que\r\nsu caparaz\u00F3n es casi impenetrable.\r\n\u00A1Aunque eso no ser\u00E1 problema para ti!\r\n\u00A1Buaja, ja, ja! \u00A1Ve a por ello!",
+        "Target": "Caza un Daimyo Hermitaur",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041D\u0435\u0437\u0432\u0430\u043D\u044B\u0439 \u0433\u043E\u0441\u0442\u044C",
+        "Client": "\u0421\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u043D\u0430 \u0424\u0443\u0433\u044D\u043D",
+        "Description": "\u0412 \u0420\u0443\u0438\u043D\u0430\u0445 \u0441\u0432\u044F\u0442\u0438\u043B\u0438\u0449\u0430 \u043F\u043E\u044F\u0432\u0438\u043B\u0441\u044F\r\n\u0413\u0435\u0440\u043C\u0438\u0442\u0430\u0432\u0440 \u0414\u0430\u0439\u043C\u0451 \u0438\u0437 \u0434\u0430\u043B\u044C\u043D\u0438\u0445 \r\n\u0437\u0435\u043C\u0435\u043B\u044C. \u0412\u0440\u0435\u043C\u044F \u043F\u0440\u043E\u044F\u0432\u0438\u0442\u044C \r\n\u041A\u0430\u043C\u0443\u0440\u0441\u043A\u043E\u0435 \u0433\u043E\u0441\u0442\u0435\u043F\u0440\u0438\u0438\u043C\u0441\u0442\u0432\u043E! \r\n\u0421\u043B\u044B\u0448\u0430\u043B, \u0447\u0442\u043E \u0435\u0433\u043E \u043F\u0430\u043D\u0446\u0438\u0440\u044C \r\n\u043E\u0441\u043E\u0431\u0435\u043D\u043D\u043E \u043F\u0440\u043E\u0447\u0435\u043D, \u043D\u043E \u0443\u043C\u0435\u043B\u043E\u043C\u0443\r\n\u043E\u0445\u043E\u0442\u043D\u0438\u043A\u0443 \u044D\u0442\u043E \u043D\u0435 \u043F\u043E\u043C\u0435\u0448\u0430\u0435\u0442.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0413\u0435\u0440\u043C\u0438\u0442\u0430\u0432\u0440\u0430 \u0414\u0430\u0439\u043C\u0451",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Nieproszony go\u015B\u0107",
+        "Client": "Starszy Fugen",
+        "Description": "Daimyo Hermitaur znalaz\u0142 drog\u0119\r\ndo Ruin \u015Awi\u0105tynnych, co? C\u00F3\u017C,\r\nczas na powitanie w stylu Kamury.\r\nTylko ostro\u017Cnie. S\u0142ysza\u0142em, \u017Ce ich\r\nskorupa jest nie do przebicia.\r\nDla bystrego \u0142owcy to nie problem!\r\nBuahaha! A teraz do roboty!",
+        "Target": "Upoluj Daimyo Hermitaura",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Penetra",
+        "Client": "Fugen, o anci\u00E3o",
+        "Description": "E pensar que um Hermitaur Daimyo\r\nchegaria \u00E0s Ru\u00EDnas do Templo. Bem,\r\nhora de uma recep\u00E7\u00E3o estilo Kamura.\r\nMas cuidado, dizem que sua carapa\u00E7a\r\n\u00E9 quase impenetr\u00E1vel. N\u00E3o que isso\r\nseja problema para voc\u00EA. Hahaha.\r\nAgora v\u00E1 enfrent\u00E1-lo.",
+        "Target": "Cace um Hermitaur Daimyo",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC815\uC801\uC744 \uAC00\uB974\uB294 \uAC83",
+        "Client": "\uCD0C\uC7A5 \uD6C4\uAC90",
+        "Description": "\uBA3C \uC774\uAD6D\uB545\uC5D0 \uC11C\uC2DD\uD558\uB294 \uBC29\uD328\uAC8C\uAC00\r\n\uC0AC\uC6D0 \uD3D0\uD5C8\uC5D0 \uB098\uD0C0\uB0A0 \uC904\uC774\uC57C\u2026\r\n\uB140\uC11D\uB4E4\uC758 \uAC11\uAC01\uC740 \uADF8 \uC774\uB984\uCC98\uB7FC\r\n\uB2E8\uB2E8\uD568\uC744 \uC790\uB791\uD55C\uB2E4\uACE0 \uD55C\uB2E4. \uD558\uB098\r\n\uC544\uBB34\uB9AC \uB2E8\uB2E8\uD55C \uBC29\uD328\uB3C4\r\n\uAC15\uC778\uD55C \uCC3D\uC5D0\uB294 \uB6AB\uB9AC\uAE30 \uB9C8\uB828\uC774\uC9C0.\r\n\u003CPL\u003E, \uB124\uAC8C \uB9E1\uAE30\uB9C8.",
+        "Target": "\uB2E4\uC774\uBB18\uC790\uC790\uBBF8 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5283\u7834\u5BC2\u975C\u8005",
+        "Client": "\u6751\u9577\u5085\u8CE2",
+        "Description": "\u68F2\u606F\u5728\u9059\u9060\u7570\u570B\u571F\u5730\u7684\u5927\u540D\u87F9\uFF0C\r\n\u7ADF\u7136\u6703\u51FA\u73FE\u5728\u5927\u793E\u907A\u8DE1\u2026\u2026\r\n\u8AA0\u5982\u5176\u540D\uFF0C\u64DA\u8AAA\u7260\u7684\u7532\u6BBC\u786C\u5EA6\r\n\u9A5A\u4EBA\u3002\u4E0D\u904E\u518D\u600E\u9EBC\u5805\u786C\u7684\u76FE\uFF0C\r\n\u90FD\u62B5\u64CB\u4E0D\u4E86\u5F37\u97CC\u7684\u77DB\u5427\u3002\r\n\u003CPL\u003E\uFF0C\r\n\u9019\u9805\u8ABF\u67E5\u5C31\u4EA4\u7D66\u4F60\u4E86\uFF01",
+        "Target": "\u72E9\u73751\u96BB\u5927\u540D\u87F9",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6495\u88C2\u5BC2\u9759\u8005",
+        "Client": "\u6751\u957F\u666E\u8D24",
+        "Description": "\u5927\u540D\u76FE\u87F9\u6816\u606F\u4E8E\u9065\u8FDC\u7684\u5F02\u56FD\u4ED6\u4E61\uFF0C\r\n\u6CA1\u60F3\u5230\u5B83\u4F1A\u51FA\u73B0\u5728\u5E9F\u795E\u793E\u2026\u2026\u636E\u8BF4\r\n\u5B83\u6B63\u5982\u5176\u540D\uFF0C\u7532\u58F3\u5982\u76FE\u724C\u822C\u575A\u786C\u3002\r\n\u4F46\u76FE\u724C\u518D\u786C\uFF0C\u4E5F\u62B5\u4E0D\u4F4F\u5F3A\u97E7\u7684\u77DB\u3002\r\n\u003CPL\u003E\u554A\uFF0C\r\n\u8FD9\u6B21\u8C03\u67E5\u5C31\u4EA4\u7ED9\u4F60\u4E86\u3002",
+        "Target": "\u72E9\u730E1\u53EA\u5927\u540D\u76FE\u87F9",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0636\u064A\u0641 \u063A\u064A\u0631 \u0645\u062F\u0639\u0648",
+        "Client": "\u0627\u0644\u0632\u0639\u064A\u0645 \u0641\u064A\u0648\u062C\u064A\u0646",
+        "Description": "\u0623\u0639\u062A\u0642\u062F \u0623\u0646 \u062F\u0627\u064A\u0645\u064A\u0627\u0648 \u0647\u064A\u0631\u0645\u064A\u062A\u0648\u0631\r\n\u0645\u0646 \u0623\u0631\u0636 \u0628\u0639\u064A\u062F\u0629 \u0633\u064A\u0638\u0647\u0631\r\n\u0641\u064A \u0623\u0637\u0644\u0627\u0644 \u0627\u0644\u0636\u0631\u064A\u062D. \u0633\u0645\u0639\u062A \u0623\u0646\r\n\u062F\u0631\u0642\u062A\u0647 \u0642\u0648\u064A\u0629 \u0628\u0635\u0648\u0631\u0629 \u062E\u0627\u0635\u0629\u060C\r\n\u0644\u0643\u0646\u0647\u0627 \u0644\u0646 \u062A\u0643\u0648\u0646 \u0645\u0634\u0643\u0644\u0629 \u0623\u0645\u0627\u0645 \u0635\u064A\u0627\u062F \u0630\u0643\u064A\r\n\u0645\u062B\u0644\u0643! \u0628\u0647\u0627\u0647\u0627\u0647\u0627! \u0627\u0644\u0622\u0646 \u0641\u0644\u062A\u0646\u0637\u0644\u0642!",
+        "Target": "\u0627\u0635\u0637\u062F \u062F\u0627\u064A\u0645\u064A\u0627\u0648 \u0647\u064A\u0631\u0645\u064A\u062A\u0648\u0631",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 2,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      7,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      4,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 4,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 118,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 346,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 27,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 9720,
+      "Points": 200,
+      "HRP": 480
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      3,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 40,
+      "HealthTable": 115,
+      "AttackTable": 122,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

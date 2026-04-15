@@ -1,0 +1,350 @@
+{
+  "QuestID": 10515,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u72D9\u3044\u7A7F\u3066\uFF01\u3000\u91CD\u5F29\u306E\u578B",
+        "Client": "\u30A6\u30C4\u30B7\u6559\u5B98",
+        "Description": "\u3084\u3042\u3001\u6211\u304C\u611B\u5F1F\u5B50\u3088\uFF01\r\n\u003CCOL RED\u003E\u30D0\u30B5\u30EB\u30E2\u30B9\u003C/COL\u003E\u306E\u3088\u3046\u306B\u3058\u3063\u3068\u582A\u3048\u3001\r\n\u003CCOL RED\u003E\u30E9\u30F3\u30B0\u30ED\u30C8\u30E9\u003C/COL\u003E\u306E\u3088\u3046\u306B\u3001\u8C6A\u5FEB\u306B\r\n\u7A7F\u3064\uFF01\u3000\u3069\u3063\u3057\u308A\u69CB\u3048\u3066\r\n\u5927\u706B\u529B\u3092\u653E\u3064\u30D8\u30D3\u30A3\u30DC\u30A6\u30AC\u30F3\u306B\r\n\u5F7C\u3089\u306E\u7ACB\u3061\u56DE\u308A\u3092\u53D6\u308A\u5165\u308C\u308C\u3070\u3001\r\n\u65B0\u305F\u306A\u6280\u8853\u304C\u8EAB\u306B\u3064\u304F\u306F\u305A\u3060\uFF01",
+        "Target": "\u30D0\u30B5\u30EB\u30E2\u30B9\uFF11\u982D\u3068\u30E9\u30F3\u30B0\u30ED\u30C8\u30E9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Hone Your Heavy Bowgun",
+        "Client": "Master Utsushi",
+        "Description": "Alright, Ace, lesson time!\r\nStrategically strike from a distance\r\nlike the \u003CCOL RED\u003EVolvidon\u003C/COL\u003E, or get up close and\r\npersonal like a \u003CCOL RED\u003EBasarios\u003C/COL\u003E. Add their\r\nfighting styles to the long-range,\r\nhigh-powered heavy bowgun, and\r\nyou should learn something new!",
+        "Target": "Hunt a Basarios and a Volvidon",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Manier le fusarbal\u00E8te lourd",
+        "Client": "Utsushi le ma\u00EEtre",
+        "Description": "Bon, je t\u0027explique ! Sois\r\nstrat\u00E9gique en attaquant \u00E0 distance\r\ncomme un \u003CCOL RED\u003EVolvidon\u003C/COL\u003E ou fonce dans le\r\ntas comme un \u003CCOL RED\u003EBasarios\u003C/COL\u003E !\r\nCouple leur technique \u00E0 la\r\npuissance du fusarbal\u00E8te\r\nlourd, tu vas faire un malheur !",
+        "Target": "Chasser un Basarios et un Volvidon",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Domina la balestra pesante",
+        "Client": "Maestro Utsushi",
+        "Description": "OK, \u00E8 ora di imparare: attacca\r\nstrategicamente da lontano\r\ncome un \u003CCOL RED\u003EVolvidon\u003C/COL\u003E o avvicinati\r\ncome un \u003CCOL RED\u003EBasarios\u003C/COL\u003E. Per nuove,\r\npotenti mosse a distanza con\r\nla balestra pesante, ispirati\r\nal loro stile di combattimento.",
+        "Target": "Caccia un Basarios e un Volvidon",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Studie: Schweres Bogengewehr",
+        "Client": "Meister Utsushi",
+        "Description": "Okay, Ass, aufgepasst! Schlag\r\nstrategisch aus der Ferne zu wie\r\nein \u003CCOL RED\u003EVolvidon\u003C/COL\u003E oder aus n\u00E4chster\r\nN\u00E4he wie ein \u003CCOL RED\u003EBasarios\u003C/COL\u003E! Kombinier\r\nbeide Kampfstile mit dem weit\r\nreichenden, leistungsstarken\r\nSchweren Bogengewehr und lerne!",
+        "Target": "Erjage einen Basarios und\r\neinen Volvidon.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Afina la ballesta pesada",
+        "Client": "Maestro Utsushi",
+        "Description": "Hacha, \u00A1hora de aprender!\r\nAtaca de lejos cual \u003CCOL RED\u003EVolvidon\u003C/COL\u003E\r\no de cerca como un \u003CCOL RED\u003EBasarios\u003C/COL\u003E.\r\n\u00A1Combina esto con el alcance y\r\npotencia de la ballesta pesada\r\npara aprender algo nuevo!",
+        "Target": "Caza un Basarios y un Volvidon",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041C\u0430\u0441\u0442\u0435\u0440 \u0442\u044F\u0436\u0435\u043B\u043E\u0433\u043E \u043B\u0443\u043A\u043E\u0440\u0443\u0434\u0438\u044F",
+        "Client": "\u041C\u0430\u0441\u0442\u0435\u0440 \u0423\u0446\u0443\u0441\u0438",
+        "Description": "\u041D\u0443 \u0447\u0442\u043E, \u0430\u0441, \u043F\u043E\u0440\u0430 \u0443\u0447\u0438\u0442\u044C\u0441\u044F!\r\n\u0410\u0442\u0430\u043A\u0443\u0439 \u0441 \u0434\u0430\u043B\u044C\u043D\u0435\u0439 \u0434\u0438\u0441\u0442\u0430\u043D\u0446\u0438\u0438,\r\n\u043A\u0430\u043A \u003CCOL RED\u003E\u0412\u043E\u043B\u044C\u0432\u0438\u0434\u043E\u043D\u003C/COL\u003E, \u0438\u043B\u0438 \u0431\u0435\u0439\r\n\u0432\u0431\u043B\u0438\u0437\u0438, \u043A\u0430\u043A \u003CCOL RED\u003E\u0411\u0430\u0437\u0430\u0440\u0438\u043E\u0441\u003C/COL\u003E.\r\n\u0421\u043E\u0447\u0435\u0442\u0430\u0439 \u0438\u0445 \u0441\u0442\u0438\u043B\u0438 \u0441 \u043C\u043E\u0449\u043D\u044B\u043C\r\n\u0434\u0430\u043B\u044C\u043D\u043E\u0431\u043E\u0439\u043D\u044B\u043C \u043B\u0443\u043A\u043E\u0440\u0443\u0434\u0438\u0435\u043C, \u0438 \u0442\u044B\r\n\u043E\u0431\u0440\u0435\u0442\u0435\u0448\u044C \u043D\u043E\u0432\u044B\u0435 \u0437\u043D\u0430\u043D\u0438\u044F!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0411\u0430\u0437\u0430\u0440\u0438\u043E\u0441\u0430 \u0438 \u0412\u043E\u043B\u044C\u0432\u0438\u0434\u043E\u043D\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "\u0106wiczenie ci\u0119\u017Ck. \u0142ukodzia\u0142ka",
+        "Client": "Mistrz Utsushi",
+        "Description": "Dobra, czas na nauk\u0119! Uderzaj\r\nstrategicznie z dystansu jak\r\n\u003CCOL RED\u003EVolvidon\u003C/COL\u003E lub podchod\u017A blisko\r\njak \u003CCOL RED\u003EBasarios\u003C/COL\u003E. U\u017Cyj ich\r\ntechniki, walcz\u0105c ci\u0119\u017Ckim\r\ndalekosi\u0119\u017Cnym \u0142ukodzia\u0142kiem, a\r\nna pewno czego\u015B si\u0119 nauczysz!",
+        "Target": "Upoluj Basariosa i Volvidona",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Melhore seu Fuzilarco Pesado",
+        "Client": "Mestre Utsushi",
+        "Description": "Beleza, Craque, hora da aula!\r\nUse a t\u00E1tica de atacar de longe\r\ncomo um \u003CCOL RED\u003EVolvidon\u003C/COL\u003E ou cara a cara\r\ncomo um \u003CCOL RED\u003EBasarios\u003C/COL\u003E. Acrescente o\r\nestilo de luta deles ao fuzilarco\r\npesado para aprender algo novo!",
+        "Target": "Cace um Basarios e um Volvidon",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uB178\uB824\uB77C! \uD5E4\uBE44\uBCF4\uC6B0\uAC74\uC758 \uAE30\uC220",
+        "Client": "\uC6B0\uCE20\uC2DC \uAD50\uAD00",
+        "Description": "\uC790, \uB098\uC758 \uC560\uC81C\uC790\uC5EC!\r\n\u003CCOL RED\u003E\uBC14\uC0B4\uBAA8\uC2A4\u003C/COL\u003E\uCC98\uB7FC \uAD73\uAC74\uD788 \uBC84\uD2F0\uACE0\r\n\u003CCOL RED\u003E\uB791\uADF8\uB85C\uD1A0\uB77C\u003C/COL\u003E\uCC98\uB7FC \uD638\uCF8C\uD558\uAC8C \uC3DC\uB2E4!\r\n\uBB35\uC9C1\uD558\uAC8C \uBC84\uD2F0\uBA70 \uACE0\uD654\uB825\uC73C\uB85C\r\n\uACF5\uACA9\uD558\uB294 \uD5E4\uBE44\uBCF4\uC6B0\uAC74\uC5D0 \uADF8\uB4E4\uC758\r\n\uC804\uD22C \uBC29\uC2DD\uC744 \uC801\uC6A9\uD55C\uB2E4\uBA74 \uC0C8\uB85C\uC6B4\r\n\uAE30\uC220\uC744 \uBC30\uC6B8 \uC218 \uC788\uC744 \uAC83\uC774\uB2E4!",
+        "Target": "\uBC14\uC0B4\uBAA8\uC2A4 1\uB9C8\uB9AC\uC640\r\n\uB791\uADF8\uB85C\uD1A0\uB77C 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u4E00\u64CA\u8CAB\u7A7F\uFF01\u91CD\u5F29\u7684\u62DB\u5F0F",
+        "Client": "\u502A\u6CF0\u6559\u5B98",
+        "Description": "\u55E8\uFF0C\u6211\u7684\u611B\u5F92\u554A\uFF01\r\n\u50CF\u003CCOL RED\u003E\u5CA9\u9F8D\u003C/COL\u003E\u4E00\u6A23\u7A69\u56FA\u5730\u9632\u5B88\uFF0C\r\n\u518D\u50CF\u003CCOL RED\u003E\u8D64\u7532\u7378\u003C/COL\u003E\u4E00\u6A23\u8C6A\u9081\u5730\u8CAB\u7A7F\u6575\u4EBA\uFF01\r\n\u91CD\u5F29\u69CD\u53EF\u4EE5\u63D0\u4F9B\u7A69\u56FA\u7684\u9632\u5B88\r\n\u548C\u5F37\u5927\u7684\u706B\u529B\uFF0C\r\n\u5982\u679C\u80FD\u53C3\u8003\u7260\u5011\u6230\u9B25\u6642\u7684\u52D5\u4F5C\uFF0C\r\n\u60F3\u5FC5\u5C31\u80FD\u5B78\u6703\u65B0\u7684\u62DB\u5F0F\uFF01",
+        "Target": "\u72E9\u73751\u982D\u5CA9\u9F8D\u82071\u982D\u8D64\u7532\u7378",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u51FB\u7A7F\u5427\uFF01\u91CD\u5F29\u4E4B\u578B",
+        "Client": "\u502A\u6CF0\u6559\u5B98",
+        "Description": "\u563F\uFF0C\u6211\u7684\u7231\u5F92\u554A\uFF01\r\n\u5982\u003CCOL RED\u003E\u5CA9\u9F99\u003C/COL\u003E\u822C\u4E0D\u52A8\u5982\u5C71\uFF0C\r\n\u5982\u003CCOL RED\u003E\u8D64\u7532\u517D\u003C/COL\u003E\u822C\u8C6A\u8FC8\u51FB\u7A7F\uFF01\r\n\u67B6\u597D\u70AE\u53E3\uFF0C\r\n\u91CA\u653E\u51FA\u731B\u70C8\u706B\u529B\u7684\u91CD\u5F29\u70AE\uFF0C\r\n\u82E5\u80FD\u53C2\u8003\u5B83\u4EEC\u7684\u6218\u6597\u65B9\u5F0F\uFF0C\r\n\u5E94\u8BE5\u5C31\u80FD\u5B66\u4F1A\u65B0\u7684\u6280\u672F\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u5CA9\u9F99\u548C1\u5934\u8D64\u7532\u517D",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0635\u0642\u0644 \u0628\u0646\u062F\u0642\u064A\u0629 \u0627\u0644\u0642\u0648\u0633 \u0627\u0644\u062B\u0642\u064A\u0644\u0629 \u062E\u0627\u0635\u062A\u0643",
+        "Client": "\u0627\u0644\u0633\u064A\u062F \u0623\u0648\u062A\u0633\u0648\u0634\u064A",
+        "Description": "\u062D\u0633\u0646\u064B\u0627 \u003CLSNR {\u0623\u064A\u0647\u0627 \u0627\u0644\u0628\u0627\u0631\u0639} {\u0623\u064A\u062A\u0647\u0627 \u0627\u0644\u0628\u0627\u0631\u0639\u0629}\u003E\u060C \u062D\u0627\u0646 \u0648\u0642\u062A\r\n\u0627\u0644\u062F\u0631\u0633! \u003CLSNR {\u0627\u0636\u0631\u0628} {\u0627\u0636\u0631\u0628\u064A}\u003E \u0628\u0635\u0648\u0631\u0629 \u0625\u0633\u062A\u0631\u0627\u062A\u064A\u062C\u064A\u0629\r\n\u0639\u0646 \u0628\u064F\u0639\u062F \u0645\u062B\u0644 \u003CCOL RED\u003E\u0641\u0648\u0644\u0641\u064A\u062F\u0648\u0646\u003C/COL\u003E\u060C \u0623\u0648 \u003CLSNR {\u0627\u0642\u062A\u0631\u0628 \u0648\u0648\u0627\u062C\u0647} {\u0627\u0642\u062A\u0631\u0628\u064A \u0648\u0648\u0627\u062C\u0647\u064A}\u003E\r\n\u0645\u062B\u0644 \u003CCOL RED\u003E\u0628\u0627\u0633\u0627\u0631\u064A\u0648\u0633\u003C/COL\u003E. \u003CLSNR {\u0623\u0636\u0641} {\u0623\u0636\u064A\u0641\u064A}\u003E \u0623\u0633\u0627\u0644\u064A\u0628\r\n\u0642\u062A\u0627\u0644\u0647\u0645 \u0627\u0644\u062E\u0627\u0635\u0629 \u0625\u0644\u0649 \u0628\u0646\u062F\u0642\u064A\u0629 \u0627\u0644\u0642\u0648\u0633\r\n\u0627\u0644\u062B\u0642\u064A\u0644\u0629 \u0628\u0639\u064A\u062F\u0629 \u0627\u0644\u0645\u062F\u0649\u060C\r\n\u0648\u064A\u062C\u0628 \u0623\u0646 \u003CLSNR {\u062A\u062A\u0639\u0644\u0645} {\u062A\u062A\u0639\u0644\u0645\u064A}\u003E \u0634\u064A\u0626\u064B\u0627 \u062C\u062F\u064A\u062F\u064B\u0627!",
+        "Target": "\u0635\u064A\u062F \u0628\u0627\u0633\u0627\u0631\u064A\u0648\u0633 \u0648\u0641\u0648\u0644\u0641\u064A\u062F\u0648\u0646",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      19,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 19,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 133,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1412,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 91,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 9720,
+      "Points": 200,
+      "HRP": 620
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      43,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 20,
+      "HealthTable": 99,
+      "AttackTable": 81,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 99,
+        "AttackTable": 81,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

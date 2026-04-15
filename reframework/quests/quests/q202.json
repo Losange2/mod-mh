@@ -1,0 +1,350 @@
+{
+  "QuestID": 202,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u4E09\u4F4D\u4E00\u4F53\u306E\u8599\u304E\u938C",
+        "Client": "\u8336\u5C4B\u306E\u30E8\u30E2\u30AE",
+        "Description": "\u30AA\u30B5\u30A4\u30BA\u30C1\u304C\u5927\u793E\u8DE1\u3067\u66B4\u308C\u3066\u3001\r\n\u3082\u3046\u305F\u3044\u3078\u3093\uFF01\u3000\u3046\u3055\u56E3\u5B50\u306E\r\n\u6750\u6599\u3092\u904B\u3093\u3067\u304F\u308C\u3066\u3044\u308B\r\n\u884C\u5546\u4EBA\u3055\u3093\u3082\u8FFD\u308F\u308C\u3066\u308B\u3057\u3001\r\n\u3082\u3046\u79C1\u306E\u5468\u8FBA\u306F\u3066\u3093\u3084\u308F\u3093\u3084\uFF01\r\n\u884C\u5546\u4EBA\u3055\u3093\u306F\u307F\u3093\u306A\u3067\u52A9\u3051\u308B\u304B\u3089\r\n\u30AA\u30B5\u30A4\u30BA\u30C1\u306E\u72E9\u731F\u3001\u304A\u9858\u3044\u306D\uFF01",
+        "Target": "\u30AA\u30B5\u30A4\u30BA\u30C1\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Great Izuchi, Great Pain",
+        "Client": "Yomogi the Chef",
+        "Description": "A stupid Great Izuchi\u0027s going crazy\r\nat the Shrine Ruins, meaning my\r\ningredients supplier is seriously\r\nin danger! Can you deal with that\r\ndumb Great Izuchi so my supplier\r\ncan deliver the ingredients?",
+        "Target": "Hunt a Great Izuchi",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Grand Izuchi, grande douleur",
+        "Client": "Yomogi la chef",
+        "Description": "Il y a un Grand Izuchi qui\r\nsaccage le Temple oubli\u00E9\r\net qui met en danger\r\nma r\u00E9serve d\u0027ingr\u00E9dients !\r\nTu pourrais lui r\u00E9gler son\r\ncompte s\u0027il te pla\u00EEt ?",
+        "Target": "Chasser un Grand Izuchi",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Gran Izuchi, gran dolore",
+        "Client": "Yomogi la chef",
+        "Description": "Uno stupido Gran Izuchi sta\r\ndando di matto alle Rovine\r\nsacre. Il mio fornitore \u00E8 in\r\npericolo! Puoi occuparti del\r\nGran Izuchi cos\u00EC pu\u00F2\r\nconsegnarmi gli ingredienti?",
+        "Target": "Caccia un Gran Izuchi",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Gro\u00DF-Izuchi, gro\u00DFe Gefahr",
+        "Client": "Yomogi die K\u00F6chin",
+        "Description": "Bei den Heiligen Ruinen treibt\r\nso ein dummer Gro\u00DF-Izuchi\r\nsein Unwesen. Das hei\u00DFt,\r\nmein Lieferant ist in Gefahr!\r\nKannst du dich um das Biest\r\nk\u00FCmmern, damit ich meine\r\nLieferung bekomme?",
+        "Target": "Erjage einen Gro\u00DF-Izuchi.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Gran Izuchi, gran dolor",
+        "Client": "Yomogi la chef",
+        "Description": "Un est\u00FApido Gran Izuchi est\u00E1\r\nli\u00E1ndola en el Templo olvidado\r\n\u00A1y amenaza a mi proveedor!\r\n\u00BFPuedes deshacerte de ese\r\nzopenco de Gran Izuchi y\r\nsalvar a mi proveedor?",
+        "Target": "Caza un Gran Izuchi",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u0418\u0434\u0437\u0443\u0442\u0438, \u0431\u043E\u043B\u044C\u0448\u0430\u044F \u0431\u043E\u043B\u044C",
+        "Client": "\u041F\u043E\u0432\u0430\u0440 \u0419\u043E\u043C\u043E\u0433\u0438",
+        "Description": "\u042D\u0442\u043E\u0442 \u0434\u0443\u0440\u0430\u0446\u043A\u0438\u0439 \u0411\u043E\u043B\u044C\u0448\u043E\u0439 \u0418\u0434\u0437\u0443\u0442\u0438\r\n\u0431\u0435\u0441\u0438\u0442\u0441\u044F \u0432 \u0420\u0443\u0438\u043D\u0430\u0445 \u0441\u0432\u044F\u0442\u0438\u043B\u0438\u0449\u0430.\r\n\u041C\u043E\u0435\u043C\u0443 \u043F\u043E\u0441\u0442\u0430\u0432\u0449\u0438\u043A\u0443 \u0433\u0440\u043E\u0437\u0438\u0442\r\n\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u044C! \u0422\u044B \u043C\u043E\u0436\u0435\u0448\u044C\r\n\u0440\u0430\u0437\u0434\u0435\u043B\u0430\u0442\u044C\u0441\u044F \u0441 \u044D\u0442\u0438\u043C \u0442\u0443\u043F\u044B\u043C\r\n\u043C\u043E\u043D\u0441\u0442\u0440\u043E\u043C, \u0447\u0442\u043E\u0431\u044B \u043F\u043E\u0441\u0442\u0430\u0432\u0449\u0438\u043A\r\n\u0434\u043E\u043D\u0435\u0441 \u043C\u043D\u0435 \u0438\u043D\u0433\u0440\u0435\u0434\u0438\u0435\u043D\u0442\u044B?",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0411\u043E\u043B\u044C\u0448\u043E\u0433\u043E \u0418\u0434\u0437\u0443\u0442\u0438",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Wielki Izuchi, wielki b\u00F3l",
+        "Client": "Kucharka Yomogi",
+        "Description": "Jaki\u015B g\u0142upi Wielki Izuchi\r\nszaleje w Ruinach \u015Awi\u0105tynnych.\r\nM\u00F3j dostawca sk\u0142adnik\u00F3w jest w\r\nniebezpiecze\u0144stwie! Czy mo\u017Cesz\r\nrozprawi\u0107 si\u0119 z tym stukni\u0119tym\r\npotworem, \u017Ceby dostawca m\u00F3g\u0142\r\nmi dostarczy\u0107 produkty?",
+        "Target": "Upoluj Wielkiego Izuchiego",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Grande Izuchi, grande dor",
+        "Client": "Yomogi, a chef",
+        "Description": "Um Grande Izuchi idiota t\u00E1\r\naterrorizando as Ru\u00EDnas do\r\nTemplo, amea\u00E7ando a seguran\u00E7a\r\ndo meu fornecedor! Voc\u00EA pode\r\nse livrar daquele idiota pro\r\nmeu fornecedor poder entregar\r\nos ingredientes?",
+        "Target": "Cace um Grande Izuchi",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC0BC\uC704\uC77C\uCCB4\uC758 \uD070\uB0AB",
+        "Client": "\uCC3B\uC9D1\uC758 \uC694\uBAA8\uAE30",
+        "Description": "\uC624\uC0AC\uC774\uC988\uCE58\uAC00 \uC0AC\uC6D0 \uD3D0\uD5C8\uC5D0\uC11C\r\n\uB0A0\uB6F0\uACE0 \uC788\uC5B4\uC11C \uD070\uC77C\uC774\uC57C!\r\n\uD1A0\uB07C \uACBD\uB2E8 \uC7AC\uB8CC\uB97C \uC720\uD1B5\uD558\uB294\r\n\uD589\uC0C1\uC778 \uC528\uAC00 \uCAD3\uAE30\uACE0 \uC788\uC5B4\uC11C\r\n\uC8FC\uBCC0 \uC0AC\uB78C\uB4E4\uB3C4 \uB09C\uB9AC\uAC00 \uB0AC\uB2E4\uB2C8\uAE4C!\r\n\uD589\uC0C1\uC778 \uC528\uC640 \uBAA8\uB450\uB97C \uB3D5\uAE30 \uC704\uD574\uC11C\r\n\uC624\uC0AC\uC774\uC988\uCE58\uC758 \uC0AC\uB0E5\uC744 \uBD80\uD0C1\uD560\uAC8C!",
+        "Target": "\uC624\uC0AC\uC774\uC988\uCE58 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u4E09\u4F4D\u4E00\u9AD4\u7684\u942E\u5200",
+        "Client": "\u8336\u9928\u8001\u95C6\u827E\u8349",
+        "Description": "\u5927\u4E8B\u4E0D\u5999\u4E86\uFF01\u942E\u9F2C\u9F8D\u738B\u5728\u5927\u793E\u907A\u8DE1\r\n\u8086\u8650\uFF01\u5E73\u5E38\u5E6B\u6211\u904B\u9001\u5154\u5154\u7CF0\u5B50\u6750\u6599\r\n\u7684\u65C5\u884C\u5546\u4EBA\u4E5F\u88AB\u7260\u8FFD\u8457\u8DD1\uFF0C\u6211\u9019\r\n\u9644\u8FD1\u5DF2\u7D93\u88AB\u7260\u641E\u5F97\u5929\u7FFB\u5730\u8986\u4E86\uFF01\r\n\u6211\u6703\u8DDF\u5927\u5BB6\u4E00\u8D77\u6551\u51FA\u65C5\u884C\u5546\u4EBA\uFF0C\r\n\u81F3\u65BC\u942E\u9F2C\u9F8D\u738B\u5C31\u62DC\u8A17\u4F60\u53BB\u72E9\u7375\u4E86\uFF01",
+        "Target": "\u72E9\u73751\u982D\u942E\u9F2C\u9F8D\u738B",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u4E09\u4F4D\u4E00\u4F53\u7684\u5927\u9570\u5200",
+        "Client": "\u8336\u70B9\u5E97\u5E97\u4E3B\u827E\u8349",
+        "Description": "\u9570\u9F2C\u9F99\u738B\u5728\u5927\u95F9\u5E9F\u795E\u793E\uFF0C\r\n\u5927\u4E8B\u4E0D\u5999\u554A\uFF01\r\n\u800C\u4E14\u5B83\u8FD8\u5728\u8FFD\u8D76\u7740\r\n\u8FD0\u9001\u5154\u56E2\u5B50\u6750\u6599\u7684\u6E38\u5546\u3002\r\n\u6211\u5468\u56F4\u90FD\u4E71\u6210\u4E00\u9505\u7CA5\u4E86\uFF01\r\n\u5927\u4F19\u513F\u4F1A\u53BB\u6551\u52A9\u6E38\u5546\u7684\uFF0C\r\n\u72E9\u730E\u9570\u9F2C\u9F99\u738B\u8FD9\u4E8B\u5C31\u4EA4\u7ED9\u4F60\u4E86\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u9570\u9F2C\u9F99\u738B",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0625\u064A\u0632\u0648\u062A\u0634\u064A \u0627\u0644\u0639\u0638\u064A\u0645\u060C \u0623\u0644\u0645 \u0645\u0628\u0631\u062D",
+        "Client": "\u0627\u0644\u0637\u0628\u0627\u062E\u0629 \u064A\u0648\u0645\u0648\u062C\u064A",
+        "Description": "\u0625\u064A\u0632\u0648\u062A\u0634\u064A \u0627\u0644\u0639\u0638\u064A\u0645 \u0627\u0644\u063A\u0628\u064A \u062C\u0646 \u062C\u0646\u0648\u0646\u0647\r\n\u0641\u064A \u0623\u0637\u0644\u0627\u0644 \u0627\u0644\u0636\u0631\u064A\u062D\u060C \u0648\u0647\u0630\u0627 \u064A\u0639\u0646\u064A\r\n\u0623\u0646 \u0645\u0648\u0631\u0651\u062F \u0645\u0643\u0648\u0646\u0627\u062A\u064A \u0641\u064A \u062E\u0637\u0631\r\n\u0639\u0638\u064A\u0645! \u0647\u0644 \u003CLSNR {\u064A\u0645\u0643\u0646\u0643} {\u064A\u0645\u0643\u0646\u0643\u0650}\u003E \u0627\u0644\u062A\u0639\u0627\u0645\u0644 \u0645\u0639\r\n\u0625\u064A\u0632\u0648\u062A\u0634\u064A \u0627\u0644\u0639\u0638\u064A\u0645 \u0627\u0644\u063A\u0628\u064A \u0644\u064A\u062A\u0645\u0643\u0646\r\n\u0645\u0648\u0631\u062F\u0648 \u0645\u0643\u0648\u0646\u0627\u062A\u064A \u0645\u0646 \u0627\u0644\u062A\u0633\u0644\u064A\u0645\u061F",
+        "Target": "\u0635\u064A\u062F \u0625\u064A\u0632\u0648\u062A\u0634\u064A \u0627\u0644\u0639\u0638\u064A\u0645",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      135,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 135,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 900,
+      "Points": 20,
+      "HRP": 80
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      61,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 23,
+      "AttackTable": 6,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 23,
+        "AttackTable": 6,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 23,
+        "AttackTable": 6,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 23,
+        "AttackTable": 6,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 23,
+        "AttackTable": 6,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 23,
+        "AttackTable": 6,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 23,
+        "AttackTable": 6,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 23,
+        "AttackTable": 6,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

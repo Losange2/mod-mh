@@ -1,0 +1,350 @@
+{
+  "QuestID": 10304,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u6C37\u96EA\u30D5\u30A1\u30A4\u30BF\u30FC",
+        "Client": "\u4FEE\u884C\u4E2D\u306E\u6B66\u95D8\u5BB6",
+        "Description": "\u30B4\u30B7\u30E3\u30CF\u30AE\u3068\u3044\u3046\u30E2\u30F3\u30B9\u30BF\u30FC\u306F\u3001\r\n\u5C48\u5F37\u306A\u4F53\u8EAF\u304B\u3089\u3082\u306E\u3059\u3054\u3044\u30D1\u30EF\u30FC\r\n\u306E\u8089\u5F3E\u653B\u6483\u3092\u7E70\u308A\u51FA\u3059\u3089\u3057\u3044\u3002\r\n\u3059\u3054\u3044\u2026\uFF01\u3000\u61A7\u308C\u3066\u3057\u307E\u3046\u306A\u3041\uFF01\r\n\u3051\u3069\u3001\u50D5\u304C\u76F4\u63A5\u6226\u3046\u306E\u306F\u7121\u7406\u3060\u3002\r\n\u30CF\u30F3\u30BF\u30FC\u3055\u3093\u3001\u305D\u3044\u3064\u3068\u6226\u3063\u3066\r\n\u571F\u7523\u8A71\u3092\u805E\u304B\u305B\u3066\u304F\u308C\u306A\u3044\u304B\uFF1F",
+        "Target": "\u30B4\u30B7\u30E3\u30CF\u30AE\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "The Blizzard Blender",
+        "Client": "Martial Artist in Training",
+        "Description": "Yo, I heard those Goss Harag\u0027s can\r\nturn their arms into these sick ice\r\nblades that\u0027ll carve a hunter up like,\r\n\u0022Shwa! Shwa! Shwashwashwa SHWA!\u0022\r\nDude, I gotta see it! Come on, go pick\r\na fight with one! Just, uh, don\u0027t get all\r\n\u0022shwa-shwa-shwa\u0022-ed up out there!",
+        "Target": "Hunt a Goss Harag",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Savoir jeter un froid...",
+        "Client": "Aspirant ma\u00EEtre du karat\u00E9",
+        "Description": "Il para\u00EEt que le Goss Harag peut\r\ntransformer ses bras en lames de\r\nglace capables de d\u00E9couper un\r\nchasseur en rondelles ! Faut trop\r\nque je vois \u00E7a ! Allez, va en\r\naffronter un ! Mais essaie de\r\npas finir en tranches de jambon !",
+        "Target": "Chasser un Goss Harag",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "L\u0027affettatore nella tormenta",
+        "Client": "Combattente in allenamento",
+        "Description": "Ho sentito che le braccia del\r\nGoss Harag possono diventare\r\nlame di ghiaccio capaci di\r\nsquarciare i cacciatori con un\r\ncolpo solo. Wow, devo proprio\r\nvederlo! Su, vai a combatterne\r\nuno, ma non finire a fettine!",
+        "Target": "Caccia un Goss Harag",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Im Auge des Schneesturms",
+        "Client": "Kampfkunst-Sch\u00FCler",
+        "Description": "Hey, ich hab geh\u00F6rt, dass Goss Harag\r\nihre Arme in richtig kranke Eisklingen\r\numwandeln k\u00F6nnen, mit denen sie J\u00E4ger\r\nzerst\u00FCckeln. \u0022Schwa! Schwaschwaschwa\r\nSCHWA!\u0022 Mann, das muss ich sehen!\r\nNa los, zettel \u0027nen Kampf an! Aber, \u00E4h,\r\nwerd nicht ge-\u0022schwa-schwa-schwa\u0022-t!",
+        "Target": "Erjage einen Goss Harag.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "El bravuc\u00F3n de la ventisca",
+        "Client": "Artista marcial en ciernes",
+        "Description": "He o\u00EDdo que los Goss Harag\r\nconvierten sus brazos en\r\ncuchillas de hielo. Pero\r\nfijo que no sobrevivir\u00EDa si\r\nintento comprobarlo.\r\n\u00BFPodr\u00EDas enfrentarte a uno en\r\nmi lugar y corroborar eso?",
+        "Target": "Caza un Goss Harag",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0411\u0443\u0434\u0435\u0442 \u0431\u0443\u0440\u044F",
+        "Client": "\u0422\u0440\u0435\u043D\u0438\u0440\u0443\u044E\u0449\u0438\u0439\u0441\u044F \u0431\u043E\u0435\u0446",
+        "Description": "\u042F \u0441\u043B\u044B\u0448\u0430\u043B, \u0413\u043E\u0441\u0441-\u0425\u0430\u0440\u0430\u0433 \u043C\u043E\u0436\u0435\u0442\r\n\u0432\u044B\u043F\u0443\u0441\u043A\u0430\u0442\u044C \u043B\u0435\u0437\u0432\u0438\u044F, \u043A\u043E\u0442\u043E\u0440\u044B\u0435\r\n\u043B\u044E\u0431\u043E\u0433\u043E \u043E\u0445\u043E\u0442\u043D\u0438\u043A\u0430 \u043D\u0430\u0448\u0438\u043D\u043A\u0443\u044E\u0442:\r\n\u0022\u0428\u0443\u0445-\u0448\u0443\u0445-\u0448\u0443\u0445!\u0022 \u042F \u0445\u043E\u0447\u0443\r\n\u043F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C! \u0421\u0445\u043E\u0434\u0438, \u043F\u043E\u0434\u0435\u0440\u0438\u0441\u044C\r\n\u0441 \u0413\u043E\u0441\u0441-\u0425\u0430\u0440\u0430\u0433\u043E\u043C \u2014 \u0442\u043E\u043B\u044C\u043A\u043E\r\n\u043E\u0441\u0442\u043E\u0440\u043E\u0436\u043D\u0435\u0435 \u0442\u0430\u043C!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0413\u043E\u0441\u0441-\u0425\u0430\u0440\u0430\u0433\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "\u015Anie\u017Cny mikser",
+        "Client": "Adept sztuk walki",
+        "Description": "Ej, s\u0142ysza\u0142em, \u017Ce Goss Harag potrafi\r\nzmienia\u0107 \u0142apy w ob\u0142\u0119dne lodowe\r\nostrza, kt\u00F3re tn\u0105 \u0142owc\u0119 \u201Eciach!\r\nciach! ciaciach!\u201D. Normalnie musz\u0119\r\nto zobaczy\u0107! Id\u017A i zacznij b\u00F3jk\u0119\r\nz jednym takim! Tylko... yyy...\r\nnie daj si\u0119 pociacha\u0107.",
+        "Target": "Upoluj Goss Haraga",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Liquidificador de gelo",
+        "Client": "Lutador em treinamento",
+        "Description": "Ouvi dizer que o Goss Harag pode\r\ntransformar os bra\u00E7os dele em\r\nl\u00E2minas de gelo sinistras, podendo\r\nesculpir um ca\u00E7ador com \u0022tchan,\r\ntchum e tcha\u0022! Cara, eu tenho que\r\nver isso! Vamos, v\u00E1 brigar com um!\r\nS\u00F3 tenta n\u00E3o virar picadinho!",
+        "Target": "Cace um Goss Harag",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uBE59\uC124 \uD30C\uC774\uD130",
+        "Client": "\uC218\uD589 \uC911\uC778 \uACA9\uD22C\uAC00",
+        "Description": "\uACE0\uC0E4\uD558\uAE30\uB77C\uB294 \uBAAC\uC2A4\uD130\uB294 \uAC15\uAC74\uD55C\r\n\uBAB8\uC5D0\uC11C \uC5C4\uCCAD\uB09C \uC704\uB825\uC758 \uC721\uD0C4\r\n\uACF5\uACA9\uC744 \uD37C\uBD93\uB294\uB2E4\uB294 \uAC83 \uAC19\uC544.\r\n\uBA4B\uC838\u2026! \uBC18\uD560 \uAC83 \uAC19\uC544!\r\n\uD558\uC9C0\uB9CC \uB0B4\uAC00 \uC9C1\uC811 \uC2F8\uC6B0\uB294 \uAC74\r\n\uBB34\uB9AC\uC57C. \uD5CC\uD130 \uC528, \uB140\uC11D\uC774\uB791\r\n\uC2F8\uC6CC\uC11C \uADF8 \uC774\uC57C\uAE30\uB97C \uB4E4\uB824\uC8FC\uACA0\uC5B4?",
+        "Target": "\uACE0\uC0E4\uD558\uAE30 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u51B0\u96EA\u9B25\u58EB",
+        "Client": "\u4FEE\u884C\u4E2D\u7684\u6B66\u8853\u5BB6",
+        "Description": "\u76F8\u50B3\u6709\u7A2E\u540D\u53EB\u96EA\u9B3C\u7378\u7684\u9B54\u7269\uFF0C\r\n\u6703\u5229\u7528\u7260\u5065\u58EF\u7684\u8EAB\u8EC0\uFF0C\u767C\u52D5\u5A01\u529B\r\n\u5F37\u5927\u4E14\u9023\u7DBF\u4E0D\u7D55\u7684\u8089\u640F\u653B\u64CA\u3002\r\n\u597D\u53B2\u5BB3\u2026\u2026\uFF01\u771F\u4EE4\u4EBA\u56AE\u5F80\uFF01\r\n\u4E0D\u904E\uFF0C\u6211\u6C92\u8FA6\u6CD5\u76F4\u63A5\u548C\u7260\u4EA4\u624B\uFF0C\r\n\u80FD\u4E0D\u80FD\u8ACB\u7375\u4EBA\u548C\u7260\u4E00\u6230\uFF0C\r\n\u518D\u8DDF\u6211\u8AAA\u8AAA\u9019\u6BB5\u6230\u9B25\u904E\u7A0B\uFF1F",
+        "Target": "\u72E9\u73751\u982D\u96EA\u9B3C\u7378",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u51B0\u96EA\u6597\u58EB",
+        "Client": "\u4FEE\u884C\u4E2D\u7684\u6B66\u6597\u5BB6",
+        "Description": "\u540D\u4E3A\u96EA\u9B3C\u517D\u7684\u602A\u7269\u597D\u50CF\r\n\u80FD\u591F\u5229\u7528\u5176\u5F3A\u58EE\u7684\u8EAB\u8EAF\r\n\u4F7F\u51FA\u5F3A\u529B\u7684\u8089\u640F\u653B\u51FB\u3002\r\n\u592A\u5389\u5BB3\u4E86\uFF01\u6211\u90FD\u8981\u8FF7\u4E0A\u5B83\u4E86\uFF01\r\n\u4E0D\u8FC7\uFF0C\u6211\u53EF\u6CA1\u6CD5\u548C\u5B83\u76F4\u63A5\u6218\u6597\u3002\r\n\u730E\u4EBA\uFF0C\u80FD\u9EBB\u70E6\u4F60\u548C\u5B83\u6218\u6597\uFF0C\r\n\u518D\u628A\u7ECF\u8FC7\u544A\u8BC9\u6211\u5417\uFF1F",
+        "Target": "\u72E9\u730E1\u5934\u96EA\u9B3C\u517D",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u062E\u0644\u0651\u0627\u0637 \u0627\u0644\u0639\u0627\u0635\u0641\u0629",
+        "Client": "\u0644\u0627\u0639\u0628 \u0641\u0646\u0648\u0646 \u0642\u062A\u0627\u0644\u064A\u0629 \u0642\u064A\u062F \u0627\u0644\u062A\u062F\u0631\u064A\u0628",
+        "Description": "\u0633\u0645\u0639\u062A \u0623\u0646 \u062C\u0648\u0633 \u0647\u0631\u0627\u062C \u064A\u0645\u0643\u0646\u0647 \u062A\u062D\u0648\u064A\u0644\r\n\u0623\u0630\u0631\u0639\u0647 \u0625\u0644\u0649 \u0647\u0630\u0647 \u0627\u0644\u0634\u0641\u0631\u0627\u062A \u0627\u0644\u062C\u0644\u064A\u062F\u064A\u0629\r\n\u0627\u0644\u062A\u064A \u062A\u0642\u0637\u0639 \u0627\u0644\u0635\u064A\u0651\u0627\u062F \u062C\u0632\u0623\u064A\u0646\u060C\r\n\u0022\u0625\u0631\u0628\u064B\u0627! \u0625\u0631\u0628\u064B\u0627! \u0625\u0631\u0628\u064B\u0627!\u0022\r\n\u064A\u0627 \u003CLSNR {\u0631\u0641\u064A\u0642\u064A} {\u0631\u0641\u064A\u0642\u062A\u064A}\u003E\u060C \u064A\u062C\u0628 \u0623\u0646 \u0623\u0631\u0627\u0647! \u0647\u064A\u0627\u060C\r\n\u003CLSNR {\u0627\u0641\u062A\u0639\u0644} {\u0627\u0641\u062A\u0639\u0644\u064A}\u003E \u0634\u062C\u0627\u0631\u064B\u0627 \u0645\u0639 \u0623\u062D\u062F\u0647\u0645! \u0641\u0642\u0637\u060C\r\n\u0622\u0647\u060C \u0644\u0627 \u062A\u0642\u0637\u0639\u0647\u0645 \u062C\u0645\u064A\u0639\u064B\u0627 \u0647\u0646\u0627\u0643!",
+        "Target": "\u0635\u064A\u062F \u062C\u0648\u0633 \u0647\u0631\u0627\u062C",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      0,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      96,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 96,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 9360,
+      "Points": 190,
+      "HRP": 490
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      29,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 85,
+      "AttackTable": 62,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 85,
+        "AttackTable": 62,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

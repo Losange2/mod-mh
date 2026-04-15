@@ -1,0 +1,350 @@
+{
+  "QuestID": 315403,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u673D\u3061\u305F\u308B\u57CE\u306B\u3001\u738B\u306F\u7720\u308B",
+        "Client": "\u30A8\u30EB\u30AC\u30C9\u89B3\u5149\u5354\u4F1A\u54E1",
+        "Description": "\u30A8\u30EB\u30AC\u30C9\u89B3\u5149\u5354\u4F1A\u3067\u306F\u3001\u9AD8\u304F\u305D\u3073\r\n\u3048\u308B\u5C71\u3005\u3001\u6B74\u53F2\u60C5\u7DD2\u306E\u3042\u308B\u53E4\u57CE\u304C\r\n\u9B45\u529B\u7684\u306A\u57CE\u585E\u9AD8\u5730\u3092\u89B3\u5149\u540D\u6240\u3068\u3059\r\n\u308B\u30C4\u30A2\u30FC\u3092\u8A08\u753B\u4E2D\u3067\u3059\u3002\u3067\u3059\u304C\u3001\r\n\u30EA\u30AA\u30EC\u30A6\u30B9\u304C\u5C45\u5EA7\u3063\u3066\u304A\u308A\u3001\u53C2\u52A0\r\n\u8005\u306B\u5371\u967A\u304C\u53CA\u3093\u3067\u3057\u307E\u3044\u307E\u3059\u3002\r\n\u5B89\u5168\u306E\u305F\u3081\u72E9\u731F\u3092\u304A\u9858\u3044\u3057\u307E\u3059\u3002",
+        "Target": "\u30EA\u30AA\u30EC\u30A6\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "King of the Crumbling Castle",
+        "Client": "Elgado Tourism Board Member",
+        "Description": "We of the Tourism Board plan\r\nto make the towering mountains\r\nand charming architecture of the\r\nCitadel prime sightseeing spots.\r\nYet I fear the resident Rathalos\r\nwould make a poor addition to\r\nthe tour.",
+        "Target": "Hunt a Rathalos",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Roi du ch\u00E2teau branlant",
+        "Client": "Agent de tourisme d\u0027Elgado",
+        "Description": "L\u0027office du tourisme aimerait\r\ntransformer les montagnes\r\net la belle architecture de la\r\nCitadelle en sites touristiques.\r\nToutefois, je doute que notre\r\nRathalos r\u00E9sident soit le bienvenu.",
+        "Target": "Chasser un Rathalos",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Re del castello fatiscente",
+        "Client": "Membro pro loco Elgado",
+        "Description": "Noi della pro loco vogliamo\r\nattirare i turisti verso le alte\r\nmontagne e la splendida\r\narchitettura della cittadella,\r\nma temo che i Rathalos non\r\nrenderebbero i tour piacevoli.",
+        "Target": "Caccia un Rathalos",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "K\u00F6nig der br\u00F6ckelnden Burg",
+        "Client": "Elgado-Tourismusmitarbeiter",
+        "Description": "Wir vom Tourismusb\u00FCro wollen die\r\ngewaltigen Berge und reizende\r\nArchitektur der Zitadelle zu\r\nTop-Sehensw\u00FCrdigkeiten machen.\r\nAber der heimische Rathalos\r\nerg\u00E4nzt eine Sightseeing-Tour\r\nnur schlecht, f\u00FCrchte ich.",
+        "Target": "Erjage einen Rathalos.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "El rey del castillo ruinoso",
+        "Client": "Gu\u00EDa tur\u00EDstico de Elgado",
+        "Description": "El consejo de turismo quiere\r\npromocionar las altas cumbres\r\ny la bella arquitectura del\r\nBasti\u00F3n. Lo malo es que hay un\r\nRathalos, \u00A1y nos va a espantar\r\na todos los turistas!",
+        "Target": "Caza un Rathalos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041A\u043E\u0440\u043E\u043B\u044C \u0432\u0435\u0442\u0445\u043E\u0433\u043E \u0437\u0430\u043C\u043A\u0430",
+        "Client": "\u0427\u043B\u0435\u043D \u042D\u043B\u0433\u0430\u0434. \u0441\u043E\u0432. \u043F\u043E \u0442\u0443\u0440\u0438\u0437\u043C\u0443",
+        "Description": "\u0421\u043E\u0432\u0435\u0442 \u043F\u043E \u0442\u0443\u0440\u0438\u0437\u043C\u0443 \u043F\u043B\u0430\u043D\u0438\u0440\u0443\u0435\u0442\r\n\u043F\u0440\u0435\u0432\u0440\u0430\u0442\u0438\u0442\u044C \u0432\u044B\u0441\u043E\u043A\u0438\u0435 \u0433\u043E\u0440\u044B \u0438\r\n\u0438\u0437\u0443\u043C\u0438\u0442\u0435\u043B\u044C\u043D\u0443\u044E \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0443 \u0426\u0438\u0442\u0430-\r\n\u0434\u0435\u043B\u0438 \u0432 \u0433\u043B\u0430\u0432\u043D\u044B\u0435 \u0434\u043E\u0441\u0442\u043E\u043F\u0440\u0438\u043C\u0435\u0447\u0430-\r\n\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u0438. \u041D\u043E \u0431\u043E\u044E\u0441\u044C, \u0447\u0442\u043E\r\n\u043F\u0440\u043E\u0436\u0438\u0432\u0430\u044E\u0449\u0438\u0439 \u0442\u0430\u043C \u0420\u0430\u0442\u0430\u043B\u043E\u0441\r\n\u0433\u043E\u0441\u0442\u0435\u0439 \u043D\u0435 \u043F\u043E\u0440\u0430\u0434\u0443\u0435\u0442.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0420\u0430\u0442\u0430\u043B\u043E\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Kr\u00F3l zrujnowanego zamku",
+        "Client": "Cz\u0142onek Rady Turys. Elgado",
+        "Description": "W Radzie Turystyki planujemy\r\nsprawi\u0107, aby wysokie g\u00F3ry i\r\nurocza architektura Cytadeli\r\nsta\u0142y si\u0119 atrakcj\u0105\r\nturystyczn\u0105. Ale boj\u0119 si\u0119,\r\n\u017Ce mieszkaj\u0105cy tam Rathalos\r\nwyp\u0142oszy turyst\u00F3w.",
+        "Target": "Upoluj Rathalosa",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Rei do Castelo Desmoronado",
+        "Client": "Membro Cons. Turismo Elgado",
+        "Description": "N\u00F3s da Comiss\u00E3o de Turismo\r\nplanejamos tornar as altas\r\nmontanhas e a arquitetura do\r\nforte em belos mirantes. Mas\r\ntemo que o Rathalos residente\r\nseja uma p\u00E9ssima parada no tour.",
+        "Target": "Cace um Rathalos",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC2A4\uB7EC\uC9C4 \uC131\uC5D0 \uC655\uC740 \uC7A0\uB4E0\uB2E4",
+        "Client": "\uC5D8\uAC00\uB3C4 \uAD00\uAD11 \uD611\uD68C\uC6D0",
+        "Description": "\uC5D8\uAC00\uB3C4 \uAD00\uAD11 \uD611\uD68C\uB294 \uB192\uC774 \uC19F\uC740\r\n\uC0B0\uACFC \uC720\uC11C \uAE4A\uC740 \uACE0\uC131\uC774 \uB9E4\uB825\uC801\uC778\r\n\uC694\uC0C8\uACE0\uC6D0\uC744 \uB458\uB7EC\uBCF4\uB294\r\n\uD22C\uC5B4\uB97C \uACC4\uD68D \uC911\uC785\uB2C8\uB9CC,\r\n\uB9AC\uC624\uB808\uC6B0\uC2A4\uAC00 \uB20C\uB7EC\uC549\uC740 \uD0D3\uC5D0\r\n\uCC38\uAC00\uC790\uB4E4\uC774 \uC704\uD5D8\uD560 \uC218 \uC788\uC5B4\uC694.\r\n\uC548\uC804\uC744 \uC704\uD574 \uC0AC\uB0E5\uC744 \uBD80\uD0C1\uB4DC\uB824\uC694.",
+        "Target": "\uB9AC\uC624\uB808\uC6B0\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u738B\u8005\u6C89\u7720\u7684\u53E4\u8001\u4E4B\u57CE",
+        "Client": "\u827E\u723E\u5361\u591A\u89C0\u5149\u5354\u6703\u6210\u54E1",
+        "Description": "\u6211\u5011\u827E\u723E\u5361\u591A\u89C0\u5149\u5354\u6703\u6B63\u5728\u898F\u5283\r\n\u4E00\u8D9F\u65C5\u904A\u884C\u7A0B\uFF0C\u60F3\u5C07\u64C1\u6709\u9AD8\u8073\u7FA4\u5C71\r\n\u666F\u89C0\u53CA\u5BCC\u6709\u6B77\u53F2\u60C5\u61F7\u4E4B\u53E4\u57CE\u7684\r\n\u57CE\u585E\u9AD8\u5730\u6253\u9020\u6210\u89C0\u5149\u52DD\u5730\u3002\r\n\u53EA\u662F\u6B64\u8655\u7684\u5C71\u4E2D\u6709\u706B\u9F8D\u76E4\u8E1E\uFF0C\r\n\u6703\u5C0D\u53C3\u52A0\u8005\u9020\u6210\u5371\u96AA\u3002\r\n\u70BA\u4E86\u904A\u5BA2\u7684\u5B89\u5168\uFF0C\u8ACB\u524D\u53BB\u72E9\u7375\u7260\u3002",
+        "Target": "\u72E9\u73751\u982D\u706B\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6C89\u7761\u4E8E\u53E4\u57CE\u7684\u738B\u8005",
+        "Client": "\u57C3\u5C14\u8FE6\u5FB7\u65C5\u6E38\u534F\u4F1A\u4F1A\u5458",
+        "Description": "\u57CE\u585E\u9AD8\u5730\u6709\u9AD8\u8038\u7684\u7FA4\u5C71\u548C\u5386\u53F2\u60A0\u4E45\r\n\u7684\u53E4\u57CE\uFF0C\u5341\u5206\u8FF7\u4EBA\u3002\u57C3\u5C14\u8FE6\u5FB7\u65C5\u6E38\r\n\u534F\u4F1A\u6B63\u7B56\u5212\u628A\u8FD9\u4E9B\u98CE\u666F\u540D\u80DC\u505A\u6210\u4E00\r\n\u6761\u65C5\u6E38\u7EBF\u8DEF\u3002\u4F46\u90A3\u91CC\u6709\u706B\u9F99\u76D8\u8E1E\uFF0C\r\n\u5B83\u4F1A\u5371\u5BB3\u5230\u6E38\u5BA2\u3002\u4E3A\u4FDD\u5B89\u5168\uFF0C\u8BF7\r\n\u4F60\u53BB\u72E9\u730E\u5B83\u3002",
+        "Target": "\u72E9\u730E1\u5934\u706B\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0645\u0644\u0643 \u0627\u0644\u0642\u0644\u0639\u0629 \u0627\u0644\u0645\u0646\u0647\u0627\u0631\u0629",
+        "Client": "\u0639\u0636\u0648 \u0645\u062C\u0644\u0633 \u0627\u0644\u0633\u064A\u0627\u062D\u0629 \u0641\u064A \u0625\u0644\u062C\u0627\u062F\u0648",
+        "Description": "\u0646\u062D\u0646 \u0645\u0646 \u0647\u064A\u0626\u0629 \u0627\u0644\u0633\u064A\u0627\u062D\u0629 \u0648\u0646\u062E\u0637\u0637\r\n\u0644\u062C\u0639\u0644 \u0627\u0644\u062C\u0628\u0627\u0644 \u0627\u0644\u0634\u0627\u0647\u0642\u0629\r\n\u0648\u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0627\u0644\u0645\u0639\u0645\u0627\u0631\u064A\u0629 \u0627\u0644\u0633\u0627\u062D\u0631\u0629\r\n\u0644\u0644\u0642\u0644\u0639\u0629\r\n\u0645\u0639\u0627\u0644\u0645 \u0627\u0644\u0645\u062F\u064A\u0646\u0629 \u0627\u0644\u0631\u0626\u064A\u0633\u064A\u0629. \u0648\u0645\u0639 \u0630\u0644\u0643\u060C \u0623\u062E\u0634\u0649\r\n\u0623\u0646 \u064A\u0642\u062F\u0645 \u0631\u0627\u062B\u0627\u0644\u0648\u0633 \u0627\u0644\u0645\u0642\u064A\u0645\r\n\u0625\u0636\u0627\u0641\u0629 \u0633\u064A\u0626\u0629 \u0625\u0644\u0649 \u0627\u0644\u062C\u0648\u0644\u0629.",
+        "Target": "\u0635\u064A\u062F \u0631\u0627\u0630\u0627\u0644\u0648\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1794,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1794,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 19080,
+      "Points": 390,
+      "HRP": 890
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      70,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 124,
+      "AttackTable": 128,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

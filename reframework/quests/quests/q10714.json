@@ -1,0 +1,350 @@
+{
+  "QuestID": 10714,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u706B\u52A0\u6E1B\u6CE8\u610F\uFF01\u3000\u7D2B\u708E\u3068\u706B\u7403\u306E\u5DFB",
+        "Client": "\u8336\u5C4B\u306E\u30E8\u30E2\u30AE",
+        "Description": "\u30DE\u30B0\u30DE\u3067\u3058\u3063\u304F\u308A\u7099\u308B\u3046\u3055\u56E3\u5B50\u2026\r\n\u3069\u3093\u306A\u5473\u304B\u6C17\u306B\u306A\u308B\u3067\u3057\u3087\uFF5E\uFF1F\r\n\u6EB6\u5CA9\u6D1E\u306B\u884C\u3063\u3066\u304A\u6599\u7406\u3059\u308B\u3088\uFF01\r\n\u3060\u304B\u3089\u3001\u308F\u305F\u3057\u3068\u3046\u3055\u56E3\u5B50\u304C\r\n\u4E38\u30B3\u30B2\u306B\u3055\u308C\u306A\u3044\u3088\u3046\u306B\u3001\r\n\uFF12\u982D\u3067\u4E89\u3063\u3066\u308B\u003CCOL RED\u003E\u30EA\u30AA\u30EC\u30A6\u30B9\u003C/COL\u003E\u3068\r\n\u003CCOL RED\u003E\u30DE\u30AC\u30A4\u30DE\u30AC\u30C9\u003C/COL\u003E\u3092\u3084\u3063\u3064\u3051\u3066\u306D\uFF01",
+        "Target": "\u30EA\u30AA\u30EC\u30A6\u30B9\uFF11\u982D\u3068\u30DE\u30AC\u30A4\u30DE\u30AC\u30C9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Seared Situation",
+        "Client": "Yomogi the Chef",
+        "Description": "Bunny Dango slow-cooked over\r\nlava: sounds super yummy, right!?\r\nI was gonna go out to the Lava\r\nCaverns to try it out... WAS until\r\nI heard there was a \u003CCOL RED\u003ERathalos\u003C/COL\u003E and\r\n\u003CCOL RED\u003EMagnamalo\u003C/COL\u003E. How rude! Could you\r\ngo get rid of them please!?",
+        "Target": "Hunt a Rathalos and Magnamalo",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "\u00C7a sent le roussi !",
+        "Client": "Yomogi la chef",
+        "Description": "Des dango-lapins cuits lentement\r\nsur la lave... J\u0027en salive rien\r\nque d\u0027y penser. J\u0027allais essayer\r\naux Cavernes de lave quand j\u0027ai\r\nappris qu\u0027un \u003CCOL RED\u003ERathalos\u003C/COL\u003E et\r\nle \u003CCOL RED\u003EMagnamalo\u003C/COL\u003E \u00E9taient dans les parages.\r\nTu pourrais t\u0027occuper d\u0027eux ?",
+        "Target": "Chasser un Rathalos et le Magnamalo",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Situazione scottante",
+        "Client": "Yomogi la chef",
+        "Description": "Dango a coniglietto cotti\r\nlentamente sulla lava: che\r\nbont\u00E0, vero? Volevo andare alle\r\nCaverne laviche per provarli,\r\nMA ho sentito che laggi\u00F9 si\r\ntrovano un \u003CCOL RED\u003ERathalos\u003C/COL\u003E e il\r\n\u003CCOL RED\u003EMagnamalo\u003C/COL\u003E. Puoi liberartene?",
+        "Target": "Caccia un Rathalos e il Magnamalo",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Brenzlige Situation",
+        "Client": "Yomogi die K\u00F6chin",
+        "Description": "\u00DCber Lava gegarte Dango... H\u00F6rt\r\nsich superlecker an, oder?! Ich\r\nwollte es in den Lavah\u00F6hlen\r\ntesten... WOLLTE \u2013 bis ich geh\u00F6rt\r\nhab, dass sich da ein \u003CCOL RED\u003ERathalos\u003C/COL\u003E\r\nund \u003CCOL RED\u003EMagnamalo\u003C/COL\u003E rumtreiben. Wie\r\nfrech! Erledigst du sie bitte?!",
+        "Target": "Erjage einen Rathalos und Magnamalo.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Fuego, brasas y dango",
+        "Client": "Yomogi la chef",
+        "Description": "Dango con tueste lento sobre\r\nlava: suena rico, \u00BFverdad?\r\nQuiero probar en las grutas,\r\npero... \u00BFpodr\u00EDas antes cazar\r\nal \u003CCOL RED\u003ERathalos\u003C/COL\u003E que anda por all\u00ED\r\ny a \u003CCOL RED\u003EMagnamalo\u003C/COL\u003E? \u00A1No quiero\r\nacabar frita yo tambi\u00E9n!",
+        "Target": "Caza un Rathalos y a Magnamalo",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041E\u0431\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0430 \u043D\u0430\u043A\u0430\u043B\u044F\u0435\u0442\u0441\u044F",
+        "Client": "\u041F\u043E\u0432\u0430\u0440 \u0419\u043E\u043C\u043E\u0433\u0438",
+        "Description": "\u0414\u0430\u043D\u0433\u043E, \u043F\u0440\u0438\u0433\u043E\u0442\u043E\u0432\u043B\u0435\u043D\u043D\u044B\u0435 \u043D\u0430\r\n\u043C\u0435\u0434\u043B\u0435\u043D\u043D\u043E\u043C \u043B\u0430\u0432\u043E\u0432\u043E\u043C \u0436\u0430\u0440\u0435 \u2014\r\n\u043F\u0440\u0430\u0432\u0434\u0430, \u0437\u0432\u0443\u0447\u0438\u0442 \u0430\u043F\u043F\u0435\u0442\u0438\u0442\u043D\u043E? \u042F\r\n\u0445\u043E\u0442\u0435\u043B \u043F\u043E\u043F\u0440\u043E\u0431\u043E\u0432\u0430\u0442\u044C \u0437\u0430\u043F\u0435\u0447\u044C \u0438\u0445\r\n\u0432 \u041B\u0430\u0432\u043E\u0432\u044B\u0445 \u043F\u0435\u0449\u0435\u0440\u0430\u0445, \u043D\u043E \u0442\u0430\u043C,\r\n\u043E\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442\u0441\u044F, \u003CCOL RED\u003E\u0420\u0430\u0442\u0430\u043B\u043E\u0441\u003C/COL\u003E \u0438 \u003CCOL RED\u003E\u041C\u0430\u0433\u043D\u0430\u043C\u0430\u043B\u043E\u003C/COL\u003E.\r\n\u0412\u043E\u0442 \u0442\u0435 \u043D\u0430! \u0418\u0437\u0431\u0430\u0432\u044C\u0441\u044F \u043E\u0442 \u043D\u0438\u0445!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0420\u0430\u0442\u0430\u043B\u043E\u0441\u0430 \u0438 \u041C\u0430\u0433\u043D\u0430\u043C\u0430\u043B\u043E",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Gor\u0105ca sytuacja",
+        "Client": "Kucharka Yomogi",
+        "Description": "Kr\u00F3liczkowe dango wolno gotowane\r\nnad law\u0105: brzmi superpysznie, co?!\r\nChcia\u0142am wypr\u00F3bowa\u0107 ten przepis\r\nw Jaskiniach Lawy, ale podobno\r\njest tam \u003CCOL RED\u003ERathalos\u003C/COL\u003E i \u003CCOL RED\u003EMagnamalo\u003C/COL\u003E.\r\nBezczelno\u015B\u0107! Czy mo\u017Cesz si\u0119\r\nich pozby\u0107?",
+        "Target": "Upoluj Rathalosa i Magnamalo",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Situa\u00E7\u00E3o chamuscada",
+        "Client": "Yomogi, a chef",
+        "Description": "Dango de coelho assado lentamente\r\nsobre a lava: parece uma del\u00EDcia, n\u00E3o?\r\nEu tava indo pras Cavernas de Lava\r\npara testar isso... At\u00E9 que descobrir\r\nque tinha uma \u003CCOL RED\u003ERathalos\u003C/COL\u003E e o \u003CCOL RED\u003EMagnamalo\u003C/COL\u003E\r\nl\u00E1. Que rude! Voc\u00EA poderia ir se livrar\r\ndeles, por favor?",
+        "Target": "Cace um Rathalos e o Magnamalo",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uBD88 \uC870\uC2EC! \uBD88\uAF43\uACFC \uBD88\uB369\uC774 \uD3B8",
+        "Client": "\uCC3B\uC9D1\uC758 \uC694\uBAA8\uAE30",
+        "Description": "\uB9C8\uADF8\uB9C8\uB85C \uBC14\uC9DD \uAD6C\uC6B4 \uD1A0\uB07C \uACBD\uB2E8\u2026\r\n\uC5B4\uB5A4 \uB9DB\uC77C\uC9C0 \uAD81\uAE08\uD558\uC9C0~?\r\n\uC6A9\uC554 \uB3D9\uAD74\uC5D0 \uAC00\uC11C \uC694\uB9AC\uD560 \uAC70\uC57C!\r\n\uADF8\uB7EC\uB2C8\uAE4C \uB098\uC640 \uD1A0\uB07C \uACBD\uB2E8\uC774\r\n\uD640\uB791 \uB2E4 \uD0C0 \uBC84\uB9AC\uC9C0 \uC54A\uB3C4\uB85D\r\n\uC11C\uB85C \uC2F8\uC6B0\uACE0 \uC788\uB294 \u003CCOL RED\u003E\uB9AC\uC624\uB808\uC6B0\uC2A4\u003C/COL\u003E\uC640\r\n\u003CCOL RED\u003E\uB9C8\uAC00\uC774\uB9C8\uAC00\uB3C4\u003C/COL\u003E\uB97C \uD574\uCE58\uC6CC \uC918!",
+        "Target": "\uB9AC\uC624\uB808\uC6B0\uC2A4 1\uB9C8\uB9AC\uC640\r\n\uB9C8\uAC00\uC774\uB9C8\uAC00\uB3C4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6CE8\u610F\u706B\u4FAF\uFF01\u7D2B\u708E\u8207\u706B\u7403\u4E4B\u5377",
+        "Client": "\u8336\u9928\u8001\u95C6\u827E\u8349",
+        "Description": "\u7528\u5CA9\u6F3F\u4ED4\u7D30\u70D8\u70E4\u7684\u5154\u5154\u7CF0\u5B50\u2026\u2026\r\n\u662F\u4E0D\u662F\u5F88\u8B93\u4EBA\u597D\u5947\u6ECB\u5473\u5982\u4F55\u554A\uFF5E\uFF1F\r\n\u6211\u8981\u53BB\u7194\u5CA9\u6D1E\u9032\u884C\u6599\u7406\uFF01\r\n\u70BA\u4E86\u907F\u514D\u6211\u548C\u5154\u5154\u7CF0\u5B50\u8B8A\u6210\u7126\u70AD\uFF0C\r\n\u8ACB\u4F60\u53BB\u6536\u62FE\u90A32\u982D\u4E92\u76F8\u722D\u9B25\u7684\r\n\u003CCOL RED\u003E\u706B\u9F8D\u003C/COL\u003E\u548C\u003CCOL RED\u003E\u6028\u864E\u9F8D\u003C/COL\u003E\u5427\uFF01",
+        "Target": "\u72E9\u73751\u982D\u706B\u9F8D\u82071\u982D\u6028\u864E\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u201C\u6CE8\u610F\u706B\u5019\uFF01\u7D2B\u708E\u4E0E\u706B\u7403\u201D\u4E4B\u5377",
+        "Client": "\u8336\u70B9\u5E97\u5E97\u4E3B\u827E\u8349",
+        "Description": "\u7528\u7194\u5CA9\u6162\u706B\u7EC6\u70E4\u7684\u5154\u56E2\u5B50\u2026\u2026\r\n\u4F60\u4E5F\u5F88\u5728\u610F\u662F\u4EC0\u4E48\u5473\u9053\u5427\uFF5E\uFF1F\r\n\u8FD9\u5C31\u53BB\u7194\u5CA9\u6D1E\u8BD5\u505A\u4E00\u4E0B\uFF01\r\n\u6240\u4EE5\uFF0C\u4E3A\u4E86\u9632\u6B62\u6211\r\n\u548C\u5154\u56E2\u5B50\u88AB\u70E7\u7126\uFF0C\r\n\u8BF7\u53BB\u6253\u5012\u003CCOL RED\u003E\u706B\u9F99\u003C/COL\u003E\u548C\u003CCOL RED\u003E\u6028\u864E\u9F99\u003C/COL\u003E\r\n\u8FD9\u4E24\u5934\u5728\u4E89\u6597\u7684\u602A\u7269\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u706B\u9F99\u548C1\u5934\u6028\u864E\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0648\u0636\u0639 \u0645\u0644\u062A\u0647\u0628",
+        "Client": "\u0627\u0644\u0637\u0628\u0627\u062E\u0629 \u064A\u0648\u0645\u0648\u062C\u064A",
+        "Description": "\u062F\u0627\u0646\u062C\u0648 \u0627\u0644\u0623\u0631\u0627\u0646\u0628 \u0627\u0644\u0645\u0637\u0628\u0648\u062E \u0628\u0628\u0637\u0621 \u0641\u0648\u0642\r\n\u0627\u0644\u062D\u0645\u0645 \u0627\u0644\u0628\u0631\u0643\u0627\u0646\u064A\u0629: \u064A\u0628\u062F\u0648 \u0644\u0630\u064A\u0630\u064B\u0627\r\n\u0644\u0644\u063A\u0627\u064A\u0629\u060C \u0635\u062D\u064A\u062D!\u061F \u0643\u0646\u062A \u0633\u0623\u0630\u0647\u0628\r\n\u0644\u0643\u0647\u0648\u0641 \u0627\u0644\u062D\u0645\u0645 \u0644\u062A\u062C\u0631\u0628\u062A\u0647... \u062D\u062A\u0649\r\n\u0633\u0645\u0639\u062A \u0628\u0648\u062C\u0648\u062F \u003CCOL RED\u003E\u0631\u0627\u0630\u0627\u0644\u0648\u0633\u003C/COL\u003E \u0648\r\n\u003CCOL RED\u003E\u0645\u0627\u062C\u0646\u0627\u0645\u0627\u0644\u0648 \u003C/COL\u003E\u0647\u0646\u0627\u0643. \u0647\u0630\u0647 \u0648\u0642\u0627\u062D\u0629! \u0647\u0644\r\n\u003CLSNR {\u064A\u064F\u0645\u0643\u0646\u0643} {\u064A\u064F\u0645\u0643\u0646\u0643\u0650}\u003E \u0627\u0644\u062A\u062E\u0644\u0635 \u0645\u0646\u0647\u0645 \u0631\u062C\u0627\u0621\u064B!\u061F",
+        "Target": "\u0635\u064A\u062F \u0631\u0627\u0630\u0627\u0644\u0648\u0633 \u0648\u0645\u0627\u062C\u0646\u0627\u0645\u0627\u0644\u0648",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 12,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      136,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 136,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 47,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 47,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 47,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 24,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1366,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 91,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 15840,
+      "Points": 320,
+      "HRP": 1050
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      62,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 11,
+      "HealthTable": 103,
+      "AttackTable": 85,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 103,
+        "AttackTable": 85,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 103,
+        "AttackTable": 85,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 103,
+        "AttackTable": 85,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 103,
+        "AttackTable": 85,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 103,
+        "AttackTable": 85,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 103,
+        "AttackTable": 85,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 103,
+        "AttackTable": 85,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

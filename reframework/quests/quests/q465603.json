@@ -1,0 +1,350 @@
+{
+  "QuestID": 465603,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u72E9\u731F\u304C\u7D21\u3050\u3082\u306E",
+        "Client": "\u63D0\u7763\u30AC\u30EC\u30A2\u30B9",
+        "Description": "\u2026\u2026\u300C\u731B\u304D\u708E\u300D\u3067\u3042\u308B\u8CB4\u6BBF\u3002\r\n\u305D\u3057\u3066\u3001\u738B\u56FD\u307E\u3067\u540D\u306E\u77E5\u308C\u305F\r\n\u731B\u8005\u3067\u3042\u308B\u91CC\u9577\u306E\u30D5\u30B2\u30F3\u6BBF\u3002\r\n\u8CB4\u6BBF\u3089\u3068\u306E\u7E4B\u304C\u308A\u3092\u3055\u3089\u306B\r\n\u6DF1\u3081\u305F\u304F\u601D\u3046\u3002\u305F\u3060\u3001\u6211\u3089\u306F\r\n\u30CF\u30F3\u30BF\u30FC\u3060\u3002\u4E92\u3044\u3092\u77E5\u308B\u306B\u306F\u3001\r\n\u767E\u3092\u8A9E\u308B\u3088\u308A\u4E00\u72E9\u308A\u304C\u3088\u304B\u308D\u3046\u3002",
+        "Target": "\u30BB\u30EB\u30EC\u30AE\u30AA\u30B9\uFF11\u982D\u306E\u72E9\u731F\u3068\r\n\u30B7\u30E3\u30AC\u30EB\u30DE\u30AC\u30E9\uFF11\u4F53\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "True Hunters",
+        "Client": "Admiral Galleus",
+        "Description": "The Fierce, and the renowned hero\r\nand hunter Elder Fugen. We are\r\nmost fortunate to have allies such\r\nas yourselves! I\u0027d like to further\r\nstrengthen our bond with a hunt!\r\nMay the alliance between Kamura\r\nand the Kingdom be everlasting!",
+        "Target": "Hunt a Seregios\r\nand slay a Shagaru Magala",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Les vrais chasseurs",
+        "Client": "Amiral Galleus",
+        "Description": "La Flamme, et le c\u00E9l\u00E8bre h\u00E9ros\r\net chasseur, Fugen l\u0027Ancien,\r\nje veux tout savoir sur vous\r\ndeux. Mais une chasse vaut\r\nmieux que n\u0027importe quel\r\ndiscours \u00E0 mes yeux, alors\r\nqu\u0027attendons-nous ?",
+        "Target": "Chasser un Seregios et\r\ntuer un Shagaru Magala",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Veri cacciatori",
+        "Client": "Ammiraglio Galleus",
+        "Description": "Audace e Fugen l\u0027anziano,\r\neroe e leggenda di Kamura.\r\nVoglio imparare a conoscervi\r\nmeglio ma, essendo cacciatori,\r\nuna caccia vale pi\u00F9 di mille\r\nparole. Che la conversazione\r\nabbia inizio!",
+        "Target": "Caccia un Seregios\r\ne uccidi un Shagaru Magala",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Wahre J\u00E4ger",
+        "Client": "Galleus",
+        "Description": "\u003CLSNR {Der Grimmige} {Die Grimmige}\u003E und der ber\u00FChmte\r\nHeld Fogen. Ich m\u00F6chte unser\r\nB\u00FCndnis mit einer Jagd st\u00E4rken!\r\nM\u00F6ge die Allianz zwischen\r\nKamura und dem K\u00F6nigreich\r\newig w\u00E4hren!",
+        "Target": "Erjage einen Seregios und\r\nerlege einen Shagaru Magala.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Aut\u00E9ntica cacer\u00EDa",
+        "Client": "Almirante Galleus",
+        "Description": "\u00A1Qu\u00E9 fortuna tenemos de teneros\r\ncomo aliados a vosotros dos,\r\na \u003CLSNR {el Fiero} {la Fiera}\u003E y al anciano Fugen!\r\n\u00A1Conozc\u00E1monos m\u00E1s cazando juntos!\r\n\u00A1Que la alianza entre Kamura\r\ny el reino dure para siempre!",
+        "Target": "Caza un Seregios\r\ny abate un Shagaru Magala",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0418\u0441\u0442\u0438\u043D\u043D\u044B\u0435 \u043E\u0445\u043E\u0442\u043D\u0438\u043A\u0438",
+        "Client": "\u0410\u0434\u043C\u0438\u0440\u0430\u043B \u0413\u0430\u043B\u043B\u0435\u0443\u0441",
+        "Description": "\u041F\u0440\u043E\u0441\u043B\u0430\u0432\u043B\u0435\u043D\u043D\u044B\u0439 \u0433\u0435\u0440\u043E\u0439 \u003CLSNR {\u042F\u0440\u043E\u0441\u0442\u043D\u044B\u0439} {\u042F\u0440\u043E\u0441\u0442\u043D\u0430\u044F}\u003E\r\n\u0438 \u043E\u0445\u043E\u0442\u043D\u0438\u043A \u0421\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u043D\u0430 \u0424\u0443\u0433\u044D\u043D.\r\n\u042F \u0445\u043E\u0447\u0443 \u043B\u0443\u0447\u0448\u0435 \u0443\u0437\u043D\u0430\u0442\u044C \u0432\u0430\u0441 \u043E\u0431\u043E\u0438\u0445.\r\n\u041D\u043E \u043C\u044B \u043E\u0445\u043E\u0442\u043D\u0438\u043A\u0438, \u0430\r\n\u043E\u0434\u043D\u0430 \u043E\u0445\u043E\u0442\u0430 \u0441\u0442\u043E\u0438\u0442 \u0442\u044B\u0441\u044F\u0447\u0438 \u0441\u043B\u043E\u0432.\r\n\u0422\u0430\u043A \u0434\u0430\u0432\u0430\u0439\u0442\u0435 \u0436\u0435 \u043D\u0430\u0447\u0438\u043D\u0430\u0442\u044C!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0421\u0435\u0440\u0435\u0433\u0438\u043E\u0441\u0430 \u0438\r\n\u0443\u0431\u0438\u0442\u044C \u0428\u0430\u0433\u0430\u0440\u0443 \u041C\u0430\u0433\u0430\u043B\u0443",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Prawdziwi \u0142owcy",
+        "Client": "Admira\u0142 Galleus",
+        "Description": "Nieul\u0119k\u0142y P\u0142omie\u0144, szanowny\r\nbohater i \u0142owca Starszy Fugen.\r\nChc\u0119 was lepiej pozna\u0107.\r\nAle jeste\u015Bmy \u0142owcami; jedno\r\npolowanie jest warte tysi\u0105ca\r\ns\u0142\u00F3w. Zatem rozpocznijmy\r\nnasz\u0105 konwersacj\u0119!",
+        "Target": "Upoluj Seregiosa\r\ni zabij Shagaru Magal\u0119",
+        "Fail": "Nagroda r\u00F3wna 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Verdadeiros Ca\u00E7adores",
+        "Client": "Almirante Galleus",
+        "Description": "A F\u00FAria e o renomado her\u00F3i e\r\nca\u00E7ador, Anci\u00E3o Fugen. Quero\r\nconhecer voc\u00EAs dois melhor.\r\nMas somos ca\u00E7adores; uma ca\u00E7ada\r\nvale mais que mil palavras.\r\nQue a conversa comece!",
+        "Target": "Cace um Seregios\r\ne mate um Shagaru Magala",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC0AC\uB0E5\uC774 \uC790\uC544\uB0B4\uB294 \uAC83",
+        "Client": "\uC81C\uB3C5 \uAC08\uB808\uC544\uC2A4",
+        "Description": "\u2026\u2026\u300C\uB9F9\uB82C\uD55C \uBD88\uAF43\u300D\uC778 \uADC0\uACF5.\r\n\uADF8\uB9AC\uACE0 \uC655\uAD6D\uC5D0\uAE4C\uC9C0 \uC774\uB984\uC744\r\n\uB5A8\uCE5C \uC6A9\uC0AC, \uCD0C\uC7A5 \uD6C4\uAC90 \uACF5.\r\n\uADF8\uB300\uB4E4\uACFC \uB354 \uAE4A\uC740 \uC778\uC5F0\uC744 \uB9FA\uACE0\r\n\uC2F6\uC9C0\uB9CC, \uC6B0\uB9AC\uB294 \uD5CC\uD130\uB2E4. \uC11C\uB85C\uB97C\r\n\uC54C\uAE30 \uC704\uD574\uC11C\uB294 \uBC31 \uB9C8\uB514 \uB9D0\uBCF4\uB2E4\r\n\uD55C \uBC88 \uC0AC\uB0E5\uD558\uB294 \uD3B8\uC774 \uB0AB\uACA0\uC9C0.",
+        "Target": "\uC140\uB808\uAE30\uC624\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5\uACFC\r\n\uC0E4\uAC00\uB974\uB9C8\uAC00\uB77C 1\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u72E9\u7375\u6240\u7E54\u5C31\u4E4B\u7269",
+        "Client": "\u52A0\u96F7\u4E9E\u65AF\u63D0\u7763",
+        "Description": "\u2026\u2026\u4F60\u9019\u4F4D\u300C\u70C8\u706B\u300D\uFF0C\r\n\u4EE5\u53CA\u5728\u738B\u570B\u4E2D\u4E5F\u9817\u8CA0\u76DB\u540D\r\n\u7684\u5F37\u8005\u2500\u2500\u5085\u8CE2\u6751\u9577\u3002\r\n\u6211\u60F3\u52A0\u6DF1\u8207\u4F60\u5011\u4E4B\u9593\u7684\u60C5\u8ABC\u3002\r\n\u4E0D\u904E\u6211\u5011\u4E43\u662F\u7375\u4EBA\uFF0C\r\n\u82E5\u60F3\u4E86\u89E3\u5F7C\u6B64\uFF0C\u5343\u8A00\u842C\u8A9E\r\n\u4E5F\u6BD4\u4E0D\u4E0A\u4E26\u80A9\u72E9\u7375\u4E00\u56DE\u5427\u3002",
+        "Target": "\u72E9\u73751\u982D\u5343\u5203\u9F8D\u8207\u8A0E\u4F101\u982D\u5929\u8FF4\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7528\u72E9\u730E\u8BF4\u8BDD",
+        "Client": "\u63D0\u7763\u52A0\u96F7\u4E9A\u65AF",
+        "Description": "\u2026\u2026\u9601\u4E0B\u662F\u201C\u70C8\u7130\u201D\uFF0C\u666E\u8D24\u6751\u957F\u662F\r\n\u738B\u56FD\u90FD\u6709\u8033\u95FB\u7684\u5F3A\u8005\u3002\u6211\u60F3\u548C\u4F60\u4EEC\r\n\u8FDB\u4E00\u6B65\u52A0\u6DF1\u4EA4\u6D41\u3002\u4F46\u6211\u4EEC\u662F\u730E\u4EBA\u3002\r\n\u8981\u4E86\u89E3\u5F7C\u6B64\uFF0C\u767E\u8BED\u4E0D\u5982\u4E00\u730E\u3002",
+        "Target": "\u72E9\u730E1\u5934\u5343\u5203\u9F99\u5E76\u8BA8\u4F101\u5934\u5929\u5EFB\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0635\u064A\u0627\u062F\u0648\u0646 \u062D\u0642\u064A\u0642\u064A\u0648\u0646",
+        "Client": "\u0627\u0644\u0623\u062F\u0645\u064A\u0631\u0627\u0644 \u062C\u0627\u0644\u064A\u0648\u0633",
+        "Description": "\u0627\u0644\u0634\u0631\u0633\u060C \u0648\u0627\u0644\u0628\u0637\u0644 \u0627\u0644\u0634\u0647\u064A\u0631\u060C\r\n\u0648\u0627\u0644\u0635\u064A\u0627\u062F \u0627\u0644\u0632\u0639\u064A\u0645 \u0641\u064A\u0648\u062C\u064A\u0646.\r\n\u0623\u0631\u064A\u062F \u0623\u0646 \u0623\u062A\u0639\u0631\u0641 \u0639\u0644\u064A\u0643\u0645\u0627 \u0628\u0637\u0631\u064A\u0642\u0629 \u0623\u0641\u0636\u0644.\r\n\u0644\u0643\u0646\u0646\u0627 \u0635\u064A\u0627\u062F\u0648\u0646.\r\n\u0645\u0637\u0627\u0631\u062F\u0629 \u0648\u0627\u062D\u062F\u0629\r\n\u062A\u0633\u0627\u0648\u064A \u0623\u0644\u0641 \u0643\u0644\u0645\u0629.\r\n\u0644\u0630\u0627 \u0644\u0646\u062F\u0639 \u0627\u0644\u0645\u062D\u0627\u062F\u062B\u0629 \u062A\u0628\u062F\u0623!",
+        "Target": "\u0627\u0642\u062A\u0644 \u0634\u0627\u062C\u0627\u0631\u0648 \u0645\u0627\u062C\u0627\u0644\u0627\r\n\u0648\u0627\u0635\u0637\u062F \u0633\u064A\u0631\u064A\u062C\u0648\u0633",
+        "Fail": "\u0644\u0627 \u062A\u0648\u062C\u062F \u0645\u0643\u0627\u0641\u0622\u062A\u060C \u0623\u0648 \u0627\u0646\u062A\u0647\u0649 \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 13,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      21,
+      29
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      27,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 27,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 97,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 392,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 97,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 392,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 25,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 41040,
+      "Points": 830,
+      "HRP": 2050
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      8,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 37,
+      "HealthTable": 132,
+      "AttackTable": 132,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 132,
+        "AttackTable": 132,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

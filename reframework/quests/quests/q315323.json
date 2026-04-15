@@ -1,0 +1,350 @@
+{
+  "QuestID": 315323,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u767D\u96EA\u6620\u3048\u308B\u30C9\u30EC\u30B9\u4F5C\u308A",
+        "Client": "\u81EA\u7531\u4EBA\u306A\u4ED5\u7ACB\u3066\u5C4B",
+        "Description": "\u7F8E\u3057\u3044\u5E03\u3068\u7CF8\u306B\u3001\u4E0A\u8CEA\u306A\u7E2B\u3044\u91DD\u3002\r\n\u3053\u308C\u3067\u30C9\u30EC\u30B9\u3092\u7E2B\u3044\u4E0A\u3052\u308B\u6E96\u5099\u306F\r\n\u4E07\u7AEF\u3002\u5F8C\u306F\u30C7\u30B6\u30A4\u30F3\u3092\u78BA\u5B9A\u3055\u305B\u308B\r\n\u3060\u3051\u3002\u63FA\u3089\u3081\u304F\u9B3C\u706B\u3068\u96EA\u3092\u80CC\u666F\u306B\r\n\u6B4C\u3046\u6C37\u4EBA\u9B5A\u7ADC\u3092\u63CF\u304D\u305F\u3044\u308F\u3002\r\n\u5BD2\u51B7\u7FA4\u5CF6\u307E\u3067\u3064\u3044\u3066\u304D\u3066\u304F\u308C\u308B\u4EBA\r\n\u306F\u3044\u306A\u3044\u304B\u3057\u3089\uFF1F",
+        "Target": "\u30A4\u30BD\u30CD\u30DF\u30AF\u30CB\u4E9C\u7A2E\uFF11\u982D\u3068\r\n\u30DE\u30AC\u30A4\u30DE\u30AC\u30C9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Stitching a Wintry Wardrobe",
+        "Client": "Free-Spirited Tailor",
+        "Description": "Lovely cloth, splendid thread,\r\na sturdy needle\u2014all I need to\r\nsew a dress! Now it\u0027s just a\r\nmatter of design. I\u0027d love to see\r\nan Aurora Somnacanth amid the\r\nicy tundra. Could you escort\r\nme to the Frost Islands?",
+        "Target": "Hunt an Aurora Somnacanth\r\nand a Magnamalo",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Garde-robe hivernale",
+        "Client": "Tailleur \u00E0 l\u0027esprit libre",
+        "Description": "Du tissu, du fil, une bonne\r\naiguille, c\u0027est tout ce qu\u0027il faut\r\npour coudre une robe. Plus\r\nqu\u0027\u00E0 choisir le mod\u00E8le... \r\nJ\u0027aimerais voir une Somnacanth\r\nAurore dans la toundra glac\u00E9e. \r\nTu m\u0027accompagnes \u00E0 l\u0027Archipel ?",
+        "Target": "Chasser un Somnacanth aurore\r\net un Magnamalo",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Un guardaroba invernale",
+        "Client": "Sarto indipendente",
+        "Description": "Un bel tessuto, un ago robusto,\r\nun filo stupendo: servono per\r\ncucire un vestito. Ora devo\r\nsolo pensare al modello. Vorrei\r\nvedere un Somnacanth fulgido\r\nnella tundra. Mi accompagni\r\nalle Isole ghiacciate?",
+        "Target": "Caccia un Somnacanth fulgido\r\ne il Magnamalo",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "N\u00E4hen der Winterkleidung",
+        "Client": "Freigeistiger Schneider",
+        "Description": "Toller Stoff, feiner Faden, robuste\r\nNadel\u2013 mehr brauch ich nicht,\r\num ein Kleid zu n\u00E4hen! Jetzt\r\nkommt es nur noch auf das Design\r\nan. Ich w\u00FCrd gern einen Aurora-\r\ncanth sehen. Begleitest du mich\r\nauf die Frostinseln?",
+        "Target": "Erjage einen Auroracanth\r\nund einen Magnamalo.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Confecci\u00F3n de ropa invernal",
+        "Client": "Modista espont\u00E1nea",
+        "Description": "Tela bonita, hilo espl\u00E9ndido y\r\nuna buena aguja, \u00A1todo lo que\r\nnecesito para un vestido!\r\nAhora, a dise\u00F1arlo. Querr\u00EDa\r\nver un Somnacanth Aurora en la\r\ng\u00E9lida tundra. \u00BFMe acompa\u00F1as a\r\nlas Islas heladas?",
+        "Target": "Caza un Somnacanth Aurora\r\ny un Magnamalo",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0413\u043E\u0442\u043E\u0432\u0438\u043C \u0437\u0438\u043C\u043D\u0438\u0439 \u0433\u0430\u0440\u0434\u0435\u0440\u043E\u0431",
+        "Client": "\u041F\u043E\u0440\u0442\u043D\u043E\u0439-\u0432\u043E\u043B\u044C\u043D\u043E\u0434\u0443\u043C\u0435\u0446",
+        "Description": "\u041A\u0440\u0430\u0441\u0438\u0432\u0430\u044F \u0442\u043A\u0430\u043D\u044C, \u0438\u0437\u0443\u043C\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F\r\n\u043D\u0438\u0442\u044C \u0438 \u043A\u0440\u0435\u043F\u043A\u0430\u044F \u0438\u0433\u043B\u0430 \u2014 \u0438 \u044F\r\n\u0433\u043E\u0442\u043E\u0432\u0430 \u0448\u0438\u0442\u044C \u043F\u043B\u0430\u0442\u044C\u0435! \u0422\u0435\u043F\u0435\u0440\u044C\r\n\u043D\u0430\u0434\u043E \u043E\u043F\u0440\u0435\u0434\u0435\u043B\u0438\u0442\u044C\u0441\u044F \u0441 \u0434\u0438\u0437\u0430\u0439\u043D\u043E\u043C.\r\n\u0425\u043E\u0447\u0443 \u0443\u0432\u0438\u0434\u0435\u0442\u044C \u0421\u043E\u043C\u043D\u0430\u043A\u0430\u043D\u0442\u0430 \u0410\u0432\u0440\u043E\u0440\u044B\r\n\u0432 \u043B\u0435\u0434\u044F\u043D\u043E\u0439 \u0442\u0443\u043D\u0434\u0440\u0435. \u041F\u0440\u043E\u0432\u043E\u0434\u0438\u0448\u044C\r\n\u043C\u0435\u043D\u044F \u043D\u0430 \u041C\u043E\u0440\u043E\u0437\u043D\u044B\u0435 \u043E\u0441\u0442\u0440\u043E\u0432\u0430?",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0421\u043E\u043C\u043D\u0430\u043A\u0430\u043D\u0442\u0430 \u0410\u0432\u0440\u043E\u0440\u044B \u0438 \u041C\u0430\u0433\u043D\u0430\u043C\u0430\u043B\u043E",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Szycie zimowej odzie\u017Cy",
+        "Client": "Wyzwolona krawcowa",
+        "Description": "Pi\u0119kne p\u0142\u00F3tno, dobra ni\u0107 i\r\nmocna ig\u0142a. Tyle mi trzeba,\r\naby uszy\u0107 sukienk\u0119! To tylko\r\nkwestia wygl\u0105du. Chc\u0119 zobaczy\u0107\r\nAurora Somnacantha w lodowatej\r\ntundrze. Mo\u017Cesz mnie\r\npoprowadzi\u0107 do Wysp Mro\u017Anych?",
+        "Target": "Upoluj Aurora Somnacantha\r\ni Magnamalo",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Cole\u00E7\u00E3o Moda Inverno",
+        "Client": "Alfaiate Livre",
+        "Description": "Tecido, fio, agulha. Eles\r\nbastam para criar um vestido!\r\nAgora s\u00F3 falta o modelo.\r\nAdoraria ver um Aurora\r\nSomnacanth na tundra gelada.\r\nVoc\u00EA pode me escoltar at\u00E9 as\r\nIlhas G\u00E9lidas?",
+        "Target": "Cace um Aurora Somnacanth e o Magnamalo",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uB208\uCC98\uB7FC \uBE5B\uB098\uB294 \uB4DC\uB808\uC2A4 \uC81C\uC791",
+        "Client": "\uAC1C\uBC29\uC801\uC778 \uC637\uAC00\uAC8C \uC810\uC7A5",
+        "Description": "\uC544\uB984\uB2E4\uC6B4 \uCC9C\uACFC \uD488\uC9C8 \uC88B\uC740 \uBC14\uB298.\r\n\uB4DC\uB808\uC2A4\uB97C \uB9CC\uB4E4 \uC900\uBE44\uB294 \uB05D\uB0AC\uC5B4.\r\n\uC774\uC81C \uB514\uC790\uC778\uB9CC \uC815\uD558\uBA74 \uB3FC.\r\n\uC77C\uB801\uC774\uB294 \uADC0\uD654\uC640 \uB208\uC744 \uBC30\uACBD\uC73C\uB85C\r\n\uB178\uB798\uD558\uB294 \uBE59\uC778\uC5B4\uB8E1\uC744 \uADF8\uB9AC\uACE0 \r\n\uC2F6\uC5B4. \uD55C\uB7AD \uAD70\uB3C4\uAE4C\uC9C0\r\n\uB530\uB77C\uC640 \uC904 \uC0AC\uB78C\uC740 \uC5C6\uC73C\uB824\uB098?",
+        "Target": "\uC774\uC18C\uB124\uBBF8\uCFE0\uB2C8 \uC544\uC885 1\uB9C8\uB9AC\uC640\r\n\uB9C8\uAC00\uC774\uB9C8\uAC00\uB3C4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u88FD\u4F5C\u6620\u65BC\u767D\u96EA\u4E4B\u4E2D\u7684\u79AE\u670D",
+        "Client": "\u81EA\u7531\u81EA\u5728\u7684\u88C1\u7E2B\u5E97\u5E97\u9577",
+        "Description": "\u7F8E\u9E97\u7684\u5E03\u6599\u8207\u7DDA\u914D\u4E0A\u512A\u8CEA\u7684\r\n\u7E2B\u8863\u91DD\uFF0C\u9019\u6A23\u7E2B\u88FD\u79AE\u670D\u7684\u6E96\u5099\r\n\u4FBF\u5DF2\u9F4A\u5168\uFF0C\u518D\u4F86\u53EA\u5269\u78BA\u5B9A\u8A2D\u8A08\u4E86\u3002\r\n\u6211\u60F3\u4EE5\u6416\u66F3\u7684\u9B3C\u706B\u8207\u96EA\u70BA\u80CC\u666F\uFF0C\r\n\u63CF\u7E6A\u51B0\u4EBA\u9B5A\u9F8D\u6B4C\u5531\u7684\u6A21\u6A23\u3002\r\n\u4E0D\u77E5\u9053\u6709\u6C92\u6709\u4EBA\r\n\u9858\u610F\u966A\u6211\u524D\u5F80\u5BD2\u51B7\u7FA4\u5CF6\u5462\uFF1F",
+        "Target": "\u72E9\u73751\u982D\u51B0\u4EBA\u9B5A\u9F8D\u82071\u982D\u6028\u864E\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u7F1D\u5236\u6620\u4E8E\u767D\u96EA\u7684\u793C\u670D",
+        "Client": "\u81EA\u7531\u81EA\u5728\u7684\u88C1\u7F1D",
+        "Description": "\u597D\u770B\u7684\u5E03\u548C\u7EBF\uFF0C\u4F18\u8D28\u7684\u7EBA\u9488\u3002\r\n\u8FD9\u6837\u7F1D\u5236\u793C\u670D\u7684\u51C6\u5907\u5DE5\u4F5C\u5C31\u90FD\u505A\r\n\u597D\u4E86\u3002\u4E4B\u540E\u53EA\u8981\u5B9A\u597D\u8BBE\u8BA1\u65B9\u6848\u5C31\r\n\u884C\u4E86\u3002\u6211\u60F3\u753B\u51B0\u4EBA\u9C7C\u9F99\u5531\u6B4C\u7684\u573A\r\n\u666F\uFF0C\u80CC\u666F\u662F\u6447\u66F3\u7684\u9B3C\u706B\u548C\u96EA\u3002\u6709\r\n\u6CA1\u6709\u4EBA\u613F\u610F\u8DDF\u6211\u53BB\u51B0\u5C01\u7FA4\u5C9B\uFF1F",
+        "Target": "\u72E9\u730E1\u5934\u51B0\u4EBA\u9C7C\u9F99\u548C1\u5934\u6028\u864E\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u062E\u064A\u0627\u0637\u0629 \u0645\u0644\u0627\u0628\u0633 \u0634\u062A\u0648\u064A\u0629 \u0644\u0644\u062E\u0632\u0627\u0646\u0629",
+        "Client": "\u0627\u0644\u062E\u064A\u0627\u0637 \u0627\u0644\u0645\u062A\u062D\u0645\u0633",
+        "Description": "\u0642\u0637\u0639\u0629 \u0642\u0645\u0627\u0634 \u062C\u0645\u064A\u0644\u0629\u060C \u0648\u062E\u064A\u0637 \u0631\u0627\u0626\u0639\u060C\r\n\u0648\u0625\u0628\u0631\u0629 \u0642\u0648\u064A\u0629 - \u0643\u0644 \u0645\u0627 \u0623\u062D\u062A\u0627\u062C\u0647\r\n\u0644\u062E\u064A\u0627\u0637\u0629 \u0641\u0633\u062A\u0627\u0646! \u0627\u0644\u0623\u0645\u0631 \u0627\u0644\u0622\u0646\r\n\u0645\u062C\u0631\u062F \u0645\u0633\u0623\u0644\u0629 \u062A\u0635\u0645\u064A\u0645. \u0623\u0648\u062F \u0623\u0646\r\n\u0623\u0631\u0649 \u0623\u0648\u0631\u0648\u0631\u0627 \u0633\u0648\u0645\u0646\u0627\u0643\u0627\u0646\u062B \u0648\u0633\u0637\r\n\u0627\u0644\u062A\u0646\u062F\u0631\u0627 \u0627\u0644\u062C\u0644\u064A\u062F\u064A\u0629. \u0647\u0644 \u064A\u0645\u0643\u0646\u0643 \u0627\u0635\u0637\u062D\u0627\u0628\u064A\r\n\u0625\u0644\u0649 \u0627\u0644\u062C\u064F\u0632\u0631 \u0627\u0644\u062C\u0644\u064A\u062F\u064A\u0629\u061F",
+        "Target": "\u0627\u0635\u0637\u062F \u0623\u0648\u0631\u0648\u0631\u0627 \u0633\u0648\u0645\u0646\u0627\u0643\u0627\u0646\u062B\r\n\u0648\u0645\u0627\u062C\u0646\u0627\u0645\u0627\u0644\u0648",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 13,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      392,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 392,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1398,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1412,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 349,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 2,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 134,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 1303,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 43560,
+      "Points": 880,
+      "HRP": 1370
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      63,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 21,
+      "HealthTable": 121,
+      "AttackTable": 126,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 121,
+        "AttackTable": 126,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

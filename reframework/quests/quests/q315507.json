@@ -1,0 +1,350 @@
+{
+  "QuestID": 315507,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u971E\u306E\u3054\u3068\u304F\u6D88\u3048\u53BB\u308B\u8005",
+        "Client": "\u9AD8\u540D\u306A\u6B66\u95D8\u5BB6",
+        "Description": "\u898B\u3048\u306A\u3044\u76F8\u624B\u3068\u6226\u3046\u8853\u3092\u6559\u3048\u308B\u3002\r\n\u76F8\u624B\u306E\u4ED5\u639B\u3051\u3092\u5F85\u3064\u306E\u3060\u3002\r\n\u898B\u3048\u306C\u3068\u3057\u3066\u3082\u52D5\u3051\u3070\u97F3\u3084\u6C17\u914D\u3092\r\n\u767A\u3057\u3088\u3046\u3002\u843D\u3061\u3064\u3044\u3066\u6D3B\u8DEF\u3092\u898B\u3044\r\n\u3060\u3059\u306E\u3060\u3002\u2026\u4FFA\u306F\u4EBA\u9593\u304C\u76F8\u624B\u306E\r\n\u6B66\u95D8\u5BB6\u3060\u3002\u30E2\u30F3\u30B9\u30BF\u30FC\u306E\u3053\u3068\u306F\r\n\u8AF8\u541B\u306B\u4EFB\u305B\u3088\u3046\u3002",
+        "Target": "\u30AA\u30AA\u30CA\u30BA\u30C1\uFF11\u4F53\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Leave No Trace Behind",
+        "Client": "World-Renowned Martial Artist",
+        "Description": "I teach the art of fighting an\r\ninvisible opponent. Remain\r\ncalm, for your enemy will\r\ngive away their position. I\u0027m\r\ntrained to fight humans, not\r\nbeasts, so I shall leave the\r\nmonster to you.",
+        "Target": "Slay a Chameleos",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Passage invisible",
+        "Client": "Ma\u00EEtre mondial du karat\u00E9",
+        "Description": "J\u0027enseigne l\u0027art consistant \u00E0\r\naffronter un adversaire invisible.\r\nIl faut rester calme pour\r\nd\u00E9couvrir l\u0027endroit o\u00F9 se trouve\r\nl\u0027ennemi. J\u0027affronte uniquement\r\nles humains, donc je te\r\nlaisse les monstres.",
+        "Target": "Tuer un Chameleos",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Senza traccia",
+        "Client": "Artista marziale famoso",
+        "Description": "Insegno l\u0027arte di combattere\r\ncontro avversari invisibili.\r\nMantieni la calma e il nemico\r\nsveler\u00E0 la sua posizione. Sono\r\naddestrato per lottare contro\r\nessere umani, non bestie,\r\nquindi ai mostri pensaci tu.",
+        "Target": "Uccidi un Chameleos",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Keine Spur hinterlassen",
+        "Client": "Ber\u00FChmter Kampfk\u00FCnstler",
+        "Description": "Ich lehre die Kunst des Kampfes\r\ngegen einen unsichtbaren Geg-\r\nner. Bleibe ruhig, dann verr\u00E4t\r\nder Gegner, wo er ist. Ich bin\r\nim Kampf gegen Menschen\r\ntrainiert, nicht Bestien, daher\r\n\u00FCberlasse ich die Monster dir.",
+        "Target": "Erlege einen Chameleos.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Sin dejar rastro",
+        "Client": "Archifamoso artista marcial",
+        "Description": "Yo ense\u00F1o el arte de combatir\r\na un oponente invisible.\r\nMant\u00E9n la calma, y tu enemigo\r\nrevelar\u00E1 su posici\u00F3n.\r\nTengo formaci\u00F3n para luchar\r\ncontra humanos, no bestias;\r\nas\u00ED que el monstruo, para ti.",
+        "Target": "Abate un Chameleos",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u041D\u0435 \u043E\u0441\u0442\u0430\u0432\u043B\u044F\u044F \u0441\u043B\u0435\u0434\u043E\u0432",
+        "Client": "\u0418\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u0431\u043E\u0435\u0446",
+        "Description": "\u042F \u043C\u043E\u0433\u0443 \u043D\u0430\u0443\u0447\u0438\u0442\u044C \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u0443 \u0441\u0440\u0430-\r\n\u0436\u0435\u043D\u0438\u044F \u0441 \u043D\u0435\u0432\u0438\u0434\u0438\u043C\u044B\u043C \u043F\u0440\u043E\u0442\u0438\u0432\u043D\u0438\u043A\u043E\u043C.\r\n\u0421\u043E\u0445\u0440\u0430\u043D\u044F\u0439 \u0441\u043F\u043E\u043A\u043E\u0439\u0441\u0442\u0432\u0438\u0435, \u0438\u0431\u043E \u0432\u0440\u0430\u0433\r\n\u0442\u0432\u043E\u0439 \u0432\u044B\u0434\u0430\u0441\u0442 \u0441\u0432\u043E\u044E \u043F\u043E\u0437\u0438\u0446\u0438\u044E.\r\n\u042F \u043E\u0431\u0443\u0447\u0435\u043D \u0441\u0440\u0430\u0436\u0430\u0442\u044C\u0441\u044F \u0441 \u043B\u044E\u0434\u044C\u043C\u0438,\r\n\u0430 \u043D\u0435 \u0441 \u043C\u043E\u043D\u0441\u0442\u0440\u0430\u043C\u0438, \u0442\u0430\u043A \u0447\u0442\u043E \u0438\u0445\r\n\u044F \u043E\u0441\u0442\u0430\u0432\u043B\u044E \u0442\u0435\u0431\u0435.",
+        "Target": "\u0423\u0431\u0438\u0442\u044C \u0425\u0430\u043C\u0435\u043B\u0435\u043E\u0441\u0430",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Nie pozostaw \u015Blad\u00F3w",
+        "Client": "S\u0142awny mistrz sztuk walki",
+        "Description": "Ucz\u0119 sztuki walki z\r\nniewidzialnym wrogiem.\r\nZachowaj spok\u00F3j, bo tw\u00F3j wr\u00F3g\r\nzdradzi swoj\u0105 pozycj\u0119. Umiem\r\nwalczy\u0107 z lud\u017Ami, a nie\r\nz bestiami. Zostawi\u0119 to\r\npolowanie tobie.",
+        "Target": "Zabij Chameleosa",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Sem Deixar Rastros",
+        "Client": "Artista Marcial Renomado",
+        "Description": "Ensino a arte de lutar com um\r\noponente invis\u00EDvel. Mantenha a\r\ncalma, pois o inimigo revelar\u00E1\r\na posi\u00E7\u00E3o. Fui treinado para\r\nlutar com humanos, n\u00E3o feras,\r\nent\u00E3o lhe deixo os monstros.",
+        "Target": "Mate um Chameleos",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC548\uAC1C\uCC98\uB7FC \uC0AC\uB77C\uC9C0\uB294 \uC790",
+        "Client": "\uACE0\uBA85\uD55C \uACA9\uD22C\uAC00",
+        "Description": "\uBCF4\uC774\uC9C0 \uC54A\uB294 \uC0C1\uB300\uC640 \uC2F8\uC6B0\uB294\r\n\uAE30\uC220\uC744 \uAC00\uB974\uCCD0 \uC8FC\uC9C0. \uC0C1\uB300\uC758\r\n\uACF5\uACA9\uC744 \uAE30\uB2E4\uB9AC\uB294 \uAC70\uB2E4. \uBCF4\uC774\uC9C0\r\n\uC54A\uC544\uB3C4 \uC6C0\uC9C1\uC774\uBA74 \uC18C\uB9AC\uB098 \uAE30\uCC99\uC774\r\n\uB098\uC9C0. \uCE68\uCC29\uD558\uAC8C \uD65C\uB85C\uB97C \uCC3E\uC544\uB77C.\r\n\u2026\uB098\uB294 \uC0AC\uB78C\uC744 \uC0C1\uB300\uD558\uB294 \uACA9\uD22C\uAC00.\r\n\uBAAC\uC2A4\uD130\uB294 \uC81C\uAD70\uC5D0\uAC8C \uB9E1\uAE30\uB9C8.",
+        "Target": "\uC624\uB098\uC988\uCE58 1\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u5982\u9727\u971E\u822C\u98C4\u6563\u7684\u5B58\u5728",
+        "Client": "\u8457\u540D\u7684\u6B66\u8853\u5BB6",
+        "Description": "\u8B93\u6211\u544A\u8A34\u4F60\u8A72\u5982\u4F55\u8207\u770B\u4E0D\u898B\u7684\r\n\u5C0D\u624B\u6230\u9B25\u5427\u3002\u7B54\u6848\u5C31\u662F\u7B49\u5F85\u7260\u767C\u52D5\r\n\u653B\u64CA\u3002\u5373\u4F7F\u80FD\u5920\u85CF\u533F\u8EAB\u5F62\uFF0C\u53EA\u8981\r\n\u6709\u6240\u52D5\u4F5C\uFF0C\u5B9A\u6703\u767C\u51FA\u8072\u97F3\u6216\u6563\u767C\u6C23\u606F\u3002\r\n\u4E00\u5B9A\u8981\u51B7\u975C\u4E0B\u4F86\u624D\u80FD\u627E\u51FA\u52DD\u6A5F\u2026\u2026\r\n\u6211\u662F\u4EE5\u4EBA\u985E\u70BA\u5C0D\u624B\u7684\u6B66\u8853\u5BB6\uFF0C\r\n\u9B54\u7269\u5C31\u4EA4\u7D66\u4F60\u5011\u8655\u7406\u5427\u3002",
+        "Target": "\u8A0E\u4F101\u982D\u971E\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u5982\u4E91\u96FE\u822C\u6D88\u6563\u4E4B\u4EBA",
+        "Client": "\u77E5\u540D\u7684\u6B66\u672F\u5BB6",
+        "Description": "\u6211\u6559\u4F60\u600E\u4E48\u8DDF\u770B\u4E0D\u89C1\u7684\u5BF9\u624B\u6218\u6597\u3002\r\n\u5C31\u7B49\u7740\u5BF9\u65B9\u653B\u8FC7\u6765\u3002\u5373\u4F7F\u770B\u4E0D\u5230\r\n\u5BF9\u624B\uFF0C\u4E5F\u80FD\u542C\u5230\u58F0\u97F3\u6216\u611F\u53D7\u5230\u6C14\r\n\u606F\u2026\u2026\u4F46\u6211\u53EA\u662F\u548C\u4EBA\u7C7B\u5BF9\u6218\u7684\u6B66\r\n\u672F\u5BB6\u3002\u602A\u7269\u5C31\u4EA4\u7ED9\u4F60\u4EEC\u4E86\u3002",
+        "Target": "\u8BA8\u4F101\u5934\u971E\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0644\u0627 \u062A\u062A\u0631\u0643 \u0623\u064A \u0623\u062B\u0631 \u0648\u0631\u0627\u0621\u0643",
+        "Client": "\u0645\u0645\u0627\u0631\u0633 \u0627\u0644\u0641\u0646\u0648\u0646 \u0627\u0644\u0642\u062A\u0627\u0644\u064A\u0629 \u0627\u0644\u0645\u0634\u0647\u0648\u0631 \u0639\u0627\u0644\u0645\u064A\u0651\u064B\u0627",
+        "Description": "\u0625\u0646\u0646\u064A \u0623\u0642\u0648\u0645 \u0628\u062A\u062F\u0631\u064A\u0633 \u0641\u0646 \u0645\u062D\u0627\u0631\u0628\u0629\r\n\u0627\u0644\u062E\u0635\u0645 \u0627\u0644\u062E\u0641\u064A. \u0627\u0628\u0642\u064E\r\n\u0647\u0627\u062F\u0626\u064B\u0627 \u062D\u062A\u0649 \u064A\u062A\u062E\u0644\u0649 \u0639\u062F\u0648\u0643\r\n\u0639\u0646 \u0645\u0648\u0642\u0639\u0647. \u0644\u0642\u062F\r\n\u062A\u062F\u0631\u0628\u062A \u0639\u0644\u0649 \u0645\u062D\u0627\u0631\u0628\u0629 \u0627\u0644\u0628\u0634\u0631\u060C \u0648\u0644\u064A\u0633 \u0627\u0644\u0648\u062D\u0648\u0634\u060C\r\n\u0644\u0630\u0627 \u0633\u0623\u062A\u0631\u0643 \u0627\u0644\u0648\u062D\u0648\u0634 \u0644\u0643.",
+        "Target": "\u0642\u062A\u0644 \u062A\u0634\u0627\u0645\u0644\u064A\u0648\u0633",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 3,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      1366,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 1366,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 47,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 107,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 93,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 20,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 102,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 82,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 30240,
+      "Points": 610,
+      "HRP": 1400
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      21,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 9,
+      "HealthTable": 128,
+      "AttackTable": 130,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

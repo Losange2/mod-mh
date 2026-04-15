@@ -1,0 +1,350 @@
+{
+  "QuestID": 315427,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u6EFE\u308B\u5F8C\u5BAE\u306E\u6A29\u529B\u3042\u3089\u305D\u3044",
+        "Client": "\u706B\u5C71\u5730\u5E2F\u306E\u8FBA\u5883\u8CB4\u65CF",
+        "Description": "\u5983\u8718\u86DB\u3068\u71BE\u5983\u8718\u86DB\u304C\u6EB6\u5CA9\u6D1E\u3067\u4E89\u3044\r\n\u3092\u7E70\u308A\u5E83\u3052\u3066\u3044\u308B\u3002\u540C\u5730\u306E\r\n\u30D2\u30A8\u30E9\u30EB\u30AD\u30FC\u3092\u5DE1\u3063\u305F\u4E89\u3044\u306B\u9055\u3044\r\n\u306A\u3044\u3002\u4EBA\u3082\u30E2\u30F3\u30B9\u30BF\u30FC\u3082\u968E\u7D1A\u306B\u56DA\r\n\u308F\u308C\u308B\u3068\u3001\u5468\u308A\u306E\u8FF7\u60D1\u306F\u304A\u69CB\u3044\u306A\r\n\u3057\u3002\u81F4\u3057\u65B9\u306A\u3044\u304C\u3053\u3053\u306F\u72E9\u731F\u3057\u3066\r\n\u843D\u3061\u7740\u304B\u305B\u3088\u3046\u3002\u983C\u3093\u3060\u305E\u3002",
+        "Target": "\u30E4\u30C4\u30AB\u30C0\u30AD\u4E9C\u7A2E\uFF11\u5339\u3068\u30E4\u30C4\u30AB\u30C0\u30AD\uFF11\u5339\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Power Struggle",
+        "Client": "Volcanic Region Noble",
+        "Description": "There\u0027s a rather fierce battle raging\r\nbetween a Rakna-Kadaki and a Pyre\r\nRakna-Kadaki. I suppose they\u0027re fighting\r\nover who holds sway over this territory.\r\nHmph. Foolish monsters. It is \u0022I\u0022 that\r\nholds sway! Go show those monsters\r\nwho the master of this land truly is! ",
+        "Target": "Hunt a Pyre Rakna-Kadaki\r\nand a Rakna-Kadaki",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Lutte pour le pouvoir",
+        "Client": "Noble de la r\u00E9gion volcanique",
+        "Description": "Un Rakna-Kadaki et un Rakna-Kadaki\r\nf\u00E9roce sont en plein combat aux\r\nCavernes de lave. Je suppose qu\u0027ils\r\nse battent pour r\u00E9gner sur\r\nle territoire... Apr\u00E8s tout, les\r\nhumains font pareil...\r\nTu veux bien nous aider ?",
+        "Target": "Chasser un Rakna-Kadaki de feu\r\net un Rakna-Kadaki",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Lotta di potere",
+        "Client": "Nobile vulcanico",
+        "Description": "Alle Caverne laviche c\u0027\u00E8 uno\r\nscontro tra un Rakna-Kadaki\r\ne un Rakna-Kadaki igneo.\r\nDeve trattarsi di una lotta di\r\npotere per il territorio. Noi\r\numani non siamo poi tanto\r\ndiversi... Ci dai una mano?",
+        "Target": "Caccia un Rakna-Kadaki igneo\r\ne un Rakna-Kadaki",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Machtkampf",
+        "Client": "Vulkanregion-Adliger",
+        "Description": "Da findet ein erbitterter Kampf\r\nzwischen einem Rakna-Kadaki und\r\neinem Pyro-Kadaki statt. Vermutlich\r\ndarum, wer \u00FCber dieses Gebiet\r\nherrscht. N\u00E4rrische Monster! ICH\r\ntue das! Zeige diesen Kreaturen,\r\nwer hier wirklich das Sagen hat!",
+        "Target": "Erjage einen Pyro-Kadaki\r\nund einen Rakna-Kadaki.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Pugna por el poder",
+        "Client": "Noble regi\u00F3n volc\u00E1nica",
+        "Description": "Se est\u00E1 dando un feroc\u00EDsimo combate\r\nentre un ejemplar de Rakna-Kadaki y\r\nun Rakna-Kadaki Pira, supongo que\r\npor motivos territoriales. Pfff. Ser\u00E1n\r\ntontos, \u00A1si el territorio es todo m\u00EDo!\r\n\u00A1Ve a demostrarle a esos monstruos\r\nqui\u00E9n manda aqu\u00ED!",
+        "Target": "Caza un Rakna-Kadaki Pira\r\ny un Rakna-Kadaki",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0411\u043E\u0440\u044C\u0431\u0430 \u0437\u0430 \u0432\u043B\u0430\u0441\u0442\u044C",
+        "Client": "\u0412\u0443\u043B\u043A\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0430\u0440\u0438\u0441\u0442\u043E\u043A\u0440\u0430\u0442",
+        "Description": "\u041C\u0435\u0436\u0434\u0443 \u0420\u0430\u043A\u043D\u0430-\u041A\u0430\u0434\u0430\u043A\u0438 \u0438 \u041F\u043B\u0430\u043C\u0435\u043D\u043D\u044B\u043C\r\n\u0420\u0430\u043A\u043D\u0430-\u041A\u0430\u0434\u0430\u043A\u0438 \u0431\u0443\u0448\u0443\u0435\u0442 \u044F\u0440\u043E\u0441\u0442\u043D\u044B\u0439\r\n\u0431\u043E\u0439. \u0412\u0438\u0434\u0438\u043C\u043E, \u0437\u0430 \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u044C \u043D\u0430\u0434\r\n\u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u0435\u0439. \u0413\u043B\u0443\u043F\u044B\u0435 \u043C\u043E\u043D\u0441\u0442\u0440\u044B.\r\n\u042D\u0442\u0438 \u0437\u0435\u043C\u043B\u0438 \u2014 \u043C\u043E\u0438! \u0418\u0434\u0438 \u0438 \u043F\u043E\u043A\u0430\u0436\u0438\r\n\u0438\u043C, \u043A\u0442\u043E \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0438\u0439 \u0445\u043E\u0437\u044F\u0438\u043D\r\n\u043E\u043A\u0440\u0435\u0441\u0442\u043D\u044B\u0445 \u0437\u0435\u043C\u0435\u043B\u044C. ",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u043F\u043B\u0430\u043C\u0435\u043D\u043D\u0443\u044E \u0420\u0430\u043A\u043D\u0443-\u041A\u0430\u0434\u0430\u043A\u0438 \u0438\r\n\u0420\u0430\u043A\u043D\u0443-\u041A\u0430\u0434\u0430\u043A\u0438",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "B\u00F3j o dominacj\u0119",
+        "Client": "Wulkaniczny szlachcic",
+        "Description": "Trwa do\u015B\u0107 zaci\u0119ta walka mi\u0119dzy\r\nRakna-Kadaki a Pyre\r\nRakna-Kadaki. Chyba walcz\u0105 o\r\ndominacj\u0119 na terytorium. Pffft.\r\nG\u0142upie potwory. To jest m\u00F3j\r\nteren! Poka\u017C tym potworom,\r\nkto jest prawdziwym panem! ",
+        "Target": "Upoluj Pyre Rakna-Kadaki i Rakna-Kadaki",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Luta Por Poder",
+        "Client": "Nobre Vulc\u00E2nico",
+        "Description": "Tem uma batalha feroz rolando\r\nentre um Rakna-Kadaki e um\r\nRakna-Kadaki P\u00EDrico. Acho que\r\nlutam pelo dom\u00EDnio do ter-\r\nrit\u00F3rio. Hmf. Que tolice. O\r\ndom\u00EDnio \u00E9 MEU! V\u00E1 mostrar a\r\neles quem manda aqui! ",
+        "Target": "Cace um Rakna-Kadaki P\u00EDrico\r\ne o Rakna-Kadaki",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uB4E4\uB053\uB294 \uD6C4\uAD81\uC758 \uAD8C\uB825 \uB2E4\uD23C",
+        "Client": "\uD654\uC0B0 \uC9C0\uB300\uC758 \uBCC0\uBC29 \uADC0\uC871",
+        "Description": "\uBE44\uC9C0\uC8FC\uC640 \uCE58\uBE44\uC9C0\uC8FC\uAC00 \uC6A9\uC554 \uB3D9\uAD74\r\n\uC5D0\uC11C \uB2E4\uD22C\uACE0 \uC788\uAD70. \uC601\uC5ED \uB0B4\uC758\r\n\uC11C\uC5F4\uC744 \uB450\uACE0 \uB2E4\uD22C\uB294 \uAC70\uACA0\uC9C0.\r\n\uC0AC\uB78C\uC774\uB4E0 \uBAAC\uC2A4\uD130\uB4E0 \uC774\uB7F0 \uC77C\uC5D0\uB294\r\n\uC8FC\uBCC0 \uC0C1\uD669\uC774 \uB208\uC5D0 \uB4E4\uC5B4\uC624\uC9C0\r\n\uC54A\uAC8C \uB418\uB294 \uBC95. \uC5B4\uCA54 \uC218 \uC5C6\uC9C0.\r\n\uC0AC\uB0E5\uD574\uC11C \uC9C4\uC815\uC2DC\uD0AC \uC218\uBC16\uC5D0.",
+        "Target": "\uC57C\uCE20\uCE74\uB2E4\uD0A4 \uC544\uC885 1\uB9C8\uB9AC\uC640\r\n\uC57C\uCE20\uCE74\uB2E4\uD0A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u6CB8\u9A30\u7684\u5F8C\u5BAE\u6B0A\u529B\u722D\u596A\u6230",
+        "Client": "\u706B\u5C71\u5730\u5E36\u7684\u908A\u5883\u8CB4\u65CF",
+        "Description": "\u5983\u8718\u86DB\u8207\u71BE\u5983\u8718\u86DB\u6B63\u5728\u7194\u5CA9\u6D1E\r\n\u5C0D\u6297\uFF0C\u6211\u60F3\u7260\u5011\u4E00\u5B9A\u662F\u5728\u722D\u596A\r\n\u8A72\u5730\u5340\u7684\u9AD8\u7B49\u968E\u7D1A\u5427\u3002\u4E0D\u8AD6\u662F\u4EBA\r\n\u9084\u662F\u9B54\u7269\uFF0C\u53EA\u8981\u4E00\u5C55\u958B\u968E\u7D1A\u9B25\u722D\r\n\u5C31\u6703\u7D66\u5468\u906D\u5E36\u4F86\u4E0D\u5C11\u9EBB\u7169\u3002\r\n\u6C92\u8FA6\u6CD5\u4E86\uFF0C\u62DC\u8A17\u4F60\u53BB\u72E9\u7375\u7260\u5011\uFF0C\r\n\u8B93\u9019\u88E1\u91CD\u7372\u5B89\u5BE7\u5427\u3002",
+        "Target": "\u72E9\u73751\u96BB\u71BE\u5983\u8718\u86DB\u82071\u96BB\u5983\u8718\u86DB",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u6CB8\u817E\u7684\u540E\u5BAB\u6743\u529B\u4E4B\u4E89",
+        "Client": "\u706B\u5C71\u5730\u5E26\u7684\u8FB9\u5883\u8D35\u65CF",
+        "Description": "\u5983\u8718\u86DB\u4E0E\u70BD\u5983\u8718\u86DB\u7684\u4E89\u6597\u6CE2\u53CA\u4E86\u6574\r\n\u4E2A\u7194\u5CA9\u6D1E\u3002\u5B83\u4EEC\u4E00\u5B9A\u662F\u5728\u4E89\u593A\u6B64\u5730\r\n\u7684\u6743\u529B\u738B\u5EA7\u3002\u4E0D\u7BA1\u662F\u4EBA\u8FD8\u662F\u602A\u7269\uFF0C\r\n\u4E00\u65E6\u53D7\u6743\u529B\u63A7\u5236\uFF0C\u5C31\u53EA\u4F1A\u7ED9\u5468\u56F4\u6DFB\r\n\u9EBB\u70E6\u3002\u6CA1\u529E\u6CD5\uFF0C\u53EA\u80FD\u72E9\u730E\u5B83\u4EEC\u4E86\uFF0C\r\n\u8BA9\u8FD9\u91CC\u6062\u590D\u5E73\u9759\u3002\u9EBB\u70E6\u4F60\u4E86\u3002",
+        "Target": "\u72E9\u730E1\u53EA\u70BD\u5983\u8718\u86DB\u548C1\u53EA\u5983\u8718\u86DB",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0635\u0631\u0627\u0639 \u0639\u0644\u0649 \u0627\u0644\u0633\u0644\u0637\u0629",
+        "Client": "\u0627\u0644\u0646\u0628\u064A\u0644 \u0627\u0644\u0628\u0631\u0643\u0627\u0646\u064A",
+        "Description": "\u0647\u0646\u0627\u0643 \u062D\u0631\u0628 \u0636\u0631\u0648\u0633\r\n\u0628\u064A\u0646 \u0631\u0627\u0643\u0646\u0627-\u0643\u0627\u062F\u0627\u0643\u064A \u0648\u0631\u0627\u0643\u0646\u0627-\u0643\u0627\u062F\u0627\u0643\u064A\r\n\u0627\u0644\u062D\u0627\u0631\u0642. \u0623\u0638\u0646 \u0623\u0646\u0647\u0645\u0627 \u064A\u062A\u0635\u0627\u0631\u0639\u0627\u0646 \u0639\u0644\u0649\r\n\u0645\u0646 \u0633\u064A\u0633\u064A\u0637\u0631 \u0639\u0644\u0649 \u0647\u0630\u0647 \u0627\u0644\u0645\u0646\u0637\u0642\u0629.\r\n\u0647\u0645\u0641. \u0648\u062D\u0648\u0634 \u063A\u0628\u064A\u0629. \u0022\u0623\u0646\u0627\u0022\r\n\u0627\u0644\u062D\u0627\u0643\u0645! \u0633\u0623\u0631\u064A \u0647\u0630\u0647 \u0627\u0644\u0648\u062D\u0648\u0634\r\n\u0645\u0646 \u0647\u0648 \u0627\u0644\u062D\u0627\u0643\u0645 \u0627\u0644\u062D\u0642\u064A\u0642\u064A \u0644\u0647\u0630\u0647 \u0627\u0644\u0623\u0631\u0636! ",
+        "Target": "\u0627\u0635\u0637\u062F \u0631\u0627\u0643\u0646\u0627-\u0643\u0627\u062F\u0627\u0643\u064A \u0627\u0644\u062D\u0627\u0631\u0642\r\n\u0648\u0631\u0627\u0643\u0646\u0627-\u0643\u0627\u062F\u0627\u0643\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 1,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      514,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 514,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 91,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 107,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 37,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 82,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 89,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 23,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 52560,
+      "Points": 1060,
+      "HRP": 1640
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      42,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 21,
+      "HealthTable": 124,
+      "AttackTable": 128,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 124,
+        "AttackTable": 128,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

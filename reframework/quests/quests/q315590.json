@@ -1,0 +1,350 @@
+{
+  "QuestID": 315590,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u9ED2\u306E\u4E2D\u306E\u767D",
+        "Client": "\u7814\u7A76\u54E1\u30D0\u30CF\u30EA",
+        "Description": "\u30B7\u30E3\u30AC\u30EB\u30DE\u30AC\u30E9\u304C\u57CE\u585E\u9AD8\u5730\u3067\r\n\u66B4\u8D70\u3057\u3066\u3044\u308B\u3089\u3057\u3044\u3002\u2026\u3067\u3001\u6642\u3092\r\n\u540C\u3058\u304F\u3057\u3066\u30AD\u30E5\u30EA\u30A2\u3089\u3057\u304D\u98DB\u884C\u4F53\r\n\u3082\u76EE\u6483\u3055\u308C\u3066\u3044\u308B\u3093\u3060\u3088\u306D\u3048\u3002\r\n\u3053\u306E\u4E21\u8005\u306B\u95A2\u4FC2\u304C\u3042\u308B\u304B\u3069\u3046\u304B\r\n\u308F\u304B\u3089\u306A\u3044\u3051\u3069\u3001\u3069\u3061\u3089\u3082\u7121\u8996\u306F\r\n\u3067\u304D\u306A\u3044\u554F\u984C\u3060\u3002\u8ABF\u67FB\u3092\u983C\u3080\u3088\uFF01",
+        "Target": "\u30B7\u30E3\u30AC\u30EB\u30DE\u30AC\u30E9\uFF11\u4F53\u306E\u8A0E\u4F10",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Dark Citadel, White Wheel",
+        "Client": "Bahari the Scientist",
+        "Description": "Hoo boy... There\u0027s a Shagaru\r\nMagala goin\u0027 nuts in the Citadel.\r\nFlyin\u0027 objects resembling Qurio\r\nhave also been spotted. I don\u0027t\r\nknow if the two are linked, but\r\nneither problem can be ignored.\r\nGo investigate!",
+        "Target": "Slay a Shagaru Magala",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "En noir et blanc",
+        "Client": "Bahari le scientifique",
+        "Description": "Il y a un Shagaru Magala\r\nfoldingo \u00E0 la Citadelle.\r\nEt des trucs volants ressemblant\r\n\u00E0 des Qurio. Je ne sais pas\r\nsi les deux sont li\u00E9s,\r\nmais il faut enqu\u00EAter.\r\nJe compte sur toi !",
+        "Target": "Tuer un Shagaru Magala",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Il bianco nel nero",
+        "Client": "Bahari lo scienziato",
+        "Description": "C\u0027\u00E8 uno Shagaru Magala a\r\npiede libero nella cittadella\r\ne sono stati avvistati oggetti\r\nvolanti simili ai Qurio. Non so\r\nse ci sia un collegamento, ma\r\nnon possiamo ignorare nessuno\r\ndi questi problemi. Indaga.",
+        "Target": "Uccidi uno Shagaru Magala",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Dunkle Zitadelle, Wei\u00DFes Rad",
+        "Client": "Bahari",
+        "Description": "Ein Shagaru Magala w\u00FCtet in der\r\nZitadelle. Es wurden fliegende\r\nObjekte gesichtet, die wie Qurio\r\naussehen. Ich wei\u00DF nicht, ob\r\nes eine Verbindung gibt, aber\r\nwir d\u00FCrfen keins der Probleme\r\nignorieren. Untersuche das!",
+        "Target": "Erlege einen Shagaru Magala.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Blancura en la negrura",
+        "Client": "Bahari, el cient\u00EDfico",
+        "Description": "Hay un Shagaru Magala en el\r\nBasti\u00F3n arm\u00E1ndola. Tambi\u00E9n se\r\nhan visto objetos voladores\r\nque podr\u00EDan ser Qurio. No s\u00E9\r\nsi hay relaci\u00F3n, pero no\r\npodemos ignorar ninguna de las\r\ndos situaciones.",
+        "Target": "Abate un Shagaru Magala",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0411\u0435\u043B\u043E\u0435 \u0432 \u0447\u0435\u0440\u043D\u043E\u043C",
+        "Client": "\u0423\u0447\u0435\u043D\u044B\u0439 \u0411\u0430\u0445\u0430\u0440\u0438",
+        "Description": "\u0412 \u0426\u0438\u0442\u0430\u0434\u0435\u043B\u0438 \u0441\u0432\u0438\u0440\u0435\u043F\u0441\u0442\u0432\u0443\u044E\u0442 \u0428\u0430\u0433\u0430\u0440\u0443\r\n\u041C\u0430\u0433\u0430\u043B\u044B. \u0422\u0430\u043A\u0436\u0435 \u0431\u044B\u043B\u0438 \u0437\u0430\u043C\u0435\u0447\u0435\u043D\u044B\r\n\u043B\u0435\u0442\u0430\u044E\u0449\u0438\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0430, \u043F\u043E\u0445\u043E\u0436\u0438\u0435 \u043D\u0430\r\n\u041A\u0443\u0440\u0438\u043E. \u041D\u0435 \u0437\u043D\u0430\u044E, \u0435\u0441\u0442\u044C \u043B\u0438 \u0442\u0443\u0442\r\n\u0441\u0432\u044F\u0437\u044C, \u043D\u043E \u0438\u0433\u043D\u043E\u0440\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u0442\u0430\u043A\u0438\u0435\r\n\u043F\u0440\u043E\u0431\u043B\u0435\u043C\u044B \u043D\u0435\u043B\u044C\u0437\u044F. \u0417\u0430\u0439\u043C\u0438\u0441\u044C \u044D\u0442\u0438\u043C!",
+        "Target": "\u0423\u0431\u0438\u0442\u044C \u0428\u0430\u0433\u0430\u0440\u0443 \u041C\u0430\u0433\u0430\u043B\u0443",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Bia\u0142y w czarnym",
+        "Client": "Naukowiec Bahari",
+        "Description": "Shagaru Magale szalej\u0105 w\r\nCytadeli. Widziano te\u017C co\u015B\r\npodobnego do Qurio. Nie wiem,\r\nczy co\u015B je \u0142\u0105czy, ale nie\r\nmo\u017Cemy tego zignorowa\u0107.\r\nId\u017A to zbadaj!",
+        "Target": "Zabij Shagaru Magal\u0119",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "O Branco no Preto",
+        "Client": "Bahari, o Cientista",
+        "Description": "Shagarus Magalas correm soltos\r\npelo Forte. Objetos voadores\r\nque parecem Qurio tamb\u00E9m foram\r\nvistos. N\u00E3o sei se est\u00E3o\r\nconectados, mas n\u00E3o podemos\r\nignor\u00E1-los. V\u00E1 investigar!",
+        "Target": "Mate um Shagaru Magala",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uD751 \uC18D\uC758 \uBC31",
+        "Client": "\uC5F0\uAD6C\uC6D0 \uBC14\uD558\uB9AC",
+        "Description": "\uC0E4\uAC00\uB974\uB9C8\uAC00\uB77C\uAC00 \uC694\uC0C8\uACE0\uC6D0\uC5D0\uC11C\r\n\uD3ED\uC8FC\uD558\uACE0 \uC788\uC5B4\u2026 \uADF8\uB7F0\uB370 \uB3D9\uC2DC\uC5D0\r\n\uD050\uB9AC\uC544\uB85C \uCD94\uC815\uB418\uB294 \uBE44\uD589\uCCB4\uB3C4\r\n\uBAA9\uACA9\uB418\uACE0 \uC788\uB2E4\uACE0 \uD574.\r\n\uADF8 \uB458\uC774 \uAD00\uACC4\uAC00 \uC788\uB294\uC9C0\uB294\r\n\uBAA8\uB974\uACA0\uC9C0\uB9CC, \uB458 \uB2E4 \uBB34\uC2DC\uD560 \uC218\r\n\uC5C6\uB294 \uBB38\uC81C\uC57C. \uC870\uC0AC\uB97C \uBD80\uD0C1\uD574!",
+        "Target": "\uC0E4\uAC00\uB974\uB9C8\uAC00\uB77C 1\uB9C8\uB9AC \uD1A0\uBC8C",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u9ED1\u4E2D\u4E4B\u767D",
+        "Client": "\u5DF4\u8D6B\u91CC\u7814\u7A76\u54E1",
+        "Description": "\u4F3C\u4E4E\u6709\u96BB\u5929\u8FF4\u9F8D\u5728\u57CE\u585E\u9AD8\u5730\r\n\u5931\u63A7\u4E86\u2026\u2026\u8207\u6B64\u540C\u6642\uFF0C\u4E5F\u6709\u4EBA\r\n\u76EE\u64CA\u5230\u7591\u4F3C\u566C\u751F\u87F2\u7684\u98DB\u884C\u7269\u9AD4\u3002\r\n\u4E0D\u6E05\u695A\u9019\u5169\u8005\u4E4B\u9593\u6709\u4EC0\u9EBC\u95DC\u806F\uFF0C\r\n\u4F46\u5169\u4EF6\u4E8B\u90FD\u7121\u6CD5\u7F6E\u4E4B\u4E0D\u7406\u3002\r\n\u9019\u4EF6\u4E8B\u5C31\u9EBB\u7169\u4F60\u8ABF\u67E5\u4E86\uFF01",
+        "Target": "\u8A0E\u4F101\u982D\u5929\u8FF4\u9F8D",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u9ED1\u4E2D\u4E4B\u767D",
+        "Client": "\u7814\u7A76\u5458\u5DF4\u54C8\u91CC",
+        "Description": "\u5929\u5EFB\u9F99\u597D\u50CF\u5728\u57CE\u585E\u9AD8\u5730\u56DB\u5904\u4F5C\u4E71\u3002\r\n\u2026\u2026\u540C\u65F6\u4E5F\u76EE\u51FB\u5230\u4E86\u8C8C\u4F3C\u662F\u556E\u751F\u866B\r\n\u7684\u98DE\u884C\u751F\u7269\u3002\u867D\u7136\u4E0D\u77E5\u9053\u4E24\u8005\u4E4B\u95F4\r\n\u6709\u6CA1\u6709\u5173\u8054\uFF0C\u4F46\u54EA\u4E2A\u90FD\u6CA1\u6CD5\u7F6E\u4E4B\u4E0D\r\n\u7406\u3002\u9EBB\u70E6\u4F60\u53BB\u8C03\u67E5\uFF01",
+        "Target": "\u8BA8\u4F101\u5934\u5929\u5EFB\u9F99",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0623\u0628\u064A\u0636 \u0641\u064A \u0627\u0644\u0623\u0633\u0648\u062F",
+        "Client": "\u0628\u0647\u0627\u0631\u064A \u0627\u0644\u0639\u0627\u0644\u0650\u0645",
+        "Description": "\u062A\u0631\u0643\u0636 \u0648\u062D\u0648\u0634 \u0634\u0627\u062C\u0627\u0631\u0648 \u0645\u0627\u062C\u0627\u0644\u0627\r\n\u0628\u062C\u0645\u0648\u062D \u0641\u064A \u0627\u0644\u0642\u0644\u0639\u0629. \u0643\u0645\u0627 \u062A\u0645 \u0631\u0635\u062F\r\n\u0643\u0627\u0626\u0646\u0627\u062A \u0637\u0627\u0626\u0631\u0629 \u062A\u0634\u0628\u0629 \u0627\u0644\u0643\u0648\u0631\u064A\u0648.\r\n\u0644\u0627 \u0623\u0639\u0644\u0645\r\n\u0645\u0627 \u0625\u0630\u0627 \u0643\u0627\u0646 \u0627\u0644\u0627\u062B\u0646\u0627\u0646 \u0645\u0631\u062A\u0628\u0637\u064A\u0646\u060C \u0644\u0643\u0646\r\n\u0644\u0627 \u064A\u0645\u0643\u0646 \u062A\u062C\u0627\u0647\u0644 \u0623\u064A \u0645\u0646 \u0647\u0627\u062A\u064A\u0646\r\n\u0627\u0644\u0645\u0634\u0643\u0644\u062A\u064A\u0646. \u0627\u0630\u0647\u0628 \u0648\u062A\u062D\u0642\u0651\u064E\u0642!",
+        "Target": "\u0627\u0642\u062A\u0644 \u0634\u0627\u062C\u0627\u0631\u0648 \u0645\u0627\u062C\u0627\u0644\u0627",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 10,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      2073,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 2073,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 0,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 30960,
+      "Points": 620,
+      "HRP": 1420
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      112,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 0,
+      "HealthTable": 128,
+      "AttackTable": 130,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 128,
+        "AttackTable": 130,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

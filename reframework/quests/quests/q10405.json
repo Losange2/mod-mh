@@ -1,0 +1,350 @@
+{
+  "QuestID": 10405,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u30B0\u30EB\u30E1\u30FB\u30E2\u30F3\u30B9\u30BF\u30FC\u30BA",
+        "Client": "\u8FB2\u5712\u304B\u3089\u306E\u884C\u5546\u4EBA",
+        "Description": "\u3084\u3060\u3082\u3046\uFF01\u3000\u56F0\u3063\u3061\u3083\u3046\u308F\uFF01\r\n\u4F55\u3067\u3088\u308A\u306B\u3088\u3063\u3066\u3001\u30A2\u30AA\u30A2\u30B7\u30E9\u3068\r\n\u30AF\u30EB\u30EB\u30E4\u30C3\u30AF\u304C\u4E00\u7DD2\u306B\u5C45\u308B\u306E\uFF01\uFF1F\r\n\u3053\u306E\u307E\u307E\u3058\u3083\u3001\u30CF\u30C1\u30DF\u30C4\u3084\u5375\u304C\r\n\u904B\u3079\u306A\u3044\u3058\u3083\u306A\u3044\uFF01\r\n\u3053\u306E\u91CC\u306B\u306F\u304A\u5F97\u610F\u69D8\u304C\u5C45\u308B\u306E\u306B\u3002\r\n\u304A\u9858\u3044\u3001\uFF12\u982D\u3068\u3082\u5012\u3057\u3061\u3083\u3063\u3066\uFF01",
+        "Target": "\u30A2\u30AA\u30A2\u30B7\u30E9\uFF11\u982D\u3068\u30AF\u30EB\u30EB\u30E4\u30C3\u30AF\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "Divine Comedy",
+        "Client": "Agricultural Trader",
+        "Description": "You\u0027re kidding me! Why\u0027s there\r\ngotta be an Arzuros AND a\r\nKulu-Ya-Ku on my route when\r\nI\u0027ve got honey and eggs to\r\ndeliver!? Is this some kind of\r\npunishment from the gods!?",
+        "Target": "Hunt an Arzuros and a Kulu-Ya-Ku",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Divine com\u00E9die",
+        "Client": "Marchande agricole",
+        "Description": "Un Arzuros ET un\r\nKulu-Ya-Ku sur ma route alors\r\nque je dois livrer du miel et\r\ndes \u0153ufs ? C\u0027est une blague ?\r\nQuelqu\u0027un m\u0027a maudit ou quoi ?!",
+        "Target": "Chasser un Arzuros et un Kulu-Ya-Ku",
+        "Fail": "Prime \u00E0 0 ou temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "La Divina commedia",
+        "Client": "Mercante agricola",
+        "Description": "Incredibile! Mi sono ritrovata\r\nun Arzuros e un Kulu-Ya-Ku\r\nsulla mia strada proprio\r\nquando dovevo consegnare miele\r\ne uova! Cos\u0027\u00E8, una specie\r\ndi punizione divina?!",
+        "Target": "Caccia un Arzuros e un Kulu-Ya-Ku",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "G\u00F6ttliche Kom\u00F6die",
+        "Client": "Landwirtin",
+        "Description": "Das darf nicht wahr sein! Ein\r\nArzuros UND ein Kulu-Ya-Ku\r\nausgerechnet auf dem Weg, auf\r\ndem ich Honig und Eier liefern\r\nmuss?! Ist das eine Strafe der\r\nG\u00F6tter oder so was?",
+        "Target": "Erjage einen Arzuros und\r\neinen Kulu-Ya-Ku.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "Divina comedia",
+        "Client": "Comerciante agr\u00EDcola",
+        "Description": "\u00A1Esto tiene que ser una broma!\r\nTengo que llevar huevos y miel\r\na un cliente, \u00A1pero hay un\r\nArzuros y un Kulu-Ya-Ku en mi\r\nruta! \u00A1\u00BFQu\u00E9 he hecho yo para\r\nmerecer un castigo as\u00ED?!",
+        "Target": "Caza un Arzuros y un Kulu-Ya-Ku",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0411\u043E\u0436\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043A\u043E\u043C\u0435\u0434\u0438\u044F",
+        "Client": "\u0422\u043E\u0440\u0433\u043E\u0432\u043A\u0430 \u0435\u0434\u043E\u0439",
+        "Description": "\u0414\u0430 \u0432\u044B \u0448\u0443\u0442\u0438\u0442\u0435? \u041F\u043E\u0447\u0435\u043C\u0443 \u0443 \u043C\u0435\u043D\u044F\r\n\u043D\u0430 \u0434\u043E\u0440\u043E\u0433\u0435 \u0441\u0440\u0430\u0437\u0443 \u0438 \u0410\u0440\u0437\u0443\u0440\u043E\u0441, \u0438\r\n\u041A\u0443\u043B\u0443-\u0419\u0430-\u041A\u0443, \u043C\u043D\u0435 \u0432\u0435\u0434\u044C \u043D\u0430\u0434\u043E\r\n\u0434\u043E\u0441\u0442\u0430\u0432\u0438\u0442\u044C \u043C\u0435\u0434 \u0438 \u044F\u0439\u0446\u0430?! \u0411\u043E\u0433\u0438\r\n\u043C\u0435\u043D\u044F \u043D\u0430\u043A\u0430\u0437\u044B\u0432\u0430\u044E\u0442, \u0447\u0442\u043E \u043B\u0438?!",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u0410\u0440\u0437\u0443\u0440\u043E\u0441\u0430 \u0438 \u041A\u0443\u043B\u0443-\u0419\u0430-\u041A\u0443",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Boska komedia",
+        "Client": "Rolniczka",
+        "Description": "To jaki\u015B \u017Cart! Akurat na mojej\r\ndrodze musi by\u0107 Arzuros\r\ni Kulu-Ya-Ku?! Kiedy mam do\r\ndostarczenia mi\u00F3d i jajka?!\r\nCzy to jaka\u015B kara boska?",
+        "Target": "Upoluj Arzurosa i Kulu-Ya-Ku",
+        "Fail": "Nagroda = 0 lub koniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Divina Com\u00E9dia",
+        "Client": "Mercadora agr\u00EDcola",
+        "Description": "S\u00F3 pode ser brincadeira! Por\r\nque surgiram um Arzuros e um\r\nKulu-Ya-Ku no meu caminho,\r\nbem quando tenho mel e ovos\r\npra entregar?! Isso \u00E9 algum\r\ncastigo dos deuses?!",
+        "Target": "Cace um Arzuros e um Kulu-Ya-Ku",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uBBF8\uC2DD \uBAAC\uC2A4\uD130\uC988",
+        "Client": "\uB18D\uC7A5\uC5D0\uC11C \uC628 \uD589\uC0C1\uC778",
+        "Description": "\uC544, \uC815\uB9D0 \uBABB \uC0B4\uACA0\uB124!\r\n\uC65C \uD558\uD544 \uC544\uC624\uC544\uC2DC\uB77C\uC640\r\n\uCFE0\uB8E8\uB8E8\uC57C\uD06C\uAC00 \uAC19\uC774 \uC788\uB294 \uAC70\uC57C?!\r\n\uC774\uB798\uC11C\uC57C \uBC8C\uAFC0\uB3C4 \uC54C\uB3C4 \uC804\uD600\r\n\uC62E\uAE38 \uC218\uAC00 \uC5C6\uC796\uC544! \uC774 \uB9C8\uC744\uC5D4\r\n\uB2E8\uACE8 \uC190\uB2D8\uC774 \uC788\uB294\uB370\u2026 \uADF8\uB7EC\uB2C8\uAE4C\r\n\uBD80\uD0C1\uC774\uC57C! \uADF8 \uB458\uC744 \uC4F0\uB7EC\uB728\uB824 \uC918!",
+        "Target": "\uC544\uC624\uC544\uC2DC\uB77C 1\uB9C8\uB9AC\uC640\r\n\uCFE0\uB8E8\uB8E8\uC57C\uD06C 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u9B54\u7269\u4E2D\u7684\u8001\u9955\u5011",
+        "Client": "\u4F86\u81EA\u8FB2\u5712\u7684\u65C5\u884C\u5546\u4EBA",
+        "Description": "\u771F\u8A0E\u53AD\uFF01\u9019\u4E0B\u50B7\u8166\u7B4B\u4E86\uFF01\r\n\u600E\u9EBC\u597D\u6B7B\u4E0D\u6B7B\uFF0C\r\n\u9752\u718A\u7378\u548C\u6414\u9CE5\u4E00\u8D77\u51FA\u73FE\u4E86\uFF01\uFF1F\r\n\u9019\u6A23\u4E0B\u53BB\uFF0C\u6211\u4E0D\u5C31\u6C92\u8FA6\u6CD5\r\n\u904B\u9001\u8702\u871C\u548C\u96DE\u86CB\u4E86\u55CE\uFF01\r\n\u4F46\u662F\u6751\u88E1\u6709\u6211\u7684\u8001\u5BA2\u6236\u5728\u554A\u2026\u2026\r\n\u62DC\u8A17\uFF0C\u8ACB\u6253\u5012\u90A32\u982D\u9B54\u7269\uFF01",
+        "Target": "\u72E9\u73751\u982D\u9752\u718A\u7378\u82071\u982D\u6414\u9CE5",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u602A\u7269\u7F8E\u98DF\u5BB6",
+        "Client": "\u519C\u573A\u6765\u7684\u6E38\u5546",
+        "Description": "\u771F\u662F\u7684\uFF01\u4F24\u8111\u7B4B\uFF01\r\n\u4E3A\u4EC0\u4E48\u504F\u504F\u662F\u9752\u718A\u517D\r\n\u548C\u6414\u9E1F\u5728\u4E00\u8D77\u554A\uFF01\uFF1F\r\n\u8FD9\u6837\u4E0B\u53BB\uFF0C\u4E0D\u5C31\u8FD0\u4E0D\u4E86\r\n\u8702\u871C\u548C\u86CB\u4E86\u5417\uFF01\r\n\u8FD9\u6751\u5B50\u91CC\u8FD8\u6709\u8001\u4E3B\u987E\u5728\u554A\u3002\r\n\u62DC\u6258\u4E86\uFF0C\u8BF7\u53BB\u6253\u5012\u90A3\u4E24\u5934\u602A\u7269\uFF01",
+        "Target": "\u72E9\u730E1\u5934\u9752\u718A\u517D\u548C1\u5934\u6414\u9E1F",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0627\u0644\u0643\u0648\u0645\u064A\u062F\u064A\u0627 \u0627\u0644\u0639\u0638\u064A\u0645\u0629",
+        "Client": "\u062A\u0627\u062C\u0631 \u0632\u0631\u0627\u0639\u064A",
+        "Description": "\u003CLSNR {\u0623\u062A\u0645\u0632\u062D} {\u0623\u062A\u0645\u0632\u062D\u064A\u0646}\u003E \u0645\u0639\u064A! \u0644\u0645\u0627\u0630\u0627 \u064A\u062C\u0628 \u0623\u0646\r\n\u064A\u0643\u0648\u0646 \u0647\u0646\u0627\u0643 \u0623\u0631\u0632\u0648\u0631\u0648\u0633 \u0648\u0643\u0648\u0644\u0648-\u064A\u0627-\u0643\u0648\r\n\u0641\u064A \u0637\u0631\u064A\u0642\u064A \u0639\u0646\u062F\u0645\u0627 \u064A\u0643\u0648\u0646 \u0644\u062F\u064A\r\n\u0639\u0633\u0644 \u0648\u0628\u064A\u0636\r\n\u0644\u062A\u0648\u0635\u064A\u0644\u0647!\u061F \u0647\u0644 \u0647\u0630\u0627 \u0646\u0648\u0639 \u0645\u0646\r\n\u0627\u0644\u0639\u0642\u0627\u0628 \u0645\u0646 \u0627\u0644\u0639\u0638\u0645\u0627\u0621!\u061F",
+        "Target": "\u0635\u064A\u062F \u0623\u0631\u0632\u0648\u0631\u0648\u0633 \u0648\u0643\u0648\u0644\u0648-\u064A\u0627-\u0643\u0648",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 4,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      4,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      54,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 54,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 32,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 3,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 98,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 98,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 42,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 24,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 5760,
+      "Points": 120,
+      "HRP": 340
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      14,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 5,
+      "HealthTable": 97,
+      "AttackTable": 79,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 97,
+        "AttackTable": 79,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}

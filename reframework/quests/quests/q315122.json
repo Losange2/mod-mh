@@ -1,0 +1,350 @@
+{
+  "QuestID": 315122,
+  "QuestText": {
+    "QuestInfo": [
+      {
+        "Language": "JPN",
+        "Name": "\u30A6\u30EB\u30AF\u30B9\u30B9\u3001\u767D\u3044\u3067\u3059",
+        "Client": "\u8A9E\u5B66\u52C9\u5F37\u4E2D\u306E\u7814\u7A76\u54E1",
+        "Description": "\u30A6\u30EB\u30AF\u30B9\u30B9\uFF11\u982D\u3001\u72E9\u731F\u983C\u307F\u307E\u3059\u3002\r\n\u30A6\u30EB\u30AF\u30B9\u30B9\u3001\u96EA\u306E\u584A\u3001\u6295\u3052\u307E\u3059\u3002\r\n\u96EA\u53D7\u3051\u305F\u5F8C\u3001\u7FD4\u87F2\u30B2\u30FC\u30B8\u5143\u6C17\u306A\u308B\r\n\u9045\u3044\u306A\u3063\u3066\u3001\u5371\u306A\u3044\u3067\u3059\u3002\r\n\u30A6\u30EB\u30AF\u30B9\u30B9\u3001\u8033\u3067\u826F\u3044\u3067\u3059\u304B\u3089\u3001\r\n\u97F3\u306E\u7389\u4F7F\u3046\u306F\u3001\u304D\u3063\u3068\u826F\u3044\u3067\u3059\u3002\r\n\u305C\u3072\u6301\u3063\u3066\u3044\u304F\u3001\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
+        "Target": "\u30A6\u30EB\u30AF\u30B9\u30B9\uFF11\u982D\u306E\u72E9\u731F",
+        "Fail": "\u5831\u916C\u91D1\u30BC\u30ED\r\n\u30BF\u30A4\u30E0\u30A2\u30C3\u30D7"
+      },
+      {
+        "Language": "ENG",
+        "Name": "The Good, the Bad, and Lagombi",
+        "Client": "Linguistic Researcher",
+        "Description": "Hunter, good... Lagombi, bad...\r\nWirebugs, good...\r\nSnowball, bad...\r\nBig ears, good...\r\nSonic Bomb, bad...\r\nMany bombs, good...\r\nForget bombs, bad...",
+        "Target": "Hunt a Lagombi",
+        "Fail": "Reward hits 0, or time expires"
+      },
+      {
+        "Language": "FRE",
+        "Name": "Le bon, la brute, et le Lagombi",
+        "Client": "Chercheur linguistique",
+        "Description": "Toi chasser Lagombi.\r\nLagombi jeter neige.\r\nNeige am\u00E9liorer jauge Filopt\u00E8re.\r\nDoucement, dangereux.\r\nLagombi, super oreilles.\r\nBoules de son, bonne id\u00E9e.\r\nToi en rapporter.",
+        "Target": "Chasser un Lagombi",
+        "Fail": "Prime \u00E0 0/Temps expir\u00E9"
+      },
+      {
+        "Language": "ITA",
+        "Name": "Lagombi, bianco",
+        "Client": "Ricercatrice linguistica",
+        "Description": "Mi servi, caccia un Lagombi.\r\nLagombi, tira palle di neve.\r\nDopo neve, barra insetto filo\r\npi\u00F9 carica. Lento, pericoloso.\r\nLagombi, ottimo udito. Usare\r\nbombe sonore, buona idea.\r\nPortane alcune, per favore.",
+        "Target": "Caccia un Lagombi",
+        "Fail": "Premio a zero o tempo scaduto"
+      },
+      {
+        "Language": "GER",
+        "Name": "Spiel mir das Lied vom Lagombi",
+        "Client": "Sprachforscher",
+        "Description": "J\u00E4ger, gut... Lagombi,\r\nschlecht... Seilk\u00E4fer, gut...\r\nSchneeball, schlecht...\r\nGro\u00DFe Ohren, gut...\r\nSchallbombe, schlecht...\r\nViele Bomben, gut...\r\nBomben vergessen, schlecht...",
+        "Target": "Erjage einen Lagombi.",
+        "Fail": "Belohnung auf 0 oder Zeit\r\nl\u00E4uft ab."
+      },
+      {
+        "Language": "SPA",
+        "Name": "El bueno, el feo y el Lagombi",
+        "Client": "Investigadora ling\u00FCista",
+        "Description": "\u003CLSNR {Cazador, bueno.} {Cazadora, buena.}\u003E Lagombi, malo.\r\nCord\u00F3pteros, buenos...\r\nBolas de nieve, malas...\r\nOrejas grandes, buenas...\r\nBomba s\u00F3nica, mala...\r\nMuchas bombas, bueno...\r\nOlvidarse bombas, malo...",
+        "Target": "Caza un Lagombi",
+        "Fail": "La recompensa cae a 0\r\no se acaba el tiempo"
+      },
+      {
+        "Language": "RUS",
+        "Name": "\u0411\u0435\u043B\u044B\u0439 \u041B\u0430\u0433\u043E\u043C\u0431\u0438",
+        "Client": "\u041B\u0438\u043D\u0433\u0432\u0438\u0441\u0442-\u0438\u0441\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C",
+        "Description": "\u041D\u0443\u0436\u043D\u0430 \u043F\u043E\u043C\u043E\u0449\u044C, \u043E\u0445\u043E\u0442\u0430 \u043D\u0430 \u041B\u0430\u0433\u043E\u043C-\r\n\u0431\u0438. \u041B\u0430\u0433\u043E\u043C\u0431\u0438, \u043A\u0438\u0434\u0430\u0442\u044C \u0441\u043D\u0435\u0436\u043A\u0438.\r\n\u041F\u043E\u0441\u043B\u0435 \u0441\u043D\u0435\u0433\u0430, \u0448\u043A\u0430\u043B\u0430 \u041F\u0440\u0443\u0442\u043E\u0436\u0443\u043A\u0430\r\n\u043B\u0443\u0447\u0448\u0435. \u041C\u0435\u0434\u043B\u0435\u043D\u043D\u043E, \u043E\u043F\u0430\u0441\u043D\u043E. \u041B\u0430-\r\n\u0433\u043E\u043C\u0431\u0438, \u0447\u0443\u0442\u043A\u0438\u0439 \u0441\u043B\u0443\u0445. \u041F\u0440\u0438\u043C\u0435\u043D\u0438\u0442\u044C\r\n\u0437\u0432\u0443\u043A\u043E\u0432\u044B\u0435 \u0448\u0430\u0440\u044B, \u0445\u043E\u0440\u043E\u0448\u0430\u044F \u0438\u0434\u0435\u044F.\r\n\u041F\u0440\u0438\u043D\u0435\u0441\u0438\u0442\u0435 \u043D\u0435\u043C\u043D\u043E\u0433\u043E, \u043F\u0440\u043E\u0448\u0443.",
+        "Target": "\u0412\u044B\u0441\u043B\u0435\u0434\u0438\u0442\u044C \u041B\u0430\u0433\u043E\u043C\u0431\u0438",
+        "Fail": "\u0421\u0447\u0435\u0442\u0447\u0438\u043A \u043D\u0430\u0433\u0440\u0430\u0434\u044B \u0434\u043E\u0445\u043E\u0434\u0438\u0442 \u0434\u043E 0\r\n\u0438\u043B\u0438 \u0438\u0441\u0442\u0435\u043A\u0430\u0435\u0442 \u0432\u0440\u0435\u043C\u044F"
+      },
+      {
+        "Language": "POL",
+        "Name": "Bia\u0142y Lagombi",
+        "Client": "Lingwistyczna badaczka",
+        "Description": "Trzeba ciebie, \u0142owi\u0107 Lagombi.\r\nLagombi rzuca\u0107 \u015Bniegiem. Po\r\n\u015Bniegu kablobaka pasek\r\nlepszy. Powoli, bo\r\nniebezpiecznie. Lagombi\r\ndobrze s\u0142ysze\u0107. U\u017Cywa\u0107 kulki\r\nd\u017Awi\u0119ku, dobrze. Przynie\u015B.",
+        "Target": "Upoluj Lagombiego",
+        "Fail": "Nagroda r\u00F3wna 0 lub\r\nkoniec czasu"
+      },
+      {
+        "Language": "POR",
+        "Name": "Lagombi, Branco",
+        "Client": "Pesquisadora Lingu\u00EDstica",
+        "Description": "Precisa voc\u00EA, ca\u00E7a Lagombi.\r\nLagombi, joga bola neve.\r\nDepois neve, Barra Cabinseto\r\nmelhor. Lento, perigoso.\r\nLagombi, bem escuta. Usa bola\r\nbarulho, ideia boa. Traz\r\nmais, por favor.",
+        "Target": "Cace um Lagombi",
+        "Fail": "A recompensa chega a 0\r\nou o tempo expira"
+      },
+      {
+        "Language": "KOR",
+        "Name": "\uC6B8\uD06C\uC2A4\uC2A4, \uD558\uC597\uC2B5\uB2C8\uB2E4",
+        "Client": "\uC5B4\uD559 \uACF5\uBD80 \uC911\uC778 \uC5F0\uAD6C\uC6D0",
+        "Description": "\uC6B8\uD06C\uC2A4\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5\r\n\uBD80\uD0C1\uB4DC\uB9BD\uB2C8\uB2E4. \uC6B8\uD06C\uC2A4\uC2A4,\r\n\uB208\uB369\uC774 \uB358\uC9D1\uB2C8\uB2E4. \uB208\uC5D0 \uB2F9\uD558\uBA74\r\n\uBC27\uC904\uBC8C\uB808 \uAC8C\uC774\uC9C0 \uD68C\uBCF5\r\n\uB290\uB824\uC838\uC11C \uC704\uD5D8\uD569\uB2C8\uB2E4.\r\n\uC6B8\uD06C\uC2A4\uC2A4, \uADC0\uAC00 \uBC1D\uC544 \uC18C\uB9AC \uAD6C\uC2AC\r\n\uC88B\uC2B5\uB2C8\uB2E4. \uAF2D \uCC59\uACA8 \uAC00\uC138\uC694.",
+        "Target": "\uC6B8\uD06C\uC2A4\uC2A4 1\uB9C8\uB9AC \uC0AC\uB0E5",
+        "Fail": "\uBCF4\uC218\uAE08 0\r\n\uC2DC\uAC04 \uCD08\uACFC"
+      },
+      {
+        "Language": "ZHT",
+        "Name": "\u767D\u5154\u7378\uFF0C\u5F88\u767D",
+        "Client": "\u6B63\u5728\u5B78\u7FD2\u8A9E\u8A00\u7684\u7814\u7A76\u54E1",
+        "Description": "\u8ACB\u53BB\u72E9\u7375\uFF0C1\u982D\u767D\u5154\u7378\u3002\r\n\u767D\u5154\u7378\uFF0C\u4E1F\u96EA\u584A\u3002\r\n\u88AB\u96EA\u4E1F\u5230\uFF0C\u7FD4\u87F2\u8A08\u91CF\u8868\uFF0C\r\n\u56DE\u5FA9\u8B8A\u6162\uFF0C\u5F88\u5371\u96AA\u3002\r\n\u767D\u5154\u7378\uFF0C\u8033\u6735\u5F88\u597D\uFF0C\r\n\u4F7F\u7528\u97F3\u7403\uFF0C\u4E00\u5B9A\u6709\u6548\u3002\r\n\u8ACB\u4F60\uFF0C\u52D9\u5FC5\u5E36\u53BB\u3002",
+        "Target": "\u72E9\u73751\u982D\u767D\u5154\u7378",
+        "Fail": "\u5831\u916C\u91D10\r\n\u6642\u9593\u7D50\u675F"
+      },
+      {
+        "Language": "ZHS",
+        "Name": "\u767D\u5154\u517D\uFF0C\u767D\u53C8\u767D",
+        "Client": "\u6B63\u5728\u5B66\u4E60\u5916\u8BED\u7684\u7814\u7A76\u5458",
+        "Description": "\u8BF7\u72E9\u730E\u4E00\u5934\u767D\u5154\u517D\u3002\u767D\u5154\u517D\uFF0C\u6254\u96EA\r\n\u5757\u3002\u6254\u5230\u96EA\u540E\uFF0C\u7FD4\u866B\u69FD\u597D\u5F97\u6162\uFF0C\u5371\r\n\u9669\u3002\u767D\u5154\u517D\u597D\u8033\u6735\uFF0C\u6240\u4EE5\u7528\u97F3\u5F39\u4E00\r\n\u5B9A\u597D\u3002\u8BF7\u4E00\u5B9A\u8981\u5E26\u4E0A\u3002",
+        "Target": "\u72E9\u730E1\u5934\u767D\u5154\u517D",
+        "Fail": "\u62A5\u916C\u91D1\u989D\u4E3A\u96F6\r\n\u65F6\u95F4\u8017\u5C3D"
+      },
+      {
+        "Language": "ARA",
+        "Name": "\u0644\u0627\u062C\u0648\u0645\u0628\u064A \u0623\u0628\u064A\u0636",
+        "Client": "\u0628\u0627\u062D\u062B \u0644\u063A\u0648\u064A",
+        "Description": "\u0623\u0631\u064A\u062F\u0643 \u0623\u0646 \u062A\u0635\u0637\u0627\u062F \u0644\u0627\u062C\u0648\u0645\u0628\u064A \u0644\u0623\u062C\u0644\u064A.\r\n\u064A\u0631\u0645\u064A \u0644\u0627\u062C\u0648\u0645\u0628\u064A \u0643\u0631\u0627\u062A \u0627\u0644\u062B\u0644\u062C.\r\n\u0628\u0639\u062F \u062A\u0633\u0627\u0642\u0637 \u0627\u0644\u062B\u0644\u0648\u062C\u060C \u064A\u0643\u0648\u0646 \u0645\u0642\u064A\u0627\u0633 \u062D\u0634\u0631\u0629 \u0627\u0644\u062D\u0631\u064A\u0631 \u0623\u0641\u0636\u0644.\r\n\u0627\u0644\u0628\u0637\u0621 \u0623\u0645\u0631 \u062E\u0637\u064A\u0631.\r\n\u062D\u0627\u0633\u0629 \u0633\u0645\u0639 \u0644\u0627\u062C\u0648\u0645\u0628\u064A \u0642\u0648\u064A\u0629.\r\n\u0643\u0631\u0627\u062A \u0627\u0644\u0635\u0648\u062A \u0641\u0643\u0631\u0629 \u062C\u064A\u062F\u0629.\r\n\u0623\u062D\u0636\u0631 \u0628\u0639\u0636\u0647\u0627 \u0645\u0646 \u0641\u0636\u0644\u0643.",
+        "Target": "\u0627\u0635\u0637\u062F \u0644\u0627\u062C\u0648\u0645\u0628\u064A",
+        "Fail": "0 \u0636\u0631\u0628\u0627\u062A \u0627\u0644\u0645\u0643\u0627\u0641\u0623\u0629\u060C \u0623\u0648 \u064A\u0646\u0641\u062F \u0627\u0644\u0648\u0642\u062A"
+      }
+    ],
+    "FallbackLanguage": "ENG",
+    "DebugName": "",
+    "DebugClient": "",
+    "DebugDescription": ""
+  },
+  "QuestData": {
+    "QuestType": 1,
+    "QuestLevel": 6,
+    "EnemyLevel": 3,
+    "Map": 13,
+    "BaseTime": 21,
+    "TimeVariation": 3,
+    "TimeLimit": 50,
+    "Carts": 3,
+    "QuestConditions": [
+      16,
+      0
+    ],
+    "TargetTypes": [
+      2,
+      0
+    ],
+    "TargetMonsters": [
+      350,
+      0
+    ],
+    "TargetItemIds": [
+      67108864,
+      67108864
+    ],
+    "TargetAmounts": [
+      1,
+      0
+    ],
+    "Monsters": [
+      {
+        "Id": 350,
+        "SpawnCondition": 1,
+        "SpawnParam": 0
+      },
+      {
+        "Id": 1369,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 124,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 134,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 57,
+        "SpawnCondition": 15,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 71,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      },
+      {
+        "Id": 100,
+        "SpawnCondition": 14,
+        "SpawnParam": 10
+      }
+    ],
+    "ExtraMonsterCount": 2,
+    "SwapExitRide": false,
+    "SwapFrequencies": [
+      0,
+      0
+    ],
+    "SwapConditions": [
+      0,
+      0
+    ],
+    "SwapParams": [
+      0,
+      0
+    ],
+    "SwapExitTimes": [
+      0,
+      0
+    ],
+    "SwapStopType": 1,
+    "SwapStopParam": 0,
+    "SwapExecType": 0,
+    "Reward": {
+      "Zenny": 7920,
+      "Points": 160,
+      "HRP": 450
+    },
+    "SupplyTable": 60129,
+    "Icons": [
+      55,
+      999,
+      999,
+      999,
+      999
+    ],
+    "Tutorial": false,
+    "FromNpc": false,
+    "ArenaParam": {
+      "FenceDefaultActive": false,
+      "FenceUptime": 0,
+      "FenceInitialDelay": 0,
+      "FenceCooldown": 0,
+      "Pillars": [
+        false,
+        false,
+        false
+      ]
+    },
+    "AutoMatchHR": 0,
+    "BattleBGMType": 0,
+    "ClearBGMType": 0
+  },
+  "EnemyData": {
+    "SmallMonsters": {
+      "SpawnType": 5,
+      "HealthTable": 115,
+      "AttackTable": 122,
+      "PartTable": 30,
+      "OtherTable": 0,
+      "MultiTable": 0
+    },
+    "Monsters": [
+      {
+        "PathId": 10,
+        "SetName": "\u30E1\u30A4\u30F3",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "9",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 10,
+        "SetName": "14",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "2",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "1",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "6",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 10,
+        "Difficulty": 0,
+        "MultiTable": 0
+      },
+      {
+        "PathId": 0,
+        "SetName": "19",
+        "SubType": 0,
+        "IndividualType": 0,
+        "HealthTable": 115,
+        "AttackTable": 122,
+        "PartTable": 30,
+        "OtherTable": 0,
+        "StaminaTable": 0,
+        "Size": 100,
+        "SizeTable": 4,
+        "Difficulty": 0,
+        "MultiTable": 0
+      }
+    ]
+  },
+  "RampageData": null
+}
